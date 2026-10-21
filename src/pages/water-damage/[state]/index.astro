@@ -79,19 +79,25 @@ const stateMapEmbedUrl = `https://maps.google.com/maps?q=${encodeURIComponent(cu
   <section class="hero">
     <div class="container hero-grid">
       <div class="hero-content">
-        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
-          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
-          24/7 {currentState.name} Dispatch Fleet · {stateCities.length} Cities Covered
+        <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem;align-items:flex-start">
+          <div class="ref-hero-badge-1">
+            <span class="badge-dot"></span>
+            <span>24/7 Priority Emergency Response Active</span>
+          </div>
+          <div class="ref-hero-badge-2">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>
+            <span>{stateCities.length} COMMUNITIES SERVED ACROSS {currentState.name.toUpperCase()}</span>
+          </div>
         </div>
 
-        <h1>Emergency Water Extraction & Flood Damage Mitigation in {currentState.name}</h1>
+        <h1>Emergency Water Extraction & Flood Damage Mitigation in <span class="hero-city-accent">{currentState.name}</span></h1>
         
         <p class="hero-subtitle">
           When an indoor water heater ruptures, frozen pipes burst, or heavy rains flood your property in {currentState.name}, our certified extraction specialists arrive on site in 60 minutes or less. We pump out standing water, disconnect failed plumbing, and dry structural framing to prevent toxic mold.
         </p>
 
         <div class="hero-actions">
-          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
             <span>Call {currentState.name} Hotline: {BUSINESS_INFO.phoneFormatted}</span>
           </a>
