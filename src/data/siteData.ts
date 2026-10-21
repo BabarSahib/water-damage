@@ -5,6 +5,7 @@ export interface Service {
   icon: string;
   tagline: string;
   benefits: string[];
+  image: string;
 }
 
 export interface StateData {
@@ -62,6 +63,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Rapid-response truck-mounted water extraction to remove standing floodwater, burst pipe floods, and appliance overflows in under 60 minutes.",
     icon: "water-flash",
     tagline: "Round-the-clock emergency water removal to prevent structural ruin and toxic mold.",
+    image: "/images/services/emergency-water-extraction.jpg",
     benefits: [
       "Under-60-minute dispatch response day or night",
       "Industrial high-lift truck-mounted vacuum extractors",
@@ -75,6 +77,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Continuous around-the-clock water removal for active leaks, severe storm flooding, and emergency residential inundation.",
     icon: "clock-flash",
     tagline: "24/7/365 live dispatch and rapid mobilization for urgent water disasters.",
+    image: "/images/services/24-7-water-extraction.jpg",
     benefits: [
       "Immediate live operator dispatch with zero hold time",
       "Submersible trash pumps for deep pools and basements",
@@ -88,6 +91,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Complete Category 1, 2, and 3 flood water containment, sewage pump-outs, and thorough commercial-grade decontamination.",
     icon: "wave",
     tagline: "Thorough removal of storm surges, street runoff, and contaminated floodwaters.",
+    image: "/images/services/flood-water-removal.jpg",
     benefits: [
       "Hazardous Category 3 biohazard extraction protocol",
       "Heavy-duty submersible trash pumps",
@@ -101,6 +105,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Specialized pump-out solutions for flooded basements, failed sump pumps, foundation seepage, and crawlspace water puddles.",
     icon: "house-flood",
     tagline: "Save your foundation, support beams, and stored valuables from basement flooding.",
+    image: "/images/services/basement-water-extraction.jpg",
     benefits: [
       "Deep extraction for concrete slabs, footings, and crawlspaces",
       "Submersible sump pump replacement and emergency backup",
@@ -114,6 +119,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Eliminate pooling water under hardwood floors, inside walls, ceilings, and crawlspaces before structural wood rot sets in.",
     icon: "droplet-alert",
     tagline: "Fast pump-outs and targeted suction for stubborn stagnant pools inside any structure.",
+    image: "/images/services/standing-water-removal.jpg",
     benefits: [
       "Rapid elimination of stagnant pools and odor sources",
       "Cavity wall injection drying systems",
@@ -127,6 +133,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Full-scale damage mitigation including controlled demolition of wet drywall, structural drying, and moisture stabilization.",
     icon: "shield-check",
     tagline: "Stop water spread in its tracks and stabilize your property immediately.",
+    image: "/images/services/water-damage-mitigation.jpg",
     benefits: [
       "IICRC-certified mitigation technicians on site",
       "Air scrubbers with HEPA filtration for air safety",
@@ -140,6 +147,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Comprehensive cleanup service for broken pipes, plumbing backups, storms, and ruptured appliances with total sanitation.",
     icon: "broom-sparkle",
     tagline: "From catastrophic inundation to clean, dry, sanitized living spaces.",
+    image: "/images/services/emergency-flood-cleanup.jpg",
     benefits: [
       "Rapid debris removal and damaged drywall tear-outs",
       "Deodorization and industrial ozone / hydroxyl treatments",
@@ -153,6 +161,7 @@ export const SERVICES: Service[] = [
     shortDesc: "Safe disconnection, rapid tank draining, complete removal, and professional extraction of leaking or burst water heaters.",
     icon: "water-tank",
     tagline: "Immediate removal and flood containment for failed, leaking, or ruptured water heaters.",
+    image: "/images/services/water-heater-removal.jpg",
     benefits: [
       "Immediate valve isolation and electrical/gas disconnection",
       "High-speed pump draining of contaminated tank sediment",

@@ -49,26 +49,29 @@ const pageDesc = "Explore our nationwide water mitigation services: water heater
 
       <div class="cards-grid">
         {SERVICES.map((s) => (
-          <div class="service-card">
-            <div class="service-icon-box">
-              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>
+          <div class="service-card" style="padding:0;overflow:hidden">
+            <div class="service-card-thumb">
+              <img src={s.image} alt={s.name} loading="lazy" width="600" height="375" />
+              <span class="ref-service-badge">24/7 Available</span>
             </div>
-            <h3>{s.name}</h3>
-            <p>{s.shortDesc}</p>
-            <div style="margin-bottom:1.25rem">
-              <div style="font-size:0.85rem;font-weight:700;color:var(--primary);margin-bottom:0.4rem">Key Service Highlights:</div>
-              <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:0.35rem;font-size:0.85rem;color:var(--text-muted)">
-                {s.benefits.slice(0, 3).map((b) => (
-                  <li style="display:flex;align-items:center;gap:0.4rem">
-                    <span style="color:#10B981">✓</span> {b}
-                  </li>
-                ))}
-              </ul>
+            <div style="padding:1.5rem;display:flex;flex-direction:column;flex-grow:1">
+              <h3>{s.name}</h3>
+              <p>{s.shortDesc}</p>
+              <div style="margin-bottom:1.25rem">
+                <div style="font-size:0.85rem;font-weight:700;color:var(--primary);margin-bottom:0.4rem">Key Service Highlights:</div>
+                <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:0.35rem;font-size:0.85rem;color:var(--text-muted)">
+                  {s.benefits.slice(0, 3).map((b) => (
+                    <li style="display:flex;align-items:center;gap:0.4rem">
+                      <span style="color:#10B981">✓</span> {b}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <a href={`/services/${s.slug}/`} class="card-link" style="margin-top:auto">
+                <span>View Full Service Scope</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42L16.86 11H5v2z"/></svg>
+              </a>
             </div>
-            <a href={`/services/${s.slug}/`} class="card-link">
-              <span>View Full Service Scope</span>
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42L16.86 11H5v2z"/></svg>
-            </a>
           </div>
         ))}
       </div>

@@ -269,12 +269,18 @@ const mapEmbedUrl = city.lat && city.lng
 
       <div class="cards-grid">
         {SERVICES.map((s) => (
-          <div class="service-card">
-            <h3>{s.name} in {city.name}</h3>
-            <p>{s.shortDesc}</p>
-            <a href={`/services/${s.slug}/`} class="card-link">
-              <span>View Service Details →</span>
-            </a>
+          <div class="service-card" style="padding:0;overflow:hidden">
+            <div class="service-card-thumb">
+              <img src={s.image} alt={`${s.name} in ${city.name}`} loading="lazy" width="600" height="375" />
+              <span class="ref-service-badge">24/7 Available</span>
+            </div>
+            <div style="padding:1.5rem;display:flex;flex-direction:column;flex-grow:1">
+              <h3>{s.name} in {city.name}</h3>
+              <p>{s.shortDesc}</p>
+              <a href={`/services/${s.slug}/`} class="card-link" style="margin-top:auto">
+                <span>View Service Details →</span>
+              </a>
+            </div>
           </div>
         ))}
       </div>

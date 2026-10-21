@@ -1430,39 +1430,92 @@ img {
   gap: 1.5rem;
 }
 
+@media (max-width: 992px) {
+  .ref-services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .ref-services-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .ref-service-box {
   background: #ffffff;
   border-radius: 1rem;
   border: 1px solid #e2e8f0;
-  padding: 1.6rem;
+  padding: 0;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .ref-service-box:hover {
   border-color: #93c5fd;
-  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.08);
-  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(37, 99, 235, 0.12);
+  transform: translateY(-3px);
 }
 
-.ref-service-icon {
-  width: 44px;
-  height: 44px;
-  border-radius: 0.75rem;
-  background: #eff6ff;
-  color: #2563eb;
-  display: flex;
+.ref-service-thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #0f172a;
+}
+
+.ref-service-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.ref-service-box:hover .ref-service-thumb img {
+  transform: scale(1.06);
+}
+
+.ref-service-badge {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(8px);
+  color: #38bdf8;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  margin-bottom: 1rem;
-  transition: all 0.2s ease;
+  gap: 0.35rem;
+  z-index: 2;
 }
 
-.ref-service-box:hover .ref-service-icon {
-  background: #2563eb;
-  color: #ffffff;
+.ref-service-badge::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 8px #22c55e;
+}
+
+.ref-service-body {
+  padding: 1.3rem 1.4rem 0.5rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .ref-service-box h3 {
@@ -1471,21 +1524,23 @@ img {
   color: #0f172a;
   margin-bottom: 0.5rem;
   font-family: var(--font-heading);
+  line-height: 1.35;
 }
 
 .ref-service-box p {
-  font-size: 0.82rem;
+  font-size: 0.85rem;
   color: #64748b;
   line-height: 1.6;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 .ref-service-footer {
-  padding-top: 1rem;
+  padding: 0.9rem 1.4rem 1.25rem;
   border-top: 1px solid #f1f5f9;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background: #ffffff;
 }
 
 .ref-service-link {
@@ -1519,7 +1574,27 @@ img {
   color: #2563eb;
   border-color: #bfdbfe;
   background: #eff6ff;
-  text-decoration: none;
+}
+
+/* Service Card Thumbnails for Main Grid */
+.service-card-thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #0f172a;
+}
+
+.service-card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.service-card:hover .service-card-thumb img {
+  transform: scale(1.06);
 }
 
 /* 4. Homeowner Guidance Card */
