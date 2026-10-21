@@ -69,17 +69,18 @@ const stateMapEmbedUrl = `https://maps.google.com/maps?q=${encodeURIComponent(cu
   canonicalPath={`/water-damage/${currentState.slug}/`}
   localState={currentState.abbr}
 >
-  <!-- 2-Level Breadcrumb (Home > State) -->
-  <Breadcrumb items={[
-    { label: "Home", url: "/" },
-    { label: currentState.name, url: `/water-damage/${currentState.slug}/` }
-  ]} />
-
-  <!-- Hero Section (Original Signature Dark Blue Theme) -->
-  <section class="hero">
+  <!-- Hero Section (Seamless Dark Background starting under Sticky Header) -->
+  <section class="hero ref-hero-section">
     <div class="container hero-grid">
       <div class="hero-content">
-        <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem;align-items:flex-start">
+        <!-- Integrated Dark Breadcrumb matching Reference Site Screenshot -->
+        <Breadcrumb theme="dark" items={[
+          { label: "Home", url: "/" },
+          { label: `${currentState.name} Water Extraction`, url: `/water-damage/${currentState.slug}/` }
+        ]} />
+
+        <!-- 2 Stacked Reference Badges -->
+        <div class="ref-hero-badges-wrapper">
           <div class="ref-hero-badge-1">
             <span class="badge-dot"></span>
             <span>24/7 Priority Emergency Response Active</span>
@@ -90,7 +91,11 @@ const stateMapEmbedUrl = `https://maps.google.com/maps?q=${encodeURIComponent(cu
           </div>
         </div>
 
-        <h1>Emergency Water Extraction & Flood Damage Mitigation in <span class="hero-city-accent">{currentState.name}</span></h1>
+        <h1 class="ref-hero-h1">
+          Same-Day<br />
+          Water Extraction in<br />
+          <span class="hero-city-accent">{currentState.name}</span>
+        </h1>
         
         <p class="hero-subtitle">
           When an indoor water heater ruptures, frozen pipes burst, or heavy rains flood your property in {currentState.name}, our certified extraction specialists arrive on site in 60 minutes or less. We pump out standing water, disconnect failed plumbing, and dry structural framing to prevent toxic mold.
@@ -274,7 +279,7 @@ const stateMapEmbedUrl = `https://maps.google.com/maps?q=${encodeURIComponent(cu
               <div class="ref-service-thumb">
                 <img
                   src={service.image}
-                  alt={`${service.name} in ${state.name}`}
+                  alt={`${service.name} in ${currentState.name}`}
                   loading="lazy"
                   width="600"
                   height="375"

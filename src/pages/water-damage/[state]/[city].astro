@@ -134,18 +134,19 @@ const faqSchema = {
   localCity={city.name}
   localState={state.abbr}
 >
-  <!-- Exactly 3-Level Breadcrumb (Home > State > City) -->
-  <Breadcrumb items={[
-    { label: "Home", url: "/" },
-    { label: state.name, url: `/water-damage/${state.slug}/` },
-    { label: city.name, url: `/water-damage/${state.slug}/${city.slug}/` }
-  ]} />
-
-  <!-- Hero Section (Original Signature Dark Blue Theme with Right Emergency Desk Card) -->
-  <section class="hero">
+  <!-- Hero Section (Seamless Dark Background starting under Sticky Header) -->
+  <section class="hero ref-hero-section">
     <div class="container hero-grid">
       <div class="hero-content">
-        <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem;align-items:flex-start">
+        <!-- Integrated Dark Breadcrumb matching Reference Site Screenshot -->
+        <Breadcrumb theme="dark" items={[
+          { label: "Home", url: "/" },
+          { label: `${state.name} Water Extraction`, url: `/water-damage/${state.slug}/` },
+          { label: `Water Extraction ${city.name}`, url: `/water-damage/${state.slug}/${city.slug}/` }
+        ]} />
+
+        <!-- 2 Stacked Reference Badges -->
+        <div class="ref-hero-badges-wrapper">
           <div class="ref-hero-badge-1">
             <span class="badge-dot"></span>
             <span>24/7 Priority Water Extraction Active</span>
@@ -156,10 +157,15 @@ const faqSchema = {
           </div>
         </div>
 
-        <h1>Emergency Water Extraction in <span class="hero-city-accent">{city.name}, {state.abbr}</span></h1>
+        <!-- Reference H1 Title: Same-Day Water Extraction in [City], [ST] -->
+        <h1 class="ref-hero-h1">
+          Same-Day<br />
+          Water Extraction in<br />
+          <span class="hero-city-accent">{city.name}, {state.abbr}</span>
+        </h1>
 
         <p class="hero-subtitle">
-          {subtitleText}
+          Rapid Water Rescue Pros provides homeowners and businesses in {city.name} with emergency water extraction specialists who arrive with fully stocked trucks to diagnose pipe ruptures, appliance failures, or flood intrusion on the first visit. We provide 24/7 emergency response — same-day service, direct insurance billing, and certified structural drying.
         </p>
 
         <div class="hero-actions">

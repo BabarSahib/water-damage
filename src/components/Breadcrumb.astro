@@ -6,9 +6,10 @@ interface BreadcrumbItem {
 
 interface Props {
   items: BreadcrumbItem[];
+  theme?: 'light' | 'dark';
 }
 
-const { items } = Astro.props;
+const { items, theme = 'light' } = Astro.props;
 const siteUrl = "https://rapidwaterrescuepros.com";
 
 const schemaList = {
@@ -23,7 +24,7 @@ const schemaList = {
 };
 ---
 
-<div class="breadcrumb-container-wrap">
+<div class={`breadcrumb-container-wrap ${theme === 'dark' ? 'theme-dark' : ''}`}>
   <nav class="container breadcrumb-nav-bar" aria-label="Breadcrumb">
     <ol class="breadcrumb-nav-list">
       {items.map((item, idx) => {
@@ -113,5 +114,50 @@ const schemaList = {
     max-width: 280px;
     overflow: hidden;
     text-overflow: ellipsis;
+  }
+
+  /* Dark Theme for Hero Integration (Matching Reference Site) */
+  .breadcrumb-container-wrap.theme-dark {
+    background: transparent !important;
+    border-bottom: none !important;
+    padding: 0 0 1rem 0;
+    width: 100%;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-nav-bar {
+    padding: 0;
+    overflow-x: visible;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-nav-list {
+    flex-wrap: wrap;
+    white-space: normal;
+    row-gap: 0.35rem;
+    column-gap: 0.5rem;
+    font-size: 0.84rem;
+    color: #94a3b8;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-link-anchor {
+    color: #94a3b8;
+    font-weight: 500;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-link-anchor:hover {
+    color: #38bdf8;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-home-icon {
+    color: #94a3b8;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-chevron-icon {
+    color: #f97316;
+  }
+
+  .breadcrumb-container-wrap.theme-dark .breadcrumb-current-text {
+    color: #ffffff;
+    font-weight: 700;
+    max-width: none;
   }
 </style>
