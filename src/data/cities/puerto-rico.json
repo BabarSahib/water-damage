@@ -1,0 +1,700 @@
+{
+  "stateName": "Puerto Rico",
+  "stateCode": "PR",
+  "stateSlug": "puerto-rico",
+  "cities": [
+    {
+      "name": "Adjuntas",
+      "slug": "adjuntas",
+      "county": "Adjuntas County",
+      "lat": 18.1788,
+      "lng": -66.7516
+    },
+    {
+      "name": "Aguada",
+      "slug": "aguada",
+      "county": "Aguada County",
+      "lat": 18.381389,
+      "lng": -67.188611
+    },
+    {
+      "name": "Aguadilla",
+      "slug": "aguadilla",
+      "county": "Aguadilla County",
+      "lat": 18.4554,
+      "lng": -67.1308
+    },
+    {
+      "name": "Aguas Buenas",
+      "slug": "aguas-buenas",
+      "county": "Aguas Buenas County",
+      "lat": 18.258333,
+      "lng": -66.105
+    },
+    {
+      "name": "Aguirre",
+      "slug": "aguirre",
+      "county": "Salinas County",
+      "lat": 18.25,
+      "lng": -66.103056
+    },
+    {
+      "name": "Aibonito",
+      "slug": "aibonito",
+      "county": "Aibonito County",
+      "lat": 18.141667,
+      "lng": -66.265
+    },
+    {
+      "name": "Anasco",
+      "slug": "anasco",
+      "county": "Anasco County",
+      "lat": 18.284722,
+      "lng": -67.14
+    },
+    {
+      "name": "Angeles",
+      "slug": "angeles",
+      "county": "Utuado County",
+      "lat": 18.286944,
+      "lng": -66.799722
+    },
+    {
+      "name": "Arecibo",
+      "slug": "arecibo",
+      "county": "Arecibo County",
+      "lat": 18.4389,
+      "lng": -66.6924
+    },
+    {
+      "name": "Arroyo",
+      "slug": "arroyo",
+      "county": "Arroyo County",
+      "lat": 17.963333,
+      "lng": -66.063333
+    },
+    {
+      "name": "Bajadero",
+      "slug": "bajadero",
+      "county": "Arecibo County",
+      "lat": 18.428611,
+      "lng": -66.683611
+    },
+    {
+      "name": "Barceloneta",
+      "slug": "barceloneta",
+      "county": "Barceloneta County",
+      "lat": 18.4525,
+      "lng": -66.538889
+    },
+    {
+      "name": "Barranquitas",
+      "slug": "barranquitas",
+      "county": "Barranquitas County",
+      "lat": 18.188333,
+      "lng": -66.308333
+    },
+    {
+      "name": "Bayamon",
+      "slug": "bayamon",
+      "county": "Bayamon County",
+      "lat": 18.3406,
+      "lng": -66.1663
+    },
+    {
+      "name": "Boqueron",
+      "slug": "boqueron",
+      "county": "Cabo Rojo County",
+      "lat": 18.028889,
+      "lng": -67.169444
+    },
+    {
+      "name": "Cabo Rojo",
+      "slug": "cabo-rojo",
+      "county": "Cabo Rojo County",
+      "lat": 18.083611,
+      "lng": -67.148889
+    },
+    {
+      "name": "Caguas",
+      "slug": "caguas",
+      "county": "Caguas County",
+      "lat": 18.2297,
+      "lng": -66.0458
+    },
+    {
+      "name": "Camuy",
+      "slug": "camuy",
+      "county": "Camuy County",
+      "lat": 18.485833,
+      "lng": -66.845278
+    },
+    {
+      "name": "Canovanas",
+      "slug": "canovanas",
+      "county": "Canovanas County",
+      "lat": 18.379722,
+      "lng": -65.906667
+    },
+    {
+      "name": "Carolina",
+      "slug": "carolina",
+      "county": "Carolina County",
+      "lat": 18.4353,
+      "lng": -66.0143
+    },
+    {
+      "name": "Castaner",
+      "slug": "castaner",
+      "county": "Lares County",
+      "lat": 18.2165,
+      "lng": -66.8681
+    },
+    {
+      "name": "Catano",
+      "slug": "catano",
+      "county": "Catano County",
+      "lat": 18.4375,
+      "lng": -66.141
+    },
+    {
+      "name": "Cayey",
+      "slug": "cayey",
+      "county": "Cayey County",
+      "lat": 18.1134,
+      "lng": -66.1521
+    },
+    {
+      "name": "Ceiba",
+      "slug": "ceiba",
+      "county": "Ceiba County",
+      "lat": 18.2531,
+      "lng": -65.656
+    },
+    {
+      "name": "Ciales",
+      "slug": "ciales",
+      "county": "Ciales County",
+      "lat": 18.338056,
+      "lng": -66.469167
+    },
+    {
+      "name": "Cidra",
+      "slug": "cidra",
+      "county": "Cidra County",
+      "lat": 18.176667,
+      "lng": -66.161667
+    },
+    {
+      "name": "Coamo",
+      "slug": "coamo",
+      "county": "Coamo County",
+      "lat": 18.081944,
+      "lng": -66.358333
+    },
+    {
+      "name": "Comerio",
+      "slug": "comerio",
+      "county": "Comerio County",
+      "lat": 18.218333,
+      "lng": -66.225
+    },
+    {
+      "name": "Corozal",
+      "slug": "corozal",
+      "county": "Corozal County",
+      "lat": 18.343056,
+      "lng": -66.317222
+    },
+    {
+      "name": "Coto Laurel",
+      "slug": "coto-laurel",
+      "county": "Ponce County",
+      "lat": 18.0545,
+      "lng": -66.5625
+    },
+    {
+      "name": "Culebra",
+      "slug": "culebra",
+      "county": "Culebra County",
+      "lat": 18.305,
+      "lng": -65.301389
+    },
+    {
+      "name": "Dorado",
+      "slug": "dorado",
+      "county": "Dorado County",
+      "lat": 18.464444,
+      "lng": -66.270278
+    },
+    {
+      "name": "Ensenada",
+      "slug": "ensenada",
+      "county": "Guanica County",
+      "lat": 17.968333,
+      "lng": -66.933333
+    },
+    {
+      "name": "Fajardo",
+      "slug": "fajardo",
+      "county": "Fajardo County",
+      "lat": 18.330278,
+      "lng": -65.657222
+    },
+    {
+      "name": "Florida",
+      "slug": "florida",
+      "county": "Florida County",
+      "lat": 18.364444,
+      "lng": -66.561667
+    },
+    {
+      "name": "Fort Buchanan",
+      "slug": "fort-buchanan",
+      "county": "San Juan County",
+      "lat": 18.46,
+      "lng": -66.11
+    },
+    {
+      "name": "Garrochales",
+      "slug": "garrochales",
+      "county": "Arecibo County",
+      "lat": 18.459722,
+      "lng": -66.611389
+    },
+    {
+      "name": "Guanica",
+      "slug": "guanica",
+      "county": "Guanica County",
+      "lat": 17.973611,
+      "lng": -66.908333
+    },
+    {
+      "name": "Guayama",
+      "slug": "guayama",
+      "county": "Guayama County",
+      "lat": 17.9856,
+      "lng": -66.1307
+    },
+    {
+      "name": "Guayanilla",
+      "slug": "guayanilla",
+      "county": "Guayanilla County",
+      "lat": 18.02,
+      "lng": -66.79
+    },
+    {
+      "name": "Guaynabo",
+      "slug": "guaynabo",
+      "county": "Guaynabo County",
+      "lat": 18.4326,
+      "lng": -66.1173
+    },
+    {
+      "name": "Gurabo",
+      "slug": "gurabo",
+      "county": "Gurabo County",
+      "lat": 18.255,
+      "lng": -65.9775
+    },
+    {
+      "name": "Hatillo",
+      "slug": "hatillo",
+      "county": "Hatillo County",
+      "lat": 18.488333,
+      "lng": -66.825833
+    },
+    {
+      "name": "Hormigueros",
+      "slug": "hormigueros",
+      "county": "Hormigueros County",
+      "lat": 18.14,
+      "lng": -67.128333
+    },
+    {
+      "name": "Humacao",
+      "slug": "humacao",
+      "county": "Humacao County",
+      "lat": 18.1415,
+      "lng": -65.8216
+    },
+    {
+      "name": "Isabela",
+      "slug": "isabela",
+      "county": "Isabela County",
+      "lat": 18.496667,
+      "lng": -67.026389
+    },
+    {
+      "name": "Jayuya",
+      "slug": "jayuya",
+      "county": "Jayuya County",
+      "lat": 18.220556,
+      "lng": -66.591944
+    },
+    {
+      "name": "Juana Diaz",
+      "slug": "juana-diaz",
+      "county": "Juana Diaz County",
+      "lat": 18.054444,
+      "lng": -66.506944
+    },
+    {
+      "name": "Juncos",
+      "slug": "juncos",
+      "county": "Juncos County",
+      "lat": 18.229444,
+      "lng": -65.921389
+    },
+    {
+      "name": "La Plata",
+      "slug": "la-plata",
+      "county": "Aibonito County",
+      "lat": 18.156389,
+      "lng": -66.233333
+    },
+    {
+      "name": "Lajas",
+      "slug": "lajas",
+      "county": "Lajas County",
+      "lat": 18.05,
+      "lng": -67.061667
+    },
+    {
+      "name": "Lares",
+      "slug": "lares",
+      "county": "Lares County",
+      "lat": 18.296667,
+      "lng": -66.8775
+    },
+    {
+      "name": "Las Marias",
+      "slug": "las-marias",
+      "county": "Las Marias County",
+      "lat": 18.295278,
+      "lng": -67.146667
+    },
+    {
+      "name": "Las Piedras",
+      "slug": "las-piedras",
+      "county": "Las Piedras County",
+      "lat": 18.183333,
+      "lng": -65.863333
+    },
+    {
+      "name": "Loiza",
+      "slug": "loiza",
+      "county": "Loiza County",
+      "lat": 18.433333,
+      "lng": -65.880556
+    },
+    {
+      "name": "Luquillo",
+      "slug": "luquillo",
+      "county": "Luquillo County",
+      "lat": 18.374444,
+      "lng": -65.716944
+    },
+    {
+      "name": "Manati",
+      "slug": "manati",
+      "county": "Manati County",
+      "lat": 18.425833,
+      "lng": -66.471667
+    },
+    {
+      "name": "Maricao",
+      "slug": "maricao",
+      "county": "Maricao County",
+      "lat": 18.182778,
+      "lng": -66.980278
+    },
+    {
+      "name": "Maunabo",
+      "slug": "maunabo",
+      "county": "Maunabo County",
+      "lat": 18.009167,
+      "lng": -65.899722
+    },
+    {
+      "name": "Mayaguez",
+      "slug": "mayaguez",
+      "county": "Mayaguez County",
+      "lat": 18.2011,
+      "lng": -67.1172
+    },
+    {
+      "name": "Mercedita",
+      "slug": "mercedita",
+      "county": "Ponce County",
+      "lat": 18.0052,
+      "lng": -66.5602
+    },
+    {
+      "name": "Moca",
+      "slug": "moca",
+      "county": "Moca County",
+      "lat": 18.395,
+      "lng": -67.163333
+    },
+    {
+      "name": "Morovis",
+      "slug": "morovis",
+      "county": "Morovis County",
+      "lat": 18.327778,
+      "lng": -66.406944
+    },
+    {
+      "name": "Naguabo",
+      "slug": "naguabo",
+      "county": "Naguabo County",
+      "lat": 18.213333,
+      "lng": -65.736667
+    },
+    {
+      "name": "Naranjito",
+      "slug": "naranjito",
+      "county": "Naranjito County",
+      "lat": 18.301667,
+      "lng": -66.246667
+    },
+    {
+      "name": "Orocovis",
+      "slug": "orocovis",
+      "county": "Orocovis County",
+      "lat": 18.228889,
+      "lng": -66.391389
+    },
+    {
+      "name": "Palmer",
+      "slug": "palmer",
+      "county": "Rio Grande County",
+      "lat": 18.3725,
+      "lng": -65.774444
+    },
+    {
+      "name": "Patillas",
+      "slug": "patillas",
+      "county": "Patillas County",
+      "lat": 18.008333,
+      "lng": -66.013333
+    },
+    {
+      "name": "Penuelas",
+      "slug": "penuelas",
+      "county": "Penuelas County",
+      "lat": 18.058333,
+      "lng": -66.721944
+    },
+    {
+      "name": "Ponce",
+      "slug": "ponce",
+      "county": "Ponce County",
+      "lat": 18.015556,
+      "lng": -66.58
+    },
+    {
+      "name": "Puerto Real",
+      "slug": "puerto-real",
+      "county": "Fajardo County",
+      "lat": 18.079167,
+      "lng": -67.185556
+    },
+    {
+      "name": "Punta Santiago",
+      "slug": "punta-santiago",
+      "county": "Humacao County",
+      "lat": 18.168333,
+      "lng": -65.748611
+    },
+    {
+      "name": "Quebradillas",
+      "slug": "quebradillas",
+      "county": "Quebradillas County",
+      "lat": 18.475833,
+      "lng": -66.938889
+    },
+    {
+      "name": "Rincon",
+      "slug": "rincon",
+      "county": "Rincon County",
+      "lat": 18.34,
+      "lng": -67.25
+    },
+    {
+      "name": "Rio Blanco",
+      "slug": "rio-blanco",
+      "county": "Naguabo County",
+      "lat": 18.220278,
+      "lng": -65.788889
+    },
+    {
+      "name": "Rio Grande",
+      "slug": "rio-grande",
+      "county": "Rio Grande County",
+      "lat": 18.379444,
+      "lng": -65.838889
+    },
+    {
+      "name": "Roosevelt Roads",
+      "slug": "roosevelt-roads",
+      "county": "Ceiba County",
+      "lat": 18.2674,
+      "lng": -65.6483
+    },
+    {
+      "name": "Rosario",
+      "slug": "rosario",
+      "county": "San German County",
+      "lat": 18.163333,
+      "lng": -67.081667
+    },
+    {
+      "name": "Sabana Grande",
+      "slug": "sabana-grande",
+      "county": "Sabana Grande County",
+      "lat": 18.079722,
+      "lng": -66.960833
+    },
+    {
+      "name": "Sabana Hoyos",
+      "slug": "sabana-hoyos",
+      "county": "Arecibo County",
+      "lat": 18.435833,
+      "lng": -66.614167
+    },
+    {
+      "name": "Sabana Seca",
+      "slug": "sabana-seca",
+      "county": "Toa Baja County",
+      "lat": 18.428889,
+      "lng": -66.185
+    },
+    {
+      "name": "Saint Just",
+      "slug": "saint-just",
+      "county": "Trujillo Alto County",
+      "lat": 18.37,
+      "lng": -66.012222
+    },
+    {
+      "name": "Salinas",
+      "slug": "salinas",
+      "county": "Salinas County",
+      "lat": 17.979444,
+      "lng": -66.298333
+    },
+    {
+      "name": "San Antonio",
+      "slug": "san-antonio",
+      "county": "Aguadilla County",
+      "lat": 18.4475,
+      "lng": -66.298056
+    },
+    {
+      "name": "San German",
+      "slug": "san-german",
+      "county": "San German County",
+      "lat": 18.083611,
+      "lng": -67.045278
+    },
+    {
+      "name": "San Juan",
+      "slug": "san-juan",
+      "county": "San Juan County",
+      "lat": 18.4652,
+      "lng": -66.1071
+    },
+    {
+      "name": "San Lorenzo",
+      "slug": "san-lorenzo",
+      "county": "San Lorenzo County",
+      "lat": 18.191389,
+      "lng": -65.961389
+    },
+    {
+      "name": "San Sebastian",
+      "slug": "san-sebastian",
+      "county": "San Sebastian County",
+      "lat": 18.338611,
+      "lng": -66.990556
+    },
+    {
+      "name": "Santa Isabel",
+      "slug": "santa-isabel",
+      "county": "Santa Isabel County",
+      "lat": 17.968056,
+      "lng": -66.405278
+    },
+    {
+      "name": "Toa Alta",
+      "slug": "toa-alta",
+      "county": "Toa Alta County",
+      "lat": 18.3664,
+      "lng": -66.2333
+    },
+    {
+      "name": "Toa Baja",
+      "slug": "toa-baja",
+      "county": "Toa Baja County",
+      "lat": 18.451944,
+      "lng": -66.181944
+    },
+    {
+      "name": "Trujillo Alto",
+      "slug": "trujillo-alto",
+      "county": "Trujillo Alto County",
+      "lat": 18.344,
+      "lng": -66.0053
+    },
+    {
+      "name": "Utuado",
+      "slug": "utuado",
+      "county": "Utuado County",
+      "lat": 18.2675,
+      "lng": -66.700833
+    },
+    {
+      "name": "Vega Alta",
+      "slug": "vega-alta",
+      "county": "Vega Alta County",
+      "lat": 18.414167,
+      "lng": -66.331667
+    },
+    {
+      "name": "Vega Baja",
+      "slug": "vega-baja",
+      "county": "Vega Baja County",
+      "lat": 18.4385,
+      "lng": -66.3983
+    },
+    {
+      "name": "Vieques",
+      "slug": "vieques",
+      "county": "Vieques County",
+      "lat": 18.426389,
+      "lng": -65.835556
+    },
+    {
+      "name": "Villalba",
+      "slug": "villalba",
+      "county": "Villalba County",
+      "lat": 18.129167,
+      "lng": -66.4925
+    },
+    {
+      "name": "Yabucoa",
+      "slug": "yabucoa",
+      "county": "Yabucoa County",
+      "lat": 18.0525,
+      "lng": -65.879722
+    },
+    {
+      "name": "Yauco",
+      "slug": "yauco",
+      "county": "Yauco County",
+      "lat": 18.036944,
+      "lng": -66.850278
+    }
+  ]
+}

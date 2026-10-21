@@ -1,0 +1,700 @@
+{
+  "stateName": "Nevada",
+  "stateCode": "NV",
+  "stateSlug": "nevada",
+  "cities": [
+    {
+      "name": "Alamo",
+      "slug": "alamo",
+      "county": "Lincoln County",
+      "lat": 37.325866,
+      "lng": -115.308032
+    },
+    {
+      "name": "Amargosa Valley",
+      "slug": "amargosa-valley",
+      "county": "Nye County",
+      "lat": 36.944007,
+      "lng": -116.57755
+    },
+    {
+      "name": "Austin",
+      "slug": "austin",
+      "county": "Lander County",
+      "lat": 39.507986,
+      "lng": -117.081063
+    },
+    {
+      "name": "Baker",
+      "slug": "baker",
+      "county": "White Pine County",
+      "lat": 39.065996,
+      "lng": -114.246165
+    },
+    {
+      "name": "Battle Mountain",
+      "slug": "battle-mountain",
+      "county": "Lander County",
+      "lat": 40.621985,
+      "lng": -116.955439
+    },
+    {
+      "name": "Beatty",
+      "slug": "beatty",
+      "county": "Nye County",
+      "lat": 36.908611,
+      "lng": -116.758333
+    },
+    {
+      "name": "Blue Diamond",
+      "slug": "blue-diamond",
+      "county": "Clark County",
+      "lat": 36.046389,
+      "lng": -115.403056
+    },
+    {
+      "name": "Boulder City",
+      "slug": "boulder-city",
+      "county": "Clark County",
+      "lat": 35.972711,
+      "lng": -114.834413
+    },
+    {
+      "name": "Bunkerville",
+      "slug": "bunkerville",
+      "county": "Clark County",
+      "lat": 36.773056,
+      "lng": -114.127222
+    },
+    {
+      "name": "Cal Nev Ari",
+      "slug": "cal-nev-ari",
+      "county": "Clark County",
+      "lat": 35.465278,
+      "lng": -114.918889
+    },
+    {
+      "name": "Caliente",
+      "slug": "caliente",
+      "county": "Lincoln County",
+      "lat": 37.612817,
+      "lng": -114.509727
+    },
+    {
+      "name": "Carlin",
+      "slug": "carlin",
+      "county": "Elko County",
+      "lat": 40.717216,
+      "lng": -116.108208
+    },
+    {
+      "name": "Carson City",
+      "slug": "carson-city",
+      "county": "Carson City County",
+      "lat": 39.150746,
+      "lng": -119.745904
+    },
+    {
+      "name": "Crescent Valley",
+      "slug": "crescent-valley",
+      "county": "Eureka County",
+      "lat": 40.462398,
+      "lng": -116.477387
+    },
+    {
+      "name": "Crystal Bay",
+      "slug": "crystal-bay",
+      "county": "Washoe County",
+      "lat": 39.226111,
+      "lng": -120.003056
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Lyon County",
+      "lat": 39.280594,
+      "lng": -119.52872
+    },
+    {
+      "name": "Deeth",
+      "slug": "deeth",
+      "county": "Elko County",
+      "lat": 41.431033,
+      "lng": -115.371729
+    },
+    {
+      "name": "Denio",
+      "slug": "denio",
+      "county": "Humboldt County",
+      "lat": 41.704263,
+      "lng": -118.731962
+    },
+    {
+      "name": "Duckwater",
+      "slug": "duckwater",
+      "county": "White Pine County",
+      "lat": 38.814167,
+      "lng": -116.1375
+    },
+    {
+      "name": "Dyer",
+      "slug": "dyer",
+      "county": "Esmeralda County",
+      "lat": 37.613056,
+      "lng": -118.021111
+    },
+    {
+      "name": "Elko",
+      "slug": "elko",
+      "county": "Elko County",
+      "lat": 40.826247,
+      "lng": -115.724679
+    },
+    {
+      "name": "Ely",
+      "slug": "ely",
+      "county": "White Pine County",
+      "lat": 39.309356,
+      "lng": -114.878011
+    },
+    {
+      "name": "Empire",
+      "slug": "empire",
+      "county": "Washoe County",
+      "lat": 40.357703,
+      "lng": -119.655265
+    },
+    {
+      "name": "Eureka",
+      "slug": "eureka",
+      "county": "Eureka County",
+      "lat": 39.589661,
+      "lng": -115.994308
+    },
+    {
+      "name": "Fallon",
+      "slug": "fallon",
+      "county": "Churchill County",
+      "lat": 39.470254,
+      "lng": -118.786112
+    },
+    {
+      "name": "Fernley",
+      "slug": "fernley",
+      "county": "Lyon County",
+      "lat": 39.601888,
+      "lng": -119.235044
+    },
+    {
+      "name": "Gabbs",
+      "slug": "gabbs",
+      "county": "Nye County",
+      "lat": 38.880226,
+      "lng": -117.868556
+    },
+    {
+      "name": "Gardnerville",
+      "slug": "gardnerville",
+      "county": "Douglas County",
+      "lat": 38.898268,
+      "lng": -119.726902
+    },
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "county": "Douglas County",
+      "lat": 39.004444,
+      "lng": -119.846111
+    },
+    {
+      "name": "Gerlach",
+      "slug": "gerlach",
+      "county": "Washoe County",
+      "lat": 40.674645,
+      "lng": -119.377441
+    },
+    {
+      "name": "Glenbrook",
+      "slug": "glenbrook",
+      "county": "Douglas County",
+      "lat": 38.993752,
+      "lng": -119.927776
+    },
+    {
+      "name": "Golconda",
+      "slug": "golconda",
+      "county": "Humboldt County",
+      "lat": 40.968325,
+      "lng": -117.334929
+    },
+    {
+      "name": "Goldfield",
+      "slug": "goldfield",
+      "county": "Esmeralda County",
+      "lat": 37.834364,
+      "lng": -117.269379
+    },
+    {
+      "name": "Halleck",
+      "slug": "halleck",
+      "county": "Elko County",
+      "lat": 40.950833,
+      "lng": -115.451944
+    },
+    {
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "county": "Mineral County",
+      "lat": 38.534658,
+      "lng": -118.641143
+    },
+    {
+      "name": "Henderson",
+      "slug": "henderson",
+      "county": "Clark County",
+      "lat": 35.992678,
+      "lng": -114.951684
+    },
+    {
+      "name": "Hiko",
+      "slug": "hiko",
+      "county": "Lincoln County",
+      "lat": 37.651695,
+      "lng": -115.177158
+    },
+    {
+      "name": "Imlay",
+      "slug": "imlay",
+      "county": "Pershing County",
+      "lat": 40.652217,
+      "lng": -118.02115
+    },
+    {
+      "name": "Incline Village",
+      "slug": "incline-village",
+      "county": "Washoe County",
+      "lat": 39.246,
+      "lng": -119.9618
+    },
+    {
+      "name": "Indian Springs",
+      "slug": "indian-springs",
+      "county": "Clark County",
+      "lat": 36.407223,
+      "lng": -115.581067
+    },
+    {
+      "name": "Jackpot",
+      "slug": "jackpot",
+      "county": "Elko County",
+      "lat": 41.839591,
+      "lng": -115.112886
+    },
+    {
+      "name": "Jarbidge",
+      "slug": "jarbidge",
+      "county": "Elko County",
+      "lat": 41.873611,
+      "lng": -115.431111
+    },
+    {
+      "name": "Jean",
+      "slug": "jean",
+      "county": "Clark County",
+      "lat": 35.854839,
+      "lng": -115.469154
+    },
+    {
+      "name": "Lamoille",
+      "slug": "lamoille",
+      "county": "Elko County",
+      "lat": 40.728056,
+      "lng": -115.4775
+    },
+    {
+      "name": "Las Vegas",
+      "slug": "las-vegas",
+      "county": "Clark County",
+      "lat": 36.172082,
+      "lng": -115.122366
+    },
+    {
+      "name": "Laughlin",
+      "slug": "laughlin",
+      "county": "Clark County",
+      "lat": 35.167778,
+      "lng": -114.572222
+    },
+    {
+      "name": "Logandale",
+      "slug": "logandale",
+      "county": "Clark County",
+      "lat": 36.596667,
+      "lng": -114.483333
+    },
+    {
+      "name": "Lovelock",
+      "slug": "lovelock",
+      "county": "Pershing County",
+      "lat": 40.1819,
+      "lng": -118.468915
+    },
+    {
+      "name": "Lund",
+      "slug": "lund",
+      "county": "White Pine County",
+      "lat": 38.904633,
+      "lng": -115.044026
+    },
+    {
+      "name": "Luning",
+      "slug": "luning",
+      "county": "Mineral County",
+      "lat": 38.406072,
+      "lng": -118.157114
+    },
+    {
+      "name": "Manhattan",
+      "slug": "manhattan",
+      "county": "Nye County",
+      "lat": 38.538889,
+      "lng": -117.0725
+    },
+    {
+      "name": "Mc Dermitt",
+      "slug": "mc-dermitt",
+      "county": "Humboldt County",
+      "lat": 41.866944,
+      "lng": -117.531111
+    },
+    {
+      "name": "Mc Gill",
+      "slug": "mc-gill",
+      "county": "White Pine County",
+      "lat": 39.401389,
+      "lng": -114.778056
+    },
+    {
+      "name": "Mercury",
+      "slug": "mercury",
+      "county": "Nye County",
+      "lat": 36.660556,
+      "lng": -115.993611
+    },
+    {
+      "name": "Mesquite",
+      "slug": "mesquite",
+      "county": "Clark County",
+      "lat": 36.8055,
+      "lng": -114.0663
+    },
+    {
+      "name": "Mina",
+      "slug": "mina",
+      "county": "Mineral County",
+      "lat": 38.390556,
+      "lng": -118.107778
+    },
+    {
+      "name": "Minden",
+      "slug": "minden",
+      "county": "Douglas County",
+      "lat": 39.021766,
+      "lng": -119.731363
+    },
+    {
+      "name": "Moapa",
+      "slug": "moapa",
+      "county": "Clark County",
+      "lat": 36.675833,
+      "lng": -114.62
+    },
+    {
+      "name": "Montello",
+      "slug": "montello",
+      "county": "Elko County",
+      "lat": 41.261389,
+      "lng": -114.193333
+    },
+    {
+      "name": "Mountain City",
+      "slug": "mountain-city",
+      "county": "Elko County",
+      "lat": 41.870781,
+      "lng": -116.113801
+    },
+    {
+      "name": "Nellis Afb",
+      "slug": "nellis-afb",
+      "county": "Clark County",
+      "lat": 36.2438,
+      "lng": -115.0132
+    },
+    {
+      "name": "Nixon",
+      "slug": "nixon",
+      "county": "Washoe County",
+      "lat": 39.885388,
+      "lng": -119.464262
+    },
+    {
+      "name": "North Las Vegas",
+      "slug": "north-las-vegas",
+      "county": "Clark County",
+      "lat": 36.4475,
+      "lng": -114.851389
+    },
+    {
+      "name": "Orovada",
+      "slug": "orovada",
+      "county": "Humboldt County",
+      "lat": 41.822001,
+      "lng": -117.775458
+    },
+    {
+      "name": "Overton",
+      "slug": "overton",
+      "county": "Clark County",
+      "lat": 36.637236,
+      "lng": -114.378202
+    },
+    {
+      "name": "Owyhee",
+      "slug": "owyhee",
+      "county": "Elko County",
+      "lat": 41.947778,
+      "lng": -116.097778
+    },
+    {
+      "name": "Pahrump",
+      "slug": "pahrump",
+      "county": "Nye County",
+      "lat": 36.204039,
+      "lng": -116.014661
+    },
+    {
+      "name": "Panaca",
+      "slug": "panaca",
+      "county": "Lincoln County",
+      "lat": 37.790556,
+      "lng": -114.388611
+    },
+    {
+      "name": "Paradise Valley",
+      "slug": "paradise-valley",
+      "county": "Humboldt County",
+      "lat": 41.505726,
+      "lng": -117.572848
+    },
+    {
+      "name": "Pioche",
+      "slug": "pioche",
+      "county": "Lincoln County",
+      "lat": 37.898097,
+      "lng": -114.396824
+    },
+    {
+      "name": "Reno",
+      "slug": "reno",
+      "county": "Washoe County",
+      "lat": 39.526812,
+      "lng": -119.811275
+    },
+    {
+      "name": "Round Mountain",
+      "slug": "round-mountain",
+      "county": "Nye County",
+      "lat": 38.682886,
+      "lng": -117.127989
+    },
+    {
+      "name": "Ruby Valley",
+      "slug": "ruby-valley",
+      "county": "Elko County",
+      "lat": 40.399514,
+      "lng": -115.231219
+    },
+    {
+      "name": "Ruth",
+      "slug": "ruth",
+      "county": "White Pine County",
+      "lat": 39.278333,
+      "lng": -114.988333
+    },
+    {
+      "name": "Schurz",
+      "slug": "schurz",
+      "county": "Mineral County",
+      "lat": 38.957527,
+      "lng": -118.775578
+    },
+    {
+      "name": "Searchlight",
+      "slug": "searchlight",
+      "county": "Clark County",
+      "lat": 35.447601,
+      "lng": -114.924182
+    },
+    {
+      "name": "Silver City",
+      "slug": "silver-city",
+      "county": "Lyon County",
+      "lat": 39.263611,
+      "lng": -119.639444
+    },
+    {
+      "name": "Silver Springs",
+      "slug": "silver-springs",
+      "county": "Lyon County",
+      "lat": 39.380045,
+      "lng": -119.270503
+    },
+    {
+      "name": "Silverpeak",
+      "slug": "silverpeak",
+      "county": "Esmeralda County",
+      "lat": 37.76444,
+      "lng": -117.94592
+    },
+    {
+      "name": "Sloan",
+      "slug": "sloan",
+      "county": "Clark County",
+      "lat": 35.9435864,
+      "lng": -115.2172168
+    },
+    {
+      "name": "Smith",
+      "slug": "smith",
+      "county": "Lyon County",
+      "lat": 38.917166,
+      "lng": -119.389005
+    },
+    {
+      "name": "Sparks",
+      "slug": "sparks",
+      "county": "Washoe County",
+      "lat": 39.547254,
+      "lng": -119.755588
+    },
+    {
+      "name": "Spring Creek",
+      "slug": "spring-creek",
+      "county": "Elko County",
+      "lat": 40.507778,
+      "lng": -115.344167
+    },
+    {
+      "name": "Stateline",
+      "slug": "stateline",
+      "county": "Douglas County",
+      "lat": 38.9625,
+      "lng": -119.938889
+    },
+    {
+      "name": "Sun Valley",
+      "slug": "sun-valley",
+      "county": "Washoe County",
+      "lat": 39.595477,
+      "lng": -119.775363
+    },
+    {
+      "name": "The Lakes",
+      "slug": "the-lakes",
+      "county": "Clark County",
+      "lat": 36.175,
+      "lng": -115.1363
+    },
+    {
+      "name": "Tonopah",
+      "slug": "tonopah",
+      "county": "Nye County",
+      "lat": 38.204273,
+      "lng": -117.089886
+    },
+    {
+      "name": "Tuscarora",
+      "slug": "tuscarora",
+      "county": "Elko County",
+      "lat": 41.171527,
+      "lng": -116.931141
+    },
+    {
+      "name": "Valmy",
+      "slug": "valmy",
+      "county": "Humboldt County",
+      "lat": 40.792778,
+      "lng": -117.125833
+    },
+    {
+      "name": "Verdi",
+      "slug": "verdi",
+      "county": "Washoe County",
+      "lat": 39.518333,
+      "lng": -119.987778
+    },
+    {
+      "name": "Virginia City",
+      "slug": "virginia-city",
+      "county": "Storey County",
+      "lat": 39.387282,
+      "lng": -119.596063
+    },
+    {
+      "name": "Wadsworth",
+      "slug": "wadsworth",
+      "county": "Washoe County",
+      "lat": 39.648069,
+      "lng": -119.291778
+    },
+    {
+      "name": "Washoe Valley",
+      "slug": "washoe-valley",
+      "county": "Washoe County",
+      "lat": 39.089756,
+      "lng": -119.828624
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "county": "Lyon County",
+      "lat": 38.78762,
+      "lng": -119.344901
+    },
+    {
+      "name": "Wells",
+      "slug": "wells",
+      "county": "Elko County",
+      "lat": 41.129798,
+      "lng": -114.532752
+    },
+    {
+      "name": "West Wendover",
+      "slug": "west-wendover",
+      "county": "Elko County",
+      "lat": 40.735,
+      "lng": -114.075278
+    },
+    {
+      "name": "Winnemucca",
+      "slug": "winnemucca",
+      "county": "Humboldt County",
+      "lat": 40.966418,
+      "lng": -117.746693
+    },
+    {
+      "name": "Yerington",
+      "slug": "yerington",
+      "county": "Lyon County",
+      "lat": 38.986567,
+      "lng": -119.159558
+    },
+    {
+      "name": "Zephyr Cove",
+      "slug": "zephyr-cove",
+      "county": "Douglas County",
+      "lat": 39.002222,
+      "lng": -119.955
+    }
+  ]
+}

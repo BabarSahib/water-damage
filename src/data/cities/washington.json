@@ -1,0 +1,3458 @@
+{
+  "stateName": "Washington",
+  "stateCode": "WA",
+  "stateSlug": "washington",
+  "cities": [
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "county": "Grays Harbor County",
+      "lat": 46.984293,
+      "lng": -123.79629
+    },
+    {
+      "name": "Acme",
+      "slug": "acme",
+      "county": "Whatcom County",
+      "lat": 48.675248,
+      "lng": -122.191391
+    },
+    {
+      "name": "Addy",
+      "slug": "addy",
+      "county": "Stevens County",
+      "lat": 48.44769,
+      "lng": -117.892383
+    },
+    {
+      "name": "Adna",
+      "slug": "adna",
+      "county": "Lewis County",
+      "lat": 46.629167,
+      "lng": -123.06
+    },
+    {
+      "name": "Airway Heights",
+      "slug": "airway-heights",
+      "county": "Spokane County",
+      "lat": 47.644722,
+      "lng": -117.592222
+    },
+    {
+      "name": "Albion",
+      "slug": "albion",
+      "county": "Whitman County",
+      "lat": 46.791111,
+      "lng": -117.249444
+    },
+    {
+      "name": "Allyn",
+      "slug": "allyn",
+      "county": "Mason County",
+      "lat": 47.385004,
+      "lng": -122.853571
+    },
+    {
+      "name": "Almira",
+      "slug": "almira",
+      "county": "Lincoln County",
+      "lat": 47.763175,
+      "lng": -118.91225
+    },
+    {
+      "name": "Amanda Park",
+      "slug": "amanda-park",
+      "county": "Grays Harbor County",
+      "lat": 47.470579,
+      "lng": -123.907375
+    },
+    {
+      "name": "Amboy",
+      "slug": "amboy",
+      "county": "Clark County",
+      "lat": 45.9195,
+      "lng": -122.457418
+    },
+    {
+      "name": "Anacortes",
+      "slug": "anacortes",
+      "county": "Skagit County",
+      "lat": 48.500438,
+      "lng": -122.630873
+    },
+    {
+      "name": "Anatone",
+      "slug": "anatone",
+      "county": "Asotin County",
+      "lat": 46.128466,
+      "lng": -117.088316
+    },
+    {
+      "name": "Anderson Island",
+      "slug": "anderson-island",
+      "county": "Pierce County",
+      "lat": 47.15872,
+      "lng": -122.696025
+    },
+    {
+      "name": "Appleton",
+      "slug": "appleton",
+      "county": "Klickitat County",
+      "lat": 45.909041,
+      "lng": -121.148618
+    },
+    {
+      "name": "Ardenvoir",
+      "slug": "ardenvoir",
+      "county": "Chelan County",
+      "lat": 47.7375,
+      "lng": -120.367778
+    },
+    {
+      "name": "Ariel",
+      "slug": "ariel",
+      "county": "Cowlitz County",
+      "lat": 45.995154,
+      "lng": -122.46769
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Snohomish County",
+      "lat": 48.18293,
+      "lng": -122.112126
+    },
+    {
+      "name": "Ashford",
+      "slug": "ashford",
+      "county": "Pierce County",
+      "lat": 46.753121,
+      "lng": -121.989791
+    },
+    {
+      "name": "Asotin",
+      "slug": "asotin",
+      "county": "Asotin County",
+      "lat": 46.134318,
+      "lng": -117.001548
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "King County",
+      "lat": 47.316339,
+      "lng": -122.270057
+    },
+    {
+      "name": "Bainbridge Island",
+      "slug": "bainbridge-island",
+      "county": "Kitsap County",
+      "lat": 47.645048,
+      "lng": -122.531297
+    },
+    {
+      "name": "Baring",
+      "slug": "baring",
+      "county": "King County",
+      "lat": 47.757787,
+      "lng": -121.44757
+    },
+    {
+      "name": "Battle Ground",
+      "slug": "battle-ground",
+      "county": "Clark County",
+      "lat": 45.790667,
+      "lng": -122.531845
+    },
+    {
+      "name": "Bay Center",
+      "slug": "bay-center",
+      "county": "Pacific County",
+      "lat": 46.631667,
+      "lng": -123.953611
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Clallam County",
+      "lat": 48.067263,
+      "lng": -124.305424
+    },
+    {
+      "name": "Belfair",
+      "slug": "belfair",
+      "county": "Mason County",
+      "lat": 47.454956,
+      "lng": -122.822381
+    },
+    {
+      "name": "Bellevue",
+      "slug": "bellevue",
+      "county": "King County",
+      "lat": 47.619899,
+      "lng": -122.207371
+    },
+    {
+      "name": "Bellingham",
+      "slug": "bellingham",
+      "county": "Whatcom County",
+      "lat": 48.748957,
+      "lng": -122.488676
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Whitman County",
+      "lat": 47.088056,
+      "lng": -117.161389
+    },
+    {
+      "name": "Benge",
+      "slug": "benge",
+      "county": "Adams County",
+      "lat": 46.867636,
+      "lng": -117.969895
+    },
+    {
+      "name": "Benton City",
+      "slug": "benton-city",
+      "county": "Benton County",
+      "lat": 46.280624,
+      "lng": -119.491349
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly",
+      "county": "Grant County",
+      "lat": 46.848429,
+      "lng": -119.912074
+    },
+    {
+      "name": "Bickleton",
+      "slug": "bickleton",
+      "county": "Klickitat County",
+      "lat": 45.959687,
+      "lng": -120.104223
+    },
+    {
+      "name": "Bingen",
+      "slug": "bingen",
+      "county": "Klickitat County",
+      "lat": 45.6341,
+      "lng": -121.175778
+    },
+    {
+      "name": "Black Diamond",
+      "slug": "black-diamond",
+      "county": "King County",
+      "lat": 47.311372,
+      "lng": -122.005265
+    },
+    {
+      "name": "Blaine",
+      "slug": "blaine",
+      "county": "Whatcom County",
+      "lat": 48.963572,
+      "lng": -122.732327
+    },
+    {
+      "name": "Blakely Island",
+      "slug": "blakely-island",
+      "county": "San Juan County",
+      "lat": 48.512778,
+      "lng": -122.611389
+    },
+    {
+      "name": "Bonney Lake",
+      "slug": "bonney-lake",
+      "county": "Pierce County",
+      "lat": 47.181911,
+      "lng": -122.173888
+    },
+    {
+      "name": "Bothell",
+      "slug": "bothell",
+      "county": "King County",
+      "lat": 47.749692,
+      "lng": -122.2159
+    },
+    {
+      "name": "Bow",
+      "slug": "bow",
+      "county": "Skagit County",
+      "lat": 48.562037,
+      "lng": -122.413438
+    },
+    {
+      "name": "Boyds",
+      "slug": "boyds",
+      "county": "Ferry County",
+      "lat": 48.691919,
+      "lng": -118.19906
+    },
+    {
+      "name": "Bremerton",
+      "slug": "bremerton",
+      "county": "Kitsap County",
+      "lat": 47.601916,
+      "lng": -122.629913
+    },
+    {
+      "name": "Brewster",
+      "slug": "brewster",
+      "county": "Okanogan County",
+      "lat": 48.120641,
+      "lng": -119.771999
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Douglas County",
+      "lat": 48.016083,
+      "lng": -119.702772
+    },
+    {
+      "name": "Brinnon",
+      "slug": "brinnon",
+      "county": "Jefferson County",
+      "lat": 47.677596,
+      "lng": -122.937509
+    },
+    {
+      "name": "Brownstown",
+      "slug": "brownstown",
+      "county": "Yakima County",
+      "lat": 46.404444,
+      "lng": -120.605833
+    },
+    {
+      "name": "Brush Prairie",
+      "slug": "brush-prairie",
+      "county": "Clark County",
+      "lat": 45.730432,
+      "lng": -122.484342
+    },
+    {
+      "name": "Buckley",
+      "slug": "buckley",
+      "county": "Pierce County",
+      "lat": 47.152449,
+      "lng": -122.062098
+    },
+    {
+      "name": "Bucoda",
+      "slug": "bucoda",
+      "county": "Thurston County",
+      "lat": 46.799167,
+      "lng": -122.868611
+    },
+    {
+      "name": "Buena",
+      "slug": "buena",
+      "county": "Yakima County",
+      "lat": 46.428889,
+      "lng": -120.312222
+    },
+    {
+      "name": "Burbank",
+      "slug": "burbank",
+      "county": "Walla Walla County",
+      "lat": 46.2,
+      "lng": -119.011944
+    },
+    {
+      "name": "Burley",
+      "slug": "burley",
+      "county": "Kitsap County",
+      "lat": 47.418056,
+      "lng": -122.629722
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Skagit County",
+      "lat": 48.478577,
+      "lng": -122.33449
+    },
+    {
+      "name": "Burton",
+      "slug": "burton",
+      "county": "King County",
+      "lat": 47.389167,
+      "lng": -122.459444
+    },
+    {
+      "name": "Camano Island",
+      "slug": "camano-island",
+      "county": "Island County",
+      "lat": 48.191667,
+      "lng": -122.513889
+    },
+    {
+      "name": "Camas",
+      "slug": "camas",
+      "county": "Clark County",
+      "lat": 45.605772,
+      "lng": -122.414231
+    },
+    {
+      "name": "Camp Murray",
+      "slug": "camp-murray",
+      "county": "Pierce County",
+      "lat": 47.117,
+      "lng": -122.5663
+    },
+    {
+      "name": "Carbonado",
+      "slug": "carbonado",
+      "county": "Pierce County",
+      "lat": 47.080242,
+      "lng": -122.051339
+    },
+    {
+      "name": "Carlsborg",
+      "slug": "carlsborg",
+      "county": "Clallam County",
+      "lat": 48.090833,
+      "lng": -123.170833
+    },
+    {
+      "name": "Carlton",
+      "slug": "carlton",
+      "county": "Okanogan County",
+      "lat": 48.252615,
+      "lng": -120.10551
+    },
+    {
+      "name": "Carnation",
+      "slug": "carnation",
+      "county": "King County",
+      "lat": 47.638007,
+      "lng": -121.911095
+    },
+    {
+      "name": "Carrolls",
+      "slug": "carrolls",
+      "county": "Cowlitz County",
+      "lat": 46.071667,
+      "lng": -122.861111
+    },
+    {
+      "name": "Carson",
+      "slug": "carson",
+      "county": "Skamania County",
+      "lat": 45.749332,
+      "lng": -121.835138
+    },
+    {
+      "name": "Cashmere",
+      "slug": "cashmere",
+      "county": "Chelan County",
+      "lat": 47.517293,
+      "lng": -120.503274
+    },
+    {
+      "name": "Castle Rock",
+      "slug": "castle-rock",
+      "county": "Cowlitz County",
+      "lat": 46.278291,
+      "lng": -122.9139
+    },
+    {
+      "name": "Cathlamet",
+      "slug": "cathlamet",
+      "county": "Wahkiakum County",
+      "lat": 46.195383,
+      "lng": -123.362716
+    },
+    {
+      "name": "Centerville",
+      "slug": "centerville",
+      "county": "Klickitat County",
+      "lat": 45.703183,
+      "lng": -120.945973
+    },
+    {
+      "name": "Centralia",
+      "slug": "centralia",
+      "county": "Lewis County",
+      "lat": 46.724635,
+      "lng": -122.967068
+    },
+    {
+      "name": "Chattaroy",
+      "slug": "chattaroy",
+      "county": "Spokane County",
+      "lat": 47.919178,
+      "lng": -117.29209
+    },
+    {
+      "name": "Chehalis",
+      "slug": "chehalis",
+      "county": "Lewis County",
+      "lat": 46.638193,
+      "lng": -122.965764
+    },
+    {
+      "name": "Chelan",
+      "slug": "chelan",
+      "county": "Chelan County",
+      "lat": 47.848263,
+      "lng": -120.027306
+    },
+    {
+      "name": "Chelan Falls",
+      "slug": "chelan-falls",
+      "county": "Chelan County",
+      "lat": 47.801667,
+      "lng": -119.984722
+    },
+    {
+      "name": "Cheney",
+      "slug": "cheney",
+      "county": "Spokane County",
+      "lat": 47.494257,
+      "lng": -117.583372
+    },
+    {
+      "name": "Chewelah",
+      "slug": "chewelah",
+      "county": "Stevens County",
+      "lat": 48.287585,
+      "lng": -117.77539
+    },
+    {
+      "name": "Chimacum",
+      "slug": "chimacum",
+      "county": "Jefferson County",
+      "lat": 47.98607,
+      "lng": -122.788323
+    },
+    {
+      "name": "Chinook",
+      "slug": "chinook",
+      "county": "Pacific County",
+      "lat": 46.273056,
+      "lng": -123.944167
+    },
+    {
+      "name": "Cinebar",
+      "slug": "cinebar",
+      "county": "Lewis County",
+      "lat": 46.567131,
+      "lng": -122.566005
+    },
+    {
+      "name": "Clallam Bay",
+      "slug": "clallam-bay",
+      "county": "Clallam County",
+      "lat": 48.225486,
+      "lng": -124.201512
+    },
+    {
+      "name": "Clarkston",
+      "slug": "clarkston",
+      "county": "Asotin County",
+      "lat": 46.394622,
+      "lng": -117.064457
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Stevens County",
+      "lat": 47.955206,
+      "lng": -117.574021
+    },
+    {
+      "name": "Cle Elum",
+      "slug": "cle-elum",
+      "county": "Kittitas County",
+      "lat": 47.206319,
+      "lng": -120.968505
+    },
+    {
+      "name": "Clearlake",
+      "slug": "clearlake",
+      "county": "Skagit County",
+      "lat": 48.464444,
+      "lng": -122.232778
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Island County",
+      "lat": 47.950845,
+      "lng": -122.391588
+    },
+    {
+      "name": "Colbert",
+      "slug": "colbert",
+      "county": "Spokane County",
+      "lat": 47.841093,
+      "lng": -117.375895
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Whitman County",
+      "lat": 46.879996,
+      "lng": -117.366975
+    },
+    {
+      "name": "College Place",
+      "slug": "college-place",
+      "county": "Walla Walla County",
+      "lat": 46.045723,
+      "lng": -118.385338
+    },
+    {
+      "name": "Colton",
+      "slug": "colton",
+      "county": "Whitman County",
+      "lat": 46.590098,
+      "lng": -117.169243
+    },
+    {
+      "name": "Colville",
+      "slug": "colville",
+      "county": "Stevens County",
+      "lat": 48.57799,
+      "lng": -117.864463
+    },
+    {
+      "name": "Conconully",
+      "slug": "conconully",
+      "county": "Okanogan County",
+      "lat": 48.5575,
+      "lng": -119.748611
+    },
+    {
+      "name": "Concrete",
+      "slug": "concrete",
+      "county": "Skagit County",
+      "lat": 48.530962,
+      "lng": -121.664294
+    },
+    {
+      "name": "Connell",
+      "slug": "connell",
+      "county": "Franklin County",
+      "lat": 46.66426,
+      "lng": -118.85454
+    },
+    {
+      "name": "Conway",
+      "slug": "conway",
+      "county": "Skagit County",
+      "lat": 48.340556,
+      "lng": -122.341667
+    },
+    {
+      "name": "Copalis Beach",
+      "slug": "copalis-beach",
+      "county": "Grays Harbor County",
+      "lat": 47.065044,
+      "lng": -124.135881
+    },
+    {
+      "name": "Copalis Crossing",
+      "slug": "copalis-crossing",
+      "county": "Grays Harbor County",
+      "lat": 47.12535,
+      "lng": -124.13471
+    },
+    {
+      "name": "Cosmopolis",
+      "slug": "cosmopolis",
+      "county": "Grays Harbor County",
+      "lat": 46.953789,
+      "lng": -123.77394
+    },
+    {
+      "name": "Cougar",
+      "slug": "cougar",
+      "county": "Cowlitz County",
+      "lat": 46.069012,
+      "lng": -122.294186
+    },
+    {
+      "name": "Coulee City",
+      "slug": "coulee-city",
+      "county": "Grant County",
+      "lat": 47.596571,
+      "lng": -119.27582
+    },
+    {
+      "name": "Coulee Dam",
+      "slug": "coulee-dam",
+      "county": "Okanogan County",
+      "lat": 48.173861,
+      "lng": -119.180907
+    },
+    {
+      "name": "Coupeville",
+      "slug": "coupeville",
+      "county": "Island County",
+      "lat": 48.218911,
+      "lng": -122.682346
+    },
+    {
+      "name": "Cowiche",
+      "slug": "cowiche",
+      "county": "Yakima County",
+      "lat": 46.66611,
+      "lng": -120.714893
+    },
+    {
+      "name": "Creston",
+      "slug": "creston",
+      "county": "Lincoln County",
+      "lat": 47.797681,
+      "lng": -118.530656
+    },
+    {
+      "name": "Curlew",
+      "slug": "curlew",
+      "county": "Ferry County",
+      "lat": 48.910775,
+      "lng": -118.645182
+    },
+    {
+      "name": "Curtis",
+      "slug": "curtis",
+      "county": "Lewis County",
+      "lat": 46.558372,
+      "lng": -123.156974
+    },
+    {
+      "name": "Cusick",
+      "slug": "cusick",
+      "county": "Pend Oreille County",
+      "lat": 48.391513,
+      "lng": -117.329464
+    },
+    {
+      "name": "Custer",
+      "slug": "custer",
+      "county": "Whatcom County",
+      "lat": 48.937412,
+      "lng": -122.622571
+    },
+    {
+      "name": "Dallesport",
+      "slug": "dallesport",
+      "county": "Klickitat County",
+      "lat": 45.6175,
+      "lng": -121.178333
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Ferry County",
+      "lat": 48.972524,
+      "lng": -118.488408
+    },
+    {
+      "name": "Darrington",
+      "slug": "darrington",
+      "county": "Snohomish County",
+      "lat": 48.249285,
+      "lng": -121.591807
+    },
+    {
+      "name": "Davenport",
+      "slug": "davenport",
+      "county": "Lincoln County",
+      "lat": 47.680855,
+      "lng": -118.166657
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Columbia County",
+      "lat": 46.307459,
+      "lng": -117.973791
+    },
+    {
+      "name": "Deer Harbor",
+      "slug": "deer-harbor",
+      "county": "San Juan County",
+      "lat": 48.620278,
+      "lng": -122.998333
+    },
+    {
+      "name": "Deer Park",
+      "slug": "deer-park",
+      "county": "Spokane County",
+      "lat": 47.948615,
+      "lng": -117.443559
+    },
+    {
+      "name": "Deming",
+      "slug": "deming",
+      "county": "Whatcom County",
+      "lat": 48.803366,
+      "lng": -122.153957
+    },
+    {
+      "name": "Dixie",
+      "slug": "dixie",
+      "county": "Walla Walla County",
+      "lat": 46.140278,
+      "lng": -118.154167
+    },
+    {
+      "name": "Doty",
+      "slug": "doty",
+      "county": "Lewis County",
+      "lat": 46.634722,
+      "lng": -123.276389
+    },
+    {
+      "name": "Dryden",
+      "slug": "dryden",
+      "county": "Chelan County",
+      "lat": 47.541389,
+      "lng": -120.559722
+    },
+    {
+      "name": "Dupont",
+      "slug": "dupont",
+      "county": "Pierce County",
+      "lat": 47.096944,
+      "lng": -122.63
+    },
+    {
+      "name": "Duvall",
+      "slug": "duvall",
+      "county": "King County",
+      "lat": 47.724987,
+      "lng": -121.936906
+    },
+    {
+      "name": "East Olympia",
+      "slug": "east-olympia",
+      "county": "Thurston County",
+      "lat": 46.967778,
+      "lng": -122.834444
+    },
+    {
+      "name": "East Wenatchee",
+      "slug": "east-wenatchee",
+      "county": "Douglas County",
+      "lat": 47.418596,
+      "lng": -120.273136
+    },
+    {
+      "name": "Easton",
+      "slug": "easton",
+      "county": "Kittitas County",
+      "lat": 47.237222,
+      "lng": -121.177778
+    },
+    {
+      "name": "Eastsound",
+      "slug": "eastsound",
+      "county": "San Juan County",
+      "lat": 48.665554,
+      "lng": -122.937045
+    },
+    {
+      "name": "Eatonville",
+      "slug": "eatonville",
+      "county": "Pierce County",
+      "lat": 46.870778,
+      "lng": -122.269626
+    },
+    {
+      "name": "Edmonds",
+      "slug": "edmonds",
+      "county": "Snohomish County",
+      "lat": 47.800693,
+      "lng": -122.366949
+    },
+    {
+      "name": "Edwall",
+      "slug": "edwall",
+      "county": "Lincoln County",
+      "lat": 47.537896,
+      "lng": -117.907095
+    },
+    {
+      "name": "Elbe",
+      "slug": "elbe",
+      "county": "Pierce County",
+      "lat": 46.766607,
+      "lng": -122.150344
+    },
+    {
+      "name": "Electric City",
+      "slug": "electric-city",
+      "county": "Grant County",
+      "lat": 47.926446,
+      "lng": -119.036728
+    },
+    {
+      "name": "Elk",
+      "slug": "elk",
+      "county": "Spokane County",
+      "lat": 48.020523,
+      "lng": -117.296253
+    },
+    {
+      "name": "Ellensburg",
+      "slug": "ellensburg",
+      "county": "Kittitas County",
+      "lat": 46.999632,
+      "lng": -120.516274
+    },
+    {
+      "name": "Elma",
+      "slug": "elma",
+      "county": "Grays Harbor County",
+      "lat": 47.005813,
+      "lng": -123.39969
+    },
+    {
+      "name": "Elmer City",
+      "slug": "elmer-city",
+      "county": "Okanogan County",
+      "lat": 47.998056,
+      "lng": -118.953333
+    },
+    {
+      "name": "Eltopia",
+      "slug": "eltopia",
+      "county": "Franklin County",
+      "lat": 46.474996,
+      "lng": -119.101333
+    },
+    {
+      "name": "Endicott",
+      "slug": "endicott",
+      "county": "Whitman County",
+      "lat": 46.936407,
+      "lng": -117.723005
+    },
+    {
+      "name": "Entiat",
+      "slug": "entiat",
+      "county": "Chelan County",
+      "lat": 47.705653,
+      "lng": -120.276031
+    },
+    {
+      "name": "Enumclaw",
+      "slug": "enumclaw",
+      "county": "King County",
+      "lat": 47.266545,
+      "lng": -122.031429
+    },
+    {
+      "name": "Ephrata",
+      "slug": "ephrata",
+      "county": "Grant County",
+      "lat": 47.277051,
+      "lng": -119.533582
+    },
+    {
+      "name": "Ethel",
+      "slug": "ethel",
+      "county": "Lewis County",
+      "lat": 46.53581,
+      "lng": -122.776009
+    },
+    {
+      "name": "Evans",
+      "slug": "evans",
+      "county": "Stevens County",
+      "lat": 48.745787,
+      "lng": -118.00012
+    },
+    {
+      "name": "Everett",
+      "slug": "everett",
+      "county": "Snohomish County",
+      "lat": 47.988431,
+      "lng": -122.200571
+    },
+    {
+      "name": "Everson",
+      "slug": "everson",
+      "county": "Whatcom County",
+      "lat": 48.90447,
+      "lng": -122.332474
+    },
+    {
+      "name": "Fairchild Air Force Base",
+      "slug": "fairchild-air-force-base",
+      "county": "Spokane County",
+      "lat": 47.613068,
+      "lng": -117.643746
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Spokane County",
+      "lat": 47.398726,
+      "lng": -117.192054
+    },
+    {
+      "name": "Fall City",
+      "slug": "fall-city",
+      "county": "King County",
+      "lat": 47.568233,
+      "lng": -121.889646
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "Whitman County",
+      "lat": 47.084742,
+      "lng": -117.076327
+    },
+    {
+      "name": "Federal Way",
+      "slug": "federal-way",
+      "county": "King County",
+      "lat": 47.3203,
+      "lng": -122.311726
+    },
+    {
+      "name": "Ferndale",
+      "slug": "ferndale",
+      "county": "Whatcom County",
+      "lat": 48.862531,
+      "lng": -122.595293
+    },
+    {
+      "name": "Ford",
+      "slug": "ford",
+      "county": "Stevens County",
+      "lat": 47.916873,
+      "lng": -117.811858
+    },
+    {
+      "name": "Forks",
+      "slug": "forks",
+      "county": "Clallam County",
+      "lat": 47.928732,
+      "lng": -124.398949
+    },
+    {
+      "name": "Four Lakes",
+      "slug": "four-lakes",
+      "county": "Spokane County",
+      "lat": 47.561389,
+      "lng": -117.593056
+    },
+    {
+      "name": "Fox Island",
+      "slug": "fox-island",
+      "county": "Pierce County",
+      "lat": 47.25238,
+      "lng": -122.628579
+    },
+    {
+      "name": "Freeland",
+      "slug": "freeland",
+      "county": "Island County",
+      "lat": 48.03417,
+      "lng": -122.564086
+    },
+    {
+      "name": "Friday Harbor",
+      "slug": "friday-harbor",
+      "county": "San Juan County",
+      "lat": 48.545416,
+      "lng": -123.094717
+    },
+    {
+      "name": "Fruitland",
+      "slug": "fruitland",
+      "county": "Stevens County",
+      "lat": 47.979746,
+      "lng": -118.215906
+    },
+    {
+      "name": "Galvin",
+      "slug": "galvin",
+      "county": "Lewis County",
+      "lat": 46.7425,
+      "lng": -123.025833
+    },
+    {
+      "name": "Garfield",
+      "slug": "garfield",
+      "county": "Whitman County",
+      "lat": 46.994639,
+      "lng": -117.152293
+    },
+    {
+      "name": "George",
+      "slug": "george",
+      "county": "Grant County",
+      "lat": 47.079167,
+      "lng": -119.854722
+    },
+    {
+      "name": "Gifford",
+      "slug": "gifford",
+      "county": "Stevens County",
+      "lat": 48.22287,
+      "lng": -118.12989
+    },
+    {
+      "name": "Gig Harbor",
+      "slug": "gig-harbor",
+      "county": "Pierce County",
+      "lat": 47.378579,
+      "lng": -122.7
+    },
+    {
+      "name": "Glenoma",
+      "slug": "glenoma",
+      "county": "Lewis County",
+      "lat": 46.528266,
+      "lng": -122.099014
+    },
+    {
+      "name": "Glenwood",
+      "slug": "glenwood",
+      "county": "Klickitat County",
+      "lat": 46.007104,
+      "lng": -121.28849
+    },
+    {
+      "name": "Gold Bar",
+      "slug": "gold-bar",
+      "county": "Snohomish County",
+      "lat": 47.856944,
+      "lng": -121.695833
+    },
+    {
+      "name": "Goldendale",
+      "slug": "goldendale",
+      "county": "Klickitat County",
+      "lat": 45.832021,
+      "lng": -120.812981
+    },
+    {
+      "name": "Goose Prairie",
+      "slug": "goose-prairie",
+      "county": "Yakima County",
+      "lat": 46.731111,
+      "lng": -120.698333
+    },
+    {
+      "name": "Graham",
+      "slug": "graham",
+      "county": "Pierce County",
+      "lat": 47.024575,
+      "lng": -122.293648
+    },
+    {
+      "name": "Grand Coulee",
+      "slug": "grand-coulee",
+      "county": "Grant County",
+      "lat": 47.938511,
+      "lng": -118.997835
+    },
+    {
+      "name": "Grandview",
+      "slug": "grandview",
+      "county": "Yakima County",
+      "lat": 46.253846,
+      "lng": -119.915734
+    },
+    {
+      "name": "Granger",
+      "slug": "granger",
+      "county": "Yakima County",
+      "lat": 46.348045,
+      "lng": -120.181848
+    },
+    {
+      "name": "Granite Falls",
+      "slug": "granite-falls",
+      "county": "Snohomish County",
+      "lat": 48.078977,
+      "lng": -121.942752
+    },
+    {
+      "name": "Grapeview",
+      "slug": "grapeview",
+      "county": "Mason County",
+      "lat": 47.305783,
+      "lng": -122.949742
+    },
+    {
+      "name": "Grayland",
+      "slug": "grayland",
+      "county": "Grays Harbor County",
+      "lat": 46.853201,
+      "lng": -124.056194
+    },
+    {
+      "name": "Grays River",
+      "slug": "grays-river",
+      "county": "Wahkiakum County",
+      "lat": 46.353481,
+      "lng": -123.588845
+    },
+    {
+      "name": "Greenacres",
+      "slug": "greenacres",
+      "county": "Spokane County",
+      "lat": 47.658357,
+      "lng": -117.156801
+    },
+    {
+      "name": "Greenbank",
+      "slug": "greenbank",
+      "county": "Island County",
+      "lat": 48.124432,
+      "lng": -122.587086
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "county": "Skagit County",
+      "lat": 48.521667,
+      "lng": -121.988056
+    },
+    {
+      "name": "Hansville",
+      "slug": "hansville",
+      "county": "Kitsap County",
+      "lat": 47.906143,
+      "lng": -122.565509
+    },
+    {
+      "name": "Harrah",
+      "slug": "harrah",
+      "county": "Yakima County",
+      "lat": 46.410383,
+      "lng": -120.573606
+    },
+    {
+      "name": "Harrington",
+      "slug": "harrington",
+      "county": "Lincoln County",
+      "lat": 47.4555,
+      "lng": -118.277793
+    },
+    {
+      "name": "Hartline",
+      "slug": "hartline",
+      "county": "Grant County",
+      "lat": 47.725631,
+      "lng": -119.104467
+    },
+    {
+      "name": "Hay",
+      "slug": "hay",
+      "county": "Whitman County",
+      "lat": 46.678889,
+      "lng": -117.914722
+    },
+    {
+      "name": "Heisson",
+      "slug": "heisson",
+      "county": "Clark County",
+      "lat": 45.825,
+      "lng": -122.49
+    },
+    {
+      "name": "Hobart",
+      "slug": "hobart",
+      "county": "King County",
+      "lat": 47.421944,
+      "lng": -121.971667
+    },
+    {
+      "name": "Hoodsport",
+      "slug": "hoodsport",
+      "county": "Mason County",
+      "lat": 47.423526,
+      "lng": -123.173932
+    },
+    {
+      "name": "Hooper",
+      "slug": "hooper",
+      "county": "Whitman County",
+      "lat": 46.754444,
+      "lng": -118.146944
+    },
+    {
+      "name": "Hoquiam",
+      "slug": "hoquiam",
+      "county": "Grays Harbor County",
+      "lat": 46.982269,
+      "lng": -123.884169
+    },
+    {
+      "name": "Humptulips",
+      "slug": "humptulips",
+      "county": "Grays Harbor County",
+      "lat": 47.135632,
+      "lng": -123.971695
+    },
+    {
+      "name": "Hunters",
+      "slug": "hunters",
+      "county": "Stevens County",
+      "lat": 48.133261,
+      "lng": -118.152491
+    },
+    {
+      "name": "Husum",
+      "slug": "husum",
+      "county": "Klickitat County",
+      "lat": 45.799444,
+      "lng": -121.485833
+    },
+    {
+      "name": "Ilwaco",
+      "slug": "ilwaco",
+      "county": "Pacific County",
+      "lat": 46.314214,
+      "lng": -124.02822
+    },
+    {
+      "name": "Inchelium",
+      "slug": "inchelium",
+      "county": "Ferry County",
+      "lat": 48.292411,
+      "lng": -118.355166
+    },
+    {
+      "name": "Index",
+      "slug": "index",
+      "county": "Snohomish County",
+      "lat": 47.820833,
+      "lng": -121.553889
+    },
+    {
+      "name": "Indianola",
+      "slug": "indianola",
+      "county": "Kitsap County",
+      "lat": 47.747222,
+      "lng": -122.524444
+    },
+    {
+      "name": "Ione",
+      "slug": "ione",
+      "county": "Pend Oreille County",
+      "lat": 48.713023,
+      "lng": -117.404859
+    },
+    {
+      "name": "Issaquah",
+      "slug": "issaquah",
+      "county": "King County",
+      "lat": 47.550911,
+      "lng": -122.033517
+    },
+    {
+      "name": "Joyce",
+      "slug": "joyce",
+      "county": "Clallam County",
+      "lat": 48.136667,
+      "lng": -123.732778
+    },
+    {
+      "name": "Kahlotus",
+      "slug": "kahlotus",
+      "county": "Franklin County",
+      "lat": 46.643333,
+      "lng": -118.555833
+    },
+    {
+      "name": "Kalama",
+      "slug": "kalama",
+      "county": "Cowlitz County",
+      "lat": 46.011229,
+      "lng": -122.816588
+    },
+    {
+      "name": "Kapowsin",
+      "slug": "kapowsin",
+      "county": "Pierce County",
+      "lat": 46.985833,
+      "lng": -122.224444
+    },
+    {
+      "name": "Keller",
+      "slug": "keller",
+      "county": "Ferry County",
+      "lat": 48.023594,
+      "lng": -118.654731
+    },
+    {
+      "name": "Kelso",
+      "slug": "kelso",
+      "county": "Cowlitz County",
+      "lat": 46.148491,
+      "lng": -122.886994
+    },
+    {
+      "name": "Kenmore",
+      "slug": "kenmore",
+      "county": "King County",
+      "lat": 47.7575,
+      "lng": -122.242778
+    },
+    {
+      "name": "Kennewick",
+      "slug": "kennewick",
+      "county": "Benton County",
+      "lat": 46.210913,
+      "lng": -119.167951
+    },
+    {
+      "name": "Kent",
+      "slug": "kent",
+      "county": "King County",
+      "lat": 47.3695,
+      "lng": -122.1949
+    },
+    {
+      "name": "Kettle Falls",
+      "slug": "kettle-falls",
+      "county": "Stevens County",
+      "lat": 48.636375,
+      "lng": -118.054801
+    },
+    {
+      "name": "Keyport",
+      "slug": "keyport",
+      "county": "Kitsap County",
+      "lat": 47.702222,
+      "lng": -122.619722
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Kitsap County",
+      "lat": 47.810844,
+      "lng": -122.525503
+    },
+    {
+      "name": "Kirkland",
+      "slug": "kirkland",
+      "county": "King County",
+      "lat": 47.678597,
+      "lng": -122.189442
+    },
+    {
+      "name": "Kittitas",
+      "slug": "kittitas",
+      "county": "Kittitas County",
+      "lat": 46.983333,
+      "lng": -120.415833
+    },
+    {
+      "name": "Klickitat",
+      "slug": "klickitat",
+      "county": "Klickitat County",
+      "lat": 45.751534,
+      "lng": -121.229231
+    },
+    {
+      "name": "La Center",
+      "slug": "la-center",
+      "county": "Clark County",
+      "lat": 45.880587,
+      "lng": -122.623972
+    },
+    {
+      "name": "La Conner",
+      "slug": "la-conner",
+      "county": "Skagit County",
+      "lat": 48.409306,
+      "lng": -122.53134
+    },
+    {
+      "name": "La Grande",
+      "slug": "la-grande",
+      "county": "Pierce County",
+      "lat": 46.834444,
+      "lng": -122.3175
+    },
+    {
+      "name": "La Push",
+      "slug": "la-push",
+      "county": "Clallam County",
+      "lat": 47.908889,
+      "lng": -124.635278
+    },
+    {
+      "name": "Lacey",
+      "slug": "lacey",
+      "county": "Thurston County",
+      "lat": 47.023967,
+      "lng": -122.782665
+    },
+    {
+      "name": "Lacrosse",
+      "slug": "lacrosse",
+      "county": "Whitman County",
+      "lat": 46.771684,
+      "lng": -117.770277
+    },
+    {
+      "name": "Lake Stevens",
+      "slug": "lake-stevens",
+      "county": "Snohomish County",
+      "lat": 48.017103,
+      "lng": -122.067153
+    },
+    {
+      "name": "Lakebay",
+      "slug": "lakebay",
+      "county": "Pierce County",
+      "lat": 47.247366,
+      "lng": -122.74273
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Pierce County",
+      "lat": 47.122905,
+      "lng": -122.529326
+    },
+    {
+      "name": "Lamona",
+      "slug": "lamona",
+      "county": "Lincoln County",
+      "lat": 47.359444,
+      "lng": -118.481389
+    },
+    {
+      "name": "Lamont",
+      "slug": "lamont",
+      "county": "Whitman County",
+      "lat": 47.17304,
+      "lng": -117.830239
+    },
+    {
+      "name": "Langley",
+      "slug": "langley",
+      "county": "Island County",
+      "lat": 48.018672,
+      "lng": -122.452992
+    },
+    {
+      "name": "Latah",
+      "slug": "latah",
+      "county": "Spokane County",
+      "lat": 47.303815,
+      "lng": -117.16884
+    },
+    {
+      "name": "Laurier",
+      "slug": "laurier",
+      "county": "Ferry County",
+      "lat": 48.998889,
+      "lng": -118.223056
+    },
+    {
+      "name": "Leavenworth",
+      "slug": "leavenworth",
+      "county": "Chelan County",
+      "lat": 47.6438,
+      "lng": -120.674792
+    },
+    {
+      "name": "Lebam",
+      "slug": "lebam",
+      "county": "Pacific County",
+      "lat": 46.559167,
+      "lng": -123.547778
+    },
+    {
+      "name": "Liberty Lake",
+      "slug": "liberty-lake",
+      "county": "Spokane County",
+      "lat": 47.651672,
+      "lng": -117.083808
+    },
+    {
+      "name": "Lilliwaup",
+      "slug": "lilliwaup",
+      "county": "Mason County",
+      "lat": 47.512773,
+      "lng": -123.063119
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Lincoln County",
+      "lat": 47.78204,
+      "lng": -118.481012
+    },
+    {
+      "name": "Lind",
+      "slug": "lind",
+      "county": "Adams County",
+      "lat": 46.955954,
+      "lng": -118.706057
+    },
+    {
+      "name": "Littlerock",
+      "slug": "littlerock",
+      "county": "Thurston County",
+      "lat": 46.901944,
+      "lng": -123.016667
+    },
+    {
+      "name": "Long Beach",
+      "slug": "long-beach",
+      "county": "Pacific County",
+      "lat": 46.377369,
+      "lng": -124.047041
+    },
+    {
+      "name": "Longbranch",
+      "slug": "longbranch",
+      "county": "Pierce County",
+      "lat": 47.200737,
+      "lng": -122.756126
+    },
+    {
+      "name": "Longmire",
+      "slug": "longmire",
+      "county": "Pierce County",
+      "lat": 46.75,
+      "lng": -121.811389
+    },
+    {
+      "name": "Longview",
+      "slug": "longview",
+      "county": "Cowlitz County",
+      "lat": 46.151354,
+      "lng": -122.963421
+    },
+    {
+      "name": "Loomis",
+      "slug": "loomis",
+      "county": "Okanogan County",
+      "lat": 48.869627,
+      "lng": -119.642675
+    },
+    {
+      "name": "Loon Lake",
+      "slug": "loon-lake",
+      "county": "Stevens County",
+      "lat": 48.078393,
+      "lng": -117.632496
+    },
+    {
+      "name": "Lopez Island",
+      "slug": "lopez-island",
+      "county": "San Juan County",
+      "lat": 48.520804,
+      "lng": -122.967434
+    },
+    {
+      "name": "Lummi Island",
+      "slug": "lummi-island",
+      "county": "Whatcom County",
+      "lat": 48.712765,
+      "lng": -122.682285
+    },
+    {
+      "name": "Lyle",
+      "slug": "lyle",
+      "county": "Klickitat County",
+      "lat": 45.74495,
+      "lng": -121.250112
+    },
+    {
+      "name": "Lyman",
+      "slug": "lyman",
+      "county": "Skagit County",
+      "lat": 48.525744,
+      "lng": -122.016183
+    },
+    {
+      "name": "Lynden",
+      "slug": "lynden",
+      "county": "Whatcom County",
+      "lat": 48.937225,
+      "lng": -122.459153
+    },
+    {
+      "name": "Lynnwood",
+      "slug": "lynnwood",
+      "county": "Snohomish County",
+      "lat": 47.811825,
+      "lng": -122.287789
+    },
+    {
+      "name": "Mabton",
+      "slug": "mabton",
+      "county": "Yakima County",
+      "lat": 46.212082,
+      "lng": -120.015141
+    },
+    {
+      "name": "Malaga",
+      "slug": "malaga",
+      "county": "Chelan County",
+      "lat": 47.355306,
+      "lng": -120.208562
+    },
+    {
+      "name": "Malden",
+      "slug": "malden",
+      "county": "Whitman County",
+      "lat": 47.228889,
+      "lng": -117.471667
+    },
+    {
+      "name": "Malo",
+      "slug": "malo",
+      "county": "Ferry County",
+      "lat": 48.81862,
+      "lng": -118.623712
+    },
+    {
+      "name": "Malone",
+      "slug": "malone",
+      "county": "Grays Harbor County",
+      "lat": 46.960556,
+      "lng": -123.325556
+    },
+    {
+      "name": "Malott",
+      "slug": "malott",
+      "county": "Okanogan County",
+      "lat": 48.282778,
+      "lng": -119.705556
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Kitsap County",
+      "lat": 47.556111,
+      "lng": -122.543611
+    },
+    {
+      "name": "Mansfield",
+      "slug": "mansfield",
+      "county": "Douglas County",
+      "lat": 47.902136,
+      "lng": -119.405315
+    },
+    {
+      "name": "Manson",
+      "slug": "manson",
+      "county": "Chelan County",
+      "lat": 47.895764,
+      "lng": -120.148963
+    },
+    {
+      "name": "Maple Falls",
+      "slug": "maple-falls",
+      "county": "Whatcom County",
+      "lat": 48.924444,
+      "lng": -122.075833
+    },
+    {
+      "name": "Maple Valley",
+      "slug": "maple-valley",
+      "county": "King County",
+      "lat": 47.384526,
+      "lng": -122.057413
+    },
+    {
+      "name": "Marblemount",
+      "slug": "marblemount",
+      "county": "Skagit County",
+      "lat": 48.527778,
+      "lng": -121.448333
+    },
+    {
+      "name": "Marcus",
+      "slug": "marcus",
+      "county": "Stevens County",
+      "lat": 48.663333,
+      "lng": -118.067222
+    },
+    {
+      "name": "Marlin",
+      "slug": "marlin",
+      "county": "Grant County",
+      "lat": 47.320929,
+      "lng": -119.090897
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Spokane County",
+      "lat": 47.565,
+      "lng": -117.498333
+    },
+    {
+      "name": "Marysville",
+      "slug": "marysville",
+      "county": "Snohomish County",
+      "lat": 48.065639,
+      "lng": -122.156168
+    },
+    {
+      "name": "Matlock",
+      "slug": "matlock",
+      "county": "Mason County",
+      "lat": 47.177545,
+      "lng": -123.337638
+    },
+    {
+      "name": "Mattawa",
+      "slug": "mattawa",
+      "county": "Grant County",
+      "lat": 46.679444,
+      "lng": -119.916111
+    },
+    {
+      "name": "Mazama",
+      "slug": "mazama",
+      "county": "Okanogan County",
+      "lat": 48.597728,
+      "lng": -120.38796
+    },
+    {
+      "name": "Mcchord Afb",
+      "slug": "mcchord-afb",
+      "county": "Pierce County",
+      "lat": 47.128611,
+      "lng": -122.523056
+    },
+    {
+      "name": "Mccleary",
+      "slug": "mccleary",
+      "county": "Grays Harbor County",
+      "lat": 47.053987,
+      "lng": -123.273301
+    },
+    {
+      "name": "Mckenna",
+      "slug": "mckenna",
+      "county": "Pierce County",
+      "lat": 46.936111,
+      "lng": -122.554444
+    },
+    {
+      "name": "Mead",
+      "slug": "mead",
+      "county": "Spokane County",
+      "lat": 47.793268,
+      "lng": -117.311716
+    },
+    {
+      "name": "Medical Lake",
+      "slug": "medical-lake",
+      "county": "Spokane County",
+      "lat": 47.583696,
+      "lng": -117.679351
+    },
+    {
+      "name": "Medina",
+      "slug": "medina",
+      "county": "King County",
+      "lat": 47.621111,
+      "lng": -122.226389
+    },
+    {
+      "name": "Menlo",
+      "slug": "menlo",
+      "county": "Pacific County",
+      "lat": 46.621667,
+      "lng": -123.645833
+    },
+    {
+      "name": "Mercer Island",
+      "slug": "mercer-island",
+      "county": "King County",
+      "lat": 47.563149,
+      "lng": -122.226562
+    },
+    {
+      "name": "Mesa",
+      "slug": "mesa",
+      "county": "Franklin County",
+      "lat": 46.578223,
+      "lng": -119.137324
+    },
+    {
+      "name": "Metaline",
+      "slug": "metaline",
+      "county": "Pend Oreille County",
+      "lat": 48.850556,
+      "lng": -117.389722
+    },
+    {
+      "name": "Metaline Falls",
+      "slug": "metaline-falls",
+      "county": "Pend Oreille County",
+      "lat": 48.859747,
+      "lng": -117.36332
+    },
+    {
+      "name": "Methow",
+      "slug": "methow",
+      "county": "Okanogan County",
+      "lat": 48.09001,
+      "lng": -120.0059
+    },
+    {
+      "name": "Mica",
+      "slug": "mica",
+      "county": "Spokane County",
+      "lat": 47.553814,
+      "lng": -117.163711
+    },
+    {
+      "name": "Mill Creek",
+      "slug": "mill-creek",
+      "county": "Snohomish County",
+      "lat": 47.860278,
+      "lng": -122.203056
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Pierce County",
+      "lat": 47.24827,
+      "lng": -122.315514
+    },
+    {
+      "name": "Mineral",
+      "slug": "mineral",
+      "county": "Lewis County",
+      "lat": 46.709635,
+      "lng": -122.186056
+    },
+    {
+      "name": "Moclips",
+      "slug": "moclips",
+      "county": "Grays Harbor County",
+      "lat": 47.222619,
+      "lng": -124.20438
+    },
+    {
+      "name": "Mohler",
+      "slug": "mohler",
+      "county": "Lincoln County",
+      "lat": 47.481111,
+      "lng": -118.253333
+    },
+    {
+      "name": "Monitor",
+      "slug": "monitor",
+      "county": "Chelan County",
+      "lat": 47.486944,
+      "lng": -120.416944
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Snohomish County",
+      "lat": 47.85853,
+      "lng": -121.947376
+    },
+    {
+      "name": "Montesano",
+      "slug": "montesano",
+      "county": "Grays Harbor County",
+      "lat": 47.09013,
+      "lng": -123.500584
+    },
+    {
+      "name": "Morton",
+      "slug": "morton",
+      "county": "Lewis County",
+      "lat": 46.558056,
+      "lng": -122.249573
+    },
+    {
+      "name": "Moses Lake",
+      "slug": "moses-lake",
+      "county": "Grant County",
+      "lat": 47.137363,
+      "lng": -119.289149
+    },
+    {
+      "name": "Mossyrock",
+      "slug": "mossyrock",
+      "county": "Lewis County",
+      "lat": 46.513136,
+      "lng": -122.478935
+    },
+    {
+      "name": "Mount Vernon",
+      "slug": "mount-vernon",
+      "county": "Skagit County",
+      "lat": 48.416427,
+      "lng": -122.326548
+    },
+    {
+      "name": "Mountlake Terrace",
+      "slug": "mountlake-terrace",
+      "county": "Snohomish County",
+      "lat": 47.793061,
+      "lng": -122.304036
+    },
+    {
+      "name": "Moxee",
+      "slug": "moxee",
+      "county": "Yakima County",
+      "lat": 46.554205,
+      "lng": -120.368463
+    },
+    {
+      "name": "Mukilteo",
+      "slug": "mukilteo",
+      "county": "Snohomish County",
+      "lat": 47.919896,
+      "lng": -122.301906
+    },
+    {
+      "name": "Naches",
+      "slug": "naches",
+      "county": "Yakima County",
+      "lat": 46.735335,
+      "lng": -120.826699
+    },
+    {
+      "name": "Nahcotta",
+      "slug": "nahcotta",
+      "county": "Pacific County",
+      "lat": 46.498611,
+      "lng": -124.032222
+    },
+    {
+      "name": "Napavine",
+      "slug": "napavine",
+      "county": "Lewis County",
+      "lat": 46.574722,
+      "lng": -122.906944
+    },
+    {
+      "name": "Naselle",
+      "slug": "naselle",
+      "county": "Pacific County",
+      "lat": 46.352758,
+      "lng": -123.804381
+    },
+    {
+      "name": "Neah Bay",
+      "slug": "neah-bay",
+      "county": "Clallam County",
+      "lat": 48.368333,
+      "lng": -124.623611
+    },
+    {
+      "name": "Neilton",
+      "slug": "neilton",
+      "county": "Grays Harbor County",
+      "lat": 47.413056,
+      "lng": -123.879167
+    },
+    {
+      "name": "Nespelem",
+      "slug": "nespelem",
+      "county": "Okanogan County",
+      "lat": 48.167222,
+      "lng": -118.973611
+    },
+    {
+      "name": "Newman Lake",
+      "slug": "newman-lake",
+      "county": "Spokane County",
+      "lat": 47.727371,
+      "lng": -117.064041
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Pend Oreille County",
+      "lat": 48.169465,
+      "lng": -117.150784
+    },
+    {
+      "name": "Nine Mile Falls",
+      "slug": "nine-mile-falls",
+      "county": "Spokane County",
+      "lat": 47.801945,
+      "lng": -117.589359
+    },
+    {
+      "name": "Nooksack",
+      "slug": "nooksack",
+      "county": "Whatcom County",
+      "lat": 48.927778,
+      "lng": -122.320278
+    },
+    {
+      "name": "Nordland",
+      "slug": "nordland",
+      "county": "Jefferson County",
+      "lat": 48.04321,
+      "lng": -122.692553
+    },
+    {
+      "name": "North Bend",
+      "slug": "north-bend",
+      "county": "King County",
+      "lat": 47.475546,
+      "lng": -121.757142
+    },
+    {
+      "name": "North Bonneville",
+      "slug": "north-bonneville",
+      "county": "Skamania County",
+      "lat": 45.6375,
+      "lng": -121.975
+    },
+    {
+      "name": "North Lakewood",
+      "slug": "north-lakewood",
+      "county": "Snohomish County",
+      "lat": 48.151944,
+      "lng": -122.2075
+    },
+    {
+      "name": "Northport",
+      "slug": "northport",
+      "county": "Stevens County",
+      "lat": 48.924663,
+      "lng": -117.793052
+    },
+    {
+      "name": "Oak Harbor",
+      "slug": "oak-harbor",
+      "county": "Island County",
+      "lat": 48.315096,
+      "lng": -122.637439
+    },
+    {
+      "name": "Oakesdale",
+      "slug": "oakesdale",
+      "county": "Whitman County",
+      "lat": 47.080556,
+      "lng": -117.280326
+    },
+    {
+      "name": "Oakville",
+      "slug": "oakville",
+      "county": "Grays Harbor County",
+      "lat": 46.843366,
+      "lng": -123.249329
+    },
+    {
+      "name": "Ocean Park",
+      "slug": "ocean-park",
+      "county": "Pacific County",
+      "lat": 46.502867,
+      "lng": -124.043582
+    },
+    {
+      "name": "Ocean Shores",
+      "slug": "ocean-shores",
+      "county": "Grays Harbor County",
+      "lat": 46.982905,
+      "lng": -124.15323
+    },
+    {
+      "name": "Odessa",
+      "slug": "odessa",
+      "county": "Lincoln County",
+      "lat": 47.339491,
+      "lng": -118.698316
+    },
+    {
+      "name": "Okanogan",
+      "slug": "okanogan",
+      "county": "Okanogan County",
+      "lat": 48.351328,
+      "lng": -119.604563
+    },
+    {
+      "name": "Olalla",
+      "slug": "olalla",
+      "county": "Kitsap County",
+      "lat": 47.424088,
+      "lng": -122.574512
+    },
+    {
+      "name": "Olga",
+      "slug": "olga",
+      "county": "San Juan County",
+      "lat": 48.655526,
+      "lng": -122.836224
+    },
+    {
+      "name": "Olympia",
+      "slug": "olympia",
+      "county": "Thurston County",
+      "lat": 47.012906,
+      "lng": -122.876311
+    },
+    {
+      "name": "Omak",
+      "slug": "omak",
+      "county": "Okanogan County",
+      "lat": 48.414347,
+      "lng": -119.527156
+    },
+    {
+      "name": "Onalaska",
+      "slug": "onalaska",
+      "county": "Lewis County",
+      "lat": 46.573016,
+      "lng": -122.707503
+    },
+    {
+      "name": "Orcas",
+      "slug": "orcas",
+      "county": "San Juan County",
+      "lat": 48.598056,
+      "lng": -122.943333
+    },
+    {
+      "name": "Orient",
+      "slug": "orient",
+      "county": "Ferry County",
+      "lat": 48.866111,
+      "lng": -118.201667
+    },
+    {
+      "name": "Orondo",
+      "slug": "orondo",
+      "county": "Douglas County",
+      "lat": 47.696928,
+      "lng": -120.172143
+    },
+    {
+      "name": "Oroville",
+      "slug": "oroville",
+      "county": "Okanogan County",
+      "lat": 48.939681,
+      "lng": -119.403236
+    },
+    {
+      "name": "Orting",
+      "slug": "orting",
+      "county": "Pierce County",
+      "lat": 47.082206,
+      "lng": -122.185978
+    },
+    {
+      "name": "Othello",
+      "slug": "othello",
+      "county": "Adams County",
+      "lat": 46.792518,
+      "lng": -119.316405
+    },
+    {
+      "name": "Otis Orchards",
+      "slug": "otis-orchards",
+      "county": "Spokane County",
+      "lat": 47.70273,
+      "lng": -117.11209
+    },
+    {
+      "name": "Outlook",
+      "slug": "outlook",
+      "county": "Yakima County",
+      "lat": 46.352497,
+      "lng": -120.097005
+    },
+    {
+      "name": "Oysterville",
+      "slug": "oysterville",
+      "county": "Pacific County",
+      "lat": 46.549167,
+      "lng": -124.026944
+    },
+    {
+      "name": "Pacific",
+      "slug": "pacific",
+      "county": "King County",
+      "lat": 47.266605,
+      "lng": -122.243481
+    },
+    {
+      "name": "Pacific Beach",
+      "slug": "pacific-beach",
+      "county": "Grays Harbor County",
+      "lat": 47.198144,
+      "lng": -124.158833
+    },
+    {
+      "name": "Packwood",
+      "slug": "packwood",
+      "county": "Lewis County",
+      "lat": 46.650038,
+      "lng": -121.655254
+    },
+    {
+      "name": "Palisades",
+      "slug": "palisades",
+      "county": "Douglas County",
+      "lat": 47.469367,
+      "lng": -119.802264
+    },
+    {
+      "name": "Palouse",
+      "slug": "palouse",
+      "county": "Whitman County",
+      "lat": 46.907555,
+      "lng": -117.085475
+    },
+    {
+      "name": "Paradise Inn",
+      "slug": "paradise-inn",
+      "county": "Pierce County",
+      "lat": 46.718333,
+      "lng": -121.670556
+    },
+    {
+      "name": "Parker",
+      "slug": "parker",
+      "county": "Yakima County",
+      "lat": 46.501111,
+      "lng": -120.464167
+    },
+    {
+      "name": "Pasco",
+      "slug": "pasco",
+      "county": "Franklin County",
+      "lat": 46.249183,
+      "lng": -119.104387
+    },
+    {
+      "name": "Pateros",
+      "slug": "pateros",
+      "county": "Okanogan County",
+      "lat": 48.059147,
+      "lng": -119.913322
+    },
+    {
+      "name": "Paterson",
+      "slug": "paterson",
+      "county": "Benton County",
+      "lat": 45.991139,
+      "lng": -119.755873
+    },
+    {
+      "name": "Pe Ell",
+      "slug": "pe-ell",
+      "county": "Lewis County",
+      "lat": 46.56558,
+      "lng": -123.285244
+    },
+    {
+      "name": "Peshastin",
+      "slug": "peshastin",
+      "county": "Chelan County",
+      "lat": 47.581294,
+      "lng": -120.613928
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Benton County",
+      "lat": 46.038184,
+      "lng": -119.502998
+    },
+    {
+      "name": "Point Roberts",
+      "slug": "point-roberts",
+      "county": "Whatcom County",
+      "lat": 48.987876,
+      "lng": -123.055474
+    },
+    {
+      "name": "Pomeroy",
+      "slug": "pomeroy",
+      "county": "Garfield County",
+      "lat": 46.469838,
+      "lng": -117.599282
+    },
+    {
+      "name": "Port Angeles",
+      "slug": "port-angeles",
+      "county": "Clallam County",
+      "lat": 48.106489,
+      "lng": -123.438442
+    },
+    {
+      "name": "Port Gamble",
+      "slug": "port-gamble",
+      "county": "Kitsap County",
+      "lat": 47.854444,
+      "lng": -122.5825
+    },
+    {
+      "name": "Port Hadlock",
+      "slug": "port-hadlock",
+      "county": "Jefferson County",
+      "lat": 48.034531,
+      "lng": -122.768151
+    },
+    {
+      "name": "Port Ludlow",
+      "slug": "port-ludlow",
+      "county": "Jefferson County",
+      "lat": 47.922192,
+      "lng": -122.689615
+    },
+    {
+      "name": "Port Orchard",
+      "slug": "port-orchard",
+      "county": "Kitsap County",
+      "lat": 47.504838,
+      "lng": -122.615276
+    },
+    {
+      "name": "Port Townsend",
+      "slug": "port-townsend",
+      "county": "Jefferson County",
+      "lat": 48.104012,
+      "lng": -122.794457
+    },
+    {
+      "name": "Poulsbo",
+      "slug": "poulsbo",
+      "county": "Kitsap County",
+      "lat": 47.742278,
+      "lng": -122.627721
+    },
+    {
+      "name": "Prescott",
+      "slug": "prescott",
+      "county": "Walla Walla County",
+      "lat": 46.353879,
+      "lng": -118.409663
+    },
+    {
+      "name": "Preston",
+      "slug": "preston",
+      "county": "King County",
+      "lat": 47.523889,
+      "lng": -121.925833
+    },
+    {
+      "name": "Prosser",
+      "slug": "prosser",
+      "county": "Benton County",
+      "lat": 46.223183,
+      "lng": -119.771014
+    },
+    {
+      "name": "Pullman",
+      "slug": "pullman",
+      "county": "Whitman County",
+      "lat": 46.735247,
+      "lng": -117.172936
+    },
+    {
+      "name": "Puyallup",
+      "slug": "puyallup",
+      "county": "Pierce County",
+      "lat": 47.199123,
+      "lng": -122.315097
+    },
+    {
+      "name": "Quilcene",
+      "slug": "quilcene",
+      "county": "Jefferson County",
+      "lat": 47.832429,
+      "lng": -122.858304
+    },
+    {
+      "name": "Quinault",
+      "slug": "quinault",
+      "county": "Grays Harbor County",
+      "lat": 47.448505,
+      "lng": -123.803744
+    },
+    {
+      "name": "Quincy",
+      "slug": "quincy",
+      "county": "Grant County",
+      "lat": 47.197574,
+      "lng": -119.845922
+    },
+    {
+      "name": "Rainier",
+      "slug": "rainier",
+      "county": "Thurston County",
+      "lat": 46.882942,
+      "lng": -122.679468
+    },
+    {
+      "name": "Randle",
+      "slug": "randle",
+      "county": "Lewis County",
+      "lat": 46.549195,
+      "lng": -121.855533
+    },
+    {
+      "name": "Ravensdale",
+      "slug": "ravensdale",
+      "county": "King County",
+      "lat": 47.415476,
+      "lng": -121.987897
+    },
+    {
+      "name": "Raymond",
+      "slug": "raymond",
+      "county": "Pacific County",
+      "lat": 46.671046,
+      "lng": -123.692889
+    },
+    {
+      "name": "Reardan",
+      "slug": "reardan",
+      "county": "Lincoln County",
+      "lat": 47.705407,
+      "lng": -117.866264
+    },
+    {
+      "name": "Redmond",
+      "slug": "redmond",
+      "county": "King County",
+      "lat": 47.671796,
+      "lng": -122.123242
+    },
+    {
+      "name": "Redondo",
+      "slug": "redondo",
+      "county": "King County",
+      "lat": 47.348611,
+      "lng": -122.322222
+    },
+    {
+      "name": "Renton",
+      "slug": "renton",
+      "county": "King County",
+      "lat": 47.464759,
+      "lng": -122.207484
+    },
+    {
+      "name": "Republic",
+      "slug": "republic",
+      "county": "Ferry County",
+      "lat": 48.670366,
+      "lng": -118.699942
+    },
+    {
+      "name": "Retsil",
+      "slug": "retsil",
+      "county": "Kitsap County",
+      "lat": 47.546111,
+      "lng": -122.61
+    },
+    {
+      "name": "Rice",
+      "slug": "rice",
+      "county": "Stevens County",
+      "lat": 48.406169,
+      "lng": -118.124865
+    },
+    {
+      "name": "Richland",
+      "slug": "richland",
+      "county": "Benton County",
+      "lat": 46.283265,
+      "lng": -119.289201
+    },
+    {
+      "name": "Ridgefield",
+      "slug": "ridgefield",
+      "county": "Clark County",
+      "lat": 45.784634,
+      "lng": -122.693354
+    },
+    {
+      "name": "Ritzville",
+      "slug": "ritzville",
+      "county": "Adams County",
+      "lat": 47.131528,
+      "lng": -118.395812
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Okanogan County",
+      "lat": 48.487567,
+      "lng": -119.580316
+    },
+    {
+      "name": "Rochester",
+      "slug": "rochester",
+      "county": "Thurston County",
+      "lat": 46.819295,
+      "lng": -123.040634
+    },
+    {
+      "name": "Rock Island",
+      "slug": "rock-island",
+      "county": "Douglas County",
+      "lat": 47.370558,
+      "lng": -120.137794
+    },
+    {
+      "name": "Rockford",
+      "slug": "rockford",
+      "county": "Spokane County",
+      "lat": 47.452804,
+      "lng": -117.131842
+    },
+    {
+      "name": "Rockport",
+      "slug": "rockport",
+      "county": "Skagit County",
+      "lat": 48.470388,
+      "lng": -121.555352
+    },
+    {
+      "name": "Rollingbay",
+      "slug": "rollingbay",
+      "county": "Kitsap County",
+      "lat": 47.664722,
+      "lng": -122.508889
+    },
+    {
+      "name": "Ronald",
+      "slug": "ronald",
+      "county": "Kittitas County",
+      "lat": 47.235278,
+      "lng": -121.022222
+    },
+    {
+      "name": "Roosevelt",
+      "slug": "roosevelt",
+      "county": "Klickitat County",
+      "lat": 45.82962,
+      "lng": -120.356611
+    },
+    {
+      "name": "Rosalia",
+      "slug": "rosalia",
+      "county": "Whitman County",
+      "lat": 47.221777,
+      "lng": -117.41468
+    },
+    {
+      "name": "Rosburg",
+      "slug": "rosburg",
+      "county": "Wahkiakum County",
+      "lat": 46.307076,
+      "lng": -123.657105
+    },
+    {
+      "name": "Roslyn",
+      "slug": "roslyn",
+      "county": "Kittitas County",
+      "lat": 47.223611,
+      "lng": -120.991944
+    },
+    {
+      "name": "Roy",
+      "slug": "roy",
+      "county": "Pierce County",
+      "lat": 46.956048,
+      "lng": -122.448271
+    },
+    {
+      "name": "Royal City",
+      "slug": "royal-city",
+      "county": "Grant County",
+      "lat": 46.91557,
+      "lng": -119.581473
+    },
+    {
+      "name": "Ryderwood",
+      "slug": "ryderwood",
+      "county": "Cowlitz County",
+      "lat": 46.375176,
+      "lng": -123.043134
+    },
+    {
+      "name": "Saint John",
+      "slug": "saint-john",
+      "county": "Whitman County",
+      "lat": 47.075539,
+      "lng": -117.573002
+    },
+    {
+      "name": "Salkum",
+      "slug": "salkum",
+      "county": "Lewis County",
+      "lat": 46.515059,
+      "lng": -122.645364
+    },
+    {
+      "name": "Sammamish",
+      "slug": "sammamish",
+      "county": "King County",
+      "lat": 47.6244,
+      "lng": -122.0423
+    },
+    {
+      "name": "Satsop",
+      "slug": "satsop",
+      "county": "Grays Harbor County",
+      "lat": 47.003333,
+      "lng": -123.482222
+    },
+    {
+      "name": "Seabeck",
+      "slug": "seabeck",
+      "county": "Kitsap County",
+      "lat": 47.625497,
+      "lng": -122.822685
+    },
+    {
+      "name": "Seahurst",
+      "slug": "seahurst",
+      "county": "King County",
+      "lat": 47.469444,
+      "lng": -122.360833
+    },
+    {
+      "name": "Seattle",
+      "slug": "seattle",
+      "county": "King County",
+      "lat": 47.611435,
+      "lng": -122.330456
+    },
+    {
+      "name": "Seaview",
+      "slug": "seaview",
+      "county": "Pacific County",
+      "lat": 46.334722,
+      "lng": -124.053333
+    },
+    {
+      "name": "Sedro Woolley",
+      "slug": "sedro-woolley",
+      "county": "Skagit County",
+      "lat": 48.527405,
+      "lng": -122.232943
+    },
+    {
+      "name": "Sekiu",
+      "slug": "sekiu",
+      "county": "Clallam County",
+      "lat": 48.303166,
+      "lng": -124.468467
+    },
+    {
+      "name": "Selah",
+      "slug": "selah",
+      "county": "Yakima County",
+      "lat": 46.67671,
+      "lng": -120.540813
+    },
+    {
+      "name": "Sequim",
+      "slug": "sequim",
+      "county": "Clallam County",
+      "lat": 48.088136,
+      "lng": -123.119814
+    },
+    {
+      "name": "Shaw Island",
+      "slug": "shaw-island",
+      "county": "San Juan County",
+      "lat": 48.584444,
+      "lng": -122.927778
+    },
+    {
+      "name": "Shelton",
+      "slug": "shelton",
+      "county": "Mason County",
+      "lat": 47.20863,
+      "lng": -123.072862
+    },
+    {
+      "name": "Silvana",
+      "slug": "silvana",
+      "county": "Snohomish County",
+      "lat": 48.2025,
+      "lng": -122.2525
+    },
+    {
+      "name": "Silver Creek",
+      "slug": "silver-creek",
+      "county": "Lewis County",
+      "lat": 46.549077,
+      "lng": -122.475716
+    },
+    {
+      "name": "Silverdale",
+      "slug": "silverdale",
+      "county": "Kitsap County",
+      "lat": 47.692017,
+      "lng": -122.716106
+    },
+    {
+      "name": "Silverlake",
+      "slug": "silverlake",
+      "county": "Cowlitz County",
+      "lat": 46.316322,
+      "lng": -122.764886
+    },
+    {
+      "name": "Skamokawa",
+      "slug": "skamokawa",
+      "county": "Wahkiakum County",
+      "lat": 46.295186,
+      "lng": -123.43316
+    },
+    {
+      "name": "Skykomish",
+      "slug": "skykomish",
+      "county": "King County",
+      "lat": 47.692158,
+      "lng": -121.371297
+    },
+    {
+      "name": "Snohomish",
+      "slug": "snohomish",
+      "county": "Snohomish County",
+      "lat": 47.895381,
+      "lng": -122.071562
+    },
+    {
+      "name": "Snoqualmie",
+      "slug": "snoqualmie",
+      "county": "King County",
+      "lat": 47.529286,
+      "lng": -121.822533
+    },
+    {
+      "name": "Snoqualmie Pass",
+      "slug": "snoqualmie-pass",
+      "county": "Kittitas County",
+      "lat": 47.409722,
+      "lng": -121.405833
+    },
+    {
+      "name": "Soap Lake",
+      "slug": "soap-lake",
+      "county": "Grant County",
+      "lat": 47.383034,
+      "lng": -119.485962
+    },
+    {
+      "name": "South Bend",
+      "slug": "south-bend",
+      "county": "Pacific County",
+      "lat": 46.6544,
+      "lng": -123.820315
+    },
+    {
+      "name": "South Cle Elum",
+      "slug": "south-cle-elum",
+      "county": "Kittitas County",
+      "lat": 47.185833,
+      "lng": -120.947778
+    },
+    {
+      "name": "South Colby",
+      "slug": "south-colby",
+      "county": "Kitsap County",
+      "lat": 47.522222,
+      "lng": -122.536111
+    },
+    {
+      "name": "South Prairie",
+      "slug": "south-prairie",
+      "county": "Pierce County",
+      "lat": 47.139444,
+      "lng": -122.096944
+    },
+    {
+      "name": "Southworth",
+      "slug": "southworth",
+      "county": "Kitsap County",
+      "lat": 47.512222,
+      "lng": -122.500556
+    },
+    {
+      "name": "Spanaway",
+      "slug": "spanaway",
+      "county": "Pierce County",
+      "lat": 47.073218,
+      "lng": -122.394336
+    },
+    {
+      "name": "Spangle",
+      "slug": "spangle",
+      "county": "Spokane County",
+      "lat": 47.4338,
+      "lng": -117.382696
+    },
+    {
+      "name": "Spokane",
+      "slug": "spokane",
+      "county": "Spokane County",
+      "lat": 47.666485,
+      "lng": -117.436527
+    },
+    {
+      "name": "Sprague",
+      "slug": "sprague",
+      "county": "Lincoln County",
+      "lat": 47.324725,
+      "lng": -117.989684
+    },
+    {
+      "name": "Springdale",
+      "slug": "springdale",
+      "county": "Stevens County",
+      "lat": 47.992737,
+      "lng": -117.873273
+    },
+    {
+      "name": "Stanwood",
+      "slug": "stanwood",
+      "county": "Snohomish County",
+      "lat": 48.201067,
+      "lng": -122.377978
+    },
+    {
+      "name": "Starbuck",
+      "slug": "starbuck",
+      "county": "Columbia County",
+      "lat": 46.519722,
+      "lng": -118.127778
+    },
+    {
+      "name": "Startup",
+      "slug": "startup",
+      "county": "Snohomish County",
+      "lat": 47.868056,
+      "lng": -121.739167
+    },
+    {
+      "name": "Stehekin",
+      "slug": "stehekin",
+      "county": "Chelan County",
+      "lat": 48.298034,
+      "lng": -120.755185
+    },
+    {
+      "name": "Steilacoom",
+      "slug": "steilacoom",
+      "county": "Pierce County",
+      "lat": 47.170369,
+      "lng": -122.588837
+    },
+    {
+      "name": "Steptoe",
+      "slug": "steptoe",
+      "county": "Whitman County",
+      "lat": 47.006111,
+      "lng": -117.355
+    },
+    {
+      "name": "Stevenson",
+      "slug": "stevenson",
+      "county": "Skamania County",
+      "lat": 45.688173,
+      "lng": -121.909346
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Grant County",
+      "lat": 47.427222,
+      "lng": -119.281944
+    },
+    {
+      "name": "Sultan",
+      "slug": "sultan",
+      "county": "Snohomish County",
+      "lat": 47.858942,
+      "lng": -121.736869
+    },
+    {
+      "name": "Sumas",
+      "slug": "sumas",
+      "county": "Whatcom County",
+      "lat": 48.970763,
+      "lng": -122.207425
+    },
+    {
+      "name": "Sumner",
+      "slug": "sumner",
+      "county": "Pierce County",
+      "lat": 47.203333,
+      "lng": -122.239167
+    },
+    {
+      "name": "Sunnyside",
+      "slug": "sunnyside",
+      "county": "Yakima County",
+      "lat": 46.321273,
+      "lng": -120.012631
+    },
+    {
+      "name": "Suquamish",
+      "slug": "suquamish",
+      "county": "Kitsap County",
+      "lat": 47.734303,
+      "lng": -122.557295
+    },
+    {
+      "name": "Tacoma",
+      "slug": "tacoma",
+      "county": "Pierce County",
+      "lat": 47.2764,
+      "lng": -122.7583
+    },
+    {
+      "name": "Taholah",
+      "slug": "taholah",
+      "county": "Grays Harbor County",
+      "lat": 47.340711,
+      "lng": -124.2827
+    },
+    {
+      "name": "Tahuya",
+      "slug": "tahuya",
+      "county": "Mason County",
+      "lat": 47.435618,
+      "lng": -122.921126
+    },
+    {
+      "name": "Tekoa",
+      "slug": "tekoa",
+      "county": "Whitman County",
+      "lat": 47.227081,
+      "lng": -117.081919
+    },
+    {
+      "name": "Tenino",
+      "slug": "tenino",
+      "county": "Thurston County",
+      "lat": 46.864119,
+      "lng": -122.849269
+    },
+    {
+      "name": "Thornton",
+      "slug": "thornton",
+      "county": "Whitman County",
+      "lat": 47.12525,
+      "lng": -117.386416
+    },
+    {
+      "name": "Thorp",
+      "slug": "thorp",
+      "county": "Kittitas County",
+      "lat": 47.017785,
+      "lng": -120.678557
+    },
+    {
+      "name": "Tieton",
+      "slug": "tieton",
+      "county": "Yakima County",
+      "lat": 46.706331,
+      "lng": -120.747275
+    },
+    {
+      "name": "Tokeland",
+      "slug": "tokeland",
+      "county": "Pacific County",
+      "lat": 46.746874,
+      "lng": -124.046008
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "county": "Lewis County",
+      "lat": 46.439552,
+      "lng": -122.826559
+    },
+    {
+      "name": "Tonasket",
+      "slug": "tonasket",
+      "county": "Okanogan County",
+      "lat": 48.71944,
+      "lng": -119.394252
+    },
+    {
+      "name": "Toppenish",
+      "slug": "toppenish",
+      "county": "Yakima County",
+      "lat": 46.375123,
+      "lng": -120.330534
+    },
+    {
+      "name": "Touchet",
+      "slug": "touchet",
+      "county": "Walla Walla County",
+      "lat": 46.04851,
+      "lng": -118.655411
+    },
+    {
+      "name": "Toutle",
+      "slug": "toutle",
+      "county": "Cowlitz County",
+      "lat": 46.295605,
+      "lng": -122.647696
+    },
+    {
+      "name": "Tracyton",
+      "slug": "tracyton",
+      "county": "Kitsap County",
+      "lat": 47.609167,
+      "lng": -122.653889
+    },
+    {
+      "name": "Trout Lake",
+      "slug": "trout-lake",
+      "county": "Klickitat County",
+      "lat": 45.982789,
+      "lng": -121.516272
+    },
+    {
+      "name": "Tumtum",
+      "slug": "tumtum",
+      "county": "Stevens County",
+      "lat": 47.898173,
+      "lng": -117.698996
+    },
+    {
+      "name": "Tumwater",
+      "slug": "tumwater",
+      "county": "Thurston County",
+      "lat": 46.9542,
+      "lng": -123.025
+    },
+    {
+      "name": "Twisp",
+      "slug": "twisp",
+      "county": "Okanogan County",
+      "lat": 48.363231,
+      "lng": -120.135035
+    },
+    {
+      "name": "Underwood",
+      "slug": "underwood",
+      "county": "Skamania County",
+      "lat": 45.740872,
+      "lng": -121.597408
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Mason County",
+      "lat": 47.351305,
+      "lng": -123.034364
+    },
+    {
+      "name": "Uniontown",
+      "slug": "uniontown",
+      "county": "Whitman County",
+      "lat": 46.525818,
+      "lng": -117.090756
+    },
+    {
+      "name": "University Place",
+      "slug": "university-place",
+      "county": "Pierce County",
+      "lat": 47.205395,
+      "lng": -122.533562
+    },
+    {
+      "name": "Usk",
+      "slug": "usk",
+      "county": "Pend Oreille County",
+      "lat": 48.295969,
+      "lng": -117.318947
+    },
+    {
+      "name": "Vader",
+      "slug": "vader",
+      "county": "Lewis County",
+      "lat": 46.398505,
+      "lng": -122.958493
+    },
+    {
+      "name": "Valley",
+      "slug": "valley",
+      "county": "Stevens County",
+      "lat": 48.135114,
+      "lng": -117.760967
+    },
+    {
+      "name": "Valleyford",
+      "slug": "valleyford",
+      "county": "Spokane County",
+      "lat": 47.529176,
+      "lng": -117.268601
+    },
+    {
+      "name": "Vancouver",
+      "slug": "vancouver",
+      "county": "Clark County",
+      "lat": 45.64183,
+      "lng": -122.68014
+    },
+    {
+      "name": "Vantage",
+      "slug": "vantage",
+      "county": "Kittitas County",
+      "lat": 46.996667,
+      "lng": -120.546667
+    },
+    {
+      "name": "Vashon",
+      "slug": "vashon",
+      "county": "King County",
+      "lat": 47.425949,
+      "lng": -122.464415
+    },
+    {
+      "name": "Vaughn",
+      "slug": "vaughn",
+      "county": "Pierce County",
+      "lat": 47.330921,
+      "lng": -122.773598
+    },
+    {
+      "name": "Veradale",
+      "slug": "veradale",
+      "county": "Spokane County",
+      "lat": 47.642103,
+      "lng": -117.197706
+    },
+    {
+      "name": "Wahkiacus",
+      "slug": "wahkiacus",
+      "county": "Klickitat County",
+      "lat": 45.815567,
+      "lng": -121.148586
+    },
+    {
+      "name": "Waitsburg",
+      "slug": "waitsburg",
+      "county": "Walla Walla County",
+      "lat": 46.269092,
+      "lng": -118.144734
+    },
+    {
+      "name": "Waldron",
+      "slug": "waldron",
+      "county": "San Juan County",
+      "lat": 48.687778,
+      "lng": -123.035556
+    },
+    {
+      "name": "Walla Walla",
+      "slug": "walla-walla",
+      "county": "Walla Walla County",
+      "lat": 46.061373,
+      "lng": -118.331544
+    },
+    {
+      "name": "Wallula",
+      "slug": "wallula",
+      "county": "Walla Walla County",
+      "lat": 46.085556,
+      "lng": -118.904167
+    },
+    {
+      "name": "Wapato",
+      "slug": "wapato",
+      "county": "Yakima County",
+      "lat": 46.45066,
+      "lng": -120.426484
+    },
+    {
+      "name": "Warden",
+      "slug": "warden",
+      "county": "Grant County",
+      "lat": 46.97697,
+      "lng": -119.053932
+    },
+    {
+      "name": "Washougal",
+      "slug": "washougal",
+      "county": "Clark County",
+      "lat": 45.595921,
+      "lng": -122.310396
+    },
+    {
+      "name": "Washtucna",
+      "slug": "washtucna",
+      "county": "Adams County",
+      "lat": 46.820912,
+      "lng": -118.286203
+    },
+    {
+      "name": "Waterville",
+      "slug": "waterville",
+      "county": "Douglas County",
+      "lat": 47.62951,
+      "lng": -119.988743
+    },
+    {
+      "name": "Wauconda",
+      "slug": "wauconda",
+      "county": "Okanogan County",
+      "lat": 48.822449,
+      "lng": -118.946947
+    },
+    {
+      "name": "Wauna",
+      "slug": "wauna",
+      "county": "Pierce County",
+      "lat": 47.379167,
+      "lng": -122.641389
+    },
+    {
+      "name": "Waverly",
+      "slug": "waverly",
+      "county": "Spokane County",
+      "lat": 47.335393,
+      "lng": -117.233108
+    },
+    {
+      "name": "Wellpinit",
+      "slug": "wellpinit",
+      "county": "Stevens County",
+      "lat": 47.86974,
+      "lng": -117.985646
+    },
+    {
+      "name": "Wenatchee",
+      "slug": "wenatchee",
+      "county": "Chelan County",
+      "lat": 47.425269,
+      "lng": -120.327345
+    },
+    {
+      "name": "West Richland",
+      "slug": "west-richland",
+      "county": "Benton County",
+      "lat": 46.304444,
+      "lng": -119.360278
+    },
+    {
+      "name": "Westport",
+      "slug": "westport",
+      "county": "Grays Harbor County",
+      "lat": 46.883619,
+      "lng": -124.106055
+    },
+    {
+      "name": "White Salmon",
+      "slug": "white-salmon",
+      "county": "Klickitat County",
+      "lat": 45.755142,
+      "lng": -121.479459
+    },
+    {
+      "name": "White Swan",
+      "slug": "white-swan",
+      "county": "Yakima County",
+      "lat": 46.371558,
+      "lng": -120.745317
+    },
+    {
+      "name": "Wilbur",
+      "slug": "wilbur",
+      "county": "Lincoln County",
+      "lat": 47.741012,
+      "lng": -118.706271
+    },
+    {
+      "name": "Wilkeson",
+      "slug": "wilkeson",
+      "county": "Pierce County",
+      "lat": 47.105556,
+      "lng": -122.044444
+    },
+    {
+      "name": "Wilson Creek",
+      "slug": "wilson-creek",
+      "county": "Grant County",
+      "lat": 47.423333,
+      "lng": -119.119722
+    },
+    {
+      "name": "Winlock",
+      "slug": "winlock",
+      "county": "Lewis County",
+      "lat": 46.494014,
+      "lng": -122.915806
+    },
+    {
+      "name": "Winthrop",
+      "slug": "winthrop",
+      "county": "Okanogan County",
+      "lat": 48.475607,
+      "lng": -120.180468
+    },
+    {
+      "name": "Wishram",
+      "slug": "wishram",
+      "county": "Klickitat County",
+      "lat": 45.6575,
+      "lng": -120.965556
+    },
+    {
+      "name": "Woodinville",
+      "slug": "woodinville",
+      "county": "King County",
+      "lat": 47.768384,
+      "lng": -122.127087
+    },
+    {
+      "name": "Woodland",
+      "slug": "woodland",
+      "county": "Cowlitz County",
+      "lat": 45.921859,
+      "lng": -122.71256
+    },
+    {
+      "name": "Yacolt",
+      "slug": "yacolt",
+      "county": "Clark County",
+      "lat": 45.862247,
+      "lng": -122.427545
+    },
+    {
+      "name": "Yakima",
+      "slug": "yakima",
+      "county": "Yakima County",
+      "lat": 46.606991,
+      "lng": -120.477336
+    },
+    {
+      "name": "Yelm",
+      "slug": "yelm",
+      "county": "Thurston County",
+      "lat": 46.920589,
+      "lng": -122.588049
+    },
+    {
+      "name": "Zillah",
+      "slug": "zillah",
+      "county": "Yakima County",
+      "lat": 46.415777,
+      "lng": -120.266161
+    }
+  ]
+}

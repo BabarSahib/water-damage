@@ -1,0 +1,651 @@
+{
+  "stateName": "Hawaii",
+  "stateCode": "HI",
+  "stateSlug": "hawaii",
+  "cities": [
+    {
+      "name": "Aiea",
+      "slug": "aiea",
+      "county": "Honolulu County",
+      "lat": 21.390795,
+      "lng": -157.933237
+    },
+    {
+      "name": "Anahola",
+      "slug": "anahola",
+      "county": "Kauai County",
+      "lat": 22.145278,
+      "lng": -159.315556
+    },
+    {
+      "name": "Camp H M Smith",
+      "slug": "camp-h-m-smith",
+      "county": "Honolulu County",
+      "lat": 21.386,
+      "lng": -157.9078
+    },
+    {
+      "name": "Captain Cook",
+      "slug": "captain-cook",
+      "county": "Hawaii County",
+      "lat": 19.438604,
+      "lng": -155.887463
+    },
+    {
+      "name": "Eleele",
+      "slug": "eleele",
+      "county": "Kauai County",
+      "lat": 21.923017,
+      "lng": -159.538115
+    },
+    {
+      "name": "Ewa Beach",
+      "slug": "ewa-beach",
+      "county": "Honolulu County",
+      "lat": 21.327418,
+      "lng": -158.010307
+    },
+    {
+      "name": "Fort Shafter",
+      "slug": "fort-shafter",
+      "county": "Honolulu County",
+      "lat": 21.3392,
+      "lng": -157.8885
+    },
+    {
+      "name": "Haiku",
+      "slug": "haiku",
+      "county": "Maui County",
+      "lat": 20.907097,
+      "lng": -156.299983
+    },
+    {
+      "name": "Hakalau",
+      "slug": "hakalau",
+      "county": "Hawaii County",
+      "lat": 19.888217,
+      "lng": -155.133335
+    },
+    {
+      "name": "Haleiwa",
+      "slug": "haleiwa",
+      "county": "Honolulu County",
+      "lat": 21.631151,
+      "lng": -158.069315
+    },
+    {
+      "name": "Hana",
+      "slug": "hana",
+      "county": "Maui County",
+      "lat": 20.761635,
+      "lng": -156.039659
+    },
+    {
+      "name": "Hanalei",
+      "slug": "hanalei",
+      "county": "Kauai County",
+      "lat": 22.205278,
+      "lng": -159.502778
+    },
+    {
+      "name": "Hanamaulu",
+      "slug": "hanamaulu",
+      "county": "Kauai County",
+      "lat": 21.9975,
+      "lng": -159.357222
+    },
+    {
+      "name": "Hanapepe",
+      "slug": "hanapepe",
+      "county": "Kauai County",
+      "lat": 21.915644,
+      "lng": -159.592022
+    },
+    {
+      "name": "Hauula",
+      "slug": "hauula",
+      "county": "Honolulu County",
+      "lat": 21.61395,
+      "lng": -157.915704
+    },
+    {
+      "name": "Hawaii National Park",
+      "slug": "hawaii-national-park",
+      "county": "Hawaii County",
+      "lat": 19.431103,
+      "lng": -155.284015
+    },
+    {
+      "name": "Hawi",
+      "slug": "hawi",
+      "county": "Hawaii County",
+      "lat": 20.238021,
+      "lng": -155.838007
+    },
+    {
+      "name": "Hickam Afb",
+      "slug": "hickam-afb",
+      "county": "Honolulu County",
+      "lat": 21.310833,
+      "lng": -157.934444
+    },
+    {
+      "name": "Hilo",
+      "slug": "hilo",
+      "county": "Hawaii County",
+      "lat": 19.702522,
+      "lng": -155.093921
+    },
+    {
+      "name": "Holualoa",
+      "slug": "holualoa",
+      "county": "Hawaii County",
+      "lat": 19.610316,
+      "lng": -155.917639
+    },
+    {
+      "name": "Honaunau",
+      "slug": "honaunau",
+      "county": "Hawaii County",
+      "lat": 19.44845,
+      "lng": -155.893356
+    },
+    {
+      "name": "Honokaa",
+      "slug": "honokaa",
+      "county": "Hawaii County",
+      "lat": 20.08266,
+      "lng": -155.488026
+    },
+    {
+      "name": "Honolulu",
+      "slug": "honolulu",
+      "county": "Honolulu County",
+      "lat": 21.3095,
+      "lng": -157.863
+    },
+    {
+      "name": "Honomu",
+      "slug": "honomu",
+      "county": "Hawaii County",
+      "lat": 19.872767,
+      "lng": -155.11766
+    },
+    {
+      "name": "Hoolehua",
+      "slug": "hoolehua",
+      "county": "Maui County",
+      "lat": 21.173025,
+      "lng": -157.079138
+    },
+    {
+      "name": "Kaaawa",
+      "slug": "kaaawa",
+      "county": "Honolulu County",
+      "lat": 21.56737,
+      "lng": -157.873734
+    },
+    {
+      "name": "Kahuku",
+      "slug": "kahuku",
+      "county": "Honolulu County",
+      "lat": 21.680278,
+      "lng": -157.951111
+    },
+    {
+      "name": "Kahului",
+      "slug": "kahului",
+      "county": "Maui County",
+      "lat": 20.881388,
+      "lng": -156.478327
+    },
+    {
+      "name": "Kailua",
+      "slug": "kailua",
+      "county": "Honolulu County",
+      "lat": 21.406262,
+      "lng": -157.744781
+    },
+    {
+      "name": "Kailua Kona",
+      "slug": "kailua-kona",
+      "county": "Hawaii County",
+      "lat": 19.653053,
+      "lng": -155.979809
+    },
+    {
+      "name": "Kalaheo",
+      "slug": "kalaheo",
+      "county": "Kauai County",
+      "lat": 21.928611,
+      "lng": -159.530278
+    },
+    {
+      "name": "Kalaupapa",
+      "slug": "kalaupapa",
+      "county": "Maui County",
+      "lat": 21.19289,
+      "lng": -156.983453
+    },
+    {
+      "name": "Kamuela",
+      "slug": "kamuela",
+      "county": "Hawaii County",
+      "lat": 20.008128,
+      "lng": -155.705189
+    },
+    {
+      "name": "Kaneohe",
+      "slug": "kaneohe",
+      "county": "Honolulu County",
+      "lat": 21.422819,
+      "lng": -157.811543
+    },
+    {
+      "name": "Kapaa",
+      "slug": "kapaa",
+      "county": "Kauai County",
+      "lat": 22.086798,
+      "lng": -159.344842
+    },
+    {
+      "name": "Kapaau",
+      "slug": "kapaau",
+      "county": "Hawaii County",
+      "lat": 20.218323,
+      "lng": -155.798981
+    },
+    {
+      "name": "Kapolei",
+      "slug": "kapolei",
+      "county": "Honolulu County",
+      "lat": 21.345284,
+      "lng": -158.087007
+    },
+    {
+      "name": "Kaumakani",
+      "slug": "kaumakani",
+      "county": "Kauai County",
+      "lat": 21.921329,
+      "lng": -159.62413
+    },
+    {
+      "name": "Kaunakakai",
+      "slug": "kaunakakai",
+      "county": "Maui County",
+      "lat": 21.090504,
+      "lng": -156.969015
+    },
+    {
+      "name": "Keaau",
+      "slug": "keaau",
+      "county": "Hawaii County",
+      "lat": 19.589277,
+      "lng": -154.992644
+    },
+    {
+      "name": "Kealakekua",
+      "slug": "kealakekua",
+      "county": "Hawaii County",
+      "lat": 19.526149,
+      "lng": -155.930025
+    },
+    {
+      "name": "Kealia",
+      "slug": "kealia",
+      "county": "Kauai County",
+      "lat": 22.101944,
+      "lng": -159.308611
+    },
+    {
+      "name": "Keauhou",
+      "slug": "keauhou",
+      "county": "Hawaii County",
+      "lat": 19.048056,
+      "lng": -155.571389
+    },
+    {
+      "name": "Kekaha",
+      "slug": "kekaha",
+      "county": "Kauai County",
+      "lat": 21.973509,
+      "lng": -159.71988
+    },
+    {
+      "name": "Kihei",
+      "slug": "kihei",
+      "county": "Maui County",
+      "lat": 20.744124,
+      "lng": -156.447543
+    },
+    {
+      "name": "Kilauea",
+      "slug": "kilauea",
+      "county": "Kauai County",
+      "lat": 22.211944,
+      "lng": -159.412222
+    },
+    {
+      "name": "Koloa",
+      "slug": "koloa",
+      "county": "Kauai County",
+      "lat": 21.908293,
+      "lng": -159.474927
+    },
+    {
+      "name": "Kualapuu",
+      "slug": "kualapuu",
+      "county": "Maui County",
+      "lat": 21.160097,
+      "lng": -157.027669
+    },
+    {
+      "name": "Kula",
+      "slug": "kula",
+      "county": "Maui County",
+      "lat": 20.753353,
+      "lng": -156.326026
+    },
+    {
+      "name": "Kunia",
+      "slug": "kunia",
+      "county": "Honolulu County",
+      "lat": 21.476389,
+      "lng": -158.066667
+    },
+    {
+      "name": "Kurtistown",
+      "slug": "kurtistown",
+      "county": "Hawaii County",
+      "lat": 19.570637,
+      "lng": -155.020659
+    },
+    {
+      "name": "Lahaina",
+      "slug": "lahaina",
+      "county": "Maui County",
+      "lat": 20.917432,
+      "lng": -156.677162
+    },
+    {
+      "name": "Laie",
+      "slug": "laie",
+      "county": "Honolulu County",
+      "lat": 21.659513,
+      "lng": -157.939377
+    },
+    {
+      "name": "Lanai City",
+      "slug": "lanai-city",
+      "county": "Maui County",
+      "lat": 20.829323,
+      "lng": -156.921027
+    },
+    {
+      "name": "Laupahoehoe",
+      "slug": "laupahoehoe",
+      "county": "Hawaii County",
+      "lat": 19.980194,
+      "lng": -155.232263
+    },
+    {
+      "name": "Lawai",
+      "slug": "lawai",
+      "county": "Kauai County",
+      "lat": 21.921944,
+      "lng": -159.509444
+    },
+    {
+      "name": "Lihue",
+      "slug": "lihue",
+      "county": "Kauai County",
+      "lat": 21.981618,
+      "lng": -159.368258
+    },
+    {
+      "name": "M C B H Kaneohe Bay",
+      "slug": "m-c-b-h-kaneohe-bay",
+      "county": "Honolulu County",
+      "lat": 21.4492,
+      "lng": -157.766
+    },
+    {
+      "name": "Makawao",
+      "slug": "makawao",
+      "county": "Maui County",
+      "lat": 20.846932,
+      "lng": -156.332735
+    },
+    {
+      "name": "Makaweli",
+      "slug": "makaweli",
+      "county": "Kauai County",
+      "lat": 21.927639,
+      "lng": -159.790721
+    },
+    {
+      "name": "Maunaloa",
+      "slug": "maunaloa",
+      "county": "Maui County",
+      "lat": 21.142202,
+      "lng": -157.219277
+    },
+    {
+      "name": "Mililani",
+      "slug": "mililani",
+      "county": "Honolulu County",
+      "lat": 21.45311,
+      "lng": -158.017379
+    },
+    {
+      "name": "Mountain View",
+      "slug": "mountain-view",
+      "county": "Hawaii County",
+      "lat": 19.550587,
+      "lng": -155.086436
+    },
+    {
+      "name": "Naalehu",
+      "slug": "naalehu",
+      "county": "Hawaii County",
+      "lat": 19.066844,
+      "lng": -155.657474
+    },
+    {
+      "name": "Ninole",
+      "slug": "ninole",
+      "county": "Hawaii County",
+      "lat": 19.904436,
+      "lng": -155.159923
+    },
+    {
+      "name": "Ocean View",
+      "slug": "ocean-view",
+      "county": "Hawaii County",
+      "lat": 19.496111,
+      "lng": -155.921667
+    },
+    {
+      "name": "Ookala",
+      "slug": "ookala",
+      "county": "Hawaii County",
+      "lat": 20.011887,
+      "lng": -155.274666
+    },
+    {
+      "name": "Paauilo",
+      "slug": "paauilo",
+      "county": "Hawaii County",
+      "lat": 20.027119,
+      "lng": -155.369728
+    },
+    {
+      "name": "Pahala",
+      "slug": "pahala",
+      "county": "Hawaii County",
+      "lat": 19.207898,
+      "lng": -155.481506
+    },
+    {
+      "name": "Pahoa",
+      "slug": "pahoa",
+      "county": "Hawaii County",
+      "lat": 19.508901,
+      "lng": -154.923135
+    },
+    {
+      "name": "Paia",
+      "slug": "paia",
+      "county": "Maui County",
+      "lat": 20.91539,
+      "lng": -156.38017
+    },
+    {
+      "name": "Papaaloa",
+      "slug": "papaaloa",
+      "county": "Hawaii County",
+      "lat": 19.904835,
+      "lng": -155.218402
+    },
+    {
+      "name": "Papaikou",
+      "slug": "papaikou",
+      "county": "Hawaii County",
+      "lat": 19.791643,
+      "lng": -155.098442
+    },
+    {
+      "name": "Pearl City",
+      "slug": "pearl-city",
+      "county": "Honolulu County",
+      "lat": 21.408393,
+      "lng": -157.965164
+    },
+    {
+      "name": "Pearl Harbor",
+      "slug": "pearl-harbor",
+      "county": "Honolulu County",
+      "lat": 21.355,
+      "lng": -157.971944
+    },
+    {
+      "name": "Pepeekeo",
+      "slug": "pepeekeo",
+      "county": "Hawaii County",
+      "lat": 19.835283,
+      "lng": -155.112994
+    },
+    {
+      "name": "Princeville",
+      "slug": "princeville",
+      "county": "Kauai County",
+      "lat": 22.215948,
+      "lng": -159.462587
+    },
+    {
+      "name": "Pukalani",
+      "slug": "pukalani",
+      "county": "Maui County",
+      "lat": 20.836667,
+      "lng": -156.336667
+    },
+    {
+      "name": "Puunene",
+      "slug": "puunene",
+      "county": "Maui County",
+      "lat": 20.863611,
+      "lng": -156.453056
+    },
+    {
+      "name": "Schofield Barracks",
+      "slug": "schofield-barracks",
+      "county": "Honolulu County",
+      "lat": 21.4975,
+      "lng": -158.063056
+    },
+    {
+      "name": "Tripler Army Medical Center",
+      "slug": "tripler-army-medical-center",
+      "county": "Honolulu County",
+      "lat": 21.360833,
+      "lng": -157.891667
+    },
+    {
+      "name": "Volcano",
+      "slug": "volcano",
+      "county": "Hawaii County",
+      "lat": 19.480066,
+      "lng": -155.19743
+    },
+    {
+      "name": "Wahiawa",
+      "slug": "wahiawa",
+      "county": "Honolulu County",
+      "lat": 21.500596,
+      "lng": -158.043527
+    },
+    {
+      "name": "Waialua",
+      "slug": "waialua",
+      "county": "Honolulu County",
+      "lat": 21.576623,
+      "lng": -158.126673
+    },
+    {
+      "name": "Waianae",
+      "slug": "waianae",
+      "county": "Honolulu County",
+      "lat": 21.435192,
+      "lng": -158.178071
+    },
+    {
+      "name": "Waikoloa",
+      "slug": "waikoloa",
+      "county": "Hawaii County",
+      "lat": 19.933056,
+      "lng": -155.684167
+    },
+    {
+      "name": "Wailuku",
+      "slug": "wailuku",
+      "county": "Maui County",
+      "lat": 20.896586,
+      "lng": -156.503612
+    },
+    {
+      "name": "Waimanalo",
+      "slug": "waimanalo",
+      "county": "Honolulu County",
+      "lat": 21.341786,
+      "lng": -157.713094
+    },
+    {
+      "name": "Waimea",
+      "slug": "waimea",
+      "county": "Kauai County",
+      "lat": 21.968487,
+      "lng": -159.669429
+    },
+    {
+      "name": "Waipahu",
+      "slug": "waipahu",
+      "county": "Honolulu County",
+      "lat": 21.398203,
+      "lng": -158.012418
+    },
+    {
+      "name": "Wake Island",
+      "slug": "wake-island",
+      "county": "Honolulu County",
+      "lat": 19.283056,
+      "lng": -166.599722
+    },
+    {
+      "name": "Wheeler Army Airfield",
+      "slug": "wheeler-army-airfield",
+      "county": "Honolulu County",
+      "lat": 21.485833,
+      "lng": -158.036389
+    }
+  ]
+}

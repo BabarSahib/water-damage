@@ -1,0 +1,2429 @@
+{
+  "stateName": "New Mexico",
+  "stateCode": "NM",
+  "stateSlug": "new-mexico",
+  "cities": [
+    {
+      "name": "Abiquiu",
+      "slug": "abiquiu",
+      "county": "Rio Arriba County",
+      "lat": 36.176923,
+      "lng": -106.244859
+    },
+    {
+      "name": "Alamogordo",
+      "slug": "alamogordo",
+      "county": "Otero County",
+      "lat": 32.893186,
+      "lng": -105.948544
+    },
+    {
+      "name": "Albuquerque",
+      "slug": "albuquerque",
+      "county": "Bernalillo County",
+      "lat": 35.0936,
+      "lng": -106.6423
+    },
+    {
+      "name": "Alcalde",
+      "slug": "alcalde",
+      "county": "Rio Arriba County",
+      "lat": 36.09,
+      "lng": -106.056667
+    },
+    {
+      "name": "Algodones",
+      "slug": "algodones",
+      "county": "Sandoval County",
+      "lat": 35.428527,
+      "lng": -106.616589
+    },
+    {
+      "name": "Alto",
+      "slug": "alto",
+      "county": "Lincoln County",
+      "lat": 33.388333,
+      "lng": -105.69
+    },
+    {
+      "name": "Amalia",
+      "slug": "amalia",
+      "county": "Taos County",
+      "lat": 36.941944,
+      "lng": -105.453889
+    },
+    {
+      "name": "Amistad",
+      "slug": "amistad",
+      "county": "Union County",
+      "lat": 35.898276,
+      "lng": -103.212954
+    },
+    {
+      "name": "Angel Fire",
+      "slug": "angel-fire",
+      "county": "Colfax County",
+      "lat": 36.554722,
+      "lng": -105.263056
+    },
+    {
+      "name": "Animas",
+      "slug": "animas",
+      "county": "Hidalgo County",
+      "lat": 31.793696,
+      "lng": -108.585695
+    },
+    {
+      "name": "Anthony",
+      "slug": "anthony",
+      "county": "Dona Ana County",
+      "lat": 31.934505,
+      "lng": -106.573452
+    },
+    {
+      "name": "Anton Chico",
+      "slug": "anton-chico",
+      "county": "Guadalupe County",
+      "lat": 35.159262,
+      "lng": -105.141041
+    },
+    {
+      "name": "Aragon",
+      "slug": "aragon",
+      "county": "Catron County",
+      "lat": 33.88592,
+      "lng": -108.546589
+    },
+    {
+      "name": "Arenas Valley",
+      "slug": "arenas-valley",
+      "county": "Grant County",
+      "lat": 32.7822,
+      "lng": -108.189
+    },
+    {
+      "name": "Arrey",
+      "slug": "arrey",
+      "county": "Sierra County",
+      "lat": 32.802057,
+      "lng": -107.354368
+    },
+    {
+      "name": "Arroyo Hondo",
+      "slug": "arroyo-hondo",
+      "county": "Taos County",
+      "lat": 36.531848,
+      "lng": -105.621998
+    },
+    {
+      "name": "Arroyo Seco",
+      "slug": "arroyo-seco",
+      "county": "Taos County",
+      "lat": 36.504568,
+      "lng": -105.594609
+    },
+    {
+      "name": "Artesia",
+      "slug": "artesia",
+      "county": "Eddy County",
+      "lat": 32.838355,
+      "lng": -104.407401
+    },
+    {
+      "name": "Aztec",
+      "slug": "aztec",
+      "county": "San Juan County",
+      "lat": 36.820499,
+      "lng": -108.010982
+    },
+    {
+      "name": "Bard",
+      "slug": "bard",
+      "county": "Quay County",
+      "lat": 35.115364,
+      "lng": -103.317778
+    },
+    {
+      "name": "Bayard",
+      "slug": "bayard",
+      "county": "Grant County",
+      "lat": 32.756334,
+      "lng": -108.107667
+    },
+    {
+      "name": "Belen",
+      "slug": "belen",
+      "county": "Valencia County",
+      "lat": 34.645562,
+      "lng": -106.761215
+    },
+    {
+      "name": "Bent",
+      "slug": "bent",
+      "county": "Otero County",
+      "lat": 33.148014,
+      "lng": -105.863472
+    },
+    {
+      "name": "Berino",
+      "slug": "berino",
+      "county": "Dona Ana County",
+      "lat": 32.068056,
+      "lng": -106.623056
+    },
+    {
+      "name": "Bernalillo",
+      "slug": "bernalillo",
+      "county": "Sandoval County",
+      "lat": 35.328506,
+      "lng": -106.530873
+    },
+    {
+      "name": "Blanco",
+      "slug": "blanco",
+      "county": "San Juan County",
+      "lat": 36.725612,
+      "lng": -107.795276
+    },
+    {
+      "name": "Bloomfield",
+      "slug": "bloomfield",
+      "county": "San Juan County",
+      "lat": 36.695475,
+      "lng": -107.978437
+    },
+    {
+      "name": "Bluewater",
+      "slug": "bluewater",
+      "county": "Cibola County",
+      "lat": 35.164724,
+      "lng": -108.191663
+    },
+    {
+      "name": "Bosque",
+      "slug": "bosque",
+      "county": "Valencia County",
+      "lat": 34.49956,
+      "lng": -106.8038
+    },
+    {
+      "name": "Bosque Farms",
+      "slug": "bosque-farms",
+      "county": "Valencia County",
+      "lat": 34.876366,
+      "lng": -106.697506
+    },
+    {
+      "name": "Brimhall",
+      "slug": "brimhall",
+      "county": "Mckinley County",
+      "lat": 35.800503,
+      "lng": -108.581469
+    },
+    {
+      "name": "Broadview",
+      "slug": "broadview",
+      "county": "Curry County",
+      "lat": 34.803956,
+      "lng": -103.129235
+    },
+    {
+      "name": "Buckhorn",
+      "slug": "buckhorn",
+      "county": "Grant County",
+      "lat": 32.813466,
+      "lng": -108.477951
+    },
+    {
+      "name": "Buena Vista",
+      "slug": "buena-vista",
+      "county": "Mora County",
+      "lat": 35.913611,
+      "lng": -105.248611
+    },
+    {
+      "name": "Caballo",
+      "slug": "caballo",
+      "county": "Sierra County",
+      "lat": 33.013452,
+      "lng": -107.347113
+    },
+    {
+      "name": "Canjilon",
+      "slug": "canjilon",
+      "county": "Rio Arriba County",
+      "lat": 36.48,
+      "lng": -106.435
+    },
+    {
+      "name": "Cannon Afb",
+      "slug": "cannon-afb",
+      "county": "Curry County",
+      "lat": 34.398056,
+      "lng": -103.329722
+    },
+    {
+      "name": "Canones",
+      "slug": "canones",
+      "county": "Rio Arriba County",
+      "lat": 36.186667,
+      "lng": -106.438333
+    },
+    {
+      "name": "Capitan",
+      "slug": "capitan",
+      "county": "Lincoln County",
+      "lat": 33.560232,
+      "lng": -105.526906
+    },
+    {
+      "name": "Caprock",
+      "slug": "caprock",
+      "county": "Lea County",
+      "lat": 33.393855,
+      "lng": -103.639009
+    },
+    {
+      "name": "Capulin",
+      "slug": "capulin",
+      "county": "Union County",
+      "lat": 36.747453,
+      "lng": -103.993599
+    },
+    {
+      "name": "Carlsbad",
+      "slug": "carlsbad",
+      "county": "Eddy County",
+      "lat": 32.411867,
+      "lng": -104.239539
+    },
+    {
+      "name": "Carrizozo",
+      "slug": "carrizozo",
+      "county": "Lincoln County",
+      "lat": 33.64962,
+      "lng": -105.869617
+    },
+    {
+      "name": "Carson",
+      "slug": "carson",
+      "county": "Taos County",
+      "lat": 36.364444,
+      "lng": -105.764722
+    },
+    {
+      "name": "Casa Blanca",
+      "slug": "casa-blanca",
+      "county": "Cibola County",
+      "lat": 35.035222,
+      "lng": -107.433907
+    },
+    {
+      "name": "Causey",
+      "slug": "causey",
+      "county": "Roosevelt County",
+      "lat": 33.892926,
+      "lng": -103.150201
+    },
+    {
+      "name": "Cebolla",
+      "slug": "cebolla",
+      "county": "Rio Arriba County",
+      "lat": 36.538333,
+      "lng": -106.485833
+    },
+    {
+      "name": "Cedar Crest",
+      "slug": "cedar-crest",
+      "county": "Bernalillo County",
+      "lat": 35.128506,
+      "lng": -106.361737
+    },
+    {
+      "name": "Cedarvale",
+      "slug": "cedarvale",
+      "county": "Torrance County",
+      "lat": 34.388028,
+      "lng": -105.734516
+    },
+    {
+      "name": "Cerrillos",
+      "slug": "cerrillos",
+      "county": "Santa Fe County",
+      "lat": 35.422965,
+      "lng": -106.131683
+    },
+    {
+      "name": "Cerro",
+      "slug": "cerro",
+      "county": "Taos County",
+      "lat": 36.753889,
+      "lng": -105.612222
+    },
+    {
+      "name": "Chacon",
+      "slug": "chacon",
+      "county": "Mora County",
+      "lat": 36.138805,
+      "lng": -105.385411
+    },
+    {
+      "name": "Chama",
+      "slug": "chama",
+      "county": "Rio Arriba County",
+      "lat": 36.896214,
+      "lng": -106.582928
+    },
+    {
+      "name": "Chamberino",
+      "slug": "chamberino",
+      "county": "Dona Ana County",
+      "lat": 32.04,
+      "lng": -106.685
+    },
+    {
+      "name": "Chamisal",
+      "slug": "chamisal",
+      "county": "Taos County",
+      "lat": 36.160411,
+      "lng": -105.68461
+    },
+    {
+      "name": "Chaparral",
+      "slug": "chaparral",
+      "county": "Dona Ana County",
+      "lat": 32.003333,
+      "lng": -106.603333
+    },
+    {
+      "name": "Chimayo",
+      "slug": "chimayo",
+      "county": "Rio Arriba County",
+      "lat": 36.011906,
+      "lng": -105.911441
+    },
+    {
+      "name": "Church Rock",
+      "slug": "church-rock",
+      "county": "Mckinley County",
+      "lat": 35.533889,
+      "lng": -108.599167
+    },
+    {
+      "name": "Cimarron",
+      "slug": "cimarron",
+      "county": "Colfax County",
+      "lat": 36.457424,
+      "lng": -105.069694
+    },
+    {
+      "name": "Claunch",
+      "slug": "claunch",
+      "county": "Socorro County",
+      "lat": 34.141667,
+      "lng": -105.995
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Union County",
+      "lat": 36.441378,
+      "lng": -103.188823
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Mora County",
+      "lat": 35.989831,
+      "lng": -105.43262
+    },
+    {
+      "name": "Cliff",
+      "slug": "cliff",
+      "county": "Grant County",
+      "lat": 32.962222,
+      "lng": -108.610556
+    },
+    {
+      "name": "Clines Corners",
+      "slug": "clines-corners",
+      "county": "Torrance County",
+      "lat": 35.009444,
+      "lng": -105.668611
+    },
+    {
+      "name": "Cloudcroft",
+      "slug": "cloudcroft",
+      "county": "Otero County",
+      "lat": 32.574067,
+      "lng": -105.939028
+    },
+    {
+      "name": "Clovis",
+      "slug": "clovis",
+      "county": "Curry County",
+      "lat": 34.412585,
+      "lng": -103.221391
+    },
+    {
+      "name": "Cochiti Lake",
+      "slug": "cochiti-lake",
+      "county": "Sandoval County",
+      "lat": 35.623056,
+      "lng": -106.321944
+    },
+    {
+      "name": "Cochiti Pueblo",
+      "slug": "cochiti-pueblo",
+      "county": "Sandoval County",
+      "lat": 35.6075,
+      "lng": -106.346667
+    },
+    {
+      "name": "Columbus",
+      "slug": "columbus",
+      "county": "Luna County",
+      "lat": 31.8275,
+      "lng": -107.639444
+    },
+    {
+      "name": "Conchas Dam",
+      "slug": "conchas-dam",
+      "county": "San Miguel County",
+      "lat": 35.378561,
+      "lng": -104.205231
+    },
+    {
+      "name": "Continental Divide",
+      "slug": "continental-divide",
+      "county": "Mckinley County",
+      "lat": 35.504295,
+      "lng": -108.469256
+    },
+    {
+      "name": "Cordova",
+      "slug": "cordova",
+      "county": "Rio Arriba County",
+      "lat": 36.008333,
+      "lng": -105.861667
+    },
+    {
+      "name": "Corona",
+      "slug": "corona",
+      "county": "Lincoln County",
+      "lat": 34.169259,
+      "lng": -105.533873
+    },
+    {
+      "name": "Corrales",
+      "slug": "corrales",
+      "county": "Sandoval County",
+      "lat": 35.233888,
+      "lng": -106.620034
+    },
+    {
+      "name": "Costilla",
+      "slug": "costilla",
+      "county": "Taos County",
+      "lat": 36.952556,
+      "lng": -105.501586
+    },
+    {
+      "name": "Counselor",
+      "slug": "counselor",
+      "county": "Sandoval County",
+      "lat": 36.118386,
+      "lng": -106.949789
+    },
+    {
+      "name": "Coyote",
+      "slug": "coyote",
+      "county": "Rio Arriba County",
+      "lat": 36.1675,
+      "lng": -106.615833
+    },
+    {
+      "name": "Crossroads",
+      "slug": "crossroads",
+      "county": "Lea County",
+      "lat": 33.527186,
+      "lng": -103.356387
+    },
+    {
+      "name": "Crownpoint",
+      "slug": "crownpoint",
+      "county": "Mckinley County",
+      "lat": 35.720557,
+      "lng": -108.02709
+    },
+    {
+      "name": "Cuba",
+      "slug": "cuba",
+      "county": "Sandoval County",
+      "lat": 36.048201,
+      "lng": -107.188462
+    },
+    {
+      "name": "Cubero",
+      "slug": "cubero",
+      "county": "Cibola County",
+      "lat": 35.117372,
+      "lng": -107.856722
+    },
+    {
+      "name": "Cuervo",
+      "slug": "cuervo",
+      "county": "Guadalupe County",
+      "lat": 35.01013,
+      "lng": -104.399867
+    },
+    {
+      "name": "Datil",
+      "slug": "datil",
+      "county": "Catron County",
+      "lat": 34.04269,
+      "lng": -108.018284
+    },
+    {
+      "name": "Deming",
+      "slug": "deming",
+      "county": "Luna County",
+      "lat": 32.231808,
+      "lng": -107.746559
+    },
+    {
+      "name": "Derry",
+      "slug": "derry",
+      "county": "Sierra County",
+      "lat": 32.808561,
+      "lng": -107.284271
+    },
+    {
+      "name": "Des Moines",
+      "slug": "des-moines",
+      "county": "Union County",
+      "lat": 36.729069,
+      "lng": -103.873853
+    },
+    {
+      "name": "Dexter",
+      "slug": "dexter",
+      "county": "Chaves County",
+      "lat": 33.191006,
+      "lng": -104.383285
+    },
+    {
+      "name": "Dixon",
+      "slug": "dixon",
+      "county": "Rio Arriba County",
+      "lat": 36.179,
+      "lng": -105.86148
+    },
+    {
+      "name": "Dona Ana",
+      "slug": "dona-ana",
+      "county": "Dona Ana County",
+      "lat": 32.386667,
+      "lng": -106.816667
+    },
+    {
+      "name": "Dora",
+      "slug": "dora",
+      "county": "Roosevelt County",
+      "lat": 33.938611,
+      "lng": -103.336111
+    },
+    {
+      "name": "Dulce",
+      "slug": "dulce",
+      "county": "Rio Arriba County",
+      "lat": 36.859808,
+      "lng": -107.060179
+    },
+    {
+      "name": "Eagle Nest",
+      "slug": "eagle-nest",
+      "county": "Colfax County",
+      "lat": 36.53255,
+      "lng": -105.275561
+    },
+    {
+      "name": "Edgewood",
+      "slug": "edgewood",
+      "county": "Santa Fe County",
+      "lat": 35.077603,
+      "lng": -106.187207
+    },
+    {
+      "name": "El Prado",
+      "slug": "el-prado",
+      "county": "Taos County",
+      "lat": 36.431667,
+      "lng": -105.575
+    },
+    {
+      "name": "El Rito",
+      "slug": "el-rito",
+      "county": "Rio Arriba County",
+      "lat": 36.364694,
+      "lng": -106.21917
+    },
+    {
+      "name": "Elephant Butte",
+      "slug": "elephant-butte",
+      "county": "Sierra County",
+      "lat": 33.145,
+      "lng": -107.188333
+    },
+    {
+      "name": "Elida",
+      "slug": "elida",
+      "county": "Roosevelt County",
+      "lat": 33.940468,
+      "lng": -103.632341
+    },
+    {
+      "name": "Embudo",
+      "slug": "embudo",
+      "county": "Rio Arriba County",
+      "lat": 36.137028,
+      "lng": -106.024187
+    },
+    {
+      "name": "Encino",
+      "slug": "encino",
+      "county": "Torrance County",
+      "lat": 34.61496,
+      "lng": -105.483914
+    },
+    {
+      "name": "Espanola",
+      "slug": "espanola",
+      "county": "Rio Arriba County",
+      "lat": 35.987157,
+      "lng": -106.071697
+    },
+    {
+      "name": "Estancia",
+      "slug": "estancia",
+      "county": "Torrance County",
+      "lat": 34.769983,
+      "lng": -106.135024
+    },
+    {
+      "name": "Eunice",
+      "slug": "eunice",
+      "county": "Lea County",
+      "lat": 32.439225,
+      "lng": -103.159407
+    },
+    {
+      "name": "Fairacres",
+      "slug": "fairacres",
+      "county": "Dona Ana County",
+      "lat": 32.303889,
+      "lng": -106.846111
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "San Juan County",
+      "lat": 36.706514,
+      "lng": -108.199531
+    },
+    {
+      "name": "Faywood",
+      "slug": "faywood",
+      "county": "Grant County",
+      "lat": 32.640556,
+      "lng": -107.881389
+    },
+    {
+      "name": "Fence Lake",
+      "slug": "fence-lake",
+      "county": "Cibola County",
+      "lat": 34.734385,
+      "lng": -108.693392
+    },
+    {
+      "name": "Flora Vista",
+      "slug": "flora-vista",
+      "county": "San Juan County",
+      "lat": 36.802771,
+      "lng": -108.082683
+    },
+    {
+      "name": "Floyd",
+      "slug": "floyd",
+      "county": "Roosevelt County",
+      "lat": 34.251951,
+      "lng": -103.582707
+    },
+    {
+      "name": "Folsom",
+      "slug": "folsom",
+      "county": "Union County",
+      "lat": 36.86896,
+      "lng": -103.839925
+    },
+    {
+      "name": "Fort Bayard",
+      "slug": "fort-bayard",
+      "county": "Grant County",
+      "lat": 32.8703,
+      "lng": -108.1143
+    },
+    {
+      "name": "Fort Stanton",
+      "slug": "fort-stanton",
+      "county": "Lincoln County",
+      "lat": 33.495,
+      "lng": -105.523333
+    },
+    {
+      "name": "Fort Sumner",
+      "slug": "fort-sumner",
+      "county": "De Baca County",
+      "lat": 34.460018,
+      "lng": -104.231689
+    },
+    {
+      "name": "Fort Wingate",
+      "slug": "fort-wingate",
+      "county": "Mckinley County",
+      "lat": 35.467778,
+      "lng": -108.540556
+    },
+    {
+      "name": "Fruitland",
+      "slug": "fruitland",
+      "county": "San Juan County",
+      "lat": 36.76323,
+      "lng": -108.45339
+    },
+    {
+      "name": "Gallina",
+      "slug": "gallina",
+      "county": "Rio Arriba County",
+      "lat": 36.171429,
+      "lng": -106.661388
+    },
+    {
+      "name": "Gallup",
+      "slug": "gallup",
+      "county": "Mckinley County",
+      "lat": 35.506475,
+      "lng": -108.741352
+    },
+    {
+      "name": "Gamerco",
+      "slug": "gamerco",
+      "county": "Mckinley County",
+      "lat": 35.572222,
+      "lng": -108.764722
+    },
+    {
+      "name": "Garfield",
+      "slug": "garfield",
+      "county": "Dona Ana County",
+      "lat": 32.755749,
+      "lng": -107.270409
+    },
+    {
+      "name": "Garita",
+      "slug": "garita",
+      "county": "San Miguel County",
+      "lat": 35.350182,
+      "lng": -104.441911
+    },
+    {
+      "name": "Gila",
+      "slug": "gila",
+      "county": "Grant County",
+      "lat": 32.965833,
+      "lng": -108.576111
+    },
+    {
+      "name": "Gladstone",
+      "slug": "gladstone",
+      "county": "Union County",
+      "lat": 36.307741,
+      "lng": -103.893081
+    },
+    {
+      "name": "Glencoe",
+      "slug": "glencoe",
+      "county": "Lincoln County",
+      "lat": 33.386738,
+      "lng": -105.502991
+    },
+    {
+      "name": "Glenwood",
+      "slug": "glenwood",
+      "county": "Catron County",
+      "lat": 33.304789,
+      "lng": -108.774282
+    },
+    {
+      "name": "Glorieta",
+      "slug": "glorieta",
+      "county": "Santa Fe County",
+      "lat": 35.566645,
+      "lng": -105.790316
+    },
+    {
+      "name": "Grady",
+      "slug": "grady",
+      "county": "Curry County",
+      "lat": 34.810697,
+      "lng": -103.298043
+    },
+    {
+      "name": "Grants",
+      "slug": "grants",
+      "county": "Cibola County",
+      "lat": 35.359802,
+      "lng": -107.935662
+    },
+    {
+      "name": "Grenville",
+      "slug": "grenville",
+      "county": "Union County",
+      "lat": 36.725396,
+      "lng": -103.415521
+    },
+    {
+      "name": "Guadalupita",
+      "slug": "guadalupita",
+      "county": "Mora County",
+      "lat": 36.113046,
+      "lng": -105.127814
+    },
+    {
+      "name": "Hachita",
+      "slug": "hachita",
+      "county": "Grant County",
+      "lat": 31.918056,
+      "lng": -108.319722
+    },
+    {
+      "name": "Hagerman",
+      "slug": "hagerman",
+      "county": "Chaves County",
+      "lat": 33.107643,
+      "lng": -104.329778
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "Grant County",
+      "lat": 32.853311,
+      "lng": -108.082185
+    },
+    {
+      "name": "Hatch",
+      "slug": "hatch",
+      "county": "Dona Ana County",
+      "lat": 32.658335,
+      "lng": -107.159028
+    },
+    {
+      "name": "Hernandez",
+      "slug": "hernandez",
+      "county": "Rio Arriba County",
+      "lat": 36.073811,
+      "lng": -106.139579
+    },
+    {
+      "name": "High Rolls Mountain Park",
+      "slug": "high-rolls-mountain-park",
+      "county": "Otero County",
+      "lat": 32.974167,
+      "lng": -105.790556
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Sierra County",
+      "lat": 32.923913,
+      "lng": -107.6276
+    },
+    {
+      "name": "Hobbs",
+      "slug": "hobbs",
+      "county": "Lea County",
+      "lat": 32.72217,
+      "lng": -103.137246
+    },
+    {
+      "name": "Holloman Air Force Base",
+      "slug": "holloman-air-force-base",
+      "county": "Otero County",
+      "lat": 32.862093,
+      "lng": -106.07845
+    },
+    {
+      "name": "Holman",
+      "slug": "holman",
+      "county": "Mora County",
+      "lat": 36.038333,
+      "lng": -105.383056
+    },
+    {
+      "name": "Hondo",
+      "slug": "hondo",
+      "county": "Lincoln County",
+      "lat": 33.462518,
+      "lng": -105.388854
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Eddy County",
+      "lat": 32.81561,
+      "lng": -104.729921
+    },
+    {
+      "name": "House",
+      "slug": "house",
+      "county": "Quay County",
+      "lat": 34.695156,
+      "lng": -103.920256
+    },
+    {
+      "name": "Hurley",
+      "slug": "hurley",
+      "county": "Grant County",
+      "lat": 32.64799,
+      "lng": -108.15162
+    },
+    {
+      "name": "Ilfeld",
+      "slug": "ilfeld",
+      "county": "San Miguel County",
+      "lat": 35.421111,
+      "lng": -105.558333
+    },
+    {
+      "name": "Isleta",
+      "slug": "isleta",
+      "county": "Bernalillo County",
+      "lat": 34.913333,
+      "lng": -106.695
+    },
+    {
+      "name": "Jal",
+      "slug": "jal",
+      "county": "Lea County",
+      "lat": 32.112816,
+      "lng": -103.199724
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Mckinley County",
+      "lat": 35.421667,
+      "lng": -108.308333
+    },
+    {
+      "name": "Jarales",
+      "slug": "jarales",
+      "county": "Valencia County",
+      "lat": 34.648156,
+      "lng": -107.029912
+    },
+    {
+      "name": "Jemez Pueblo",
+      "slug": "jemez-pueblo",
+      "county": "Sandoval County",
+      "lat": 35.624315,
+      "lng": -106.721894
+    },
+    {
+      "name": "Jemez Springs",
+      "slug": "jemez-springs",
+      "county": "Sandoval County",
+      "lat": 35.892689,
+      "lng": -106.771393
+    },
+    {
+      "name": "Kenna",
+      "slug": "kenna",
+      "county": "Roosevelt County",
+      "lat": 33.841667,
+      "lng": -103.77
+    },
+    {
+      "name": "Kirtland",
+      "slug": "kirtland",
+      "county": "San Juan County",
+      "lat": 36.740953,
+      "lng": -108.350956
+    },
+    {
+      "name": "Kirtland Afb",
+      "slug": "kirtland-afb",
+      "county": "Bernalillo County",
+      "lat": 35.0362,
+      "lng": -106.5594
+    },
+    {
+      "name": "La Jara",
+      "slug": "la-jara",
+      "county": "Sandoval County",
+      "lat": 36.119383,
+      "lng": -106.992335
+    },
+    {
+      "name": "La Joya",
+      "slug": "la-joya",
+      "county": "Socorro County",
+      "lat": 34.343444,
+      "lng": -106.84279
+    },
+    {
+      "name": "La Loma",
+      "slug": "la-loma",
+      "county": "Guadalupe County",
+      "lat": 35.191562,
+      "lng": -105.096864
+    },
+    {
+      "name": "La Luz",
+      "slug": "la-luz",
+      "county": "Otero County",
+      "lat": 32.977449,
+      "lng": -105.953397
+    },
+    {
+      "name": "La Madera",
+      "slug": "la-madera",
+      "county": "Rio Arriba County",
+      "lat": 36.246387,
+      "lng": -106.13443
+    },
+    {
+      "name": "La Mesa",
+      "slug": "la-mesa",
+      "county": "Dona Ana County",
+      "lat": 32.082312,
+      "lng": -106.701103
+    },
+    {
+      "name": "La Plata",
+      "slug": "la-plata",
+      "county": "San Juan County",
+      "lat": 36.957632,
+      "lng": -108.179243
+    },
+    {
+      "name": "Laguna",
+      "slug": "laguna",
+      "county": "Cibola County",
+      "lat": 35.085305,
+      "lng": -107.105843
+    },
+    {
+      "name": "Lake Arthur",
+      "slug": "lake-arthur",
+      "county": "Chaves County",
+      "lat": 33.017106,
+      "lng": -104.406412
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Eddy County",
+      "lat": 32.631667,
+      "lng": -104.376667
+    },
+    {
+      "name": "Lamy",
+      "slug": "lamy",
+      "county": "Santa Fe County",
+      "lat": 35.431057,
+      "lng": -105.940906
+    },
+    {
+      "name": "Las Cruces",
+      "slug": "las-cruces",
+      "county": "Dona Ana County",
+      "lat": 32.321641,
+      "lng": -106.746034
+    },
+    {
+      "name": "Las Vegas",
+      "slug": "las-vegas",
+      "county": "San Miguel County",
+      "lat": 35.594862,
+      "lng": -105.227162
+    },
+    {
+      "name": "Lemitar",
+      "slug": "lemitar",
+      "county": "Socorro County",
+      "lat": 34.155999,
+      "lng": -106.904381
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Lincoln County",
+      "lat": 33.492912,
+      "lng": -105.528427
+    },
+    {
+      "name": "Lindrith",
+      "slug": "lindrith",
+      "county": "Rio Arriba County",
+      "lat": 36.336141,
+      "lng": -106.925352
+    },
+    {
+      "name": "Lingo",
+      "slug": "lingo",
+      "county": "Roosevelt County",
+      "lat": 33.696291,
+      "lng": -103.208161
+    },
+    {
+      "name": "Llano",
+      "slug": "llano",
+      "county": "Taos County",
+      "lat": 36.14,
+      "lng": -105.681111
+    },
+    {
+      "name": "Loco Hills",
+      "slug": "loco-hills",
+      "county": "Eddy County",
+      "lat": 32.818889,
+      "lng": -103.977222
+    },
+    {
+      "name": "Logan",
+      "slug": "logan",
+      "county": "Quay County",
+      "lat": 35.368051,
+      "lng": -103.438339
+    },
+    {
+      "name": "Lordsburg",
+      "slug": "lordsburg",
+      "county": "Hidalgo County",
+      "lat": 32.314032,
+      "lng": -108.754657
+    },
+    {
+      "name": "Los Alamos",
+      "slug": "los-alamos",
+      "county": "Los Alamos County",
+      "lat": 35.866321,
+      "lng": -106.267624
+    },
+    {
+      "name": "Los Lunas",
+      "slug": "los-lunas",
+      "county": "Valencia County",
+      "lat": 34.780607,
+      "lng": -106.711537
+    },
+    {
+      "name": "Los Ojos",
+      "slug": "los-ojos",
+      "county": "Rio Arriba County",
+      "lat": 36.718611,
+      "lng": -106.611111
+    },
+    {
+      "name": "Loving",
+      "slug": "loving",
+      "county": "Eddy County",
+      "lat": 32.274034,
+      "lng": -104.091376
+    },
+    {
+      "name": "Lovington",
+      "slug": "lovington",
+      "county": "Lea County",
+      "lat": 32.951166,
+      "lng": -103.348849
+    },
+    {
+      "name": "Luna",
+      "slug": "luna",
+      "county": "Catron County",
+      "lat": 33.818889,
+      "lng": -108.953889
+    },
+    {
+      "name": "Magdalena",
+      "slug": "magdalena",
+      "county": "Socorro County",
+      "lat": 34.241178,
+      "lng": -107.340647
+    },
+    {
+      "name": "Malaga",
+      "slug": "malaga",
+      "county": "Eddy County",
+      "lat": 32.226667,
+      "lng": -104.071667
+    },
+    {
+      "name": "Maljamar",
+      "slug": "maljamar",
+      "county": "Lea County",
+      "lat": 32.842281,
+      "lng": -103.723401
+    },
+    {
+      "name": "Maxwell",
+      "slug": "maxwell",
+      "county": "Colfax County",
+      "lat": 36.543393,
+      "lng": -104.56395
+    },
+    {
+      "name": "Mayhill",
+      "slug": "mayhill",
+      "county": "Otero County",
+      "lat": 32.907048,
+      "lng": -105.518056
+    },
+    {
+      "name": "Mc Alister",
+      "slug": "mc-alister",
+      "county": "Quay County",
+      "lat": 34.749206,
+      "lng": -103.657169
+    },
+    {
+      "name": "Mc Donald",
+      "slug": "mc-donald",
+      "county": "Lea County",
+      "lat": 33.076667,
+      "lng": -103.213056
+    },
+    {
+      "name": "Mc Intosh",
+      "slug": "mc-intosh",
+      "county": "Torrance County",
+      "lat": 34.852222,
+      "lng": -106.043056
+    },
+    {
+      "name": "Medanales",
+      "slug": "medanales",
+      "county": "Rio Arriba County",
+      "lat": 36.175556,
+      "lng": -106.182778
+    },
+    {
+      "name": "Melrose",
+      "slug": "melrose",
+      "county": "Curry County",
+      "lat": 34.44787,
+      "lng": -103.632507
+    },
+    {
+      "name": "Mentmore",
+      "slug": "mentmore",
+      "county": "Mckinley County",
+      "lat": 35.514167,
+      "lng": -108.845
+    },
+    {
+      "name": "Mescalero",
+      "slug": "mescalero",
+      "county": "Otero County",
+      "lat": 33.216436,
+      "lng": -105.774293
+    },
+    {
+      "name": "Mesilla",
+      "slug": "mesilla",
+      "county": "Dona Ana County",
+      "lat": 32.271667,
+      "lng": -106.796667
+    },
+    {
+      "name": "Mesilla Park",
+      "slug": "mesilla-park",
+      "county": "Dona Ana County",
+      "lat": 32.297725,
+      "lng": -106.637016
+    },
+    {
+      "name": "Mesquite",
+      "slug": "mesquite",
+      "county": "Dona Ana County",
+      "lat": 32.145958,
+      "lng": -106.667626
+    },
+    {
+      "name": "Mexican Springs",
+      "slug": "mexican-springs",
+      "county": "Mckinley County",
+      "lat": 35.783727,
+      "lng": -108.818964
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "county": "Colfax County",
+      "lat": 36.28955,
+      "lng": -104.811769
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "county": "Cibola County",
+      "lat": 35.169722,
+      "lng": -107.890278
+    },
+    {
+      "name": "Mills",
+      "slug": "mills",
+      "county": "Harding County",
+      "lat": 36.128144,
+      "lng": -104.227743
+    },
+    {
+      "name": "Milnesand",
+      "slug": "milnesand",
+      "county": "Roosevelt County",
+      "lat": 33.60501,
+      "lng": -103.278189
+    },
+    {
+      "name": "Mimbres",
+      "slug": "mimbres",
+      "county": "Grant County",
+      "lat": 32.860936,
+      "lng": -107.942326
+    },
+    {
+      "name": "Montezuma",
+      "slug": "montezuma",
+      "county": "San Miguel County",
+      "lat": 35.682959,
+      "lng": -105.409729
+    },
+    {
+      "name": "Monticello",
+      "slug": "monticello",
+      "county": "Sierra County",
+      "lat": 33.396944,
+      "lng": -107.450278
+    },
+    {
+      "name": "Monument",
+      "slug": "monument",
+      "county": "Lea County",
+      "lat": 32.587405,
+      "lng": -103.270256
+    },
+    {
+      "name": "Mora",
+      "slug": "mora",
+      "county": "Mora County",
+      "lat": 36.00405,
+      "lng": -105.312837
+    },
+    {
+      "name": "Moriarty",
+      "slug": "moriarty",
+      "county": "Torrance County",
+      "lat": 34.988878,
+      "lng": -106.060871
+    },
+    {
+      "name": "Mosquero",
+      "slug": "mosquero",
+      "county": "Harding County",
+      "lat": 35.715938,
+      "lng": -103.746132
+    },
+    {
+      "name": "Mountainair",
+      "slug": "mountainair",
+      "county": "Torrance County",
+      "lat": 34.515775,
+      "lng": -106.257738
+    },
+    {
+      "name": "Mule Creek",
+      "slug": "mule-creek",
+      "county": "Grant County",
+      "lat": 33.121944,
+      "lng": -108.955556
+    },
+    {
+      "name": "Nageezi",
+      "slug": "nageezi",
+      "county": "San Juan County",
+      "lat": 36.266667,
+      "lng": -107.741389
+    },
+    {
+      "name": "Nara Visa",
+      "slug": "nara-visa",
+      "county": "Quay County",
+      "lat": 35.617963,
+      "lng": -103.131738
+    },
+    {
+      "name": "Navajo",
+      "slug": "navajo",
+      "county": "Mckinley County",
+      "lat": 35.894193,
+      "lng": -109.022621
+    },
+    {
+      "name": "Navajo Dam",
+      "slug": "navajo-dam",
+      "county": "San Juan County",
+      "lat": 36.833838,
+      "lng": -107.670991
+    },
+    {
+      "name": "New Laguna",
+      "slug": "new-laguna",
+      "county": "Cibola County",
+      "lat": 35.040833,
+      "lng": -107.421389
+    },
+    {
+      "name": "Newcomb",
+      "slug": "newcomb",
+      "county": "San Juan County",
+      "lat": 36.284722,
+      "lng": -108.705278
+    },
+    {
+      "name": "Newkirk",
+      "slug": "newkirk",
+      "county": "Guadalupe County",
+      "lat": 35.084746,
+      "lng": -104.243323
+    },
+    {
+      "name": "Nogal",
+      "slug": "nogal",
+      "county": "Lincoln County",
+      "lat": 33.499552,
+      "lng": -105.703631
+    },
+    {
+      "name": "Ocate",
+      "slug": "ocate",
+      "county": "Mora County",
+      "lat": 36.10366,
+      "lng": -105.06595
+    },
+    {
+      "name": "Ojo Caliente",
+      "slug": "ojo-caliente",
+      "county": "Taos County",
+      "lat": 36.40991,
+      "lng": -105.915507
+    },
+    {
+      "name": "Ojo Feliz",
+      "slug": "ojo-feliz",
+      "county": "Mora County",
+      "lat": 36.008889,
+      "lng": -104.706111
+    },
+    {
+      "name": "Organ",
+      "slug": "organ",
+      "county": "Dona Ana County",
+      "lat": 32.425556,
+      "lng": -106.596111
+    },
+    {
+      "name": "Orogrande",
+      "slug": "orogrande",
+      "county": "Otero County",
+      "lat": 32.393333,
+      "lng": -106.09
+    },
+    {
+      "name": "Paguate",
+      "slug": "paguate",
+      "county": "Cibola County",
+      "lat": 35.138611,
+      "lng": -107.378333
+    },
+    {
+      "name": "Pecos",
+      "slug": "pecos",
+      "county": "San Miguel County",
+      "lat": 35.571011,
+      "lng": -105.670104
+    },
+    {
+      "name": "Pena Blanca",
+      "slug": "pena-blanca",
+      "county": "Sandoval County",
+      "lat": 35.603104,
+      "lng": -106.343472
+    },
+    {
+      "name": "Penasco",
+      "slug": "penasco",
+      "county": "Taos County",
+      "lat": 36.176023,
+      "lng": -105.734245
+    },
+    {
+      "name": "Pep",
+      "slug": "pep",
+      "county": "Roosevelt County",
+      "lat": 33.897032,
+      "lng": -103.327208
+    },
+    {
+      "name": "Peralta",
+      "slug": "peralta",
+      "county": "Valencia County",
+      "lat": 34.833188,
+      "lng": -106.687159
+    },
+    {
+      "name": "Petaca",
+      "slug": "petaca",
+      "county": "Rio Arriba County",
+      "lat": 36.508333,
+      "lng": -106.01
+    },
+    {
+      "name": "Picacho",
+      "slug": "picacho",
+      "county": "Lincoln County",
+      "lat": 33.345642,
+      "lng": -105.083382
+    },
+    {
+      "name": "Pie Town",
+      "slug": "pie-town",
+      "county": "Catron County",
+      "lat": 34.324282,
+      "lng": -108.368187
+    },
+    {
+      "name": "Pinehill",
+      "slug": "pinehill",
+      "county": "Cibola County",
+      "lat": 34.999167,
+      "lng": -108.410556
+    },
+    {
+      "name": "Pinon",
+      "slug": "pinon",
+      "county": "Otero County",
+      "lat": 32.639584,
+      "lng": -105.415708
+    },
+    {
+      "name": "Pinos Altos",
+      "slug": "pinos-altos",
+      "county": "Grant County",
+      "lat": 32.8633,
+      "lng": -108.2208
+    },
+    {
+      "name": "Placitas",
+      "slug": "placitas",
+      "county": "Sandoval County",
+      "lat": 35.309175,
+      "lng": -106.529279
+    },
+    {
+      "name": "Playas",
+      "slug": "playas",
+      "county": "Hidalgo County",
+      "lat": 32.0277,
+      "lng": -108.6805
+    },
+    {
+      "name": "Polvadera",
+      "slug": "polvadera",
+      "county": "Socorro County",
+      "lat": 34.134672,
+      "lng": -106.897505
+    },
+    {
+      "name": "Ponderosa",
+      "slug": "ponderosa",
+      "county": "Sandoval County",
+      "lat": 35.797576,
+      "lng": -106.654421
+    },
+    {
+      "name": "Portales",
+      "slug": "portales",
+      "county": "Roosevelt County",
+      "lat": 34.179915,
+      "lng": -103.336311
+    },
+    {
+      "name": "Prewitt",
+      "slug": "prewitt",
+      "county": "Mckinley County",
+      "lat": 35.35466,
+      "lng": -108.103798
+    },
+    {
+      "name": "Pueblo Of Acoma",
+      "slug": "pueblo-of-acoma",
+      "county": "Valencia County",
+      "lat": 34.900833,
+      "lng": -107.586389
+    },
+    {
+      "name": "Quay",
+      "slug": "quay",
+      "county": "Quay County",
+      "lat": 34.929916,
+      "lng": -103.78176
+    },
+    {
+      "name": "Quemado",
+      "slug": "quemado",
+      "county": "Catron County",
+      "lat": 34.265158,
+      "lng": -108.757835
+    },
+    {
+      "name": "Questa",
+      "slug": "questa",
+      "county": "Taos County",
+      "lat": 36.72572,
+      "lng": -105.560984
+    },
+    {
+      "name": "Radium Springs",
+      "slug": "radium-springs",
+      "county": "Dona Ana County",
+      "lat": 32.501111,
+      "lng": -106.9275
+    },
+    {
+      "name": "Rainsville",
+      "slug": "rainsville",
+      "county": "Mora County",
+      "lat": 35.978611,
+      "lng": -105.208611
+    },
+    {
+      "name": "Ramah",
+      "slug": "ramah",
+      "county": "Mckinley County",
+      "lat": 35.132375,
+      "lng": -108.491951
+    },
+    {
+      "name": "Ranchos De Taos",
+      "slug": "ranchos-de-taos",
+      "county": "Taos County",
+      "lat": 36.335692,
+      "lng": -105.608576
+    },
+    {
+      "name": "Raton",
+      "slug": "raton",
+      "county": "Colfax County",
+      "lat": 36.895187,
+      "lng": -104.434881
+    },
+    {
+      "name": "Red River",
+      "slug": "red-river",
+      "county": "Taos County",
+      "lat": 36.708056,
+      "lng": -105.405556
+    },
+    {
+      "name": "Redrock",
+      "slug": "redrock",
+      "county": "Grant County",
+      "lat": 32.6861,
+      "lng": -108.7375
+    },
+    {
+      "name": "Regina",
+      "slug": "regina",
+      "county": "Sandoval County",
+      "lat": 36.20283,
+      "lng": -107.071932
+    },
+    {
+      "name": "Rehoboth",
+      "slug": "rehoboth",
+      "county": "Mckinley County",
+      "lat": 35.528889,
+      "lng": -108.654167
+    },
+    {
+      "name": "Reserve",
+      "slug": "reserve",
+      "county": "Catron County",
+      "lat": 33.688074,
+      "lng": -108.800918
+    },
+    {
+      "name": "Ribera",
+      "slug": "ribera",
+      "county": "San Miguel County",
+      "lat": 35.334448,
+      "lng": -105.465228
+    },
+    {
+      "name": "Rincon",
+      "slug": "rincon",
+      "county": "Dona Ana County",
+      "lat": 32.65969,
+      "lng": -107.064343
+    },
+    {
+      "name": "Rio Rancho",
+      "slug": "rio-rancho",
+      "county": "Sandoval County",
+      "lat": 35.249347,
+      "lng": -106.681756
+    },
+    {
+      "name": "Rociada",
+      "slug": "rociada",
+      "county": "San Miguel County",
+      "lat": 35.822648,
+      "lng": -105.314716
+    },
+    {
+      "name": "Rodeo",
+      "slug": "rodeo",
+      "county": "Hidalgo County",
+      "lat": 31.833333,
+      "lng": -109.03
+    },
+    {
+      "name": "Rogers",
+      "slug": "rogers",
+      "county": "Roosevelt County",
+      "lat": 34.024759,
+      "lng": -103.127527
+    },
+    {
+      "name": "Roswell",
+      "slug": "roswell",
+      "county": "Chaves County",
+      "lat": 33.388504,
+      "lng": -104.525857
+    },
+    {
+      "name": "Rowe",
+      "slug": "rowe",
+      "county": "San Miguel County",
+      "lat": 35.491667,
+      "lng": -105.674722
+    },
+    {
+      "name": "Roy",
+      "slug": "roy",
+      "county": "Harding County",
+      "lat": 35.952248,
+      "lng": -104.149698
+    },
+    {
+      "name": "Ruidoso",
+      "slug": "ruidoso",
+      "county": "Lincoln County",
+      "lat": 33.347406,
+      "lng": -105.650994
+    },
+    {
+      "name": "Ruidoso Downs",
+      "slug": "ruidoso-downs",
+      "county": "Lincoln County",
+      "lat": 33.357718,
+      "lng": -105.538306
+    },
+    {
+      "name": "Sacramento",
+      "slug": "sacramento",
+      "county": "Otero County",
+      "lat": 32.805221,
+      "lng": -105.621128
+    },
+    {
+      "name": "Saint Vrain",
+      "slug": "saint-vrain",
+      "county": "Curry County",
+      "lat": 34.465205,
+      "lng": -103.453239
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Dona Ana County",
+      "lat": 32.709322,
+      "lng": -107.215689
+    },
+    {
+      "name": "San Acacia",
+      "slug": "san-acacia",
+      "county": "Socorro County",
+      "lat": 34.228328,
+      "lng": -106.904884
+    },
+    {
+      "name": "San Antonio",
+      "slug": "san-antonio",
+      "county": "Socorro County",
+      "lat": 33.888611,
+      "lng": -106.379167
+    },
+    {
+      "name": "San Cristobal",
+      "slug": "san-cristobal",
+      "county": "Taos County",
+      "lat": 36.611638,
+      "lng": -105.635968
+    },
+    {
+      "name": "San Fidel",
+      "slug": "san-fidel",
+      "county": "Cibola County",
+      "lat": 35.082222,
+      "lng": -107.598611
+    },
+    {
+      "name": "San Jon",
+      "slug": "san-jon",
+      "county": "Quay County",
+      "lat": 35.119848,
+      "lng": -103.284599
+    },
+    {
+      "name": "San Jose",
+      "slug": "san-jose",
+      "county": "San Miguel County",
+      "lat": 35.456949,
+      "lng": -105.438341
+    },
+    {
+      "name": "San Juan Pueblo",
+      "slug": "san-juan-pueblo",
+      "county": "Rio Arriba County",
+      "lat": 36.048886,
+      "lng": -106.079267
+    },
+    {
+      "name": "San Miguel",
+      "slug": "san-miguel",
+      "county": "Dona Ana County",
+      "lat": 32.155278,
+      "lng": -106.734444
+    },
+    {
+      "name": "San Patricio",
+      "slug": "san-patricio",
+      "county": "Lincoln County",
+      "lat": 33.38775,
+      "lng": -105.349798
+    },
+    {
+      "name": "San Rafael",
+      "slug": "san-rafael",
+      "county": "Cibola County",
+      "lat": 35.1125,
+      "lng": -107.881944
+    },
+    {
+      "name": "San Ysidro",
+      "slug": "san-ysidro",
+      "county": "Sandoval County",
+      "lat": 35.524241,
+      "lng": -106.737467
+    },
+    {
+      "name": "Sandia Park",
+      "slug": "sandia-park",
+      "county": "Bernalillo County",
+      "lat": 35.168275,
+      "lng": -106.323846
+    },
+    {
+      "name": "Sanostee",
+      "slug": "sanostee",
+      "county": "San Juan County",
+      "lat": 36.424722,
+      "lng": -108.873611
+    },
+    {
+      "name": "Santa Clara",
+      "slug": "santa-clara",
+      "county": "Grant County",
+      "lat": 32.779767,
+      "lng": -108.162698
+    },
+    {
+      "name": "Santa Cruz",
+      "slug": "santa-cruz",
+      "county": "Santa Fe County",
+      "lat": 35.986011,
+      "lng": -106.031839
+    },
+    {
+      "name": "Santa Fe",
+      "slug": "santa-fe",
+      "county": "Santa Fe County",
+      "lat": 35.702472,
+      "lng": -105.974818
+    },
+    {
+      "name": "Santa Rosa",
+      "slug": "santa-rosa",
+      "county": "Guadalupe County",
+      "lat": 34.933276,
+      "lng": -104.682155
+    },
+    {
+      "name": "Santa Teresa",
+      "slug": "santa-teresa",
+      "county": "Dona Ana County",
+      "lat": 31.848,
+      "lng": -106.6346
+    },
+    {
+      "name": "Santo Domingo Pueblo",
+      "slug": "santo-domingo-pueblo",
+      "county": "Sandoval County",
+      "lat": 35.513892,
+      "lng": -106.361275
+    },
+    {
+      "name": "Sapello",
+      "slug": "sapello",
+      "county": "San Miguel County",
+      "lat": 35.762012,
+      "lng": -105.107735
+    },
+    {
+      "name": "Sedan",
+      "slug": "sedan",
+      "county": "Union County",
+      "lat": 36.226027,
+      "lng": -103.14488
+    },
+    {
+      "name": "Serafina",
+      "slug": "serafina",
+      "county": "San Miguel County",
+      "lat": 35.393333,
+      "lng": -105.316667
+    },
+    {
+      "name": "Sheep Springs",
+      "slug": "sheep-springs",
+      "county": "San Juan County",
+      "lat": 36.143333,
+      "lng": -108.706667
+    },
+    {
+      "name": "Shiprock",
+      "slug": "shiprock",
+      "county": "San Juan County",
+      "lat": 36.655981,
+      "lng": -108.735479
+    },
+    {
+      "name": "Silver City",
+      "slug": "silver-city",
+      "county": "Grant County",
+      "lat": 32.789986,
+      "lng": -108.274916
+    },
+    {
+      "name": "Smith Lake",
+      "slug": "smith-lake",
+      "county": "Mckinley County",
+      "lat": 35.522222,
+      "lng": -108.139167
+    },
+    {
+      "name": "Socorro",
+      "slug": "socorro",
+      "county": "Socorro County",
+      "lat": 34.047853,
+      "lng": -106.890659
+    },
+    {
+      "name": "Solano",
+      "slug": "solano",
+      "county": "Harding County",
+      "lat": 35.837828,
+      "lng": -104.1221
+    },
+    {
+      "name": "Springer",
+      "slug": "springer",
+      "county": "Colfax County",
+      "lat": 36.37672,
+      "lng": -104.592705
+    },
+    {
+      "name": "Stanley",
+      "slug": "stanley",
+      "county": "Santa Fe County",
+      "lat": 35.12948,
+      "lng": -106.028299
+    },
+    {
+      "name": "Sunland Park",
+      "slug": "sunland-park",
+      "county": "Dona Ana County",
+      "lat": 31.8024,
+      "lng": -106.5782
+    },
+    {
+      "name": "Sunspot",
+      "slug": "sunspot",
+      "county": "Otero County",
+      "lat": 32.789444,
+      "lng": -105.820278
+    },
+    {
+      "name": "Taiban",
+      "slug": "taiban",
+      "county": "De Baca County",
+      "lat": 34.424829,
+      "lng": -104.032899
+    },
+    {
+      "name": "Taos",
+      "slug": "taos",
+      "county": "Taos County",
+      "lat": 36.395288,
+      "lng": -105.584732
+    },
+    {
+      "name": "Taos Ski Valley",
+      "slug": "taos-ski-valley",
+      "county": "Taos County",
+      "lat": 36.584444,
+      "lng": -105.452222
+    },
+    {
+      "name": "Tatum",
+      "slug": "tatum",
+      "county": "Lea County",
+      "lat": 33.260018,
+      "lng": -103.314
+    },
+    {
+      "name": "Tererro",
+      "slug": "tererro",
+      "county": "San Miguel County",
+      "lat": 35.736881,
+      "lng": -105.645725
+    },
+    {
+      "name": "Tesuque",
+      "slug": "tesuque",
+      "county": "Santa Fe County",
+      "lat": 35.763333,
+      "lng": -105.935
+    },
+    {
+      "name": "Texico",
+      "slug": "texico",
+      "county": "Curry County",
+      "lat": 34.395795,
+      "lng": -103.061544
+    },
+    {
+      "name": "Thoreau",
+      "slug": "thoreau",
+      "county": "Mckinley County",
+      "lat": 35.57869,
+      "lng": -107.830218
+    },
+    {
+      "name": "Tierra Amarilla",
+      "slug": "tierra-amarilla",
+      "county": "Rio Arriba County",
+      "lat": 36.680481,
+      "lng": -106.556972
+    },
+    {
+      "name": "Tijeras",
+      "slug": "tijeras",
+      "county": "Bernalillo County",
+      "lat": 35.044563,
+      "lng": -106.306226
+    },
+    {
+      "name": "Timberon",
+      "slug": "timberon",
+      "county": "Otero County",
+      "lat": 32.958333,
+      "lng": -105.745
+    },
+    {
+      "name": "Tinnie",
+      "slug": "tinnie",
+      "county": "Lincoln County",
+      "lat": 33.337308,
+      "lng": -105.202681
+    },
+    {
+      "name": "Tohatchi",
+      "slug": "tohatchi",
+      "county": "Mckinley County",
+      "lat": 35.768609,
+      "lng": -108.687818
+    },
+    {
+      "name": "Tome",
+      "slug": "tome",
+      "county": "Valencia County",
+      "lat": 34.740833,
+      "lng": -106.727778
+    },
+    {
+      "name": "Torreon",
+      "slug": "torreon",
+      "county": "Torrance County",
+      "lat": 34.722222,
+      "lng": -106.298056
+    },
+    {
+      "name": "Trampas",
+      "slug": "trampas",
+      "county": "Taos County",
+      "lat": 36.131111,
+      "lng": -105.758333
+    },
+    {
+      "name": "Trementina",
+      "slug": "trementina",
+      "county": "San Miguel County",
+      "lat": 35.584945,
+      "lng": -104.616341
+    },
+    {
+      "name": "Tres Piedras",
+      "slug": "tres-piedras",
+      "county": "Taos County",
+      "lat": 36.646944,
+      "lng": -105.966667
+    },
+    {
+      "name": "Truchas",
+      "slug": "truchas",
+      "county": "Rio Arriba County",
+      "lat": 36.043611,
+      "lng": -105.811111
+    },
+    {
+      "name": "Truth Or Consequences",
+      "slug": "truth-or-consequences",
+      "county": "Sierra County",
+      "lat": 33.139478,
+      "lng": -107.248794
+    },
+    {
+      "name": "Tucumcari",
+      "slug": "tucumcari",
+      "county": "Quay County",
+      "lat": 35.168003,
+      "lng": -103.717935
+    },
+    {
+      "name": "Tularosa",
+      "slug": "tularosa",
+      "county": "Otero County",
+      "lat": 33.065049,
+      "lng": -106.010789
+    },
+    {
+      "name": "Tyrone",
+      "slug": "tyrone",
+      "county": "Grant County",
+      "lat": 32.658333,
+      "lng": -108.36
+    },
+    {
+      "name": "Ute Park",
+      "slug": "ute-park",
+      "county": "Colfax County",
+      "lat": 36.558056,
+      "lng": -105.114444
+    },
+    {
+      "name": "Vadito",
+      "slug": "vadito",
+      "county": "Taos County",
+      "lat": 36.191305,
+      "lng": -105.67818
+    },
+    {
+      "name": "Vado",
+      "slug": "vado",
+      "county": "Dona Ana County",
+      "lat": 32.115,
+      "lng": -106.663333
+    },
+    {
+      "name": "Valdez",
+      "slug": "valdez",
+      "county": "Taos County",
+      "lat": 36.569699,
+      "lng": -105.506971
+    },
+    {
+      "name": "Vallecitos",
+      "slug": "vallecitos",
+      "county": "Rio Arriba County",
+      "lat": 36.516284,
+      "lng": -106.085942
+    },
+    {
+      "name": "Valmora",
+      "slug": "valmora",
+      "county": "Mora County",
+      "lat": 35.794033,
+      "lng": -104.911587
+    },
+    {
+      "name": "Vanderwagen",
+      "slug": "vanderwagen",
+      "county": "Mckinley County",
+      "lat": 35.2703,
+      "lng": -108.7513
+    },
+    {
+      "name": "Vaughn",
+      "slug": "vaughn",
+      "county": "Guadalupe County",
+      "lat": 34.624074,
+      "lng": -105.192558
+    },
+    {
+      "name": "Veguita",
+      "slug": "veguita",
+      "county": "Socorro County",
+      "lat": 34.485032,
+      "lng": -106.759148
+    },
+    {
+      "name": "Velarde",
+      "slug": "velarde",
+      "county": "Rio Arriba County",
+      "lat": 36.158889,
+      "lng": -105.974167
+    },
+    {
+      "name": "Villanueva",
+      "slug": "villanueva",
+      "county": "San Miguel County",
+      "lat": 35.265,
+      "lng": -105.363333
+    },
+    {
+      "name": "Wagon Mound",
+      "slug": "wagon-mound",
+      "county": "Mora County",
+      "lat": 35.981361,
+      "lng": -104.691
+    },
+    {
+      "name": "Waterflow",
+      "slug": "waterflow",
+      "county": "San Juan County",
+      "lat": 36.780092,
+      "lng": -108.431083
+    },
+    {
+      "name": "Watrous",
+      "slug": "watrous",
+      "county": "Mora County",
+      "lat": 35.791667,
+      "lng": -104.981667
+    },
+    {
+      "name": "Weed",
+      "slug": "weed",
+      "county": "Otero County",
+      "lat": 32.80519,
+      "lng": -105.506296
+    },
+    {
+      "name": "White Sands Missile Range",
+      "slug": "white-sands-missile-range",
+      "county": "Dona Ana County",
+      "lat": 32.382669,
+      "lng": -106.49236
+    },
+    {
+      "name": "Whites City",
+      "slug": "whites-city",
+      "county": "Eddy County",
+      "lat": 32.175556,
+      "lng": -104.376111
+    },
+    {
+      "name": "Willard",
+      "slug": "willard",
+      "county": "Torrance County",
+      "lat": 34.57543,
+      "lng": -106.030706
+    },
+    {
+      "name": "Williamsburg",
+      "slug": "williamsburg",
+      "county": "Sierra County",
+      "lat": 33.226498,
+      "lng": -107.337583
+    },
+    {
+      "name": "Winston",
+      "slug": "winston",
+      "county": "Sierra County",
+      "lat": 33.306089,
+      "lng": -107.667456
+    },
+    {
+      "name": "Yatahey",
+      "slug": "yatahey",
+      "county": "Mckinley County",
+      "lat": 35.6153,
+      "lng": -108.7136
+    },
+    {
+      "name": "Yeso",
+      "slug": "yeso",
+      "county": "De Baca County",
+      "lat": 34.474962,
+      "lng": -104.527582
+    },
+    {
+      "name": "Youngsville",
+      "slug": "youngsville",
+      "county": "Rio Arriba County",
+      "lat": 36.1875,
+      "lng": -106.555833
+    },
+    {
+      "name": "Zuni",
+      "slug": "zuni",
+      "county": "Mckinley County",
+      "lat": 35.06845,
+      "lng": -108.833611
+    }
+  ]
+}

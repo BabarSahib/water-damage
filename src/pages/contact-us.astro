@@ -1,0 +1,151 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import FAQAccordion from '../components/FAQAccordion.astro';
+import CTABand from '../components/CTABand.astro';
+import ContactForm from '../components/ContactForm.astro';
+import { BUSINESS_INFO } from '../data/siteData';
+
+const pageTitle = "Contact Rapid Water Rescue Pros | 24/7 Emergency Dispatch";
+const pageDesc = "Contact Rapid Water Rescue Pros for 24/7 emergency water extraction, flood water cleanup, and water heater removal. Under 60-min dispatch. Call (866) 751-9896!";
+
+const contactFaqs = [
+  {
+    q: "How fast can you dispatch a crew to my home?",
+    a: "Our dispatch center is live 24/7/365. Once you provide your location and confirm the water source, our local unit is mobilized immediately, with average on-site arrival times under 60 minutes."
+  },
+  {
+    q: "Do I need to call my insurance company before calling you?",
+    a: "No. Your primary legal obligation under homeowner insurance policies is to mitigate ongoing damage immediately to prevent further loss. Call us first so we can stop the water spread and extract standing pools. We will document the damage with thermal imaging and assist you with filing your claim afterward."
+  },
+  {
+    q: "Is there an extra charge for emergency service on nights or holidays?",
+    a: "We believe in honest, transparent pricing. We provide upfront written flat-rate estimates before beginning work, so you are never surprised by arbitrary after-hours fee spikes."
+  }
+];
+
+const contactPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact Rapid Water Rescue Pros",
+  "description": pageDesc,
+  "url": "https://rapidwaterrescuepros.com/contact-us/"
+};
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/contact-us/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Contact Us", url: "/contact-us/" }
+  ]} />
+
+  <!-- Hero Banner -->
+  <section class="hero" style="padding:3.5rem 0">
+    <div class="container text-center">
+      <span class="badge badge-emergency" style="margin-bottom:1rem">24/7 Dispatch Coordination</span>
+      <h1>Contact Emergency Water Extraction Dispatch</h1>
+      <p class="hero-subtitle" style="max-width:750px;margin:0 auto 1.5rem">
+        If you are experiencing active flooding or a leaking water heater, call our emergency hotline directly for immediate priority dispatch.
+      </p>
+      <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency">
+        Call Now: {BUSINESS_INFO.phoneFormatted}
+      </a>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Main Contact Section & Map -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3.5rem;align-items:start">
+        <!-- Contact Information Block -->
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">Live Emergency Desk</span>
+          <h2>24/7 Rapid Response Contacts</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:2rem">
+            Our dispatch centers operate continuously around the clock. Whether day, night, weekends, or holidays, an on-duty coordinator answers your call with zero automated hold times.
+          </p>
+
+          <div style="display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2.5rem">
+            <div style="display:flex;align-items:flex-start;gap:1rem;background:var(--bg-light);padding:1.25rem;border-radius:var(--radius-md);border-left:4px solid var(--cta-red)">
+              <div style="font-size:1.5rem">📞</div>
+              <div>
+                <div style="font-size:0.85rem;color:var(--text-muted);font-weight:700">24/7 EMERGENCY PHONE</div>
+                <a href={BUSINESS_INFO.phoneTel} style="font-size:1.35rem;font-weight:800;color:var(--cta-red);text-decoration:none">
+                  {BUSINESS_INFO.phoneFormatted}
+                </a>
+                <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.2rem">Toll-free nationwide hotline with direct dispatch routing</div>
+              </div>
+            </div>
+
+            <div style="display:flex;align-items:flex-start;gap:1rem;background:var(--bg-light);padding:1.25rem;border-radius:var(--radius-md);border-left:4px solid var(--secondary)">
+              <div style="font-size:1.5rem">📍</div>
+              <div>
+                <div style="font-size:0.85rem;color:var(--text-muted);font-weight:700">HEADQUARTERS ADDRESS</div>
+                <div style="font-weight:700;color:var(--primary);font-size:1.05rem">
+                  {BUSINESS_INFO.address.street}
+                </div>
+                <div style="color:var(--text-body);font-size:0.9rem">
+                  {BUSINESS_INFO.address.city}, {BUSINESS_INFO.address.state} {BUSINESS_INFO.address.zip}
+                </div>
+              </div>
+            </div>
+
+            <div style="display:flex;align-items:flex-start;gap:1rem;background:var(--bg-light);padding:1.25rem;border-radius:var(--radius-md);border-left:4px solid var(--secondary)">
+              <div style="font-size:1.5rem">⏰</div>
+              <div>
+                <div style="font-size:0.85rem;color:var(--text-muted);font-weight:700">DISPATCH HOURS</div>
+                <div style="font-weight:700;color:var(--primary);font-size:1.05rem">
+                  {BUSINESS_INFO.hours}
+                </div>
+                <div style="color:var(--text-body);font-size:0.9rem">
+                  Continuous 24-hour phone support and technician dispatch
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Area Note -->
+          <div style="background:var(--secondary-light);border:1px solid rgba(22,135,217,0.3);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:2rem">
+            <h4 style="color:var(--primary);margin-bottom:0.4rem">Nationwide & California Service Areas</h4>
+            <p style="font-size:0.9rem;color:var(--text-body);margin:0 0 0.75rem">
+              We provide priority coverage across all 50 states, with specialized high-density fleets in California including Los Angeles, San Diego, San Jose, San Francisco, Fresno, and Sacramento.
+            </p>
+            <a href="/service-areas/" style="font-weight:700;color:var(--secondary);font-size:0.9rem">
+              View All Service Areas Directory →
+            </a>
+          </div>
+
+          <!-- Embedded Map -->
+          <div style="border-radius:var(--radius-md);overflow:hidden;border:1px solid var(--border-light);box-shadow:var(--shadow-sm);height:260px">
+            <iframe
+              title="Rapid Water Rescue Pros Headquarters Map"
+              width="100%"
+              height="100%"
+              style="border:0"
+              loading="lazy"
+              allowfullscreen
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.015705353846!2d-122.40243888468166!3d37.79251817975662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085806283db8567%3A0xb3a25b29db42a632!2s100%20Pine%20St%2C%20San%20Francisco%2C%20CA%2094111!5e0!3m2!1sen!2sus!4v1680000000000!5m2!1sen!2sus">
+            </iframe>
+          </div>
+        </div>
+
+        <!-- Contact Form -->
+        <ContactForm />
+      </div>
+    </div>
+  </section>
+
+  <!-- Pre-Contact FAQs -->
+  <FAQAccordion
+    title="Questions Before Reaching Out?"
+    subtitle="Common questions regarding dispatch, insurance coverage, and arrival times."
+    faqs={contactFaqs}
+  />
+
+  <CTABand headline="Need Urgent Water Extraction Now?" subtext="Call our live dispatch hotline directly. No automated menus. Instant response." />
+
+  <script type="application/ld+json" set:html={JSON.stringify(contactPageSchema)} />
+</BaseLayout>

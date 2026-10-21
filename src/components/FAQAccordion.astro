@@ -1,0 +1,78 @@
+---
+interface FAQ {
+  q: string;
+  a: string;
+}
+
+interface Props {
+  faqs: FAQ[];
+  title?: string;
+  subtitle?: string;
+}
+
+const {
+  faqs,
+  title = "Frequently Asked Questions",
+  subtitle = "Have questions about emergency water extraction, water heater removal, or insurance billing? Here are answers to common questions."
+} = Astro.props;
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map((f) => ({
+    "@type": "Question",
+    "name": f.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": f.a
+    }
+  }))
+};
+---
+
+<section class="section bg-light" id="faq">
+  <div class="container">
+    <div class="text-center section-header">
+      <span class="badge badge-secondary" style="margin-bottom:0.75rem">Help Center & FAQ</span>
+      <h2>{title}</h2>
+      {subtitle && <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">{subtitle}</p>}
+    </div>
+
+    <div class="faq-list">
+      {faqs.map((faq, index) => (
+        <div class={`faq-item ${index === 0 ? 'active' : ''}`}>
+          <button class="faq-question" aria-expanded={index === 0 ? "true" : "false"}>
+            <span>{faq.q}</span>
+            <span class="faq-icon">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>{faq.a}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+<script is:inline>
+  document.querySelectorAll('.faq-question').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const parent = btn.closest('.faq-item');
+      const isOpen = parent.classList.contains('active');
+      
+      // Close other accordions
+      document.querySelectorAll('.faq-item').forEach((item) => {
+        item.classList.remove('active');
+        const qBtn = item.querySelector('.faq-question');
+        if (qBtn) qBtn.setAttribute('aria-expanded', 'false');
+      });
+      
+      if (!isOpen) {
+        parent.classList.add('active');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+</script>

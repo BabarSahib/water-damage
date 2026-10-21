@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import TrustStrip from '../../components/TrustStrip.astro';
+import FAQAccordion from '../../components/FAQAccordion.astro';
+import CTABand from '../../components/CTABand.astro';
+import ContactForm from '../../components/ContactForm.astro';
+import { BUSINESS_INFO, SERVICES, GENERAL_FAQS, PROCESS_STEPS } from '../../data/siteData';
+
+const pageTitle = "Emergency Water Extraction & Mitigation Services | Rapid Water Rescue Pros";
+const pageDesc = "Explore our nationwide water mitigation services: water heater removal, 24/7 water extraction, flood cleanup, basement extraction, and structural drying.";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/services/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Services", url: "/services/" }
+  ]} />
+
+  <!-- Hero Banner -->
+  <section class="hero" style="padding:3.5rem 0">
+    <div class="container text-center">
+      <span class="badge badge-emergency" style="margin-bottom:1rem">Nationwide Solutions</span>
+      <h1>Our Water Extraction & Mitigation Services</h1>
+      <p class="hero-subtitle" style="max-width:750px;margin:0 auto 1.5rem">
+        From burst water heater tanks to storm flood water, our emergency dispatch units deploy specialized extraction pumps, structural drying equipment, and IICRC-certified technicians to restore your property.
+      </p>
+      <div style="display:flex;justify-content:center;gap:1rem;flex-wrap:wrap">
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency">
+          Call 24/7 Hotline: {BUSINESS_INFO.phoneFormatted}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Strip -->
+  <TrustStrip />
+
+  <!-- Complete Services Grid -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Full Service Line</span>
+        <h2>Specialized Water Damage & Removal Solutions</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          Every water emergency requires a tailored engineering response. Select any service below to explore procedures, equipment, and response times.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {SERVICES.map((s) => (
+          <div class="service-card">
+            <div class="service-icon-box">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>
+            </div>
+            <h3>{s.name}</h3>
+            <p>{s.shortDesc}</p>
+            <div style="margin-bottom:1.25rem">
+              <div style="font-size:0.85rem;font-weight:700;color:var(--primary);margin-bottom:0.4rem">Key Service Highlights:</div>
+              <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:0.35rem;font-size:0.85rem;color:var(--text-muted)">
+                {s.benefits.slice(0, 3).map((b) => (
+                  <li style="display:flex;align-items:center;gap:0.4rem">
+                    <span style="color:#10B981">✓</span> {b}
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <a href={`/services/${s.slug}/`} class="card-link">
+              <span>View Full Service Scope</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42L16.86 11H5v2z"/></svg>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Process -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Standardized Protocol</span>
+        <h2>Our 4-Step Emergency Response Process</h2>
+        <p style="max-width:600px;margin:0.5rem auto 0;color:var(--text-muted)">
+          How our dispatchers and field technicians coordinate your water damage mitigation from first call to final moisture clearance.
+        </p>
+      </div>
+
+      <div class="process-grid">
+        {PROCESS_STEPS.map((step) => (
+          <div class="process-step">
+            <div class="process-number">{step.step}</div>
+            <h3>{step.title}</h3>
+            <p>{step.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <FAQAccordion
+    title="Water Extraction & Service Delivery FAQs"
+    subtitle="Common questions regarding arrival times, equipment specifications, and property restoration."
+    faqs={GENERAL_FAQS}
+  />
+
+  <!-- CTA Band -->
+  <CTABand />
+
+  <!-- Contact Form & Map -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start">
+        <div>
+          <span class="badge badge-emergency" style="margin-bottom:0.5rem">Fast Dispatch</span>
+          <h2>Request Water Mitigation Services</h2>
+          <p style="color:var(--text-body);font-size:1.05rem;line-height:1.7;margin-bottom:1.5rem">
+            Whether your water heater just burst in your utility closet or severe weather inundated your basement, our dispatchers are standing by 24 hours a day.
+          </p>
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-md);padding:1.5rem">
+            <h4 style="margin-bottom:0.5rem">Nationwide Coordination Hub</h4>
+            <p style="font-size:0.92rem;color:var(--text-muted);margin-bottom:1rem">
+              Direct dispatch across all 50 states with specialized focus on California metropolitan centers.
+            </p>
+            <div style="font-size:0.9rem;display:flex;flex-direction:column;gap:0.4rem">
+              <div><strong>Hotline:</strong> {BUSINESS_INFO.phoneFormatted}</div>
+              <div><strong>Hours:</strong> Open 24/7/365</div>
+              <div><strong>Direct Insurance Billing:</strong> State Farm, Allstate, Travelers, USAA, and more.</div>
+            </div>
+          </div>
+        </div>
+        <ContactForm />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

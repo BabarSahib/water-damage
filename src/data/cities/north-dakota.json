@@ -1,0 +1,2618 @@
+{
+  "stateName": "North Dakota",
+  "stateCode": "ND",
+  "stateSlug": "north-dakota",
+  "cities": [
+    {
+      "name": "Abercrombie",
+      "slug": "abercrombie",
+      "county": "Richland County",
+      "lat": 46.447778,
+      "lng": -96.73
+    },
+    {
+      "name": "Absaraka",
+      "slug": "absaraka",
+      "county": "Cass County",
+      "lat": 47.014359,
+      "lng": -97.388769
+    },
+    {
+      "name": "Adams",
+      "slug": "adams",
+      "county": "Walsh County",
+      "lat": 48.422299,
+      "lng": -98.086741
+    },
+    {
+      "name": "Agate",
+      "slug": "agate",
+      "county": "Rolette County",
+      "lat": 48.622778,
+      "lng": -99.492778
+    },
+    {
+      "name": "Alamo",
+      "slug": "alamo",
+      "county": "Williams County",
+      "lat": 48.585803,
+      "lng": -103.422154
+    },
+    {
+      "name": "Alexander",
+      "slug": "alexander",
+      "county": "Mckenzie County",
+      "lat": 47.843517,
+      "lng": -103.63961
+    },
+    {
+      "name": "Almont",
+      "slug": "almont",
+      "county": "Morton County",
+      "lat": 46.704605,
+      "lng": -101.522126
+    },
+    {
+      "name": "Alsen",
+      "slug": "alsen",
+      "county": "Cavalier County",
+      "lat": 48.636847,
+      "lng": -98.622545
+    },
+    {
+      "name": "Ambrose",
+      "slug": "ambrose",
+      "county": "Divide County",
+      "lat": 48.817195,
+      "lng": -103.700676
+    },
+    {
+      "name": "Amenia",
+      "slug": "amenia",
+      "county": "Cass County",
+      "lat": 47.019395,
+      "lng": -97.204808
+    },
+    {
+      "name": "Amidon",
+      "slug": "amidon",
+      "county": "Slope County",
+      "lat": 46.455951,
+      "lng": -103.264741
+    },
+    {
+      "name": "Anamoose",
+      "slug": "anamoose",
+      "county": "Mchenry County",
+      "lat": 47.870307,
+      "lng": -100.252941
+    },
+    {
+      "name": "Aneta",
+      "slug": "aneta",
+      "county": "Nelson County",
+      "lat": 47.699262,
+      "lng": -97.981406
+    },
+    {
+      "name": "Antler",
+      "slug": "antler",
+      "county": "Bottineau County",
+      "lat": 48.958525,
+      "lng": -101.333758
+    },
+    {
+      "name": "Argusville",
+      "slug": "argusville",
+      "county": "Cass County",
+      "lat": 47.10664,
+      "lng": -96.905764
+    },
+    {
+      "name": "Arnegard",
+      "slug": "arnegard",
+      "county": "Mckenzie County",
+      "lat": 47.808832,
+      "lng": -103.453837
+    },
+    {
+      "name": "Arthur",
+      "slug": "arthur",
+      "county": "Cass County",
+      "lat": 47.104774,
+      "lng": -97.209737
+    },
+    {
+      "name": "Arvilla",
+      "slug": "arvilla",
+      "county": "Grand Forks County",
+      "lat": 47.909292,
+      "lng": -97.487124
+    },
+    {
+      "name": "Ashley",
+      "slug": "ashley",
+      "county": "Mcintosh County",
+      "lat": 46.053677,
+      "lng": -99.3164
+    },
+    {
+      "name": "Ayr",
+      "slug": "ayr",
+      "county": "Cass County",
+      "lat": 47.019576,
+      "lng": -97.572841
+    },
+    {
+      "name": "Baldwin",
+      "slug": "baldwin",
+      "county": "Burleigh County",
+      "lat": 46.954338,
+      "lng": -100.761464
+    },
+    {
+      "name": "Balfour",
+      "slug": "balfour",
+      "county": "Mchenry County",
+      "lat": 47.968451,
+      "lng": -100.520929
+    },
+    {
+      "name": "Balta",
+      "slug": "balta",
+      "county": "Pierce County",
+      "lat": 48.166667,
+      "lng": -100.036667
+    },
+    {
+      "name": "Bantry",
+      "slug": "bantry",
+      "county": "Mchenry County",
+      "lat": 48.511875,
+      "lng": -100.789445
+    },
+    {
+      "name": "Barney",
+      "slug": "barney",
+      "county": "Richland County",
+      "lat": 46.249621,
+      "lng": -96.970772
+    },
+    {
+      "name": "Bathgate",
+      "slug": "bathgate",
+      "county": "Pembina County",
+      "lat": 48.868632,
+      "lng": -97.483215
+    },
+    {
+      "name": "Beach",
+      "slug": "beach",
+      "county": "Golden Valley County",
+      "lat": 46.932381,
+      "lng": -103.98429
+    },
+    {
+      "name": "Belcourt",
+      "slug": "belcourt",
+      "county": "Rolette County",
+      "lat": 48.837862,
+      "lng": -99.768754
+    },
+    {
+      "name": "Belfield",
+      "slug": "belfield",
+      "county": "Stark County",
+      "lat": 46.887728,
+      "lng": -103.179515
+    },
+    {
+      "name": "Benedict",
+      "slug": "benedict",
+      "county": "Mclean County",
+      "lat": 47.786493,
+      "lng": -101.057884
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Lamoure County",
+      "lat": 46.400834,
+      "lng": -98.523342
+    },
+    {
+      "name": "Berthold",
+      "slug": "berthold",
+      "county": "Ward County",
+      "lat": 48.323399,
+      "lng": -101.800562
+    },
+    {
+      "name": "Beulah",
+      "slug": "beulah",
+      "county": "Mercer County",
+      "lat": 47.270664,
+      "lng": -101.807468
+    },
+    {
+      "name": "Binford",
+      "slug": "binford",
+      "county": "Griggs County",
+      "lat": 47.573899,
+      "lng": -98.354625
+    },
+    {
+      "name": "Bisbee",
+      "slug": "bisbee",
+      "county": "Towner County",
+      "lat": 48.555196,
+      "lng": -99.363592
+    },
+    {
+      "name": "Bismarck",
+      "slug": "bismarck",
+      "county": "Burleigh County",
+      "lat": 46.823448,
+      "lng": -100.774755
+    },
+    {
+      "name": "Blanchard",
+      "slug": "blanchard",
+      "county": "Traill County",
+      "lat": 47.353664,
+      "lng": -97.262079
+    },
+    {
+      "name": "Bottineau",
+      "slug": "bottineau",
+      "county": "Bottineau County",
+      "lat": 48.845137,
+      "lng": -100.432894
+    },
+    {
+      "name": "Bowbells",
+      "slug": "bowbells",
+      "county": "Burke County",
+      "lat": 48.796803,
+      "lng": -102.247271
+    },
+    {
+      "name": "Bowdon",
+      "slug": "bowdon",
+      "county": "Wells County",
+      "lat": 47.434318,
+      "lng": -99.701532
+    },
+    {
+      "name": "Bowman",
+      "slug": "bowman",
+      "county": "Bowman County",
+      "lat": 46.173316,
+      "lng": -103.401965
+    },
+    {
+      "name": "Braddock",
+      "slug": "braddock",
+      "county": "Emmons County",
+      "lat": 46.549885,
+      "lng": -100.241577
+    },
+    {
+      "name": "Bremen",
+      "slug": "bremen",
+      "county": "Wells County",
+      "lat": 47.727212,
+      "lng": -99.371564
+    },
+    {
+      "name": "Brocket",
+      "slug": "brocket",
+      "county": "Ramsey County",
+      "lat": 48.225527,
+      "lng": -98.355854
+    },
+    {
+      "name": "Buchanan",
+      "slug": "buchanan",
+      "county": "Stutsman County",
+      "lat": 47.040917,
+      "lng": -98.811158
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Cass County",
+      "lat": 46.926351,
+      "lng": -97.535159
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Ward County",
+      "lat": 48.273534,
+      "lng": -101.428205
+    },
+    {
+      "name": "Butte",
+      "slug": "butte",
+      "county": "Mclean County",
+      "lat": 47.811884,
+      "lng": -100.660446
+    },
+    {
+      "name": "Buxton",
+      "slug": "buxton",
+      "county": "Traill County",
+      "lat": 47.616314,
+      "lng": -97.089259
+    },
+    {
+      "name": "Caledonia",
+      "slug": "caledonia",
+      "county": "Traill County",
+      "lat": 47.457645,
+      "lng": -96.908476
+    },
+    {
+      "name": "Calvin",
+      "slug": "calvin",
+      "county": "Cavalier County",
+      "lat": 48.80843,
+      "lng": -98.924236
+    },
+    {
+      "name": "Cando",
+      "slug": "cando",
+      "county": "Towner County",
+      "lat": 48.485479,
+      "lng": -99.194553
+    },
+    {
+      "name": "Cannon Ball",
+      "slug": "cannon-ball",
+      "county": "Sioux County",
+      "lat": 46.387446,
+      "lng": -100.59749
+    },
+    {
+      "name": "Carpio",
+      "slug": "carpio",
+      "county": "Ward County",
+      "lat": 48.432299,
+      "lng": -101.711943
+    },
+    {
+      "name": "Carrington",
+      "slug": "carrington",
+      "county": "Foster County",
+      "lat": 47.453918,
+      "lng": -99.108226
+    },
+    {
+      "name": "Carson",
+      "slug": "carson",
+      "county": "Grant County",
+      "lat": 46.462389,
+      "lng": -101.538725
+    },
+    {
+      "name": "Cartwright",
+      "slug": "cartwright",
+      "county": "Mckenzie County",
+      "lat": 47.79922,
+      "lng": -103.948718
+    },
+    {
+      "name": "Casselton",
+      "slug": "casselton",
+      "county": "Cass County",
+      "lat": 46.899195,
+      "lng": -97.213821
+    },
+    {
+      "name": "Cathay",
+      "slug": "cathay",
+      "county": "Wells County",
+      "lat": 47.549857,
+      "lng": -99.429677
+    },
+    {
+      "name": "Cavalier",
+      "slug": "cavalier",
+      "county": "Pembina County",
+      "lat": 48.794341,
+      "lng": -97.657191
+    },
+    {
+      "name": "Cayuga",
+      "slug": "cayuga",
+      "county": "Sargent County",
+      "lat": 46.132589,
+      "lng": -97.405941
+    },
+    {
+      "name": "Center",
+      "slug": "center",
+      "county": "Oliver County",
+      "lat": 47.121912,
+      "lng": -101.328643
+    },
+    {
+      "name": "Chaseley",
+      "slug": "chaseley",
+      "county": "Wells County",
+      "lat": 47.449018,
+      "lng": -99.824082
+    },
+    {
+      "name": "Christine",
+      "slug": "christine",
+      "county": "Richland County",
+      "lat": 46.552157,
+      "lng": -96.790882
+    },
+    {
+      "name": "Churchs Ferry",
+      "slug": "churchs-ferry",
+      "county": "Ramsey County",
+      "lat": 48.286206,
+      "lng": -99.141187
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Stutsman County",
+      "lat": 46.883242,
+      "lng": -99.086596
+    },
+    {
+      "name": "Clifford",
+      "slug": "clifford",
+      "county": "Traill County",
+      "lat": 47.356946,
+      "lng": -97.409961
+    },
+    {
+      "name": "Cogswell",
+      "slug": "cogswell",
+      "county": "Sargent County",
+      "lat": 46.089106,
+      "lng": -97.809543
+    },
+    {
+      "name": "Coleharbor",
+      "slug": "coleharbor",
+      "county": "Mclean County",
+      "lat": 47.519559,
+      "lng": -101.233198
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Richland County",
+      "lat": 46.497153,
+      "lng": -96.979001
+    },
+    {
+      "name": "Columbus",
+      "slug": "columbus",
+      "county": "Burke County",
+      "lat": 48.878875,
+      "lng": -102.794848
+    },
+    {
+      "name": "Cooperstown",
+      "slug": "cooperstown",
+      "county": "Griggs County",
+      "lat": 47.452732,
+      "lng": -98.153332
+    },
+    {
+      "name": "Courtenay",
+      "slug": "courtenay",
+      "county": "Stutsman County",
+      "lat": 47.227195,
+      "lng": -98.54885
+    },
+    {
+      "name": "Crary",
+      "slug": "crary",
+      "county": "Ramsey County",
+      "lat": 48.053028,
+      "lng": -98.621236
+    },
+    {
+      "name": "Crosby",
+      "slug": "crosby",
+      "county": "Divide County",
+      "lat": 48.883551,
+      "lng": -103.274023
+    },
+    {
+      "name": "Crystal",
+      "slug": "crystal",
+      "county": "Pembina County",
+      "lat": 48.592387,
+      "lng": -97.673846
+    },
+    {
+      "name": "Cummings",
+      "slug": "cummings",
+      "county": "Traill County",
+      "lat": 47.537023,
+      "lng": -96.991287
+    },
+    {
+      "name": "Dahlen",
+      "slug": "dahlen",
+      "county": "Nelson County",
+      "lat": 48.159896,
+      "lng": -97.957269
+    },
+    {
+      "name": "Davenport",
+      "slug": "davenport",
+      "county": "Cass County",
+      "lat": 46.696811,
+      "lng": -97.087073
+    },
+    {
+      "name": "Dawson",
+      "slug": "dawson",
+      "county": "Kidder County",
+      "lat": 46.829612,
+      "lng": -99.763544
+    },
+    {
+      "name": "Dazey",
+      "slug": "dazey",
+      "county": "Barnes County",
+      "lat": 47.195503,
+      "lng": -98.143863
+    },
+    {
+      "name": "Deering",
+      "slug": "deering",
+      "county": "Mchenry County",
+      "lat": 48.405693,
+      "lng": -101.033685
+    },
+    {
+      "name": "Denhoff",
+      "slug": "denhoff",
+      "county": "Sheridan County",
+      "lat": 47.570905,
+      "lng": -100.263037
+    },
+    {
+      "name": "Des Lacs",
+      "slug": "des-lacs",
+      "county": "Ward County",
+      "lat": 48.25569,
+      "lng": -101.567167
+    },
+    {
+      "name": "Devils Lake",
+      "slug": "devils-lake",
+      "county": "Ramsey County",
+      "lat": 48.113162,
+      "lng": -98.861588
+    },
+    {
+      "name": "Dickey",
+      "slug": "dickey",
+      "county": "Lamoure County",
+      "lat": 46.542565,
+      "lng": -98.468212
+    },
+    {
+      "name": "Dickinson",
+      "slug": "dickinson",
+      "county": "Stark County",
+      "lat": 46.887289,
+      "lng": -102.787595
+    },
+    {
+      "name": "Dodge",
+      "slug": "dodge",
+      "county": "Dunn County",
+      "lat": 47.304893,
+      "lng": -102.198505
+    },
+    {
+      "name": "Donnybrook",
+      "slug": "donnybrook",
+      "county": "Ward County",
+      "lat": 48.490015,
+      "lng": -101.896039
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Ward County",
+      "lat": 47.865914,
+      "lng": -101.511218
+    },
+    {
+      "name": "Drake",
+      "slug": "drake",
+      "county": "Mchenry County",
+      "lat": 47.902431,
+      "lng": -100.378955
+    },
+    {
+      "name": "Drayton",
+      "slug": "drayton",
+      "county": "Pembina County",
+      "lat": 48.578569,
+      "lng": -97.199222
+    },
+    {
+      "name": "Driscoll",
+      "slug": "driscoll",
+      "county": "Burleigh County",
+      "lat": 46.851139,
+      "lng": -100.144063
+    },
+    {
+      "name": "Dunn Center",
+      "slug": "dunn-center",
+      "county": "Dunn County",
+      "lat": 47.345265,
+      "lng": -102.589198
+    },
+    {
+      "name": "Dunseith",
+      "slug": "dunseith",
+      "county": "Rolette County",
+      "lat": 48.84801,
+      "lng": -100.031105
+    },
+    {
+      "name": "Edgeley",
+      "slug": "edgeley",
+      "county": "Lamoure County",
+      "lat": 46.324969,
+      "lng": -98.708346
+    },
+    {
+      "name": "Edinburg",
+      "slug": "edinburg",
+      "county": "Walsh County",
+      "lat": 48.490164,
+      "lng": -97.890188
+    },
+    {
+      "name": "Edmore",
+      "slug": "edmore",
+      "county": "Ramsey County",
+      "lat": 48.43084,
+      "lng": -98.445756
+    },
+    {
+      "name": "Egeland",
+      "slug": "egeland",
+      "county": "Towner County",
+      "lat": 48.635537,
+      "lng": -99.111475
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Grant County",
+      "lat": 46.411346,
+      "lng": -101.835145
+    },
+    {
+      "name": "Ellendale",
+      "slug": "ellendale",
+      "county": "Dickey County",
+      "lat": 46.007317,
+      "lng": -98.51383
+    },
+    {
+      "name": "Emerado",
+      "slug": "emerado",
+      "county": "Grand Forks County",
+      "lat": 47.921376,
+      "lng": -97.263012
+    },
+    {
+      "name": "Enderlin",
+      "slug": "enderlin",
+      "county": "Ransom County",
+      "lat": 46.607898,
+      "lng": -97.610554
+    },
+    {
+      "name": "Epping",
+      "slug": "epping",
+      "county": "Williams County",
+      "lat": 48.260088,
+      "lng": -103.372462
+    },
+    {
+      "name": "Erie",
+      "slug": "erie",
+      "county": "Cass County",
+      "lat": 47.112803,
+      "lng": -97.384851
+    },
+    {
+      "name": "Esmond",
+      "slug": "esmond",
+      "county": "Benson County",
+      "lat": 48.072022,
+      "lng": -99.703388
+    },
+    {
+      "name": "Fairdale",
+      "slug": "fairdale",
+      "county": "Walsh County",
+      "lat": 48.481924,
+      "lng": -98.206587
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Billings County",
+      "lat": 47.118004,
+      "lng": -103.222328
+    },
+    {
+      "name": "Fairmount",
+      "slug": "fairmount",
+      "county": "Richland County",
+      "lat": 46.042658,
+      "lng": -96.630811
+    },
+    {
+      "name": "Fargo",
+      "slug": "fargo",
+      "county": "Cass County",
+      "lat": 46.900878,
+      "lng": -96.793577
+    },
+    {
+      "name": "Fessenden",
+      "slug": "fessenden",
+      "county": "Wells County",
+      "lat": 47.628644,
+      "lng": -99.643361
+    },
+    {
+      "name": "Fingal",
+      "slug": "fingal",
+      "county": "Barnes County",
+      "lat": 46.772754,
+      "lng": -97.781198
+    },
+    {
+      "name": "Finley",
+      "slug": "finley",
+      "county": "Steele County",
+      "lat": 47.530611,
+      "lng": -97.744242
+    },
+    {
+      "name": "Flasher",
+      "slug": "flasher",
+      "county": "Morton County",
+      "lat": 46.465133,
+      "lng": -101.151681
+    },
+    {
+      "name": "Flaxton",
+      "slug": "flaxton",
+      "county": "Burke County",
+      "lat": 48.917672,
+      "lng": -102.341502
+    },
+    {
+      "name": "Forbes",
+      "slug": "forbes",
+      "county": "Dickey County",
+      "lat": 46.010926,
+      "lng": -98.812414
+    },
+    {
+      "name": "Fordville",
+      "slug": "fordville",
+      "county": "Walsh County",
+      "lat": 48.22119,
+      "lng": -97.802238
+    },
+    {
+      "name": "Forest River",
+      "slug": "forest-river",
+      "county": "Walsh County",
+      "lat": 48.225094,
+      "lng": -97.460476
+    },
+    {
+      "name": "Forman",
+      "slug": "forman",
+      "county": "Sargent County",
+      "lat": 46.072075,
+      "lng": -97.698643
+    },
+    {
+      "name": "Fort Ransom",
+      "slug": "fort-ransom",
+      "county": "Ransom County",
+      "lat": 46.478188,
+      "lng": -97.905482
+    },
+    {
+      "name": "Fort Totten",
+      "slug": "fort-totten",
+      "county": "Benson County",
+      "lat": 47.98,
+      "lng": -98.9925
+    },
+    {
+      "name": "Fort Yates",
+      "slug": "fort-yates",
+      "county": "Sioux County",
+      "lat": 46.09054,
+      "lng": -100.651611
+    },
+    {
+      "name": "Fortuna",
+      "slug": "fortuna",
+      "county": "Divide County",
+      "lat": 48.924646,
+      "lng": -103.828955
+    },
+    {
+      "name": "Fredonia",
+      "slug": "fredonia",
+      "county": "Logan County",
+      "lat": 46.353456,
+      "lng": -99.262818
+    },
+    {
+      "name": "Fullerton",
+      "slug": "fullerton",
+      "county": "Dickey County",
+      "lat": 46.195138,
+      "lng": -98.388219
+    },
+    {
+      "name": "Gackle",
+      "slug": "gackle",
+      "county": "Logan County",
+      "lat": 46.591263,
+      "lng": -99.219056
+    },
+    {
+      "name": "Galesburg",
+      "slug": "galesburg",
+      "county": "Traill County",
+      "lat": 47.27779,
+      "lng": -97.374599
+    },
+    {
+      "name": "Gardner",
+      "slug": "gardner",
+      "county": "Cass County",
+      "lat": 47.1252,
+      "lng": -96.990116
+    },
+    {
+      "name": "Garrison",
+      "slug": "garrison",
+      "county": "Mclean County",
+      "lat": 47.655219,
+      "lng": -101.398325
+    },
+    {
+      "name": "Gilby",
+      "slug": "gilby",
+      "county": "Grand Forks County",
+      "lat": 48.077082,
+      "lng": -97.463299
+    },
+    {
+      "name": "Gladstone",
+      "slug": "gladstone",
+      "county": "Stark County",
+      "lat": 46.815162,
+      "lng": -102.527379
+    },
+    {
+      "name": "Glasston",
+      "slug": "glasston",
+      "county": "Pembina County",
+      "lat": 48.705833,
+      "lng": -97.447222
+    },
+    {
+      "name": "Glen Ullin",
+      "slug": "glen-ullin",
+      "county": "Morton County",
+      "lat": 46.823301,
+      "lng": -101.822293
+    },
+    {
+      "name": "Glenburn",
+      "slug": "glenburn",
+      "county": "Renville County",
+      "lat": 48.507978,
+      "lng": -101.31955
+    },
+    {
+      "name": "Glenfield",
+      "slug": "glenfield",
+      "county": "Foster County",
+      "lat": 47.443185,
+      "lng": -98.663951
+    },
+    {
+      "name": "Golden Valley",
+      "slug": "golden-valley",
+      "county": "Mercer County",
+      "lat": 47.293754,
+      "lng": -102.061229
+    },
+    {
+      "name": "Golva",
+      "slug": "golva",
+      "county": "Golden Valley County",
+      "lat": 46.7075,
+      "lng": -103.957545
+    },
+    {
+      "name": "Goodrich",
+      "slug": "goodrich",
+      "county": "Sheridan County",
+      "lat": 47.471048,
+      "lng": -100.118979
+    },
+    {
+      "name": "Grace City",
+      "slug": "grace-city",
+      "county": "Foster County",
+      "lat": 47.55358,
+      "lng": -98.809465
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Walsh County",
+      "lat": 48.410783,
+      "lng": -97.415895
+    },
+    {
+      "name": "Grand Forks",
+      "slug": "grand-forks",
+      "county": "Grand Forks County",
+      "lat": 47.901041,
+      "lng": -97.04463
+    },
+    {
+      "name": "Grand Forks Afb",
+      "slug": "grand-forks-afb",
+      "county": "Grand Forks County",
+      "lat": 47.9582,
+      "lng": -97.3688
+    },
+    {
+      "name": "Grandin",
+      "slug": "grandin",
+      "county": "Cass County",
+      "lat": 47.215769,
+      "lng": -97.020676
+    },
+    {
+      "name": "Granville",
+      "slug": "granville",
+      "county": "Mchenry County",
+      "lat": 48.256575,
+      "lng": -100.808193
+    },
+    {
+      "name": "Grassy Butte",
+      "slug": "grassy-butte",
+      "county": "Mckenzie County",
+      "lat": 47.443072,
+      "lng": -103.294433
+    },
+    {
+      "name": "Grenora",
+      "slug": "grenora",
+      "county": "Williams County",
+      "lat": 48.613946,
+      "lng": -103.929128
+    },
+    {
+      "name": "Gwinner",
+      "slug": "gwinner",
+      "county": "Sargent County",
+      "lat": 46.230455,
+      "lng": -97.866853
+    },
+    {
+      "name": "Hague",
+      "slug": "hague",
+      "county": "Emmons County",
+      "lat": 46.058896,
+      "lng": -99.974507
+    },
+    {
+      "name": "Halliday",
+      "slug": "halliday",
+      "county": "Dunn County",
+      "lat": 47.367752,
+      "lng": -102.319286
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "county": "Pembina County",
+      "lat": 48.794249,
+      "lng": -97.469302
+    },
+    {
+      "name": "Hampden",
+      "slug": "hampden",
+      "county": "Ramsey County",
+      "lat": 48.522892,
+      "lng": -98.654316
+    },
+    {
+      "name": "Hankinson",
+      "slug": "hankinson",
+      "county": "Richland County",
+      "lat": 46.055797,
+      "lng": -96.899069
+    },
+    {
+      "name": "Hannaford",
+      "slug": "hannaford",
+      "county": "Griggs County",
+      "lat": 47.299693,
+      "lng": -98.15718
+    },
+    {
+      "name": "Hannah",
+      "slug": "hannah",
+      "county": "Cavalier County",
+      "lat": 48.959446,
+      "lng": -98.723693
+    },
+    {
+      "name": "Hansboro",
+      "slug": "hansboro",
+      "county": "Towner County",
+      "lat": 48.86648,
+      "lng": -99.383259
+    },
+    {
+      "name": "Harvey",
+      "slug": "harvey",
+      "county": "Wells County",
+      "lat": 47.768121,
+      "lng": -99.932941
+    },
+    {
+      "name": "Harwood",
+      "slug": "harwood",
+      "county": "Cass County",
+      "lat": 46.996497,
+      "lng": -96.900973
+    },
+    {
+      "name": "Hatton",
+      "slug": "hatton",
+      "county": "Traill County",
+      "lat": 47.638012,
+      "lng": -97.432548
+    },
+    {
+      "name": "Havana",
+      "slug": "havana",
+      "county": "Sargent County",
+      "lat": 45.964413,
+      "lng": -97.60945
+    },
+    {
+      "name": "Hazelton",
+      "slug": "hazelton",
+      "county": "Emmons County",
+      "lat": 46.487477,
+      "lng": -100.273325
+    },
+    {
+      "name": "Hazen",
+      "slug": "hazen",
+      "county": "Mercer County",
+      "lat": 47.327138,
+      "lng": -101.610695
+    },
+    {
+      "name": "Hebron",
+      "slug": "hebron",
+      "county": "Morton County",
+      "lat": 46.893613,
+      "lng": -102.036678
+    },
+    {
+      "name": "Hensel",
+      "slug": "hensel",
+      "county": "Pembina County",
+      "lat": 48.673836,
+      "lng": -97.596223
+    },
+    {
+      "name": "Hettinger",
+      "slug": "hettinger",
+      "county": "Adams County",
+      "lat": 46.027869,
+      "lng": -102.584516
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Traill County",
+      "lat": 47.394168,
+      "lng": -97.056024
+    },
+    {
+      "name": "Hoople",
+      "slug": "hoople",
+      "county": "Walsh County",
+      "lat": 48.51981,
+      "lng": -97.618333
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Steele County",
+      "lat": 47.19995,
+      "lng": -97.784865
+    },
+    {
+      "name": "Horace",
+      "slug": "horace",
+      "county": "Cass County",
+      "lat": 46.739267,
+      "lng": -96.860941
+    },
+    {
+      "name": "Hunter",
+      "slug": "hunter",
+      "county": "Cass County",
+      "lat": 47.19132,
+      "lng": -97.251648
+    },
+    {
+      "name": "Hurdsfield",
+      "slug": "hurdsfield",
+      "county": "Wells County",
+      "lat": 47.438733,
+      "lng": -99.94165
+    },
+    {
+      "name": "Inkster",
+      "slug": "inkster",
+      "county": "Grand Forks County",
+      "lat": 48.118654,
+      "lng": -97.681302
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Stutsman County",
+      "lat": 46.905899,
+      "lng": -98.706127
+    },
+    {
+      "name": "Jessie",
+      "slug": "jessie",
+      "county": "Griggs County",
+      "lat": 47.542222,
+      "lng": -98.237778
+    },
+    {
+      "name": "Jud",
+      "slug": "jud",
+      "county": "Lamoure County",
+      "lat": 46.500996,
+      "lng": -98.807661
+    },
+    {
+      "name": "Karlsruhe",
+      "slug": "karlsruhe",
+      "county": "Mchenry County",
+      "lat": 48.10085,
+      "lng": -100.574158
+    },
+    {
+      "name": "Kathryn",
+      "slug": "kathryn",
+      "county": "Barnes County",
+      "lat": 46.705548,
+      "lng": -97.999791
+    },
+    {
+      "name": "Keene",
+      "slug": "keene",
+      "county": "Mckenzie County",
+      "lat": 47.940516,
+      "lng": -102.890567
+    },
+    {
+      "name": "Kenmare",
+      "slug": "kenmare",
+      "county": "Ward County",
+      "lat": 48.673149,
+      "lng": -102.071745
+    },
+    {
+      "name": "Kensal",
+      "slug": "kensal",
+      "county": "Stutsman County",
+      "lat": 47.272609,
+      "lng": -98.720579
+    },
+    {
+      "name": "Killdeer",
+      "slug": "killdeer",
+      "county": "Dunn County",
+      "lat": 47.410898,
+      "lng": -102.776242
+    },
+    {
+      "name": "Kindred",
+      "slug": "kindred",
+      "county": "Cass County",
+      "lat": 46.654296,
+      "lng": -97.004919
+    },
+    {
+      "name": "Kintyre",
+      "slug": "kintyre",
+      "county": "Emmons County",
+      "lat": 46.573573,
+      "lng": -99.970462
+    },
+    {
+      "name": "Knox",
+      "slug": "knox",
+      "county": "Benson County",
+      "lat": 48.338812,
+      "lng": -99.671274
+    },
+    {
+      "name": "Kramer",
+      "slug": "kramer",
+      "county": "Bottineau County",
+      "lat": 48.686666,
+      "lng": -100.671638
+    },
+    {
+      "name": "Kulm",
+      "slug": "kulm",
+      "county": "Lamoure County",
+      "lat": 46.307274,
+      "lng": -98.942724
+    },
+    {
+      "name": "Lakota",
+      "slug": "lakota",
+      "county": "Nelson County",
+      "lat": 48.035714,
+      "lng": -98.341548
+    },
+    {
+      "name": "Lamoure",
+      "slug": "lamoure",
+      "county": "Lamoure County",
+      "lat": 46.361961,
+      "lng": -98.30022
+    },
+    {
+      "name": "Langdon",
+      "slug": "langdon",
+      "county": "Cavalier County",
+      "lat": 48.786562,
+      "lng": -98.35662
+    },
+    {
+      "name": "Lankin",
+      "slug": "lankin",
+      "county": "Walsh County",
+      "lat": 48.295233,
+      "lng": -98.006997
+    },
+    {
+      "name": "Lansford",
+      "slug": "lansford",
+      "county": "Bottineau County",
+      "lat": 48.625419,
+      "lng": -101.385825
+    },
+    {
+      "name": "Larimore",
+      "slug": "larimore",
+      "county": "Grand Forks County",
+      "lat": 47.904048,
+      "lng": -97.651792
+    },
+    {
+      "name": "Lawton",
+      "slug": "lawton",
+      "county": "Ramsey County",
+      "lat": 48.30326,
+      "lng": -98.414199
+    },
+    {
+      "name": "Leeds",
+      "slug": "leeds",
+      "county": "Benson County",
+      "lat": 48.26681,
+      "lng": -99.440123
+    },
+    {
+      "name": "Lefor",
+      "slug": "lefor",
+      "county": "Stark County",
+      "lat": 46.725264,
+      "lng": -102.764292
+    },
+    {
+      "name": "Lehr",
+      "slug": "lehr",
+      "county": "Mcintosh County",
+      "lat": 46.258638,
+      "lng": -99.349136
+    },
+    {
+      "name": "Leonard",
+      "slug": "leonard",
+      "county": "Cass County",
+      "lat": 46.659324,
+      "lng": -97.272488
+    },
+    {
+      "name": "Lidgerwood",
+      "slug": "lidgerwood",
+      "county": "Richland County",
+      "lat": 46.073885,
+      "lng": -97.144429
+    },
+    {
+      "name": "Lignite",
+      "slug": "lignite",
+      "county": "Burke County",
+      "lat": 48.848113,
+      "lng": -102.554177
+    },
+    {
+      "name": "Linton",
+      "slug": "linton",
+      "county": "Emmons County",
+      "lat": 46.286924,
+      "lng": -100.215832
+    },
+    {
+      "name": "Lisbon",
+      "slug": "lisbon",
+      "county": "Ransom County",
+      "lat": 46.420133,
+      "lng": -97.658895
+    },
+    {
+      "name": "Litchville",
+      "slug": "litchville",
+      "county": "Barnes County",
+      "lat": 46.688788,
+      "lng": -98.20327
+    },
+    {
+      "name": "Luverne",
+      "slug": "luverne",
+      "county": "Steele County",
+      "lat": 47.315052,
+      "lng": -97.729622
+    },
+    {
+      "name": "Maddock",
+      "slug": "maddock",
+      "county": "Benson County",
+      "lat": 47.95074,
+      "lng": -99.543061
+    },
+    {
+      "name": "Maida",
+      "slug": "maida",
+      "county": "Cavalier County",
+      "lat": 48.949043,
+      "lng": -98.394826
+    },
+    {
+      "name": "Makoti",
+      "slug": "makoti",
+      "county": "Ward County",
+      "lat": 47.985283,
+      "lng": -101.814942
+    },
+    {
+      "name": "Mandan",
+      "slug": "mandan",
+      "county": "Morton County",
+      "lat": 46.830649,
+      "lng": -100.909175
+    },
+    {
+      "name": "Mandaree",
+      "slug": "mandaree",
+      "county": "Mckenzie County",
+      "lat": 47.856744,
+      "lng": -102.653473
+    },
+    {
+      "name": "Manning",
+      "slug": "manning",
+      "county": "Dunn County",
+      "lat": 47.125837,
+      "lng": -102.680638
+    },
+    {
+      "name": "Mantador",
+      "slug": "mantador",
+      "county": "Richland County",
+      "lat": 46.159935,
+      "lng": -96.957004
+    },
+    {
+      "name": "Manvel",
+      "slug": "manvel",
+      "county": "Grand Forks County",
+      "lat": 48.085314,
+      "lng": -97.194332
+    },
+    {
+      "name": "Mapleton",
+      "slug": "mapleton",
+      "county": "Cass County",
+      "lat": 46.867546,
+      "lng": -97.051366
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Lamoure County",
+      "lat": 46.571587,
+      "lng": -98.253327
+    },
+    {
+      "name": "Marmarth",
+      "slug": "marmarth",
+      "county": "Slope County",
+      "lat": 46.325396,
+      "lng": -103.88
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Dunn County",
+      "lat": 47.138056,
+      "lng": -102.3325
+    },
+    {
+      "name": "Martin",
+      "slug": "martin",
+      "county": "Sheridan County",
+      "lat": 47.778144,
+      "lng": -100.122517
+    },
+    {
+      "name": "Max",
+      "slug": "max",
+      "county": "Mclean County",
+      "lat": 47.815577,
+      "lng": -101.293166
+    },
+    {
+      "name": "Maxbass",
+      "slug": "maxbass",
+      "county": "Bottineau County",
+      "lat": 48.772163,
+      "lng": -101.256328
+    },
+    {
+      "name": "Mayville",
+      "slug": "mayville",
+      "county": "Traill County",
+      "lat": 47.50138,
+      "lng": -97.317645
+    },
+    {
+      "name": "Mcclusky",
+      "slug": "mcclusky",
+      "county": "Sheridan County",
+      "lat": 47.489639,
+      "lng": -100.451966
+    },
+    {
+      "name": "Mcgregor",
+      "slug": "mcgregor",
+      "county": "Williams County",
+      "lat": 48.594983,
+      "lng": -102.928795
+    },
+    {
+      "name": "Mchenry",
+      "slug": "mchenry",
+      "county": "Foster County",
+      "lat": 47.560416,
+      "lng": -98.572594
+    },
+    {
+      "name": "Mcleod",
+      "slug": "mcleod",
+      "county": "Richland County",
+      "lat": 46.41027,
+      "lng": -97.313892
+    },
+    {
+      "name": "Mcville",
+      "slug": "mcville",
+      "county": "Nelson County",
+      "lat": 47.778981,
+      "lng": -98.162999
+    },
+    {
+      "name": "Medina",
+      "slug": "medina",
+      "county": "Stutsman County",
+      "lat": 46.891951,
+      "lng": -99.310556
+    },
+    {
+      "name": "Medora",
+      "slug": "medora",
+      "county": "Billings County",
+      "lat": 46.845771,
+      "lng": -103.421011
+    },
+    {
+      "name": "Mekinock",
+      "slug": "mekinock",
+      "county": "Grand Forks County",
+      "lat": 47.980909,
+      "lng": -97.489593
+    },
+    {
+      "name": "Menoken",
+      "slug": "menoken",
+      "county": "Burleigh County",
+      "lat": 46.861032,
+      "lng": -100.527488
+    },
+    {
+      "name": "Mercer",
+      "slug": "mercer",
+      "county": "Mclean County",
+      "lat": 47.485792,
+      "lng": -100.717079
+    },
+    {
+      "name": "Michigan",
+      "slug": "michigan",
+      "county": "Nelson County",
+      "lat": 48.04144,
+      "lng": -98.124243
+    },
+    {
+      "name": "Milnor",
+      "slug": "milnor",
+      "county": "Sargent County",
+      "lat": 46.255074,
+      "lng": -97.433724
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Cavalier County",
+      "lat": 48.616963,
+      "lng": -98.018285
+    },
+    {
+      "name": "Minnewaukan",
+      "slug": "minnewaukan",
+      "county": "Benson County",
+      "lat": 48.069777,
+      "lng": -99.274323
+    },
+    {
+      "name": "Minot",
+      "slug": "minot",
+      "county": "Ward County",
+      "lat": 48.22914,
+      "lng": -101.298476
+    },
+    {
+      "name": "Minot Afb",
+      "slug": "minot-afb",
+      "county": "Ward County",
+      "lat": 48.423217,
+      "lng": -101.31678
+    },
+    {
+      "name": "Minto",
+      "slug": "minto",
+      "county": "Walsh County",
+      "lat": 48.298874,
+      "lng": -97.333727
+    },
+    {
+      "name": "Moffit",
+      "slug": "moffit",
+      "county": "Burleigh County",
+      "lat": 46.675725,
+      "lng": -100.297538
+    },
+    {
+      "name": "Mohall",
+      "slug": "mohall",
+      "county": "Renville County",
+      "lat": 48.765814,
+      "lng": -101.554512
+    },
+    {
+      "name": "Montpelier",
+      "slug": "montpelier",
+      "county": "Stutsman County",
+      "lat": 46.654218,
+      "lng": -98.597647
+    },
+    {
+      "name": "Mooreton",
+      "slug": "mooreton",
+      "county": "Richland County",
+      "lat": 46.261537,
+      "lng": -96.850726
+    },
+    {
+      "name": "Mott",
+      "slug": "mott",
+      "county": "Hettinger County",
+      "lat": 46.401095,
+      "lng": -102.312935
+    },
+    {
+      "name": "Mountain",
+      "slug": "mountain",
+      "county": "Pembina County",
+      "lat": 48.677341,
+      "lng": -97.807569
+    },
+    {
+      "name": "Munich",
+      "slug": "munich",
+      "county": "Cavalier County",
+      "lat": 48.654605,
+      "lng": -98.842646
+    },
+    {
+      "name": "Mylo",
+      "slug": "mylo",
+      "county": "Rolette County",
+      "lat": 48.635981,
+      "lng": -99.632878
+    },
+    {
+      "name": "Napoleon",
+      "slug": "napoleon",
+      "county": "Logan County",
+      "lat": 46.486724,
+      "lng": -99.77253
+    },
+    {
+      "name": "Neche",
+      "slug": "neche",
+      "county": "Pembina County",
+      "lat": 48.979567,
+      "lng": -97.542687
+    },
+    {
+      "name": "Nekoma",
+      "slug": "nekoma",
+      "county": "Cavalier County",
+      "lat": 48.578333,
+      "lng": -98.371667
+    },
+    {
+      "name": "New England",
+      "slug": "new-england",
+      "county": "Hettinger County",
+      "lat": 46.512841,
+      "lng": -102.835816
+    },
+    {
+      "name": "New Leipzig",
+      "slug": "new-leipzig",
+      "county": "Grant County",
+      "lat": 46.374448,
+      "lng": -101.89369
+    },
+    {
+      "name": "New Rockford",
+      "slug": "new-rockford",
+      "county": "Eddy County",
+      "lat": 47.679385,
+      "lng": -99.078007
+    },
+    {
+      "name": "New Salem",
+      "slug": "new-salem",
+      "county": "Morton County",
+      "lat": 46.851248,
+      "lng": -101.424453
+    },
+    {
+      "name": "New Town",
+      "slug": "new-town",
+      "county": "Mountrail County",
+      "lat": 47.977154,
+      "lng": -102.485793
+    },
+    {
+      "name": "Newburg",
+      "slug": "newburg",
+      "county": "Bottineau County",
+      "lat": 48.698192,
+      "lng": -100.968056
+    },
+    {
+      "name": "Niagara",
+      "slug": "niagara",
+      "county": "Grand Forks County",
+      "lat": 47.984817,
+      "lng": -97.833431
+    },
+    {
+      "name": "Nome",
+      "slug": "nome",
+      "county": "Barnes County",
+      "lat": 46.674834,
+      "lng": -97.791099
+    },
+    {
+      "name": "Noonan",
+      "slug": "noonan",
+      "county": "Divide County",
+      "lat": 48.885635,
+      "lng": -103.009793
+    },
+    {
+      "name": "Northwood",
+      "slug": "northwood",
+      "county": "Grand Forks County",
+      "lat": 47.741756,
+      "lng": -97.563054
+    },
+    {
+      "name": "Norwich",
+      "slug": "norwich",
+      "county": "Mchenry County",
+      "lat": 48.249115,
+      "lng": -100.971165
+    },
+    {
+      "name": "Oakes",
+      "slug": "oakes",
+      "county": "Dickey County",
+      "lat": 46.128796,
+      "lng": -98.099339
+    },
+    {
+      "name": "Oberon",
+      "slug": "oberon",
+      "county": "Benson County",
+      "lat": 47.948744,
+      "lng": -99.140129
+    },
+    {
+      "name": "Oriska",
+      "slug": "oriska",
+      "county": "Barnes County",
+      "lat": 46.943251,
+      "lng": -97.785331
+    },
+    {
+      "name": "Osnabrock",
+      "slug": "osnabrock",
+      "county": "Cavalier County",
+      "lat": 48.641908,
+      "lng": -98.23271
+    },
+    {
+      "name": "Page",
+      "slug": "page",
+      "county": "Cass County",
+      "lat": 47.151512,
+      "lng": -97.596665
+    },
+    {
+      "name": "Palermo",
+      "slug": "palermo",
+      "county": "Mountrail County",
+      "lat": 48.3396,
+      "lng": -102.239954
+    },
+    {
+      "name": "Park River",
+      "slug": "park-river",
+      "county": "Walsh County",
+      "lat": 48.403881,
+      "lng": -97.743897
+    },
+    {
+      "name": "Parshall",
+      "slug": "parshall",
+      "county": "Mountrail County",
+      "lat": 47.95597,
+      "lng": -102.142732
+    },
+    {
+      "name": "Pekin",
+      "slug": "pekin",
+      "county": "Nelson County",
+      "lat": 47.769558,
+      "lng": -98.326035
+    },
+    {
+      "name": "Pembina",
+      "slug": "pembina",
+      "county": "Pembina County",
+      "lat": 48.936124,
+      "lng": -97.275611
+    },
+    {
+      "name": "Penn",
+      "slug": "penn",
+      "county": "Ramsey County",
+      "lat": 48.227106,
+      "lng": -99.065509
+    },
+    {
+      "name": "Perth",
+      "slug": "perth",
+      "county": "Towner County",
+      "lat": 48.681601,
+      "lng": -99.383076
+    },
+    {
+      "name": "Petersburg",
+      "slug": "petersburg",
+      "county": "Nelson County",
+      "lat": 47.997973,
+      "lng": -97.984033
+    },
+    {
+      "name": "Pettibone",
+      "slug": "pettibone",
+      "county": "Kidder County",
+      "lat": 47.119973,
+      "lng": -99.527892
+    },
+    {
+      "name": "Pillsbury",
+      "slug": "pillsbury",
+      "county": "Barnes County",
+      "lat": 47.206944,
+      "lng": -97.790278
+    },
+    {
+      "name": "Pingree",
+      "slug": "pingree",
+      "county": "Stutsman County",
+      "lat": 47.165715,
+      "lng": -99.002041
+    },
+    {
+      "name": "Pisek",
+      "slug": "pisek",
+      "county": "Walsh County",
+      "lat": 48.297096,
+      "lng": -97.702894
+    },
+    {
+      "name": "Plaza",
+      "slug": "plaza",
+      "county": "Mountrail County",
+      "lat": 48.02421,
+      "lng": -101.964276
+    },
+    {
+      "name": "Portal",
+      "slug": "portal",
+      "county": "Burke County",
+      "lat": 48.975818,
+      "lng": -102.548023
+    },
+    {
+      "name": "Portland",
+      "slug": "portland",
+      "county": "Traill County",
+      "lat": 47.501542,
+      "lng": -97.384303
+    },
+    {
+      "name": "Powers Lake",
+      "slug": "powers-lake",
+      "county": "Burke County",
+      "lat": 48.589815,
+      "lng": -102.644646
+    },
+    {
+      "name": "Raleigh",
+      "slug": "raleigh",
+      "county": "Grant County",
+      "lat": 46.335236,
+      "lng": -101.282651
+    },
+    {
+      "name": "Ray",
+      "slug": "ray",
+      "county": "Williams County",
+      "lat": 48.3323,
+      "lng": -103.18365
+    },
+    {
+      "name": "Reeder",
+      "slug": "reeder",
+      "county": "Adams County",
+      "lat": 46.111577,
+      "lng": -102.940519
+    },
+    {
+      "name": "Regan",
+      "slug": "regan",
+      "county": "Burleigh County",
+      "lat": 47.152703,
+      "lng": -100.522448
+    },
+    {
+      "name": "Regent",
+      "slug": "regent",
+      "county": "Hettinger County",
+      "lat": 46.423452,
+      "lng": -102.568443
+    },
+    {
+      "name": "Reynolds",
+      "slug": "reynolds",
+      "county": "Grand Forks County",
+      "lat": 47.706776,
+      "lng": -97.209153
+    },
+    {
+      "name": "Rhame",
+      "slug": "rhame",
+      "county": "Bowman County",
+      "lat": 46.166449,
+      "lng": -103.70791
+    },
+    {
+      "name": "Richardton",
+      "slug": "richardton",
+      "county": "Stark County",
+      "lat": 46.842614,
+      "lng": -102.292004
+    },
+    {
+      "name": "Riverdale",
+      "slug": "riverdale",
+      "county": "Mclean County",
+      "lat": 47.640333,
+      "lng": -101.115061
+    },
+    {
+      "name": "Robinson",
+      "slug": "robinson",
+      "county": "Kidder County",
+      "lat": 47.150765,
+      "lng": -99.700302
+    },
+    {
+      "name": "Rocklake",
+      "slug": "rocklake",
+      "county": "Towner County",
+      "lat": 48.821569,
+      "lng": -99.179628
+    },
+    {
+      "name": "Rogers",
+      "slug": "rogers",
+      "county": "Barnes County",
+      "lat": 47.071086,
+      "lng": -98.220885
+    },
+    {
+      "name": "Rolette",
+      "slug": "rolette",
+      "county": "Rolette County",
+      "lat": 48.655224,
+      "lng": -99.874375
+    },
+    {
+      "name": "Rolla",
+      "slug": "rolla",
+      "county": "Rolette County",
+      "lat": 48.859423,
+      "lng": -99.613386
+    },
+    {
+      "name": "Roseglen",
+      "slug": "roseglen",
+      "county": "Mclean County",
+      "lat": 47.695967,
+      "lng": -101.822041
+    },
+    {
+      "name": "Ross",
+      "slug": "ross",
+      "county": "Mountrail County",
+      "lat": 48.316159,
+      "lng": -102.530721
+    },
+    {
+      "name": "Rugby",
+      "slug": "rugby",
+      "county": "Pierce County",
+      "lat": 48.317264,
+      "lng": -99.998954
+    },
+    {
+      "name": "Ruso",
+      "slug": "ruso",
+      "county": "Mclean County",
+      "lat": 47.762224,
+      "lng": -100.875432
+    },
+    {
+      "name": "Rutland",
+      "slug": "rutland",
+      "county": "Sargent County",
+      "lat": 46.073813,
+      "lng": -97.548284
+    },
+    {
+      "name": "Ryder",
+      "slug": "ryder",
+      "county": "Ward County",
+      "lat": 47.868017,
+      "lng": -101.765095
+    },
+    {
+      "name": "Saint Anthony",
+      "slug": "saint-anthony",
+      "county": "Morton County",
+      "lat": 46.588831,
+      "lng": -100.897237
+    },
+    {
+      "name": "Saint John",
+      "slug": "saint-john",
+      "county": "Rolette County",
+      "lat": 48.936588,
+      "lng": -99.76476
+    },
+    {
+      "name": "Saint Michael",
+      "slug": "saint-michael",
+      "county": "Benson County",
+      "lat": 47.977363,
+      "lng": -98.918058
+    },
+    {
+      "name": "Saint Thomas",
+      "slug": "saint-thomas",
+      "county": "Pembina County",
+      "lat": 48.625223,
+      "lng": -97.454508
+    },
+    {
+      "name": "Sanborn",
+      "slug": "sanborn",
+      "county": "Barnes County",
+      "lat": 46.927065,
+      "lng": -98.233622
+    },
+    {
+      "name": "Sarles",
+      "slug": "sarles",
+      "county": "Cavalier County",
+      "lat": 48.945921,
+      "lng": -98.960562
+    },
+    {
+      "name": "Sawyer",
+      "slug": "sawyer",
+      "county": "Ward County",
+      "lat": 48.085837,
+      "lng": -101.067396
+    },
+    {
+      "name": "Scranton",
+      "slug": "scranton",
+      "county": "Bowman County",
+      "lat": 46.139924,
+      "lng": -103.144688
+    },
+    {
+      "name": "Selfridge",
+      "slug": "selfridge",
+      "county": "Sioux County",
+      "lat": 46.035147,
+      "lng": -101.150204
+    },
+    {
+      "name": "Sentinel Butte",
+      "slug": "sentinel-butte",
+      "county": "Golden Valley County",
+      "lat": 46.830475,
+      "lng": -103.800113
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Steele County",
+      "lat": 47.606188,
+      "lng": -97.905091
+    },
+    {
+      "name": "Sheldon",
+      "slug": "sheldon",
+      "county": "Ransom County",
+      "lat": 46.554784,
+      "lng": -97.454261
+    },
+    {
+      "name": "Sherwood",
+      "slug": "sherwood",
+      "county": "Renville County",
+      "lat": 48.957551,
+      "lng": -101.697024
+    },
+    {
+      "name": "Sheyenne",
+      "slug": "sheyenne",
+      "county": "Eddy County",
+      "lat": 47.818386,
+      "lng": -99.058326
+    },
+    {
+      "name": "Shields",
+      "slug": "shields",
+      "county": "Grant County",
+      "lat": 46.183772,
+      "lng": -101.258894
+    },
+    {
+      "name": "Solen",
+      "slug": "solen",
+      "county": "Sioux County",
+      "lat": 46.294106,
+      "lng": -100.81363
+    },
+    {
+      "name": "Souris",
+      "slug": "souris",
+      "county": "Bottineau County",
+      "lat": 48.937378,
+      "lng": -100.741324
+    },
+    {
+      "name": "South Heart",
+      "slug": "south-heart",
+      "county": "Stark County",
+      "lat": 46.812701,
+      "lng": -103.016241
+    },
+    {
+      "name": "Spiritwood",
+      "slug": "spiritwood",
+      "county": "Barnes County",
+      "lat": 47.101601,
+      "lng": -98.648468
+    },
+    {
+      "name": "Stanley",
+      "slug": "stanley",
+      "county": "Mountrail County",
+      "lat": 48.319189,
+      "lng": -102.392802
+    },
+    {
+      "name": "Stanton",
+      "slug": "stanton",
+      "county": "Mercer County",
+      "lat": 47.312786,
+      "lng": -101.38987
+    },
+    {
+      "name": "Starkweather",
+      "slug": "starkweather",
+      "county": "Ramsey County",
+      "lat": 48.448802,
+      "lng": -98.853903
+    },
+    {
+      "name": "Steele",
+      "slug": "steele",
+      "county": "Kidder County",
+      "lat": 46.852357,
+      "lng": -99.933559
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Burleigh County",
+      "lat": 46.843583,
+      "lng": -100.274392
+    },
+    {
+      "name": "Stirum",
+      "slug": "stirum",
+      "county": "Sargent County",
+      "lat": 46.229891,
+      "lng": -97.654233
+    },
+    {
+      "name": "Strasburg",
+      "slug": "strasburg",
+      "county": "Emmons County",
+      "lat": 46.097938,
+      "lng": -100.211869
+    },
+    {
+      "name": "Streeter",
+      "slug": "streeter",
+      "county": "Stutsman County",
+      "lat": 46.694999,
+      "lng": -99.297108
+    },
+    {
+      "name": "Surrey",
+      "slug": "surrey",
+      "county": "Ward County",
+      "lat": 48.236472,
+      "lng": -101.121617
+    },
+    {
+      "name": "Sutton",
+      "slug": "sutton",
+      "county": "Griggs County",
+      "lat": 47.385355,
+      "lng": -98.432044
+    },
+    {
+      "name": "Sykeston",
+      "slug": "sykeston",
+      "county": "Wells County",
+      "lat": 47.436938,
+      "lng": -99.39751
+    },
+    {
+      "name": "Tappen",
+      "slug": "tappen",
+      "county": "Kidder County",
+      "lat": 46.83362,
+      "lng": -99.601892
+    },
+    {
+      "name": "Taylor",
+      "slug": "taylor",
+      "county": "Stark County",
+      "lat": 46.928372,
+      "lng": -102.375626
+    },
+    {
+      "name": "Thompson",
+      "slug": "thompson",
+      "county": "Grand Forks County",
+      "lat": 47.77658,
+      "lng": -97.096201
+    },
+    {
+      "name": "Tioga",
+      "slug": "tioga",
+      "county": "Williams County",
+      "lat": 48.392009,
+      "lng": -102.961281
+    },
+    {
+      "name": "Tokio",
+      "slug": "tokio",
+      "county": "Benson County",
+      "lat": 47.923333,
+      "lng": -98.816667
+    },
+    {
+      "name": "Tolley",
+      "slug": "tolley",
+      "county": "Renville County",
+      "lat": 48.796903,
+      "lng": -101.855891
+    },
+    {
+      "name": "Tolna",
+      "slug": "tolna",
+      "county": "Nelson County",
+      "lat": 47.802014,
+      "lng": -98.475218
+    },
+    {
+      "name": "Tower City",
+      "slug": "tower-city",
+      "county": "Cass County",
+      "lat": 46.911873,
+      "lng": -97.659392
+    },
+    {
+      "name": "Towner",
+      "slug": "towner",
+      "county": "Mchenry County",
+      "lat": 48.377657,
+      "lng": -100.412322
+    },
+    {
+      "name": "Trenton",
+      "slug": "trenton",
+      "county": "Williams County",
+      "lat": 48.056303,
+      "lng": -103.861276
+    },
+    {
+      "name": "Turtle Lake",
+      "slug": "turtle-lake",
+      "county": "Mclean County",
+      "lat": 47.541416,
+      "lng": -100.881364
+    },
+    {
+      "name": "Tuttle",
+      "slug": "tuttle",
+      "county": "Kidder County",
+      "lat": 47.162583,
+      "lng": -99.987287
+    },
+    {
+      "name": "Underwood",
+      "slug": "underwood",
+      "county": "Mclean County",
+      "lat": 47.460163,
+      "lng": -101.189807
+    },
+    {
+      "name": "Upham",
+      "slug": "upham",
+      "county": "Mchenry County",
+      "lat": 48.581632,
+      "lng": -100.732314
+    },
+    {
+      "name": "Valley City",
+      "slug": "valley-city",
+      "county": "Barnes County",
+      "lat": 46.92681,
+      "lng": -98.003316
+    },
+    {
+      "name": "Velva",
+      "slug": "velva",
+      "county": "Mchenry County",
+      "lat": 48.06748,
+      "lng": -100.934623
+    },
+    {
+      "name": "Verona",
+      "slug": "verona",
+      "county": "Lamoure County",
+      "lat": 46.371229,
+      "lng": -98.089536
+    },
+    {
+      "name": "Voltaire",
+      "slug": "voltaire",
+      "county": "Mchenry County",
+      "lat": 47.951793,
+      "lng": -100.803824
+    },
+    {
+      "name": "Wahpeton",
+      "slug": "wahpeton",
+      "county": "Richland County",
+      "lat": 46.2651,
+      "lng": -96.6133
+    },
+    {
+      "name": "Walcott",
+      "slug": "walcott",
+      "county": "Richland County",
+      "lat": 46.583529,
+      "lng": -97.001442
+    },
+    {
+      "name": "Wales",
+      "slug": "wales",
+      "county": "Cavalier County",
+      "lat": 48.921647,
+      "lng": -98.559649
+    },
+    {
+      "name": "Walhalla",
+      "slug": "walhalla",
+      "county": "Pembina County",
+      "lat": 48.91103,
+      "lng": -97.881927
+    },
+    {
+      "name": "Warwick",
+      "slug": "warwick",
+      "county": "Benson County",
+      "lat": 47.891285,
+      "lng": -98.680956
+    },
+    {
+      "name": "Washburn",
+      "slug": "washburn",
+      "county": "Mclean County",
+      "lat": 47.311388,
+      "lng": -101.011568
+    },
+    {
+      "name": "Watford City",
+      "slug": "watford-city",
+      "county": "Mckenzie County",
+      "lat": 47.804258,
+      "lng": -103.258205
+    },
+    {
+      "name": "Webster",
+      "slug": "webster",
+      "county": "Ramsey County",
+      "lat": 48.322852,
+      "lng": -98.873944
+    },
+    {
+      "name": "West Fargo",
+      "slug": "west-fargo",
+      "county": "Cass County",
+      "lat": 46.869523,
+      "lng": -96.895002
+    },
+    {
+      "name": "Westhope",
+      "slug": "westhope",
+      "county": "Bottineau County",
+      "lat": 48.905074,
+      "lng": -101.033809
+    },
+    {
+      "name": "Wheatland",
+      "slug": "wheatland",
+      "county": "Cass County",
+      "lat": 46.875015,
+      "lng": -97.391694
+    },
+    {
+      "name": "White Earth",
+      "slug": "white-earth",
+      "county": "Mountrail County",
+      "lat": 48.430748,
+      "lng": -102.806672
+    },
+    {
+      "name": "Wildrose",
+      "slug": "wildrose",
+      "county": "Williams County",
+      "lat": 48.621929,
+      "lng": -103.184878
+    },
+    {
+      "name": "Williston",
+      "slug": "williston",
+      "county": "Williams County",
+      "lat": 48.167924,
+      "lng": -103.631699
+    },
+    {
+      "name": "Willow City",
+      "slug": "willow-city",
+      "county": "Bottineau County",
+      "lat": 48.606205,
+      "lng": -100.296802
+    },
+    {
+      "name": "Wilton",
+      "slug": "wilton",
+      "county": "Mclean County",
+      "lat": 47.170853,
+      "lng": -100.794385
+    },
+    {
+      "name": "Wimbledon",
+      "slug": "wimbledon",
+      "county": "Barnes County",
+      "lat": 47.143837,
+      "lng": -98.432916
+    },
+    {
+      "name": "Wing",
+      "slug": "wing",
+      "county": "Burleigh County",
+      "lat": 47.151939,
+      "lng": -100.307159
+    },
+    {
+      "name": "Wishek",
+      "slug": "wishek",
+      "county": "Mcintosh County",
+      "lat": 46.251617,
+      "lng": -99.586005
+    },
+    {
+      "name": "Wolford",
+      "slug": "wolford",
+      "county": "Pierce County",
+      "lat": 48.480937,
+      "lng": -99.662756
+    },
+    {
+      "name": "Woodworth",
+      "slug": "woodworth",
+      "county": "Stutsman County",
+      "lat": 47.163639,
+      "lng": -99.3406
+    },
+    {
+      "name": "Wyndmere",
+      "slug": "wyndmere",
+      "county": "Richland County",
+      "lat": 46.289137,
+      "lng": -97.128912
+    },
+    {
+      "name": "York",
+      "slug": "york",
+      "county": "Benson County",
+      "lat": 48.321709,
+      "lng": -99.550489
+    },
+    {
+      "name": "Ypsilanti",
+      "slug": "ypsilanti",
+      "county": "Stutsman County",
+      "lat": 46.771949,
+      "lng": -98.487636
+    },
+    {
+      "name": "Zahl",
+      "slug": "zahl",
+      "county": "Williams County",
+      "lat": 48.578747,
+      "lng": -103.659926
+    },
+    {
+      "name": "Zap",
+      "slug": "zap",
+      "county": "Mercer County",
+      "lat": 47.289711,
+      "lng": -101.925649
+    },
+    {
+      "name": "Zeeland",
+      "slug": "zeeland",
+      "county": "Mcintosh County",
+      "lat": 46.005476,
+      "lng": -99.772543
+    }
+  ]
+}

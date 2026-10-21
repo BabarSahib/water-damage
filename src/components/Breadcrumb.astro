@@ -1,0 +1,117 @@
+---
+interface BreadcrumbItem {
+  label: string;
+  url?: string;
+}
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+const siteUrl = "https://rapidwaterrescuepros.com";
+
+const schemaList = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": items.map((item, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": item.label,
+    ...(item.url ? { "item": item.url.startsWith("http") ? item.url : `${siteUrl}${item.url.startsWith('/') ? item.url : '/' + item.url}` } : {})
+  }))
+};
+---
+
+<div class="breadcrumb-container-wrap">
+  <nav class="container breadcrumb-nav-bar" aria-label="Breadcrumb">
+    <ol class="breadcrumb-nav-list">
+      {items.map((item, idx) => {
+        const isFirst = idx === 0;
+        const isLast = idx === items.length - 1;
+        return (
+          <li class="breadcrumb-nav-item">
+            {idx > 0 && (
+              <svg class="breadcrumb-chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            )}
+            {isLast || !item.url ? (
+              <span class="breadcrumb-current-text" aria-current="page">{item.label}</span>
+            ) : (
+              <a href={item.url} class="breadcrumb-link-anchor">
+                {isFirst && (
+                  <svg class="breadcrumb-home-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"></path>
+                    <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                  </svg>
+                )}
+                <span>{item.label}</span>
+              </a>
+            )}
+          </li>
+        );
+      })}
+    </ol>
+  </nav>
+</div>
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaList)} />
+
+<style>
+  .breadcrumb-container-wrap {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  .breadcrumb-nav-bar {
+    padding: 0.85rem 1.25rem;
+    overflow-x: auto;
+  }
+  .breadcrumb-nav-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0.5rem;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    color: #64748b;
+  }
+  .breadcrumb-nav-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .breadcrumb-link-anchor {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: #475569;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+  .breadcrumb-link-anchor:hover {
+    color: #2563eb;
+    text-decoration: none;
+  }
+  .breadcrumb-home-icon {
+    width: 14px;
+    height: 14px;
+    color: #94a3b8;
+  }
+  .breadcrumb-chevron-icon {
+    width: 14px;
+    height: 14px;
+    color: #94a3b8;
+    flex-shrink: 0;
+  }
+  .breadcrumb-current-text {
+    color: #0f172a;
+    font-weight: 600;
+    max-width: 280px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>

@@ -1,0 +1,3360 @@
+{
+  "stateName": "Louisiana",
+  "stateCode": "LA",
+  "stateSlug": "louisiana",
+  "cities": [
+    {
+      "name": "Abbeville",
+      "slug": "abbeville",
+      "county": "Vermilion County",
+      "lat": 29.958828,
+      "lng": -92.142655
+    },
+    {
+      "name": "Abita Springs",
+      "slug": "abita-springs",
+      "county": "Saint Tammany County",
+      "lat": 30.483696,
+      "lng": -90.004072
+    },
+    {
+      "name": "Acme",
+      "slug": "acme",
+      "county": "Concordia County",
+      "lat": 31.301618,
+      "lng": -91.821563
+    },
+    {
+      "name": "Addis",
+      "slug": "addis",
+      "county": "West Baton Rouge County",
+      "lat": 30.355699,
+      "lng": -91.261348
+    },
+    {
+      "name": "Aimwell",
+      "slug": "aimwell",
+      "county": "Catahoula County",
+      "lat": 31.761898,
+      "lng": -91.992491
+    },
+    {
+      "name": "Akers",
+      "slug": "akers",
+      "county": "Tangipahoa County",
+      "lat": 30.29,
+      "lng": -90.401667
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Livingston County",
+      "lat": 30.514872,
+      "lng": -90.596415
+    },
+    {
+      "name": "Alexandria",
+      "slug": "alexandria",
+      "county": "Rapides County",
+      "lat": 31.288519,
+      "lng": -92.463349
+    },
+    {
+      "name": "Ama",
+      "slug": "ama",
+      "county": "Saint Charles County",
+      "lat": 29.943494,
+      "lng": -90.292509
+    },
+    {
+      "name": "Amelia",
+      "slug": "amelia",
+      "county": "Saint Mary County",
+      "lat": 29.66046,
+      "lng": -91.111105
+    },
+    {
+      "name": "Amite",
+      "slug": "amite",
+      "county": "Tangipahoa County",
+      "lat": 30.718208,
+      "lng": -90.570493
+    },
+    {
+      "name": "Anacoco",
+      "slug": "anacoco",
+      "county": "Vernon County",
+      "lat": 31.221762,
+      "lng": -93.358949
+    },
+    {
+      "name": "Angie",
+      "slug": "angie",
+      "county": "Washington County",
+      "lat": 30.922406,
+      "lng": -89.856714
+    },
+    {
+      "name": "Angola",
+      "slug": "angola",
+      "county": "West Feliciana County",
+      "lat": 30.96562,
+      "lng": -91.597948
+    },
+    {
+      "name": "Arabi",
+      "slug": "arabi",
+      "county": "Saint Bernard County",
+      "lat": 29.961154,
+      "lng": -89.996497
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Bienville County",
+      "lat": 32.555643,
+      "lng": -92.924529
+    },
+    {
+      "name": "Archibald",
+      "slug": "archibald",
+      "county": "Richland County",
+      "lat": 32.348889,
+      "lng": -91.777222
+    },
+    {
+      "name": "Arnaudville",
+      "slug": "arnaudville",
+      "county": "Saint Landry County",
+      "lat": 30.398054,
+      "lng": -91.926285
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Natchitoches County",
+      "lat": 32.141667,
+      "lng": -93.098056
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "county": "Claiborne County",
+      "lat": 32.645073,
+      "lng": -93.023875
+    },
+    {
+      "name": "Atlanta",
+      "slug": "atlanta",
+      "county": "Winn County",
+      "lat": 31.873583,
+      "lng": -92.764125
+    },
+    {
+      "name": "Avery Island",
+      "slug": "avery-island",
+      "county": "Iberia County",
+      "lat": 29.903333,
+      "lng": -91.910278
+    },
+    {
+      "name": "Baker",
+      "slug": "baker",
+      "county": "East Baton Rouge County",
+      "lat": 30.588056,
+      "lng": -91.168056
+    },
+    {
+      "name": "Baldwin",
+      "slug": "baldwin",
+      "county": "Saint Mary County",
+      "lat": 29.848784,
+      "lng": -91.545783
+    },
+    {
+      "name": "Ball",
+      "slug": "ball",
+      "county": "Rapides County",
+      "lat": 31.4048,
+      "lng": -92.4075
+    },
+    {
+      "name": "Barataria",
+      "slug": "barataria",
+      "county": "Jefferson County",
+      "lat": 29.717859,
+      "lng": -90.126232
+    },
+    {
+      "name": "Barksdale Afb",
+      "slug": "barksdale-afb",
+      "county": "Bossier County",
+      "lat": 32.514313,
+      "lng": -93.638172
+    },
+    {
+      "name": "Basile",
+      "slug": "basile",
+      "county": "Evangeline County",
+      "lat": 30.497787,
+      "lng": -92.57357
+    },
+    {
+      "name": "Baskin",
+      "slug": "baskin",
+      "county": "Franklin County",
+      "lat": 32.289728,
+      "lng": -91.713154
+    },
+    {
+      "name": "Bastrop",
+      "slug": "bastrop",
+      "county": "Morehouse County",
+      "lat": 32.789382,
+      "lng": -91.90776
+    },
+    {
+      "name": "Batchelor",
+      "slug": "batchelor",
+      "county": "Pointe Coupee County",
+      "lat": 30.802631,
+      "lng": -91.668675
+    },
+    {
+      "name": "Baton Rouge",
+      "slug": "baton-rouge",
+      "county": "East Baton Rouge County",
+      "lat": 30.450731,
+      "lng": -91.186954
+    },
+    {
+      "name": "Belcher",
+      "slug": "belcher",
+      "county": "Caddo County",
+      "lat": 32.754393,
+      "lng": -93.850799
+    },
+    {
+      "name": "Bell City",
+      "slug": "bell-city",
+      "county": "Calcasieu County",
+      "lat": 30.114454,
+      "lng": -92.94407
+    },
+    {
+      "name": "Belle Chasse",
+      "slug": "belle-chasse",
+      "county": "Plaquemines County",
+      "lat": 29.834514,
+      "lng": -90.004177
+    },
+    {
+      "name": "Belle Rose",
+      "slug": "belle-rose",
+      "county": "Assumption County",
+      "lat": 30.025955,
+      "lng": -91.044351
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Sabine County",
+      "lat": 31.709956,
+      "lng": -93.495863
+    },
+    {
+      "name": "Bentley",
+      "slug": "bentley",
+      "county": "Grant County",
+      "lat": 31.466035,
+      "lng": -92.49273
+    },
+    {
+      "name": "Benton",
+      "slug": "benton",
+      "county": "Bossier County",
+      "lat": 32.697617,
+      "lng": -93.69095
+    },
+    {
+      "name": "Bernice",
+      "slug": "bernice",
+      "county": "Union County",
+      "lat": 32.821024,
+      "lng": -92.626269
+    },
+    {
+      "name": "Berwick",
+      "slug": "berwick",
+      "county": "Saint Mary County",
+      "lat": 29.698786,
+      "lng": -91.205662
+    },
+    {
+      "name": "Bethany",
+      "slug": "bethany",
+      "county": "Caddo County",
+      "lat": 32.366179,
+      "lng": -94.003394
+    },
+    {
+      "name": "Bienville",
+      "slug": "bienville",
+      "county": "Bienville County",
+      "lat": 32.252323,
+      "lng": -92.908402
+    },
+    {
+      "name": "Blanchard",
+      "slug": "blanchard",
+      "county": "Caddo County",
+      "lat": 32.580833,
+      "lng": -93.8925
+    },
+    {
+      "name": "Bogalusa",
+      "slug": "bogalusa",
+      "county": "Washington County",
+      "lat": 30.773303,
+      "lng": -89.865329
+    },
+    {
+      "name": "Bonita",
+      "slug": "bonita",
+      "county": "Morehouse County",
+      "lat": 32.912263,
+      "lng": -91.682158
+    },
+    {
+      "name": "Boothville",
+      "slug": "boothville",
+      "county": "Plaquemines County",
+      "lat": 29.321389,
+      "lng": -89.393889
+    },
+    {
+      "name": "Bordelonville",
+      "slug": "bordelonville",
+      "county": "Avoyelles County",
+      "lat": 31.105278,
+      "lng": -91.907222
+    },
+    {
+      "name": "Bossier City",
+      "slug": "bossier-city",
+      "county": "Bossier County",
+      "lat": 32.544924,
+      "lng": -93.703826
+    },
+    {
+      "name": "Bourg",
+      "slug": "bourg",
+      "county": "Terrebonne County",
+      "lat": 29.548489,
+      "lng": -90.60866
+    },
+    {
+      "name": "Boutte",
+      "slug": "boutte",
+      "county": "Saint Charles County",
+      "lat": 29.897319,
+      "lng": -90.393396
+    },
+    {
+      "name": "Boyce",
+      "slug": "boyce",
+      "county": "Rapides County",
+      "lat": 31.321601,
+      "lng": -92.686681
+    },
+    {
+      "name": "Braithwaite",
+      "slug": "braithwaite",
+      "county": "Plaquemines County",
+      "lat": 29.673563,
+      "lng": -89.885347
+    },
+    {
+      "name": "Branch",
+      "slug": "branch",
+      "county": "Acadia County",
+      "lat": 30.328684,
+      "lng": -92.334618
+    },
+    {
+      "name": "Breaux Bridge",
+      "slug": "breaux-bridge",
+      "county": "Saint Martin County",
+      "lat": 30.274955,
+      "lng": -91.905899
+    },
+    {
+      "name": "Brittany",
+      "slug": "brittany",
+      "county": "Ascension County",
+      "lat": 30.211944,
+      "lng": -90.881389
+    },
+    {
+      "name": "Broussard",
+      "slug": "broussard",
+      "county": "Lafayette County",
+      "lat": 30.12189,
+      "lng": -91.950171
+    },
+    {
+      "name": "Brusly",
+      "slug": "brusly",
+      "county": "West Baton Rouge County",
+      "lat": 30.387692,
+      "lng": -91.252649
+    },
+    {
+      "name": "Bunkie",
+      "slug": "bunkie",
+      "county": "Avoyelles County",
+      "lat": 30.949284,
+      "lng": -92.182582
+    },
+    {
+      "name": "Buras",
+      "slug": "buras",
+      "county": "Plaquemines County",
+      "lat": 29.341056,
+      "lng": -89.47568
+    },
+    {
+      "name": "Burnside",
+      "slug": "burnside",
+      "county": "Ascension County",
+      "lat": 30.138611,
+      "lng": -90.923889
+    },
+    {
+      "name": "Bush",
+      "slug": "bush",
+      "county": "Saint Tammany County",
+      "lat": 30.613393,
+      "lng": -89.955664
+    },
+    {
+      "name": "Cade",
+      "slug": "cade",
+      "county": "Saint Martin County",
+      "lat": 30.087222,
+      "lng": -91.905278
+    },
+    {
+      "name": "Calhoun",
+      "slug": "calhoun",
+      "county": "Ouachita County",
+      "lat": 32.524791,
+      "lng": -92.329929
+    },
+    {
+      "name": "Calvin",
+      "slug": "calvin",
+      "county": "Winn County",
+      "lat": 31.965556,
+      "lng": -92.775556
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Cameron County",
+      "lat": 29.86492,
+      "lng": -93.277662
+    },
+    {
+      "name": "Campti",
+      "slug": "campti",
+      "county": "Natchitoches County",
+      "lat": 31.895851,
+      "lng": -93.093572
+    },
+    {
+      "name": "Carencro",
+      "slug": "carencro",
+      "county": "Lafayette County",
+      "lat": 30.324433,
+      "lng": -92.042265
+    },
+    {
+      "name": "Carville",
+      "slug": "carville",
+      "county": "Iberville County",
+      "lat": 30.220759,
+      "lng": -91.102484
+    },
+    {
+      "name": "Castor",
+      "slug": "castor",
+      "county": "Bienville County",
+      "lat": 32.245181,
+      "lng": -93.093576
+    },
+    {
+      "name": "Cecilia",
+      "slug": "cecilia",
+      "county": "Saint Martin County",
+      "lat": 30.336944,
+      "lng": -91.853056
+    },
+    {
+      "name": "Center Point",
+      "slug": "center-point",
+      "county": "Avoyelles County",
+      "lat": 31.263068,
+      "lng": -92.187868
+    },
+    {
+      "name": "Centerville",
+      "slug": "centerville",
+      "county": "Saint Mary County",
+      "lat": 29.759444,
+      "lng": -91.428333
+    },
+    {
+      "name": "Chalmette",
+      "slug": "chalmette",
+      "county": "Saint Bernard County",
+      "lat": 29.946611,
+      "lng": -89.961137
+    },
+    {
+      "name": "Charenton",
+      "slug": "charenton",
+      "county": "Saint Mary County",
+      "lat": 29.881389,
+      "lng": -91.525
+    },
+    {
+      "name": "Chase",
+      "slug": "chase",
+      "county": "Franklin County",
+      "lat": 32.096944,
+      "lng": -91.698889
+    },
+    {
+      "name": "Chataignier",
+      "slug": "chataignier",
+      "county": "Evangeline County",
+      "lat": 30.568333,
+      "lng": -92.321944
+    },
+    {
+      "name": "Chatham",
+      "slug": "chatham",
+      "county": "Jackson County",
+      "lat": 32.292246,
+      "lng": -92.437433
+    },
+    {
+      "name": "Chauvin",
+      "slug": "chauvin",
+      "county": "Terrebonne County",
+      "lat": 29.463401,
+      "lng": -90.597952
+    },
+    {
+      "name": "Cheneyville",
+      "slug": "cheneyville",
+      "county": "Rapides County",
+      "lat": 31.020097,
+      "lng": -92.295144
+    },
+    {
+      "name": "Choudrant",
+      "slug": "choudrant",
+      "county": "Lincoln County",
+      "lat": 32.555627,
+      "lng": -92.522419
+    },
+    {
+      "name": "Church Point",
+      "slug": "church-point",
+      "county": "Acadia County",
+      "lat": 30.401287,
+      "lng": -92.223954
+    },
+    {
+      "name": "Clarence",
+      "slug": "clarence",
+      "county": "Natchitoches County",
+      "lat": 31.821389,
+      "lng": -93.029444
+    },
+    {
+      "name": "Clarks",
+      "slug": "clarks",
+      "county": "Caldwell County",
+      "lat": 32.026389,
+      "lng": -92.138889
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Concordia County",
+      "lat": 31.78857,
+      "lng": -91.542547
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "East Feliciana County",
+      "lat": 30.824867,
+      "lng": -90.933141
+    },
+    {
+      "name": "Cloutierville",
+      "slug": "cloutierville",
+      "county": "Natchitoches County",
+      "lat": 31.535918,
+      "lng": -92.857326
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Grant County",
+      "lat": 31.507948,
+      "lng": -92.656758
+    },
+    {
+      "name": "Collinston",
+      "slug": "collinston",
+      "county": "Morehouse County",
+      "lat": 32.697143,
+      "lng": -91.863419
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "county": "Caldwell County",
+      "lat": 32.114794,
+      "lng": -92.103653
+    },
+    {
+      "name": "Convent",
+      "slug": "convent",
+      "county": "Saint James County",
+      "lat": 30.055251,
+      "lng": -90.864988
+    },
+    {
+      "name": "Converse",
+      "slug": "converse",
+      "county": "Sabine County",
+      "lat": 31.785153,
+      "lng": -93.71569
+    },
+    {
+      "name": "Cotton Valley",
+      "slug": "cotton-valley",
+      "county": "Webster County",
+      "lat": 32.819011,
+      "lng": -93.425885
+    },
+    {
+      "name": "Cottonport",
+      "slug": "cottonport",
+      "county": "Avoyelles County",
+      "lat": 30.986168,
+      "lng": -92.058124
+    },
+    {
+      "name": "Coushatta",
+      "slug": "coushatta",
+      "county": "Red River County",
+      "lat": 32.050099,
+      "lng": -93.315644
+    },
+    {
+      "name": "Covington",
+      "slug": "covington",
+      "county": "Saint Tammany County",
+      "lat": 30.487606,
+      "lng": -90.095933
+    },
+    {
+      "name": "Creole",
+      "slug": "creole",
+      "county": "Cameron County",
+      "lat": 29.797813,
+      "lng": -93.034874
+    },
+    {
+      "name": "Crowley",
+      "slug": "crowley",
+      "county": "Acadia County",
+      "lat": 30.214753,
+      "lng": -92.377709
+    },
+    {
+      "name": "Crowville",
+      "slug": "crowville",
+      "county": "Franklin County",
+      "lat": 32.240556,
+      "lng": -91.59
+    },
+    {
+      "name": "Cullen",
+      "slug": "cullen",
+      "county": "Webster County",
+      "lat": 32.968889,
+      "lng": -93.450556
+    },
+    {
+      "name": "Cut Off",
+      "slug": "cut-off",
+      "county": "Lafourche County",
+      "lat": 29.523188,
+      "lng": -90.339298
+    },
+    {
+      "name": "Darrow",
+      "slug": "darrow",
+      "county": "Ascension County",
+      "lat": 30.12999,
+      "lng": -90.965102
+    },
+    {
+      "name": "Delcambre",
+      "slug": "delcambre",
+      "county": "Vermilion County",
+      "lat": 29.947414,
+      "lng": -91.988938
+    },
+    {
+      "name": "Delhi",
+      "slug": "delhi",
+      "county": "Richland County",
+      "lat": 32.450433,
+      "lng": -91.512487
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "county": "Madison County",
+      "lat": 32.325556,
+      "lng": -90.926944
+    },
+    {
+      "name": "Denham Springs",
+      "slug": "denham-springs",
+      "county": "Livingston County",
+      "lat": 30.5821,
+      "lng": -90.9341
+    },
+    {
+      "name": "Dequincy",
+      "slug": "dequincy",
+      "county": "Calcasieu County",
+      "lat": 30.421113,
+      "lng": -93.415053
+    },
+    {
+      "name": "Deridder",
+      "slug": "deridder",
+      "county": "Beauregard County",
+      "lat": 30.828738,
+      "lng": -93.268461
+    },
+    {
+      "name": "Des Allemands",
+      "slug": "des-allemands",
+      "county": "Saint Charles County",
+      "lat": 29.821993,
+      "lng": -90.447049
+    },
+    {
+      "name": "Destrehan",
+      "slug": "destrehan",
+      "county": "Saint Charles County",
+      "lat": 29.96579,
+      "lng": -90.373982
+    },
+    {
+      "name": "Deville",
+      "slug": "deville",
+      "county": "Rapides County",
+      "lat": 31.354506,
+      "lng": -92.202287
+    },
+    {
+      "name": "Dodson",
+      "slug": "dodson",
+      "county": "Winn County",
+      "lat": 32.070131,
+      "lng": -92.678292
+    },
+    {
+      "name": "Donaldsonville",
+      "slug": "donaldsonville",
+      "county": "Ascension County",
+      "lat": 30.101799,
+      "lng": -90.997025
+    },
+    {
+      "name": "Donner",
+      "slug": "donner",
+      "county": "Terrebonne County",
+      "lat": 29.695556,
+      "lng": -90.944167
+    },
+    {
+      "name": "Downsville",
+      "slug": "downsville",
+      "county": "Union County",
+      "lat": 32.652508,
+      "lng": -92.374471
+    },
+    {
+      "name": "Doyline",
+      "slug": "doyline",
+      "county": "Webster County",
+      "lat": 32.490023,
+      "lng": -93.399585
+    },
+    {
+      "name": "Dry Creek",
+      "slug": "dry-creek",
+      "county": "Beauregard County",
+      "lat": 30.735356,
+      "lng": -92.988849
+    },
+    {
+      "name": "Dry Prong",
+      "slug": "dry-prong",
+      "county": "Grant County",
+      "lat": 31.597921,
+      "lng": -92.566479
+    },
+    {
+      "name": "Dubach",
+      "slug": "dubach",
+      "county": "Lincoln County",
+      "lat": 32.694893,
+      "lng": -92.678543
+    },
+    {
+      "name": "Dubberly",
+      "slug": "dubberly",
+      "county": "Webster County",
+      "lat": 32.519164,
+      "lng": -93.21419
+    },
+    {
+      "name": "Dulac",
+      "slug": "dulac",
+      "county": "Terrebonne County",
+      "lat": 29.359814,
+      "lng": -90.655655
+    },
+    {
+      "name": "Duplessis",
+      "slug": "duplessis",
+      "county": "Ascension County",
+      "lat": 30.269444,
+      "lng": -90.938333
+    },
+    {
+      "name": "Dupont",
+      "slug": "dupont",
+      "county": "Avoyelles County",
+      "lat": 30.929167,
+      "lng": -91.947778
+    },
+    {
+      "name": "Duson",
+      "slug": "duson",
+      "county": "Lafayette County",
+      "lat": 30.191216,
+      "lng": -92.152455
+    },
+    {
+      "name": "Echo",
+      "slug": "echo",
+      "county": "Rapides County",
+      "lat": 31.11,
+      "lng": -92.241667
+    },
+    {
+      "name": "Edgard",
+      "slug": "edgard",
+      "county": "St John The Baptist County",
+      "lat": 30.031863,
+      "lng": -90.581678
+    },
+    {
+      "name": "Effie",
+      "slug": "effie",
+      "county": "Avoyelles County",
+      "lat": 31.189613,
+      "lng": -92.194182
+    },
+    {
+      "name": "Egan",
+      "slug": "egan",
+      "county": "Acadia County",
+      "lat": 30.250966,
+      "lng": -92.500226
+    },
+    {
+      "name": "Elizabeth",
+      "slug": "elizabeth",
+      "county": "Allen County",
+      "lat": 30.868333,
+      "lng": -92.792778
+    },
+    {
+      "name": "Elm Grove",
+      "slug": "elm-grove",
+      "county": "Bossier County",
+      "lat": 32.388628,
+      "lng": -93.502615
+    },
+    {
+      "name": "Elmer",
+      "slug": "elmer",
+      "county": "Rapides County",
+      "lat": 31.146476,
+      "lng": -92.717062
+    },
+    {
+      "name": "Elton",
+      "slug": "elton",
+      "county": "Jefferson Davis County",
+      "lat": 30.471496,
+      "lng": -92.699614
+    },
+    {
+      "name": "Empire",
+      "slug": "empire",
+      "county": "Plaquemines County",
+      "lat": 29.3875,
+      "lng": -89.597222
+    },
+    {
+      "name": "Enterprise",
+      "slug": "enterprise",
+      "county": "Catahoula County",
+      "lat": 31.906412,
+      "lng": -91.875149
+    },
+    {
+      "name": "Epps",
+      "slug": "epps",
+      "county": "West Carroll County",
+      "lat": 32.616099,
+      "lng": -91.49135
+    },
+    {
+      "name": "Erath",
+      "slug": "erath",
+      "county": "Vermilion County",
+      "lat": 29.952237,
+      "lng": -92.034266
+    },
+    {
+      "name": "Eros",
+      "slug": "eros",
+      "county": "Ouachita County",
+      "lat": 32.398822,
+      "lng": -92.34795
+    },
+    {
+      "name": "Erwinville",
+      "slug": "erwinville",
+      "county": "West Baton Rouge County",
+      "lat": 30.551252,
+      "lng": -91.399444
+    },
+    {
+      "name": "Estherwood",
+      "slug": "estherwood",
+      "county": "Acadia County",
+      "lat": 30.180556,
+      "lng": -92.464167
+    },
+    {
+      "name": "Ethel",
+      "slug": "ethel",
+      "county": "East Feliciana County",
+      "lat": 30.813124,
+      "lng": -91.109975
+    },
+    {
+      "name": "Eunice",
+      "slug": "eunice",
+      "county": "Saint Landry County",
+      "lat": 30.51158,
+      "lng": -92.398474
+    },
+    {
+      "name": "Evangeline",
+      "slug": "evangeline",
+      "county": "Acadia County",
+      "lat": 30.26829,
+      "lng": -92.553244
+    },
+    {
+      "name": "Evans",
+      "slug": "evans",
+      "county": "Vernon County",
+      "lat": 31.008817,
+      "lng": -93.422171
+    },
+    {
+      "name": "Evergreen",
+      "slug": "evergreen",
+      "county": "Avoyelles County",
+      "lat": 30.951089,
+      "lng": -92.090039
+    },
+    {
+      "name": "Fairbanks",
+      "slug": "fairbanks",
+      "county": "Ouachita County",
+      "lat": 32.644167,
+      "lng": -92.036389
+    },
+    {
+      "name": "Farmerville",
+      "slug": "farmerville",
+      "county": "Union County",
+      "lat": 32.753378,
+      "lng": -92.317955
+    },
+    {
+      "name": "Fenton",
+      "slug": "fenton",
+      "county": "Jefferson Davis County",
+      "lat": 30.366944,
+      "lng": -92.918056
+    },
+    {
+      "name": "Ferriday",
+      "slug": "ferriday",
+      "county": "Concordia County",
+      "lat": 31.647944,
+      "lng": -91.571958
+    },
+    {
+      "name": "Fisher",
+      "slug": "fisher",
+      "county": "Sabine County",
+      "lat": 31.493655,
+      "lng": -93.460197
+    },
+    {
+      "name": "Flatwoods",
+      "slug": "flatwoods",
+      "county": "Rapides County",
+      "lat": 31.384882,
+      "lng": -92.881246
+    },
+    {
+      "name": "Flora",
+      "slug": "flora",
+      "county": "Natchitoches County",
+      "lat": 31.612222,
+      "lng": -93.0975
+    },
+    {
+      "name": "Florien",
+      "slug": "florien",
+      "county": "Sabine County",
+      "lat": 31.427455,
+      "lng": -93.517916
+    },
+    {
+      "name": "Fluker",
+      "slug": "fluker",
+      "county": "Tangipahoa County",
+      "lat": 30.812776,
+      "lng": -90.52067
+    },
+    {
+      "name": "Folsom",
+      "slug": "folsom",
+      "county": "Saint Tammany County",
+      "lat": 30.61447,
+      "lng": -90.187927
+    },
+    {
+      "name": "Fordoche",
+      "slug": "fordoche",
+      "county": "Pointe Coupee County",
+      "lat": 30.550835,
+      "lng": -91.697258
+    },
+    {
+      "name": "Forest",
+      "slug": "forest",
+      "county": "West Carroll County",
+      "lat": 32.791944,
+      "lng": -91.413333
+    },
+    {
+      "name": "Forest Hill",
+      "slug": "forest-hill",
+      "county": "Rapides County",
+      "lat": 31.024304,
+      "lng": -92.510798
+    },
+    {
+      "name": "Fort Necessity",
+      "slug": "fort-necessity",
+      "county": "Franklin County",
+      "lat": 32.043412,
+      "lng": -91.825694
+    },
+    {
+      "name": "Fort Polk",
+      "slug": "fort-polk",
+      "county": "Vernon County",
+      "lat": 31.032068,
+      "lng": -93.22213
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Saint Mary County",
+      "lat": 29.785656,
+      "lng": -91.502643
+    },
+    {
+      "name": "Franklinton",
+      "slug": "franklinton",
+      "county": "Washington County",
+      "lat": 30.857735,
+      "lng": -90.115479
+    },
+    {
+      "name": "French Settlement",
+      "slug": "french-settlement",
+      "county": "Livingston County",
+      "lat": 30.336394,
+      "lng": -90.773225
+    },
+    {
+      "name": "Frierson",
+      "slug": "frierson",
+      "county": "De Soto County",
+      "lat": 32.244968,
+      "lng": -93.691488
+    },
+    {
+      "name": "Galliano",
+      "slug": "galliano",
+      "county": "Lafourche County",
+      "lat": 29.431125,
+      "lng": -90.298054
+    },
+    {
+      "name": "Garden City",
+      "slug": "garden-city",
+      "county": "Saint Mary County",
+      "lat": 29.765278,
+      "lng": -91.465556
+    },
+    {
+      "name": "Gardner",
+      "slug": "gardner",
+      "county": "Rapides County",
+      "lat": 31.269444,
+      "lng": -92.692778
+    },
+    {
+      "name": "Garyville",
+      "slug": "garyville",
+      "county": "St John The Baptist County",
+      "lat": 30.05352,
+      "lng": -90.620113
+    },
+    {
+      "name": "Geismar",
+      "slug": "geismar",
+      "county": "Ascension County",
+      "lat": 30.236265,
+      "lng": -90.975824
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Grant County",
+      "lat": 31.745006,
+      "lng": -92.395182
+    },
+    {
+      "name": "Gheens",
+      "slug": "gheens",
+      "county": "Lafourche County",
+      "lat": 29.707591,
+      "lng": -90.484855
+    },
+    {
+      "name": "Gibsland",
+      "slug": "gibsland",
+      "county": "Bienville County",
+      "lat": 32.529874,
+      "lng": -93.070558
+    },
+    {
+      "name": "Gibson",
+      "slug": "gibson",
+      "county": "Terrebonne County",
+      "lat": 29.662522,
+      "lng": -90.977637
+    },
+    {
+      "name": "Gilbert",
+      "slug": "gilbert",
+      "county": "Franklin County",
+      "lat": 32.034943,
+      "lng": -91.592026
+    },
+    {
+      "name": "Gilliam",
+      "slug": "gilliam",
+      "county": "Caddo County",
+      "lat": 32.825055,
+      "lng": -93.829268
+    },
+    {
+      "name": "Glenmora",
+      "slug": "glenmora",
+      "county": "Rapides County",
+      "lat": 30.978384,
+      "lng": -92.645758
+    },
+    {
+      "name": "Gloster",
+      "slug": "gloster",
+      "county": "De Soto County",
+      "lat": 32.191705,
+      "lng": -93.829309
+    },
+    {
+      "name": "Glynn",
+      "slug": "glynn",
+      "county": "Pointe Coupee County",
+      "lat": 30.637617,
+      "lng": -91.342311
+    },
+    {
+      "name": "Golden Meadow",
+      "slug": "golden-meadow",
+      "county": "Lafourche County",
+      "lat": 29.382054,
+      "lng": -90.263932
+    },
+    {
+      "name": "Goldonna",
+      "slug": "goldonna",
+      "county": "Natchitoches County",
+      "lat": 31.999988,
+      "lng": -92.961056
+    },
+    {
+      "name": "Gonzales",
+      "slug": "gonzales",
+      "county": "Ascension County",
+      "lat": 30.238333,
+      "lng": -90.92
+    },
+    {
+      "name": "Gorum",
+      "slug": "gorum",
+      "county": "Natchitoches County",
+      "lat": 31.432778,
+      "lng": -92.943333
+    },
+    {
+      "name": "Grambling",
+      "slug": "grambling",
+      "county": "Lincoln County",
+      "lat": 32.524398,
+      "lng": -92.715785
+    },
+    {
+      "name": "Gramercy",
+      "slug": "gramercy",
+      "county": "Saint James County",
+      "lat": 30.052711,
+      "lng": -90.690182
+    },
+    {
+      "name": "Grand Cane",
+      "slug": "grand-cane",
+      "county": "De Soto County",
+      "lat": 32.105,
+      "lng": -93.794064
+    },
+    {
+      "name": "Grand Chenier",
+      "slug": "grand-chenier",
+      "county": "Cameron County",
+      "lat": 29.787535,
+      "lng": -92.897997
+    },
+    {
+      "name": "Grand Coteau",
+      "slug": "grand-coteau",
+      "county": "Saint Landry County",
+      "lat": 30.419722,
+      "lng": -92.046667
+    },
+    {
+      "name": "Grand Isle",
+      "slug": "grand-isle",
+      "county": "Jefferson County",
+      "lat": 29.22973,
+      "lng": -90.008801
+    },
+    {
+      "name": "Grant",
+      "slug": "grant",
+      "county": "Allen County",
+      "lat": 30.788333,
+      "lng": -92.948333
+    },
+    {
+      "name": "Gray",
+      "slug": "gray",
+      "county": "Terrebonne County",
+      "lat": 29.69034,
+      "lng": -90.78071
+    },
+    {
+      "name": "Grayson",
+      "slug": "grayson",
+      "county": "Caldwell County",
+      "lat": 32.012108,
+      "lng": -91.974615
+    },
+    {
+      "name": "Greensburg",
+      "slug": "greensburg",
+      "county": "Saint Helena County",
+      "lat": 30.864693,
+      "lng": -90.725561
+    },
+    {
+      "name": "Greenwell Springs",
+      "slug": "greenwell-springs",
+      "county": "East Baton Rouge County",
+      "lat": 30.52114,
+      "lng": -91.007484
+    },
+    {
+      "name": "Greenwood",
+      "slug": "greenwood",
+      "county": "Caddo County",
+      "lat": 32.424025,
+      "lng": -93.969252
+    },
+    {
+      "name": "Gretna",
+      "slug": "gretna",
+      "county": "Jefferson County",
+      "lat": 29.910806,
+      "lng": -90.053115
+    },
+    {
+      "name": "Grosse Tete",
+      "slug": "grosse-tete",
+      "county": "Iberville County",
+      "lat": 30.387935,
+      "lng": -91.43829
+    },
+    {
+      "name": "Gueydan",
+      "slug": "gueydan",
+      "county": "Vermilion County",
+      "lat": 30.025541,
+      "lng": -92.533779
+    },
+    {
+      "name": "Hackberry",
+      "slug": "hackberry",
+      "county": "Cameron County",
+      "lat": 29.982187,
+      "lng": -93.374973
+    },
+    {
+      "name": "Hahnville",
+      "slug": "hahnville",
+      "county": "Saint Charles County",
+      "lat": 30.000094,
+      "lng": -90.488581
+    },
+    {
+      "name": "Hall Summit",
+      "slug": "hall-summit",
+      "county": "Red River County",
+      "lat": 32.175249,
+      "lng": -93.30475
+    },
+    {
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "county": "Avoyelles County",
+      "lat": 31.073269,
+      "lng": -91.916177
+    },
+    {
+      "name": "Hammond",
+      "slug": "hammond",
+      "county": "Tangipahoa County",
+      "lat": 30.51908,
+      "lng": -90.487856
+    },
+    {
+      "name": "Harrisonburg",
+      "slug": "harrisonburg",
+      "county": "Catahoula County",
+      "lat": 31.766926,
+      "lng": -91.883971
+    },
+    {
+      "name": "Harvey",
+      "slug": "harvey",
+      "county": "Jefferson County",
+      "lat": 29.872535,
+      "lng": -90.067259
+    },
+    {
+      "name": "Haughton",
+      "slug": "haughton",
+      "county": "Bossier County",
+      "lat": 32.550732,
+      "lng": -93.565742
+    },
+    {
+      "name": "Hayes",
+      "slug": "hayes",
+      "county": "Calcasieu County",
+      "lat": 30.108611,
+      "lng": -92.92
+    },
+    {
+      "name": "Haynesville",
+      "slug": "haynesville",
+      "county": "Claiborne County",
+      "lat": 32.927807,
+      "lng": -93.069137
+    },
+    {
+      "name": "Heflin",
+      "slug": "heflin",
+      "county": "Webster County",
+      "lat": 32.447008,
+      "lng": -93.285192
+    },
+    {
+      "name": "Hessmer",
+      "slug": "hessmer",
+      "county": "Avoyelles County",
+      "lat": 31.0534,
+      "lng": -92.139933
+    },
+    {
+      "name": "Hester",
+      "slug": "hester",
+      "county": "Saint James County",
+      "lat": 30.033333,
+      "lng": -90.758611
+    },
+    {
+      "name": "Hineston",
+      "slug": "hineston",
+      "county": "Rapides County",
+      "lat": 31.082535,
+      "lng": -92.77488
+    },
+    {
+      "name": "Hodge",
+      "slug": "hodge",
+      "county": "Jackson County",
+      "lat": 32.276667,
+      "lng": -92.723333
+    },
+    {
+      "name": "Holden",
+      "slug": "holden",
+      "county": "Livingston County",
+      "lat": 30.555646,
+      "lng": -90.665176
+    },
+    {
+      "name": "Homer",
+      "slug": "homer",
+      "county": "Claiborne County",
+      "lat": 32.774883,
+      "lng": -93.028834
+    },
+    {
+      "name": "Hornbeck",
+      "slug": "hornbeck",
+      "county": "Vernon County",
+      "lat": 31.322639,
+      "lng": -93.368306
+    },
+    {
+      "name": "Hosston",
+      "slug": "hosston",
+      "county": "Caddo County",
+      "lat": 32.896653,
+      "lng": -93.883425
+    },
+    {
+      "name": "Houma",
+      "slug": "houma",
+      "county": "Terrebonne County",
+      "lat": 29.59433,
+      "lng": -90.754808
+    },
+    {
+      "name": "Husser",
+      "slug": "husser",
+      "county": "Tangipahoa County",
+      "lat": 30.679167,
+      "lng": -90.337222
+    },
+    {
+      "name": "Ida",
+      "slug": "ida",
+      "county": "Caddo County",
+      "lat": 32.993393,
+      "lng": -93.902186
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Tangipahoa County",
+      "lat": 30.635148,
+      "lng": -90.527685
+    },
+    {
+      "name": "Innis",
+      "slug": "innis",
+      "county": "Pointe Coupee County",
+      "lat": 30.877778,
+      "lng": -91.680556
+    },
+    {
+      "name": "Iota",
+      "slug": "iota",
+      "county": "Acadia County",
+      "lat": 30.300081,
+      "lng": -92.532201
+    },
+    {
+      "name": "Iowa",
+      "slug": "iowa",
+      "county": "Calcasieu County",
+      "lat": 30.221937,
+      "lng": -93.02586
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "East Feliciana County",
+      "lat": 30.827034,
+      "lng": -91.234537
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Bienville County",
+      "lat": 32.36127,
+      "lng": -93.184758
+    },
+    {
+      "name": "Jarreau",
+      "slug": "jarreau",
+      "county": "Pointe Coupee County",
+      "lat": 30.632585,
+      "lng": -91.433205
+    },
+    {
+      "name": "Jeanerette",
+      "slug": "jeanerette",
+      "county": "Iberia County",
+      "lat": 29.90324,
+      "lng": -91.654397
+    },
+    {
+      "name": "Jena",
+      "slug": "jena",
+      "county": "La Salle County",
+      "lat": 31.674817,
+      "lng": -92.113677
+    },
+    {
+      "name": "Jennings",
+      "slug": "jennings",
+      "county": "Jefferson Davis County",
+      "lat": 30.22011,
+      "lng": -92.657405
+    },
+    {
+      "name": "Jigger",
+      "slug": "jigger",
+      "county": "Franklin County",
+      "lat": 32.034722,
+      "lng": -91.746667
+    },
+    {
+      "name": "Jones",
+      "slug": "jones",
+      "county": "Morehouse County",
+      "lat": 32.966286,
+      "lng": -91.596509
+    },
+    {
+      "name": "Jonesboro",
+      "slug": "jonesboro",
+      "county": "Jackson County",
+      "lat": 32.248292,
+      "lng": -92.694425
+    },
+    {
+      "name": "Jonesville",
+      "slug": "jonesville",
+      "county": "Catahoula County",
+      "lat": 31.636486,
+      "lng": -91.845812
+    },
+    {
+      "name": "Joyce",
+      "slug": "joyce",
+      "county": "Winn County",
+      "lat": 31.939167,
+      "lng": -92.598611
+    },
+    {
+      "name": "Kaplan",
+      "slug": "kaplan",
+      "county": "Vermilion County",
+      "lat": 29.977096,
+      "lng": -92.302463
+    },
+    {
+      "name": "Keatchie",
+      "slug": "keatchie",
+      "county": "De Soto County",
+      "lat": 32.162173,
+      "lng": -93.951046
+    },
+    {
+      "name": "Keithville",
+      "slug": "keithville",
+      "county": "Caddo County",
+      "lat": 32.316059,
+      "lng": -93.888138
+    },
+    {
+      "name": "Kelly",
+      "slug": "kelly",
+      "county": "Caldwell County",
+      "lat": 32.028619,
+      "lng": -92.126072
+    },
+    {
+      "name": "Kenner",
+      "slug": "kenner",
+      "county": "Jefferson County",
+      "lat": 29.991203,
+      "lng": -90.247901
+    },
+    {
+      "name": "Kentwood",
+      "slug": "kentwood",
+      "county": "Tangipahoa County",
+      "lat": 30.889215,
+      "lng": -90.472829
+    },
+    {
+      "name": "Kilbourne",
+      "slug": "kilbourne",
+      "county": "West Carroll County",
+      "lat": 32.999444,
+      "lng": -91.315
+    },
+    {
+      "name": "Kinder",
+      "slug": "kinder",
+      "county": "Allen County",
+      "lat": 30.460653,
+      "lng": -92.869332
+    },
+    {
+      "name": "Kraemer",
+      "slug": "kraemer",
+      "county": "Lafourche County",
+      "lat": 29.866667,
+      "lng": -90.696944
+    },
+    {
+      "name": "Krotz Springs",
+      "slug": "krotz-springs",
+      "county": "Saint Landry County",
+      "lat": 30.537928,
+      "lng": -91.756329
+    },
+    {
+      "name": "Kurthwood",
+      "slug": "kurthwood",
+      "county": "Vernon County",
+      "lat": 31.337222,
+      "lng": -93.165556
+    },
+    {
+      "name": "La Place",
+      "slug": "la-place",
+      "county": "St John The Baptist County",
+      "lat": 30.077718,
+      "lng": -90.489544
+    },
+    {
+      "name": "Labadieville",
+      "slug": "labadieville",
+      "county": "Assumption County",
+      "lat": 29.834458,
+      "lng": -90.961319
+    },
+    {
+      "name": "Lacassine",
+      "slug": "lacassine",
+      "county": "Jefferson Davis County",
+      "lat": 30.145587,
+      "lng": -92.829262
+    },
+    {
+      "name": "Lacombe",
+      "slug": "lacombe",
+      "county": "Saint Tammany County",
+      "lat": 30.322027,
+      "lng": -89.929744
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Lafayette County",
+      "lat": 30.236141,
+      "lng": -92.008261
+    },
+    {
+      "name": "Lafitte",
+      "slug": "lafitte",
+      "county": "Jefferson County",
+      "lat": 29.562194,
+      "lng": -90.056633
+    },
+    {
+      "name": "Lake Arthur",
+      "slug": "lake-arthur",
+      "county": "Jefferson Davis County",
+      "lat": 30.09097,
+      "lng": -92.682526
+    },
+    {
+      "name": "Lake Charles",
+      "slug": "lake-charles",
+      "county": "Calcasieu County",
+      "lat": 30.228453,
+      "lng": -93.187966
+    },
+    {
+      "name": "Lake Providence",
+      "slug": "lake-providence",
+      "county": "East Carroll County",
+      "lat": 32.807067,
+      "lng": -91.19057
+    },
+    {
+      "name": "Lakeland",
+      "slug": "lakeland",
+      "county": "Pointe Coupee County",
+      "lat": 30.579941,
+      "lng": -91.421677
+    },
+    {
+      "name": "Larose",
+      "slug": "larose",
+      "county": "Lafourche County",
+      "lat": 29.572222,
+      "lng": -90.381667
+    },
+    {
+      "name": "Lawtell",
+      "slug": "lawtell",
+      "county": "Saint Landry County",
+      "lat": 30.518333,
+      "lng": -92.184722
+    },
+    {
+      "name": "Lebeau",
+      "slug": "lebeau",
+      "county": "Saint Landry County",
+      "lat": 30.731111,
+      "lng": -91.976944
+    },
+    {
+      "name": "Leblanc",
+      "slug": "leblanc",
+      "county": "Allen County",
+      "lat": 30.508889,
+      "lng": -92.948889
+    },
+    {
+      "name": "Lecompte",
+      "slug": "lecompte",
+      "county": "Rapides County",
+      "lat": 31.106032,
+      "lng": -92.389031
+    },
+    {
+      "name": "Leesville",
+      "slug": "leesville",
+      "county": "Vernon County",
+      "lat": 31.144292,
+      "lng": -93.223957
+    },
+    {
+      "name": "Lena",
+      "slug": "lena",
+      "county": "Rapides County",
+      "lat": 31.418481,
+      "lng": -92.77185
+    },
+    {
+      "name": "Leonville",
+      "slug": "leonville",
+      "county": "Saint Landry County",
+      "lat": 30.470278,
+      "lng": -91.978333
+    },
+    {
+      "name": "Lettsworth",
+      "slug": "lettsworth",
+      "county": "Pointe Coupee County",
+      "lat": 30.932394,
+      "lng": -91.740252
+    },
+    {
+      "name": "Libuse",
+      "slug": "libuse",
+      "county": "Rapides County",
+      "lat": 31.353889,
+      "lng": -92.333333
+    },
+    {
+      "name": "Lillie",
+      "slug": "lillie",
+      "county": "Union County",
+      "lat": 32.952931,
+      "lng": -92.685769
+    },
+    {
+      "name": "Lisbon",
+      "slug": "lisbon",
+      "county": "Claiborne County",
+      "lat": 32.845196,
+      "lng": -92.88781
+    },
+    {
+      "name": "Livingston",
+      "slug": "livingston",
+      "county": "Livingston County",
+      "lat": 30.474107,
+      "lng": -90.767339
+    },
+    {
+      "name": "Livonia",
+      "slug": "livonia",
+      "county": "Pointe Coupee County",
+      "lat": 30.552353,
+      "lng": -91.533219
+    },
+    {
+      "name": "Lockport",
+      "slug": "lockport",
+      "county": "Lafourche County",
+      "lat": 29.603493,
+      "lng": -90.490614
+    },
+    {
+      "name": "Logansport",
+      "slug": "logansport",
+      "county": "De Soto County",
+      "lat": 31.994327,
+      "lng": -93.962733
+    },
+    {
+      "name": "Longleaf",
+      "slug": "longleaf",
+      "county": "Rapides County",
+      "lat": 31.006389,
+      "lng": -92.5525
+    },
+    {
+      "name": "Longstreet",
+      "slug": "longstreet",
+      "county": "De Soto County",
+      "lat": 32.0975,
+      "lng": -93.951944
+    },
+    {
+      "name": "Longville",
+      "slug": "longville",
+      "county": "Beauregard County",
+      "lat": 30.579992,
+      "lng": -93.254806
+    },
+    {
+      "name": "Loranger",
+      "slug": "loranger",
+      "county": "Tangipahoa County",
+      "lat": 30.588407,
+      "lng": -90.356723
+    },
+    {
+      "name": "Loreauville",
+      "slug": "loreauville",
+      "county": "Iberia County",
+      "lat": 30.068276,
+      "lng": -91.659571
+    },
+    {
+      "name": "Lottie",
+      "slug": "lottie",
+      "county": "Pointe Coupee County",
+      "lat": 30.503947,
+      "lng": -91.71053
+    },
+    {
+      "name": "Luling",
+      "slug": "luling",
+      "county": "Saint Charles County",
+      "lat": 29.925116,
+      "lng": -90.369261
+    },
+    {
+      "name": "Lutcher",
+      "slug": "lutcher",
+      "county": "Saint James County",
+      "lat": 30.044679,
+      "lng": -90.70084
+    },
+    {
+      "name": "Lydia",
+      "slug": "lydia",
+      "county": "Iberia County",
+      "lat": 29.919167,
+      "lng": -91.795278
+    },
+    {
+      "name": "Madisonville",
+      "slug": "madisonville",
+      "county": "Saint Tammany County",
+      "lat": 30.428743,
+      "lng": -90.177282
+    },
+    {
+      "name": "Mamou",
+      "slug": "mamou",
+      "county": "Evangeline County",
+      "lat": 30.649648,
+      "lng": -92.419646
+    },
+    {
+      "name": "Mandeville",
+      "slug": "mandeville",
+      "county": "Saint Tammany County",
+      "lat": 30.386096,
+      "lng": -90.076846
+    },
+    {
+      "name": "Mangham",
+      "slug": "mangham",
+      "county": "Richland County",
+      "lat": 32.333114,
+      "lng": -91.797607
+    },
+    {
+      "name": "Mansfield",
+      "slug": "mansfield",
+      "county": "De Soto County",
+      "lat": 32.023863,
+      "lng": -93.698045
+    },
+    {
+      "name": "Mansura",
+      "slug": "mansura",
+      "county": "Avoyelles County",
+      "lat": 31.061466,
+      "lng": -92.054333
+    },
+    {
+      "name": "Many",
+      "slug": "many",
+      "county": "Sabine County",
+      "lat": 31.58508,
+      "lng": -93.464113
+    },
+    {
+      "name": "Maringouin",
+      "slug": "maringouin",
+      "county": "Iberville County",
+      "lat": 30.482292,
+      "lng": -91.516816
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Union County",
+      "lat": 32.888155,
+      "lng": -92.25706
+    },
+    {
+      "name": "Marksville",
+      "slug": "marksville",
+      "county": "Avoyelles County",
+      "lat": 31.139614,
+      "lng": -92.083145
+    },
+    {
+      "name": "Marrero",
+      "slug": "marrero",
+      "county": "Jefferson County",
+      "lat": 29.859756,
+      "lng": -90.110462
+    },
+    {
+      "name": "Marthaville",
+      "slug": "marthaville",
+      "county": "Natchitoches County",
+      "lat": 31.772583,
+      "lng": -93.395428
+    },
+    {
+      "name": "Mathews",
+      "slug": "mathews",
+      "county": "Lafourche County",
+      "lat": 29.681982,
+      "lng": -90.494914
+    },
+    {
+      "name": "Maurepas",
+      "slug": "maurepas",
+      "county": "Livingston County",
+      "lat": 30.271587,
+      "lng": -90.704255
+    },
+    {
+      "name": "Maurice",
+      "slug": "maurice",
+      "county": "Vermilion County",
+      "lat": 30.07215,
+      "lng": -92.107035
+    },
+    {
+      "name": "Melrose",
+      "slug": "melrose",
+      "county": "Natchitoches County",
+      "lat": 31.598611,
+      "lng": -92.966944
+    },
+    {
+      "name": "Melville",
+      "slug": "melville",
+      "county": "Saint Landry County",
+      "lat": 30.662643,
+      "lng": -91.75649
+    },
+    {
+      "name": "Mer Rouge",
+      "slug": "mer-rouge",
+      "county": "Morehouse County",
+      "lat": 32.77176,
+      "lng": -91.771643
+    },
+    {
+      "name": "Meraux",
+      "slug": "meraux",
+      "county": "Saint Bernard County",
+      "lat": 29.933494,
+      "lng": -89.921433
+    },
+    {
+      "name": "Mermentau",
+      "slug": "mermentau",
+      "county": "Acadia County",
+      "lat": 30.189722,
+      "lng": -92.5825
+    },
+    {
+      "name": "Merryville",
+      "slug": "merryville",
+      "county": "Beauregard County",
+      "lat": 30.770145,
+      "lng": -93.530734
+    },
+    {
+      "name": "Metairie",
+      "slug": "metairie",
+      "county": "Jefferson County",
+      "lat": 29.987138,
+      "lng": -90.169513
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Lafayette County",
+      "lat": 30.103611,
+      "lng": -92.076389
+    },
+    {
+      "name": "Minden",
+      "slug": "minden",
+      "county": "Webster County",
+      "lat": 32.632281,
+      "lng": -93.288587
+    },
+    {
+      "name": "Mittie",
+      "slug": "mittie",
+      "county": "Allen County",
+      "lat": 30.678812,
+      "lng": -92.932056
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Ouachita County",
+      "lat": 32.528551,
+      "lng": -92.106104
+    },
+    {
+      "name": "Montegut",
+      "slug": "montegut",
+      "county": "Terrebonne County",
+      "lat": 29.474366,
+      "lng": -90.543952
+    },
+    {
+      "name": "Monterey",
+      "slug": "monterey",
+      "county": "Concordia County",
+      "lat": 31.440287,
+      "lng": -91.734455
+    },
+    {
+      "name": "Montgomery",
+      "slug": "montgomery",
+      "county": "Grant County",
+      "lat": 31.667388,
+      "lng": -92.841178
+    },
+    {
+      "name": "Mooringsport",
+      "slug": "mooringsport",
+      "county": "Caddo County",
+      "lat": 32.66258,
+      "lng": -93.973018
+    },
+    {
+      "name": "Mora",
+      "slug": "mora",
+      "county": "Rapides County",
+      "lat": 31.333927,
+      "lng": -92.888915
+    },
+    {
+      "name": "Moreauville",
+      "slug": "moreauville",
+      "county": "Avoyelles County",
+      "lat": 31.036766,
+      "lng": -91.981814
+    },
+    {
+      "name": "Morgan City",
+      "slug": "morgan-city",
+      "county": "Saint Mary County",
+      "lat": 29.723937,
+      "lng": -91.116497
+    },
+    {
+      "name": "Morganza",
+      "slug": "morganza",
+      "county": "Pointe Coupee County",
+      "lat": 30.724491,
+      "lng": -91.595935
+    },
+    {
+      "name": "Morrow",
+      "slug": "morrow",
+      "county": "Saint Landry County",
+      "lat": 30.824887,
+      "lng": -92.040781
+    },
+    {
+      "name": "Morse",
+      "slug": "morse",
+      "county": "Acadia County",
+      "lat": 30.143437,
+      "lng": -92.463153
+    },
+    {
+      "name": "Mount Airy",
+      "slug": "mount-airy",
+      "county": "St John The Baptist County",
+      "lat": 30.051111,
+      "lng": -90.637778
+    },
+    {
+      "name": "Mount Hermon",
+      "slug": "mount-hermon",
+      "county": "Washington County",
+      "lat": 30.953619,
+      "lng": -90.276886
+    },
+    {
+      "name": "Napoleonville",
+      "slug": "napoleonville",
+      "county": "Assumption County",
+      "lat": 29.92884,
+      "lng": -91.026608
+    },
+    {
+      "name": "Natalbany",
+      "slug": "natalbany",
+      "county": "Tangipahoa County",
+      "lat": 30.546111,
+      "lng": -90.484722
+    },
+    {
+      "name": "Natchez",
+      "slug": "natchez",
+      "county": "Natchitoches County",
+      "lat": 31.661502,
+      "lng": -93.024117
+    },
+    {
+      "name": "Natchitoches",
+      "slug": "natchitoches",
+      "county": "Natchitoches County",
+      "lat": 31.761688,
+      "lng": -93.091572
+    },
+    {
+      "name": "Negreet",
+      "slug": "negreet",
+      "county": "Sabine County",
+      "lat": 31.469167,
+      "lng": -93.574722
+    },
+    {
+      "name": "New Iberia",
+      "slug": "new-iberia",
+      "county": "Iberia County",
+      "lat": 30.001027,
+      "lng": -91.819959
+    },
+    {
+      "name": "New Orleans",
+      "slug": "new-orleans",
+      "county": "Jefferson County",
+      "lat": 29.963071,
+      "lng": -90.160953
+    },
+    {
+      "name": "New Roads",
+      "slug": "new-roads",
+      "county": "Pointe Coupee County",
+      "lat": 30.701356,
+      "lng": -91.442124
+    },
+    {
+      "name": "New Sarpy",
+      "slug": "new-sarpy",
+      "county": "Saint Charles County",
+      "lat": 29.977778,
+      "lng": -90.387778
+    },
+    {
+      "name": "Newellton",
+      "slug": "newellton",
+      "county": "Tensas County",
+      "lat": 32.065621,
+      "lng": -91.257771
+    },
+    {
+      "name": "Newllano",
+      "slug": "newllano",
+      "county": "Vernon County",
+      "lat": 31.069396,
+      "lng": -93.287899
+    },
+    {
+      "name": "Noble",
+      "slug": "noble",
+      "county": "Sabine County",
+      "lat": 31.693849,
+      "lng": -93.716679
+    },
+    {
+      "name": "Norco",
+      "slug": "norco",
+      "county": "Saint Charles County",
+      "lat": 30.005706,
+      "lng": -90.419796
+    },
+    {
+      "name": "Norwood",
+      "slug": "norwood",
+      "county": "East Feliciana County",
+      "lat": 30.951772,
+      "lng": -91.062871
+    },
+    {
+      "name": "Oak Grove",
+      "slug": "oak-grove",
+      "county": "West Carroll County",
+      "lat": 32.872258,
+      "lng": -91.412905
+    },
+    {
+      "name": "Oak Ridge",
+      "slug": "oak-ridge",
+      "county": "Morehouse County",
+      "lat": 32.624317,
+      "lng": -91.761785
+    },
+    {
+      "name": "Oakdale",
+      "slug": "oakdale",
+      "county": "Allen County",
+      "lat": 30.817173,
+      "lng": -92.663964
+    },
+    {
+      "name": "Oberlin",
+      "slug": "oberlin",
+      "county": "Allen County",
+      "lat": 30.6162,
+      "lng": -92.752672
+    },
+    {
+      "name": "Oil City",
+      "slug": "oil-city",
+      "county": "Caddo County",
+      "lat": 32.745107,
+      "lng": -93.983844
+    },
+    {
+      "name": "Olla",
+      "slug": "olla",
+      "county": "La Salle County",
+      "lat": 31.87339,
+      "lng": -92.22139
+    },
+    {
+      "name": "Opelousas",
+      "slug": "opelousas",
+      "county": "Saint Landry County",
+      "lat": 30.51442,
+      "lng": -92.089668
+    },
+    {
+      "name": "Oscar",
+      "slug": "oscar",
+      "county": "Pointe Coupee County",
+      "lat": 30.598759,
+      "lng": -91.48458
+    },
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "county": "Rapides County",
+      "lat": 31.226442,
+      "lng": -92.744478
+    },
+    {
+      "name": "Paincourtville",
+      "slug": "paincourtville",
+      "county": "Assumption County",
+      "lat": 29.99,
+      "lng": -91.055
+    },
+    {
+      "name": "Palmetto",
+      "slug": "palmetto",
+      "county": "Saint Landry County",
+      "lat": 30.706543,
+      "lng": -91.911384
+    },
+    {
+      "name": "Paradis",
+      "slug": "paradis",
+      "county": "Saint Charles County",
+      "lat": 29.877033,
+      "lng": -90.435246
+    },
+    {
+      "name": "Patterson",
+      "slug": "patterson",
+      "county": "Saint Mary County",
+      "lat": 29.69671,
+      "lng": -91.281231
+    },
+    {
+      "name": "Paulina",
+      "slug": "paulina",
+      "county": "Saint James County",
+      "lat": 30.035159,
+      "lng": -90.737439
+    },
+    {
+      "name": "Pearl River",
+      "slug": "pearl-river",
+      "county": "Saint Tammany County",
+      "lat": 30.394448,
+      "lng": -89.77315
+    },
+    {
+      "name": "Pelican",
+      "slug": "pelican",
+      "county": "De Soto County",
+      "lat": 31.896563,
+      "lng": -93.563361
+    },
+    {
+      "name": "Perry",
+      "slug": "perry",
+      "county": "Vermilion County",
+      "lat": 29.948333,
+      "lng": -92.156944
+    },
+    {
+      "name": "Pierre Part",
+      "slug": "pierre-part",
+      "county": "Assumption County",
+      "lat": 29.95501,
+      "lng": -91.200167
+    },
+    {
+      "name": "Pilottown",
+      "slug": "pilottown",
+      "county": "Plaquemines County",
+      "lat": 29.181389,
+      "lng": -89.2575
+    },
+    {
+      "name": "Pine Grove",
+      "slug": "pine-grove",
+      "county": "Saint Helena County",
+      "lat": 30.703202,
+      "lng": -90.767235
+    },
+    {
+      "name": "Pine Prairie",
+      "slug": "pine-prairie",
+      "county": "Evangeline County",
+      "lat": 30.783611,
+      "lng": -92.425278
+    },
+    {
+      "name": "Pineville",
+      "slug": "pineville",
+      "county": "Rapides County",
+      "lat": 31.3238,
+      "lng": -92.4246
+    },
+    {
+      "name": "Pioneer",
+      "slug": "pioneer",
+      "county": "West Carroll County",
+      "lat": 32.715436,
+      "lng": -91.464822
+    },
+    {
+      "name": "Pitkin",
+      "slug": "pitkin",
+      "county": "Vernon County",
+      "lat": 30.932988,
+      "lng": -92.954762
+    },
+    {
+      "name": "Plain Dealing",
+      "slug": "plain-dealing",
+      "county": "Bossier County",
+      "lat": 32.907419,
+      "lng": -93.690534
+    },
+    {
+      "name": "Plaquemine",
+      "slug": "plaquemine",
+      "county": "Iberville County",
+      "lat": 30.268414,
+      "lng": -91.252361
+    },
+    {
+      "name": "Plattenville",
+      "slug": "plattenville",
+      "county": "Assumption County",
+      "lat": 29.988611,
+      "lng": -91.021944
+    },
+    {
+      "name": "Plaucheville",
+      "slug": "plaucheville",
+      "county": "Avoyelles County",
+      "lat": 30.936484,
+      "lng": -91.984673
+    },
+    {
+      "name": "Pleasant Hill",
+      "slug": "pleasant-hill",
+      "county": "Sabine County",
+      "lat": 31.808577,
+      "lng": -93.513594
+    },
+    {
+      "name": "Pointe A La Hache",
+      "slug": "pointe-a-la-hache",
+      "county": "Plaquemines County",
+      "lat": 29.608333,
+      "lng": -89.848333
+    },
+    {
+      "name": "Pollock",
+      "slug": "pollock",
+      "county": "Grant County",
+      "lat": 31.499966,
+      "lng": -92.400536
+    },
+    {
+      "name": "Ponchatoula",
+      "slug": "ponchatoula",
+      "county": "Tangipahoa County",
+      "lat": 30.440644,
+      "lng": -90.442247
+    },
+    {
+      "name": "Port Allen",
+      "slug": "port-allen",
+      "county": "West Baton Rouge County",
+      "lat": 30.471983,
+      "lng": -91.254088
+    },
+    {
+      "name": "Port Barre",
+      "slug": "port-barre",
+      "county": "Saint Landry County",
+      "lat": 30.547788,
+      "lng": -91.928576
+    },
+    {
+      "name": "Port Sulphur",
+      "slug": "port-sulphur",
+      "county": "Plaquemines County",
+      "lat": 29.470011,
+      "lng": -89.68475
+    },
+    {
+      "name": "Powhatan",
+      "slug": "powhatan",
+      "county": "Natchitoches County",
+      "lat": 31.872778,
+      "lng": -93.201111
+    },
+    {
+      "name": "Prairieville",
+      "slug": "prairieville",
+      "county": "Ascension County",
+      "lat": 30.315588,
+      "lng": -90.929904
+    },
+    {
+      "name": "Pride",
+      "slug": "pride",
+      "county": "East Baton Rouge County",
+      "lat": 30.613321,
+      "lng": -90.99429
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Bossier County",
+      "lat": 32.579089,
+      "lng": -93.522577
+    },
+    {
+      "name": "Provencal",
+      "slug": "provencal",
+      "county": "Natchitoches County",
+      "lat": 31.580117,
+      "lng": -93.140089
+    },
+    {
+      "name": "Quitman",
+      "slug": "quitman",
+      "county": "Jackson County",
+      "lat": 32.356423,
+      "lng": -92.708532
+    },
+    {
+      "name": "Raceland",
+      "slug": "raceland",
+      "county": "Lafourche County",
+      "lat": 29.717835,
+      "lng": -90.599908
+    },
+    {
+      "name": "Ragley",
+      "slug": "ragley",
+      "county": "Beauregard County",
+      "lat": 30.470262,
+      "lng": -93.233652
+    },
+    {
+      "name": "Rayne",
+      "slug": "rayne",
+      "county": "Acadia County",
+      "lat": 30.204508,
+      "lng": -92.248592
+    },
+    {
+      "name": "Rayville",
+      "slug": "rayville",
+      "county": "Richland County",
+      "lat": 32.468938,
+      "lng": -91.7643
+    },
+    {
+      "name": "Reddell",
+      "slug": "reddell",
+      "county": "Evangeline County",
+      "lat": 30.673889,
+      "lng": -92.426111
+    },
+    {
+      "name": "Reeves",
+      "slug": "reeves",
+      "county": "Allen County",
+      "lat": 30.496734,
+      "lng": -93.036847
+    },
+    {
+      "name": "Reserve",
+      "slug": "reserve",
+      "county": "St John The Baptist County",
+      "lat": 30.060255,
+      "lng": -90.551773
+    },
+    {
+      "name": "Rhinehart",
+      "slug": "rhinehart",
+      "county": "Catahoula County",
+      "lat": 31.640278,
+      "lng": -91.995
+    },
+    {
+      "name": "Ringgold",
+      "slug": "ringgold",
+      "county": "Bienville County",
+      "lat": 32.326302,
+      "lng": -93.298241
+    },
+    {
+      "name": "Roanoke",
+      "slug": "roanoke",
+      "county": "Jefferson Davis County",
+      "lat": 30.318167,
+      "lng": -92.686973
+    },
+    {
+      "name": "Robeline",
+      "slug": "robeline",
+      "county": "Natchitoches County",
+      "lat": 31.771453,
+      "lng": -93.320972
+    },
+    {
+      "name": "Robert",
+      "slug": "robert",
+      "county": "Tangipahoa County",
+      "lat": 30.506327,
+      "lng": -90.335171
+    },
+    {
+      "name": "Rodessa",
+      "slug": "rodessa",
+      "county": "Caddo County",
+      "lat": 32.970079,
+      "lng": -93.988474
+    },
+    {
+      "name": "Rosedale",
+      "slug": "rosedale",
+      "county": "Iberville County",
+      "lat": 30.440776,
+      "lng": -91.45616
+    },
+    {
+      "name": "Roseland",
+      "slug": "roseland",
+      "county": "Tangipahoa County",
+      "lat": 30.771711,
+      "lng": -90.524277
+    },
+    {
+      "name": "Rosepine",
+      "slug": "rosepine",
+      "county": "Vernon County",
+      "lat": 30.919722,
+      "lng": -93.282222
+    },
+    {
+      "name": "Rougon",
+      "slug": "rougon",
+      "county": "Pointe Coupee County",
+      "lat": 30.603452,
+      "lng": -91.381316
+    },
+    {
+      "name": "Ruby",
+      "slug": "ruby",
+      "county": "Rapides County",
+      "lat": 31.189167,
+      "lng": -92.248611
+    },
+    {
+      "name": "Ruston",
+      "slug": "ruston",
+      "county": "Lincoln County",
+      "lat": 32.530823,
+      "lng": -92.643927
+    },
+    {
+      "name": "Saint Amant",
+      "slug": "saint-amant",
+      "county": "Ascension County",
+      "lat": 30.23849,
+      "lng": -90.843527
+    },
+    {
+      "name": "Saint Benedict",
+      "slug": "saint-benedict",
+      "county": "Saint Tammany County",
+      "lat": 30.526667,
+      "lng": -90.1125
+    },
+    {
+      "name": "Saint Bernard",
+      "slug": "saint-bernard",
+      "county": "Saint Bernard County",
+      "lat": 29.861093,
+      "lng": -89.836414
+    },
+    {
+      "name": "Saint Francisville",
+      "slug": "saint-francisville",
+      "county": "West Feliciana County",
+      "lat": 30.858658,
+      "lng": -91.392266
+    },
+    {
+      "name": "Saint Gabriel",
+      "slug": "saint-gabriel",
+      "county": "Iberville County",
+      "lat": 30.279873,
+      "lng": -91.09162
+    },
+    {
+      "name": "Saint James",
+      "slug": "saint-james",
+      "county": "Saint James County",
+      "lat": 30.027598,
+      "lng": -90.860549
+    },
+    {
+      "name": "Saint Joseph",
+      "slug": "saint-joseph",
+      "county": "Tensas County",
+      "lat": 31.924805,
+      "lng": -91.278432
+    },
+    {
+      "name": "Saint Landry",
+      "slug": "saint-landry",
+      "county": "Evangeline County",
+      "lat": 30.83812,
+      "lng": -92.393846
+    },
+    {
+      "name": "Saint Martinville",
+      "slug": "saint-martinville",
+      "county": "Saint Martin County",
+      "lat": 30.208282,
+      "lng": -91.825961
+    },
+    {
+      "name": "Saint Maurice",
+      "slug": "saint-maurice",
+      "county": "Winn County",
+      "lat": 31.759444,
+      "lng": -92.958889
+    },
+    {
+      "name": "Saint Rose",
+      "slug": "saint-rose",
+      "county": "Saint Charles County",
+      "lat": 29.958074,
+      "lng": -90.312432
+    },
+    {
+      "name": "Saline",
+      "slug": "saline",
+      "county": "Bienville County",
+      "lat": 32.156604,
+      "lng": -92.948606
+    },
+    {
+      "name": "Sarepta",
+      "slug": "sarepta",
+      "county": "Webster County",
+      "lat": 32.943361,
+      "lng": -93.440407
+    },
+    {
+      "name": "Schriever",
+      "slug": "schriever",
+      "county": "Terrebonne County",
+      "lat": 29.712276,
+      "lng": -90.851341
+    },
+    {
+      "name": "Scott",
+      "slug": "scott",
+      "county": "Lafayette County",
+      "lat": 30.250401,
+      "lng": -92.098079
+    },
+    {
+      "name": "Shongaloo",
+      "slug": "shongaloo",
+      "county": "Webster County",
+      "lat": 32.971289,
+      "lng": -93.296264
+    },
+    {
+      "name": "Shreveport",
+      "slug": "shreveport",
+      "county": "Caddo County",
+      "lat": 32.503743,
+      "lng": -93.748696
+    },
+    {
+      "name": "Sibley",
+      "slug": "sibley",
+      "county": "Webster County",
+      "lat": 32.509539,
+      "lng": -93.300902
+    },
+    {
+      "name": "Sicily Island",
+      "slug": "sicily-island",
+      "county": "Catahoula County",
+      "lat": 31.850734,
+      "lng": -91.680711
+    },
+    {
+      "name": "Sieper",
+      "slug": "sieper",
+      "county": "Rapides County",
+      "lat": 31.197034,
+      "lng": -92.76981
+    },
+    {
+      "name": "Sikes",
+      "slug": "sikes",
+      "county": "Winn County",
+      "lat": 32.068616,
+      "lng": -92.442894
+    },
+    {
+      "name": "Simmesport",
+      "slug": "simmesport",
+      "county": "Avoyelles County",
+      "lat": 30.977119,
+      "lng": -91.825868
+    },
+    {
+      "name": "Simpson",
+      "slug": "simpson",
+      "county": "Vernon County",
+      "lat": 31.245556,
+      "lng": -93.015278
+    },
+    {
+      "name": "Simsboro",
+      "slug": "simsboro",
+      "county": "Lincoln County",
+      "lat": 32.538388,
+      "lng": -92.799484
+    },
+    {
+      "name": "Singer",
+      "slug": "singer",
+      "county": "Beauregard County",
+      "lat": 30.532906,
+      "lng": -93.464986
+    },
+    {
+      "name": "Slagle",
+      "slug": "slagle",
+      "county": "Vernon County",
+      "lat": 31.202222,
+      "lng": -93.127222
+    },
+    {
+      "name": "Slaughter",
+      "slug": "slaughter",
+      "county": "East Feliciana County",
+      "lat": 30.799139,
+      "lng": -91.052251
+    },
+    {
+      "name": "Slidell",
+      "slug": "slidell",
+      "county": "Saint Tammany County",
+      "lat": 30.278411,
+      "lng": -89.771192
+    },
+    {
+      "name": "Sondheimer",
+      "slug": "sondheimer",
+      "county": "East Carroll County",
+      "lat": 32.577216,
+      "lng": -91.248197
+    },
+    {
+      "name": "Sorrento",
+      "slug": "sorrento",
+      "county": "Ascension County",
+      "lat": 30.185388,
+      "lng": -90.86314
+    },
+    {
+      "name": "Spearsville",
+      "slug": "spearsville",
+      "county": "Union County",
+      "lat": 32.955022,
+      "lng": -92.58698
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Livingston County",
+      "lat": 30.415738,
+      "lng": -90.577479
+    },
+    {
+      "name": "Springhill",
+      "slug": "springhill",
+      "county": "Webster County",
+      "lat": 33.00054,
+      "lng": -93.459563
+    },
+    {
+      "name": "Starks",
+      "slug": "starks",
+      "county": "Calcasieu County",
+      "lat": 30.308477,
+      "lng": -93.661485
+    },
+    {
+      "name": "Start",
+      "slug": "start",
+      "county": "Richland County",
+      "lat": 32.486389,
+      "lng": -91.859167
+    },
+    {
+      "name": "Sterlington",
+      "slug": "sterlington",
+      "county": "Ouachita County",
+      "lat": 32.593268,
+      "lng": -92.12134
+    },
+    {
+      "name": "Stonewall",
+      "slug": "stonewall",
+      "county": "De Soto County",
+      "lat": 32.284758,
+      "lng": -93.800277
+    },
+    {
+      "name": "Sugartown",
+      "slug": "sugartown",
+      "county": "Beauregard County",
+      "lat": 30.827653,
+      "lng": -93.017017
+    },
+    {
+      "name": "Sulphur",
+      "slug": "sulphur",
+      "county": "Calcasieu County",
+      "lat": 30.219001,
+      "lng": -93.363911
+    },
+    {
+      "name": "Summerfield",
+      "slug": "summerfield",
+      "county": "Claiborne County",
+      "lat": 32.923802,
+      "lng": -92.821516
+    },
+    {
+      "name": "Sun",
+      "slug": "sun",
+      "county": "Saint Tammany County",
+      "lat": 30.648889,
+      "lng": -89.8925
+    },
+    {
+      "name": "Sunset",
+      "slug": "sunset",
+      "county": "Saint Landry County",
+      "lat": 30.393741,
+      "lng": -92.075681
+    },
+    {
+      "name": "Sunshine",
+      "slug": "sunshine",
+      "county": "Iberville County",
+      "lat": 30.29824,
+      "lng": -91.179922
+    },
+    {
+      "name": "Swartz",
+      "slug": "swartz",
+      "county": "Ouachita County",
+      "lat": 32.568611,
+      "lng": -91.985
+    },
+    {
+      "name": "Talisheek",
+      "slug": "talisheek",
+      "county": "Saint Tammany County",
+      "lat": 30.5325,
+      "lng": -89.876667
+    },
+    {
+      "name": "Tallulah",
+      "slug": "tallulah",
+      "county": "Madison County",
+      "lat": 32.402127,
+      "lng": -91.190066
+    },
+    {
+      "name": "Tangipahoa",
+      "slug": "tangipahoa",
+      "county": "Tangipahoa County",
+      "lat": 30.875833,
+      "lng": -90.511944
+    },
+    {
+      "name": "Taylor",
+      "slug": "taylor",
+      "county": "Bienville County",
+      "lat": 32.545556,
+      "lng": -93.119167
+    },
+    {
+      "name": "Theriot",
+      "slug": "theriot",
+      "county": "Terrebonne County",
+      "lat": 29.451587,
+      "lng": -90.765146
+    },
+    {
+      "name": "Thibodaux",
+      "slug": "thibodaux",
+      "county": "Lafourche County",
+      "lat": 29.799213,
+      "lng": -90.809605
+    },
+    {
+      "name": "Tickfaw",
+      "slug": "tickfaw",
+      "county": "Tangipahoa County",
+      "lat": 30.566849,
+      "lng": -90.481997
+    },
+    {
+      "name": "Tioga",
+      "slug": "tioga",
+      "county": "Rapides County",
+      "lat": 31.415732,
+      "lng": -92.447116
+    },
+    {
+      "name": "Transylvania",
+      "slug": "transylvania",
+      "county": "East Carroll County",
+      "lat": 32.670529,
+      "lng": -91.228813
+    },
+    {
+      "name": "Trout",
+      "slug": "trout",
+      "county": "La Salle County",
+      "lat": 31.653142,
+      "lng": -92.19931
+    },
+    {
+      "name": "Tullos",
+      "slug": "tullos",
+      "county": "La Salle County",
+      "lat": 31.853088,
+      "lng": -92.301254
+    },
+    {
+      "name": "Tunica",
+      "slug": "tunica",
+      "county": "West Feliciana County",
+      "lat": 30.929167,
+      "lng": -91.555
+    },
+    {
+      "name": "Turkey Creek",
+      "slug": "turkey-creek",
+      "county": "Evangeline County",
+      "lat": 30.876944,
+      "lng": -92.413056
+    },
+    {
+      "name": "Uncle Sam",
+      "slug": "uncle-sam",
+      "county": "Saint James County",
+      "lat": 30.021679,
+      "lng": -90.771879
+    },
+    {
+      "name": "Urania",
+      "slug": "urania",
+      "county": "La Salle County",
+      "lat": 31.863611,
+      "lng": -92.295833
+    },
+    {
+      "name": "Vacherie",
+      "slug": "vacherie",
+      "county": "Saint James County",
+      "lat": 29.969372,
+      "lng": -90.709699
+    },
+    {
+      "name": "Varnado",
+      "slug": "varnado",
+      "county": "Washington County",
+      "lat": 30.982085,
+      "lng": -89.7606
+    },
+    {
+      "name": "Venice",
+      "slug": "venice",
+      "county": "Plaquemines County",
+      "lat": 29.261812,
+      "lng": -89.347776
+    },
+    {
+      "name": "Ventress",
+      "slug": "ventress",
+      "county": "Pointe Coupee County",
+      "lat": 30.681404,
+      "lng": -91.403257
+    },
+    {
+      "name": "Vidalia",
+      "slug": "vidalia",
+      "county": "Concordia County",
+      "lat": 31.578222,
+      "lng": -91.469471
+    },
+    {
+      "name": "Ville Platte",
+      "slug": "ville-platte",
+      "county": "Evangeline County",
+      "lat": 30.692376,
+      "lng": -92.27371
+    },
+    {
+      "name": "Vinton",
+      "slug": "vinton",
+      "county": "Calcasieu County",
+      "lat": 30.201523,
+      "lng": -93.572808
+    },
+    {
+      "name": "Violet",
+      "slug": "violet",
+      "county": "Saint Bernard County",
+      "lat": 29.904347,
+      "lng": -89.895992
+    },
+    {
+      "name": "Vivian",
+      "slug": "vivian",
+      "county": "Caddo County",
+      "lat": 32.866844,
+      "lng": -93.987312
+    },
+    {
+      "name": "Wakefield",
+      "slug": "wakefield",
+      "county": "West Feliciana County",
+      "lat": 30.889167,
+      "lng": -91.35
+    },
+    {
+      "name": "Walker",
+      "slug": "walker",
+      "county": "Livingston County",
+      "lat": 30.524748,
+      "lng": -90.855708
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Saint Landry County",
+      "lat": 30.709881,
+      "lng": -92.039888
+    },
+    {
+      "name": "Waterproof",
+      "slug": "waterproof",
+      "county": "Tensas County",
+      "lat": 31.807613,
+      "lng": -91.387154
+    },
+    {
+      "name": "Watson",
+      "slug": "watson",
+      "county": "Livingston County",
+      "lat": 30.575556,
+      "lng": -90.953056
+    },
+    {
+      "name": "Welsh",
+      "slug": "welsh",
+      "county": "Jefferson Davis County",
+      "lat": 30.236259,
+      "lng": -92.818972
+    },
+    {
+      "name": "West Monroe",
+      "slug": "west-monroe",
+      "county": "Ouachita County",
+      "lat": 32.531726,
+      "lng": -92.175971
+    },
+    {
+      "name": "Westlake",
+      "slug": "westlake",
+      "county": "Calcasieu County",
+      "lat": 30.261274,
+      "lng": -93.268837
+    },
+    {
+      "name": "Westwego",
+      "slug": "westwego",
+      "county": "Jefferson County",
+      "lat": 29.914386,
+      "lng": -90.181305
+    },
+    {
+      "name": "Weyanoke",
+      "slug": "weyanoke",
+      "county": "West Feliciana County",
+      "lat": 30.946667,
+      "lng": -91.461111
+    },
+    {
+      "name": "White Castle",
+      "slug": "white-castle",
+      "county": "Iberville County",
+      "lat": 30.15447,
+      "lng": -91.177343
+    },
+    {
+      "name": "Wildsville",
+      "slug": "wildsville",
+      "county": "Concordia County",
+      "lat": 31.615556,
+      "lng": -91.783889
+    },
+    {
+      "name": "Wilson",
+      "slug": "wilson",
+      "county": "East Feliciana County",
+      "lat": 30.947325,
+      "lng": -91.065511
+    },
+    {
+      "name": "Winnfield",
+      "slug": "winnfield",
+      "county": "Winn County",
+      "lat": 31.921389,
+      "lng": -92.636646
+    },
+    {
+      "name": "Winnsboro",
+      "slug": "winnsboro",
+      "county": "Franklin County",
+      "lat": 32.159229,
+      "lng": -91.710845
+    },
+    {
+      "name": "Wisner",
+      "slug": "wisner",
+      "county": "Franklin County",
+      "lat": 31.991252,
+      "lng": -91.676798
+    },
+    {
+      "name": "Woodworth",
+      "slug": "woodworth",
+      "county": "Rapides County",
+      "lat": 31.132588,
+      "lng": -92.498996
+    },
+    {
+      "name": "Youngsville",
+      "slug": "youngsville",
+      "county": "Lafayette County",
+      "lat": 30.097498,
+      "lng": -92.009629
+    },
+    {
+      "name": "Zachary",
+      "slug": "zachary",
+      "county": "East Baton Rouge County",
+      "lat": 30.656129,
+      "lng": -91.135841
+    },
+    {
+      "name": "Zwolle",
+      "slug": "zwolle",
+      "county": "Sabine County",
+      "lat": 31.61379,
+      "lng": -93.663569
+    }
+  ]
+}

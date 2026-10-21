@@ -1,0 +1,167 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import CTABand from '../components/CTABand.astro';
+import ContactForm from '../components/ContactForm.astro';
+import { BUSINESS_INFO } from '../data/siteData';
+
+const pageTitle = "About Rapid Water Rescue Pros | Emergency Water Mitigation Specialists";
+const pageDesc = "Learn about Rapid Water Rescue Pros: our founding story, IICRC certifications, industrial extraction equipment, and commitment to transparent pricing.";
+
+const aboutPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Rapid Water Rescue Pros",
+  "description": pageDesc,
+  "url": "https://rapidwaterrescuepros.com/about-us/"
+};
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/about-us/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "About Us", url: "/about-us/" }
+  ]} />
+
+  <!-- Hero Banner -->
+  <section class="hero" style="padding:3.5rem 0">
+    <div class="container text-center">
+      <span class="badge badge-emergency" style="margin-bottom:1rem">Company Profile</span>
+      <h1>About Rapid Water Rescue Pros</h1>
+      <p class="hero-subtitle" style="max-width:750px;margin:0 auto 1.5rem">
+        Built by seasoned restoration specialists and master plumbers who believe emergency water extraction should be fast, transparent, and completely free of predatory pricing.
+      </p>
+      <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency">
+        Call 24/7 Hotline: {BUSINESS_INFO.phoneFormatted}
+      </a>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Our Story -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3.5rem;align-items:center">
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">Our Founding Story</span>
+          <h2>Founded on Speed, Science, and Integrity</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:1.25rem">
+            Rapid Water Rescue Pros began after witnessing how traditional plumbing and restoration companies handled indoor flood emergencies: slow dispatch, four-hour arrival windows, and surprise after-hours fees when families were most vulnerable.
+          </p>
+          <p style="font-size:1rem;line-height:1.7;color:var(--text-muted);margin-bottom:1.25rem">
+            We designed a modern emergency network around one core standard: <strong>under-60-minute on-site arrival</strong>. By pairing heavy-duty 30-horsepower truck-mounted extraction vacuums with certified psychrometric drying protocols, our teams remove water faster, reduce unnecessary drywall tear-outs, and protect homeowners from toxic black mold.
+          </p>
+          <p style="font-size:1rem;line-height:1.7;color:var(--text-muted)">
+            Today, our dispatch network coordinates emergency responses across all 50 states, with specialized high-density regional fleets throughout California, including Los Angeles, San Diego, San Jose, San Francisco, Fresno, and Sacramento.
+          </p>
+        </div>
+
+        <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2.5rem">
+          <h3 style="margin-bottom:1rem;font-size:1.3rem">Core Principles We Live By</h3>
+          <div style="display:flex;flex-direction:column;gap:1.25rem">
+            <div>
+              <strong style="color:var(--primary);font-size:1.05rem">1. Zero Surprise Pricing</strong>
+              <p style="font-size:0.9rem;color:var(--text-muted);margin:0.2rem 0 0">We provide firm upfront quotes before touching a single valve. The price you approve is the price on the invoice.</p>
+            </div>
+            <div>
+              <strong style="color:var(--primary);font-size:1.05rem">2. IICRC S500 Standards</strong>
+              <p style="font-size:0.9rem;color:var(--text-muted);margin:0.2rem 0 0">Every extraction pass, moisture reading, and antimicrobial application follows rigorous industry guidelines.</p>
+            </div>
+            <div>
+              <strong style="color:var(--primary);font-size:1.05rem">3. Direct Insurance Advocacy</strong>
+              <p style="font-size:0.9rem;color:var(--text-muted);margin:0.2rem 0 0">We prepare Xactimate estimates, compile thermal photos, and negotiate directly with your adjuster.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Leadership / Team Space -->
+  <section class="section bg-light">
+    <div class="container text-center">
+      <div class="section-header">
+        <span class="badge badge-secondary">Restoration Leadership</span>
+        <h2>Experienced Professionals on Every Job</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          Our technical directors bring decades of hands-on plumbing, structural drying, and disaster mitigation experience.
+        </p>
+      </div>
+
+      <div class="cards-grid" style="max-width:850px;margin:0 auto">
+        <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2rem;text-align:center">
+          <div style="width:90px;height:90px;border-radius:50%;background:var(--primary);color:#fff;margin:0 auto 1.25rem;display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:800">
+            MH
+          </div>
+          <h3 style="font-size:1.25rem;margin-bottom:0.25rem">Mark Henderson</h3>
+          <div style="color:var(--secondary);font-weight:700;font-size:0.85rem;margin-bottom:1rem">Master Plumber & Technical Field Director</div>
+          <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.6">
+            Over 22 years of commercial plumbing, seismic retrofitting, and high-volume extraction experience. Oversees technical training and vehicle equipment standards.
+          </p>
+        </div>
+
+        <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2rem;text-align:center">
+          <div style="width:90px;height:90px;border-radius:50%;background:var(--secondary);color:#fff;margin:0 auto 1.25rem;display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:800">
+            ER
+          </div>
+          <h3 style="font-size:1.25rem;margin-bottom:0.25rem">Elena Rostova</h3>
+          <div style="color:var(--secondary);font-weight:700;font-size:0.85rem;margin-bottom:1rem">Senior Psychrometric Inspector & Claims Lead</div>
+          <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.6">
+            Certified IICRC Applied Structural Drying (ASD) specialist with 16 years leading large-loss residential mitigation, thermal moisture mapping, and insurance claims.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Locations Overview -->
+  <section class="section">
+    <div class="container text-center">
+      <div class="section-header">
+        <span class="badge badge-emergency">Nationwide Fleet</span>
+        <h2>Where We Operate</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          With headquarters in San Francisco and regional dispatch nodes across all 50 states, help is always close at hand.
+        </p>
+      </div>
+
+      <div style="background:var(--bg-light);border-radius:var(--radius-lg);padding:2rem;max-width:800px;margin:0 auto">
+        <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:1.5rem">
+          We maintain dedicated mobile units across California, including <a href="/water-damage/california/los-angeles/">Los Angeles</a>, <a href="/water-damage/california/san-diego/">San Diego</a>, <a href="/water-damage/california/san-jose/">San Jose</a>, <a href="/water-damage/california/san-francisco/">San Francisco</a>, <a href="/water-damage/california/fresno/">Fresno</a>, and <a href="/water-damage/california/sacramento/">Sacramento</a>, with national dispatch covering all 50 states.
+        </p>
+        <a href="/service-areas/" class="btn btn-secondary">
+          Explore All Service Areas Directory →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <CTABand headline="Need Fast, Professional Water Extraction?" subtext="Call our 24/7 emergency dispatch line to speak with an on-duty coordinator immediately." />
+
+  <!-- Contact Form & Map -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start">
+        <div>
+          <span class="badge badge-emergency" style="margin-bottom:0.5rem">Get in Touch</span>
+          <h2>Connect with Our Restoration Team</h2>
+          <p style="color:var(--text-body);font-size:1.05rem;line-height:1.7;margin-bottom:1.5rem">
+            Whether you need emergency dispatch right now or have questions regarding past mitigation, we are here 24 hours a day.
+          </p>
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-md);padding:1.5rem">
+            <div style="font-size:0.9rem;display:flex;flex-direction:column;gap:0.4rem">
+              <div><strong>Toll-Free Hotline:</strong> {BUSINESS_INFO.phoneFormatted}</div>
+              <div><strong>Headquarters:</strong> {BUSINESS_INFO.address.street}, {BUSINESS_INFO.address.city}, {BUSINESS_INFO.address.state} {BUSINESS_INFO.address.zip}</div>
+              <div><strong>Email:</strong> {BUSINESS_INFO.email}</div>
+            </div>
+          </div>
+        </div>
+        <ContactForm />
+      </div>
+    </div>
+  </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify(aboutPageSchema)} />
+</BaseLayout>

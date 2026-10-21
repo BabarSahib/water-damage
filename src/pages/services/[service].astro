@@ -1,0 +1,191 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import TrustStrip from '../../components/TrustStrip.astro';
+import FAQAccordion from '../../components/FAQAccordion.astro';
+import CTABand from '../../components/CTABand.astro';
+import ContactForm from '../../components/ContactForm.astro';
+import { BUSINESS_INFO, SERVICES, GENERAL_FAQS, ALL_STATES } from '../../data/siteData';
+
+export async function getStaticPaths() {
+  return SERVICES.map((service) => ({
+    params: { service: service.slug },
+    props: { currentService: service }
+  }));
+}
+
+const { currentService } = Astro.props;
+const otherServices = SERVICES.filter((s) => s.slug !== currentService.slug);
+
+const serviceSpecificFaqs = [
+  {
+    q: `How quickly can your technicians respond for ${currentService.name}?`,
+    a: `Our emergency mobile units are deployed locally across all covered service regions, maintaining an average arrival time of under 60 minutes for ${currentService.name} requests.`
+  },
+  {
+    q: `Is ${currentService.name} covered under my standard homeowners insurance policy?`,
+    a: `In most cases, sudden and accidental water damage resulting from broken pipes, burst water heaters, or storm intrusion is covered under standard HO-3 homeowner policies. We document all moisture levels with thermal imaging and bill your insurance carrier directly.`
+  },
+  {
+    q: `What specialized tools and equipment do you utilize for ${currentService.name}?`,
+    a: `We utilize industrial truck-mounted extraction vacuums, submersible transfer pumps, FLIR infrared thermal imaging cameras, non-invasive moisture meters, and commercial Low Grain Refrigerant (LGR) dehumidifiers.`
+  },
+  {
+    q: `Do you provide upfront pricing before performing ${currentService.name}?`,
+    a: `Yes. We provide 100% transparent, flat-rate written pricing with zero hidden fees or surprise after-hours surcharges. You approve the quote before any work commences.`
+  },
+  {
+    q: `Is your company licensed, insured, and certified for water mitigation?`,
+    a: `Yes. All technicians operating under Rapid Water Rescue Pros are fully licensed, insured, and certified to Institute of Inspection, Cleaning and Restoration Certification (IICRC) S500 standards.`
+  }
+];
+
+const pageTitle = `${currentService.name} | 24/7 Nationwide Emergency Dispatch | Rapid Water Rescue Pros`;
+const pageDesc = `Professional ${currentService.name} services nationwide. 24/7 emergency response, truck-mounted extraction, upfront flat-rate pricing, and under 60-min arrival. Call (866) 751-9896!`;
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath={`/services/${currentService.slug}/`}>
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Services", url: "/services/" },
+    { label: currentService.name, url: `/services/${currentService.slug}/` }
+  ]} />
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
+          24/7 Priority Emergency Service
+        </div>
+
+        <h1>{currentService.name}</h1>
+        <p class="hero-subtitle">
+          {currentService.tagline} Our certified water mitigation crews provide fast on-site extraction, hazardous disconnection, and comprehensive structural drying across all 50 states.
+        </p>
+
+        <div class="hero-actions">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span>Call Now: {BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <a href="#service-form" class="btn btn-outline-white">
+            <span>Request Fast Quote</span>
+          </a>
+        </div>
+
+        <div class="hero-highlights">
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Available in All 50 States</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Under 60-Minute Rapid Dispatch</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <h3>Service Dispatch Desk</h3>
+        <p>Connect immediately with an on-call coordinator to dispatch technicians equipped for {currentService.name}.</p>
+        <div style="background:var(--bg-light);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:1.5rem;border-left:4px solid var(--cta-red)">
+          <div style="font-size:0.85rem;color:var(--text-muted);font-weight:600">LIVE EMERGENCY LINE</div>
+          <a href={BUSINESS_INFO.phoneTel} style="font-size:1.5rem;font-weight:800;color:var(--cta-red);text-decoration:none">
+            {BUSINESS_INFO.phoneFormatted}
+          </a>
+        </div>
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="width:100%;text-align:center">
+          Request Immediate Service
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Service Scope & Details -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1.2fr 0.8fr;gap:3.5rem;align-items:start">
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">Service Scope</span>
+          <h2>What Our {currentService.name} Service Includes</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:1.5rem">
+            When you contact Rapid Water Rescue Pros for {currentService.name.toLowerCase()}, our dispatch network executes a comprehensive, certified protocol designed to eliminate hazards, remove standing moisture, and restore healthy living conditions.
+          </p>
+
+          <div style="display:flex;flex-direction:column;gap:1rem;margin-bottom:2.5rem">
+            {currentService.benefits.map((b) => (
+              <div style="display:flex;align-items:flex-start;gap:1rem;background:var(--bg-light);padding:1.25rem;border-radius:var(--radius-md);border-left:4px solid var(--secondary)">
+                <div style="font-size:1.25rem;color:var(--secondary)">✔</div>
+                <div style="font-size:0.95rem;color:var(--text-dark);font-weight:600">{b}</div>
+              </div>
+            ))}
+          </div>
+
+          <h3>Why Immediate Action Matters</h3>
+          <p style="line-height:1.7;color:var(--text-body);margin-bottom:1.25rem">
+            Water damage is progressive. Within minutes, moisture spreads across floor cavities, saturates drywall, and begins delaminating engineered wood. Within 24 to 48 hours, trapped moisture in enclosed spaces triggers fungal and mold growth. Our <a href="/services/24-7-water-extraction/">24/7 water extraction teams</a> arrive quickly to arrest the damage before it escalates into structural rot.
+          </p>
+
+          <h3>Tools & Advanced Technology Deployed</h3>
+          <p style="line-height:1.7;color:var(--text-body);margin-bottom:1.25rem">
+            We employ commercial truck-mounted extraction vacuums, submersible trash pumps, FLIR infrared thermal imaging devices, and high-capacity Low Grain Refrigerant (LGR) dehumidifiers. We do not stop until digital moisture meters verify that all structural materials have returned to baseline dry standards.
+          </p>
+
+          <!-- Service Area Callout -->
+          <div style="background:var(--secondary-light);border:1px solid rgba(22,135,217,0.3);border-radius:var(--radius-md);padding:1.5rem;margin-top:2rem">
+            <h4 style="color:var(--primary);margin-bottom:0.5rem">Available in All 50 States & Across California</h4>
+            <p style="font-size:0.92rem;color:var(--text-body);margin:0 0 1rem">
+              Our {currentService.name.toLowerCase()} service is available nationwide. Check our California city service hubs including <a href="/water-damage/california/los-angeles/">Los Angeles</a>, <a href="/water-damage/california/san-diego/">San Diego</a>, <a href="/water-damage/california/san-jose/">San Jose</a>, and <a href="/water-damage/california/san-francisco/">San Francisco</a>, or visit our <a href="/service-areas/">nationwide service areas directory</a>.
+            </p>
+            <a href="/service-areas/" class="btn btn-secondary" style="font-size:0.9rem;padding:0.6rem 1.2rem">
+              Find Your Local Service City →
+            </a>
+          </div>
+        </div>
+
+        <!-- Sidebar / Contact Form -->
+        <div id="service-form">
+          <ContactForm />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Related Services -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Related Solutions</span>
+        <h2>Explore Additional Emergency Services</h2>
+        <p style="max-width:600px;margin:0.5rem auto 0;color:var(--text-muted)">
+          We provide complete restoration coverage for all types of residential and commercial water intrusions.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {otherServices.slice(0, 3).map((os) => (
+          <div class="service-card">
+            <h3>{os.name}</h3>
+            <p>{os.shortDesc}</p>
+            <a href={`/services/${os.slug}/`} class="card-link">
+              <span>View Service →</span>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <FAQAccordion
+    title={`${currentService.name} FAQs`}
+    subtitle="Answers to common questions about this specialized service."
+    faqs={serviceSpecificFaqs}
+  />
+
+  <CTABand headline={`Need Fast ${currentService.name}?`} subtext="Speak with a live dispatch specialist right now. Average response time is under 60 minutes." />
+</BaseLayout>

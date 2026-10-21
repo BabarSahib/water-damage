@@ -1,0 +1,350 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import FAQAccordion from '../components/FAQAccordion.astro';
+import CTABand from '../components/CTABand.astro';
+import ContactForm from '../components/ContactForm.astro';
+import { BUSINESS_INFO, SERVICES, ALL_STATES, GENERAL_FAQS, PROCESS_STEPS } from '../data/siteData';
+
+const pageTitle = "Emergency Water Extraction & 24/7 Flood Mitigation | Rapid Water Rescue Pros";
+const pageDesc = "Rapid Water Rescue Pros provides 24/7 emergency water extraction, flood water removal, water heater leak cleanup, and structural drying nationwide. Under 60-min response. Call (866) 751-9896!";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/">
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
+          24/7 Emergency Water Extraction Dispatch
+        </div>
+        
+        <h1>24/7 Emergency Water Extraction & Flood Damage Mitigation</h1>
+        
+        <p class="hero-subtitle">
+          When standing floodwater, broken plumbing, or ruptured water heaters threaten your home, seconds count. Our IICRC-certified extraction teams deploy industrial truck-mounted pumps to remove water rapidly, sanitize affected spaces, and protect your hardwood floors and drywall.
+        </p>
+
+        <div class="hero-actions">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span>Call Now: {BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <a href="#dispatch-form" class="btn btn-outline-white">
+            <span>Request Free Estimate</span>
+          </a>
+        </div>
+
+        <div class="hero-highlights">
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Under 60-Min On-Site Dispatch</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Direct Homeowners Insurance Billing</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Zero Hidden Fees Guarantee</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Emergency Card -->
+      <div class="hero-card">
+        <h3>Need Immediate Help?</h3>
+        <p>A failed water heater can flood your basement with 80 gallons of scalding water in minutes. Speak directly with an on-duty dispatch coordinator right now.</p>
+        
+        <div style="background:var(--bg-light);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:1.5rem;border-left:4px solid var(--cta-red)">
+          <div style="font-size:0.85rem;color:var(--text-muted);font-weight:600">LIVE EMERGENCY HOTLINE</div>
+          <a href={BUSINESS_INFO.phoneTel} style="font-size:1.5rem;font-weight:800;color:var(--cta-red);text-decoration:none">
+            {BUSINESS_INFO.phoneFormatted}
+          </a>
+          <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.25rem">Available 24 Hours a Day · 365 Days a Year</div>
+        </div>
+
+        <ul style="list-style:none;display:flex;flex-direction:column;gap:0.75rem;font-size:0.9rem;color:var(--text-body);margin-bottom:1.5rem">
+          <li style="display:flex;align-items:center;gap:0.5rem">
+            <span style="color:#10B981">✓</span> Full plumbing disconnection & gas isolation
+          </li>
+          <li style="display:flex;align-items:center;gap:0.5rem">
+            <span style="color:#10B981">✓</span> Heavy-duty truck-mounted water extraction
+          </li>
+          <li style="display:flex;align-items:center;gap:0.5rem">
+            <span style="color:#10B981">✓</span> Old tank hauling and eco-friendly disposal
+          </li>
+        </ul>
+
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="width:100%;text-align:center">
+          Speak with a Specialist
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Strip -->
+  <TrustStrip />
+
+  <!-- Services Section -->
+  <section class="section" id="services">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Specialized Solutions</span>
+        <h2>Comprehensive Water Extraction & Mitigation Services</h2>
+        <p style="max-width:700px;margin:0.5rem auto 0;color:var(--text-muted)">
+          From ruptured 80-gallon water heaters to storm surge basement floods, our technicians are trained and equipped to extract water and stabilize your structure immediately.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {SERVICES.map((s) => (
+          <div class="service-card">
+            <div class="service-icon-box">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>
+            </div>
+            <h3>{s.name}</h3>
+            <p>{s.shortDesc}</p>
+            <a href={`/services/${s.slug}/`} class="card-link">
+              <span>Explore Service Details</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42L16.86 11H5v2z"/></svg>
+            </a>
+          </div>
+        ))}
+      </div>
+
+      <div class="text-center" style="margin-top:2.5rem">
+        <a href="/services/" class="btn btn-outline-primary" style="font-weight:700">
+          View All Water Removal Services Hub →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- States We Serve Section -->
+  <section class="section bg-light" id="locations">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-emergency">Nationwide Service Network</span>
+        <h2>Find Rapid Water Extraction Pros in Your State</h2>
+        <p style="max-width:700px;margin:0.5rem auto 0;color:var(--text-muted)">
+          We provide 24/7 residential and commercial water mitigation services across all 50 states. Select your state below to view local city dispatch availability.
+        </p>
+      </div>
+
+      <!-- Featured California Batch 1 Banner -->
+      <div style="background:#ffffff;border:2px solid var(--secondary);border-radius:var(--radius-lg);padding:1.5rem 2rem;margin-bottom:2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;box-shadow:var(--shadow-sm)">
+        <div>
+          <span class="badge badge-emergency" style="margin-bottom:0.4rem">Batch 1 Active Region</span>
+          <h3 style="margin-bottom:0.25rem">California Statewide Coverage</h3>
+          <p style="margin:0;color:var(--text-muted);font-size:0.95rem">
+            Complete city-level coverage across Los Angeles, San Diego, San Jose, San Francisco, Fresno, Sacramento, and surrounding communities.
+          </p>
+        </div>
+        <a href="/water-damage/california/" class="btn btn-emergency">
+          View California Cities →
+        </a>
+      </div>
+
+      <!-- All States Grid -->
+      <div class="cards-grid-sm">
+        {ALL_STATES.map((st) => (
+          <a href={`/water-damage/${st.slug}/`} class="location-card">
+            <span class="location-card-name">{st.name}</span>
+            <span class="location-card-arrow">→</span>
+          </a>
+        ))}
+      </div>
+
+      <div class="text-center" style="margin-top:2.5rem">
+        <a href="/service-areas/" class="btn btn-secondary" style="font-weight:700">
+          View Nationwide Service Areas Directory →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Summary & Certifications -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3.5rem;align-items:center">
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">About Our Company</span>
+          <h2>Rapid Response When Disaster Strikes Your Property</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body)">
+            Rapid Water Rescue Pros was founded on a simple principle: when water enters your home, speed and precision are the only things that stop permanent destruction. A burst water heater can release hundreds of gallons of water in hours, saturating subfloors and breeding toxic mold colonies within 48 hours.
+          </p>
+          <p style="font-size:0.98rem;line-height:1.7;color:var(--text-muted)">
+            Our mobile fleet is outfitted with industrial truck-mounted vacuum systems, FLIR infrared thermal moisture mapping cameras, and commercial LGR dehumidifiers. We do not just pump water; we isolate electrical and gas dangers, detach failed appliances, clean contaminated subflooring, and work directly with your homeowners insurance provider so you have zero stress.
+          </p>
+          <div style="margin-top:1.5rem;display:flex;gap:1rem;flex-wrap:wrap">
+            <a href="/about-us/" class="btn btn-secondary">Learn More About Us →</a>
+            <a href="/blog/" class="btn btn-outline-primary">Read Mitigation Guides</a>
+          </div>
+        </div>
+
+        <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2.5rem">
+          <h3 style="margin-bottom:1.25rem;font-size:1.3rem">Why Homeowners Trust Our Dispatch Team</h3>
+          <div style="display:flex;flex-direction:column;gap:1.25rem">
+            <div style="display:flex;gap:1rem">
+              <div style="font-size:1.5rem;color:var(--secondary)">🛡️</div>
+              <div>
+                <strong>IICRC S500 Standards Compliant</strong>
+                <p style="font-size:0.88rem;color:var(--text-muted);margin:0.2rem 0 0">Every technician follows strict Institute of Inspection, Cleaning and Restoration Certification protocols.</p>
+              </div>
+            </div>
+            <div style="display:flex;gap:1rem">
+              <div style="font-size:1.5rem;color:var(--secondary)">⚡</div>
+              <div>
+                <strong>Under 60-Minute Arrival Times</strong>
+                <p style="font-size:0.88rem;color:var(--text-muted);margin:0.2rem 0 0">Locally dispatched units stationed near major metropolitan arteries ensure lightning-fast response.</p>
+              </div>
+            </div>
+            <div style="display:flex;gap:1rem">
+              <div style="font-size:1.5rem;color:var(--secondary)">📑</div>
+              <div>
+                <strong>Direct Insurance Carrier Billing</strong>
+                <p style="font-size:0.88rem;color:var(--text-muted);margin:0.2rem 0 0">We prepare Xactimate estimates and negotiate directly with your property insurance claims adjuster.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Step-by-Step Process -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Our Rapid Protocol</span>
+        <h2>How We Handle Your Water Emergency</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          A structured, four-step mitigation process engineered to stabilize your property and eliminate hidden moisture.
+        </p>
+      </div>
+
+      <div class="process-grid">
+        {PROCESS_STEPS.map((step) => (
+          <div class="process-step">
+            <div class="process-number">{step.step}</div>
+            <h3>{step.title}</h3>
+            <p>{step.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Customer Testimonials -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Verified Reviews</span>
+        <h2>What Our Customers Say</h2>
+        <p style="max-width:600px;margin:0.5rem auto 0;color:var(--text-muted)">
+          Real homeowners and business managers who experienced rapid water extraction from our team.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2rem;box-shadow:var(--shadow-sm)">
+          <div style="color:#F59E0B;font-size:1.1rem;margin-bottom:0.75rem">★★★★★</div>
+          <p style="font-style:italic;color:var(--text-body);margin-bottom:1rem">
+            "Our 75-gallon water heater split at 3:00 AM on a Sunday. Water was pouring into our finished basement. Rapid Water Rescue Pros had a technician at our door in 45 minutes. They pumped out the water, unhooked the tank, and hauled it away. Saved our hardwood flooring!"
+          </p>
+          <div style="font-weight:700;color:var(--primary)">David R. — Los Angeles, CA</div>
+          <div style="font-size:0.8rem;color:var(--text-muted)">Water Heater Burst & Basement Extraction</div>
+        </div>
+
+        <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2rem;box-shadow:var(--shadow-sm)">
+          <div style="color:#F59E0B;font-size:1.1rem;margin-bottom:0.75rem">★★★★★</div>
+          <p style="font-style:italic;color:var(--text-body);margin-bottom:1rem">
+            "The crew arrived equipped with thermal cameras and moisture meters. They showed me exactly where the water had traveled inside the wall studs. Best part: they handled the entire insurance billing process directly with State Farm."
+          </p>
+          <div style="font-weight:700;color:var(--primary)">Sarah T. — San Diego, CA</div>
+          <div style="font-size:0.8rem;color:var(--text-muted)">Emergency Flood Cleanup & Drying</div>
+        </div>
+
+        <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2rem;box-shadow:var(--shadow-sm)">
+          <div style="color:#F59E0B;font-size:1.1rem;margin-bottom:0.75rem">★★★★★</div>
+          <p style="font-style:italic;color:var(--text-body);margin-bottom:1rem">
+            "Upfront pricing with no surprise after-hours fees. They safely turned off the gas, capped the water lines, drained the tank sediment, and hauled the old heater to a recycling facility. Professional, polite, and ultra-fast."
+          </p>
+          <div style="font-weight:700;color:var(--primary)">Michael K. — San Francisco, CA</div>
+          <div style="font-size:0.8rem;color:var(--text-muted)">Water Heater Disconnection & Haul Away</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <FAQAccordion faqs={GENERAL_FAQS} />
+
+  <!-- CTA Band -->
+  <CTABand />
+
+  <!-- Contact Form & Map Section -->
+  <section class="section" id="dispatch-form">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start">
+        <div>
+          <span class="badge badge-emergency" style="margin-bottom:0.5rem">Immediate Dispatch</span>
+          <h2>Contact Our Emergency Coordination Desk</h2>
+          <p style="color:var(--text-body);font-size:1.05rem;line-height:1.7;margin-bottom:1.5rem">
+            Have questions about a leaking water heater, burst pipe, or flooded crawlspace? Reach out through our priority dispatch desk or dial our nationwide hotline directly.
+          </p>
+
+          <div style="display:flex;flex-direction:column;gap:1rem;margin-bottom:2rem">
+            <div style="display:flex;align-items:center;gap:1rem">
+              <div style="width:40px;height:40px;border-radius:var(--radius-md);background:var(--secondary-light);color:var(--secondary);display:flex;align-items:center;justify-content:center;font-size:1.25rem">
+                📞
+              </div>
+              <div>
+                <div style="font-size:0.82rem;color:var(--text-muted);font-weight:700">24/7 TOLL-FREE PHONE</div>
+                <a href={BUSINESS_INFO.phoneTel} style="font-size:1.2rem;font-weight:800;color:var(--primary)">{BUSINESS_INFO.phoneFormatted}</a>
+              </div>
+            </div>
+
+            <div style="display:flex;align-items:center;gap:1rem">
+              <div style="width:40px;height:40px;border-radius:var(--radius-md);background:var(--secondary-light);color:var(--secondary);display:flex;align-items:center;justify-content:center;font-size:1.25rem">
+                📍
+              </div>
+              <div>
+                <div style="font-size:0.82rem;color:var(--text-muted);font-weight:700">DISPATCH HEADQUARTERS</div>
+                <div style="color:var(--text-body);font-weight:600">{BUSINESS_INFO.address.street}, {BUSINESS_INFO.address.city}, {BUSINESS_INFO.address.state} {BUSINESS_INFO.address.zip}</div>
+              </div>
+            </div>
+
+            <div style="display:flex;align-items:center;gap:1rem">
+              <div style="width:40px;height:40px;border-radius:var(--radius-md);background:var(--secondary-light);color:var(--secondary);display:flex;align-items:center;justify-content:center;font-size:1.25rem">
+                ⏰
+              </div>
+              <div>
+                <div style="font-size:0.82rem;color:var(--text-muted);font-weight:700">OPERATIONAL HOURS</div>
+                <div style="color:var(--text-body);font-weight:600">Open 24 Hours / 7 Days a Week / 365 Days</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Embedded Map -->
+          <div style="border-radius:var(--radius-md);overflow:hidden;border:1px solid var(--border-light);box-shadow:var(--shadow-sm);height:260px">
+            <iframe
+              title="Rapid Water Rescue Pros Service Area"
+              width="100%"
+              height="100%"
+              style="border:0"
+              loading="lazy"
+              allowfullscreen
+              referrerpolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.015705353846!2d-122.40243888468166!3d37.79251817975662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085806283db8567%3A0xb3a25b29db42a632!2s100%20Pine%20St%2C%20San%20Francisco%2C%20CA%2094111!5e0!3m2!1sen!2sus!4v1680000000000!5m2!1sen!2sus">
+            </iframe>
+          </div>
+        </div>
+
+        <ContactForm />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

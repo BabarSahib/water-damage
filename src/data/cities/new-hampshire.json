@@ -1,0 +1,1792 @@
+{
+  "stateName": "New Hampshire",
+  "stateCode": "NH",
+  "stateSlug": "new-hampshire",
+  "cities": [
+    {
+      "name": "Acworth",
+      "slug": "acworth",
+      "county": "Sullivan County",
+      "lat": 43.217778,
+      "lng": -72.2925
+    },
+    {
+      "name": "Alstead",
+      "slug": "alstead",
+      "county": "Cheshire County",
+      "lat": 43.126484,
+      "lng": -72.328052
+    },
+    {
+      "name": "Alton",
+      "slug": "alton",
+      "county": "Belknap County",
+      "lat": 43.46302,
+      "lng": -71.229709
+    },
+    {
+      "name": "Alton Bay",
+      "slug": "alton-bay",
+      "county": "Belknap County",
+      "lat": 43.484468,
+      "lng": -71.24888
+    },
+    {
+      "name": "Amherst",
+      "slug": "amherst",
+      "county": "Hillsborough County",
+      "lat": 42.856944,
+      "lng": -71.607536
+    },
+    {
+      "name": "Andover",
+      "slug": "andover",
+      "county": "Merrimack County",
+      "lat": 43.428668,
+      "lng": -71.782952
+    },
+    {
+      "name": "Antrim",
+      "slug": "antrim",
+      "county": "Hillsborough County",
+      "lat": 43.059547,
+      "lng": -71.938698
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Grafton County",
+      "lat": 43.703428,
+      "lng": -71.612085
+    },
+    {
+      "name": "Ashuelot",
+      "slug": "ashuelot",
+      "county": "Cheshire County",
+      "lat": 42.785057,
+      "lng": -72.434899
+    },
+    {
+      "name": "Atkinson",
+      "slug": "atkinson",
+      "county": "Rockingham County",
+      "lat": 42.836981,
+      "lng": -71.1603
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "Rockingham County",
+      "lat": 42.992529,
+      "lng": -71.344892
+    },
+    {
+      "name": "Barnstead",
+      "slug": "barnstead",
+      "county": "Belknap County",
+      "lat": 43.36513,
+      "lng": -71.286946
+    },
+    {
+      "name": "Barrington",
+      "slug": "barrington",
+      "county": "Strafford County",
+      "lat": 43.2027,
+      "lng": -71.037675
+    },
+    {
+      "name": "Bartlett",
+      "slug": "bartlett",
+      "county": "Carroll County",
+      "lat": 44.08656,
+      "lng": -71.2491
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "county": "Grafton County",
+      "lat": 44.173419,
+      "lng": -71.956741
+    },
+    {
+      "name": "Bedford",
+      "slug": "bedford",
+      "county": "Hillsborough County",
+      "lat": 42.940307,
+      "lng": -71.52127
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Belknap County",
+      "lat": 43.451189,
+      "lng": -71.488991
+    },
+    {
+      "name": "Bennington",
+      "slug": "bennington",
+      "county": "Hillsborough County",
+      "lat": 43.010309,
+      "lng": -71.91534
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Coos County",
+      "lat": 44.48107,
+      "lng": -71.189236
+    },
+    {
+      "name": "Bethlehem",
+      "slug": "bethlehem",
+      "county": "Grafton County",
+      "lat": 44.280846,
+      "lng": -71.682929
+    },
+    {
+      "name": "Bow",
+      "slug": "bow",
+      "county": "Merrimack County",
+      "lat": 43.138788,
+      "lng": -71.544814
+    },
+    {
+      "name": "Bradford",
+      "slug": "bradford",
+      "county": "Merrimack County",
+      "lat": 43.294343,
+      "lng": -71.985048
+    },
+    {
+      "name": "Bretton Woods",
+      "slug": "bretton-woods",
+      "county": "Coos County",
+      "lat": 44.258056,
+      "lng": -71.441667
+    },
+    {
+      "name": "Bristol",
+      "slug": "bristol",
+      "county": "Grafton County",
+      "lat": 43.611994,
+      "lng": -71.750664
+    },
+    {
+      "name": "Brookline",
+      "slug": "brookline",
+      "county": "Hillsborough County",
+      "lat": 42.738442,
+      "lng": -71.666254
+    },
+    {
+      "name": "Campton",
+      "slug": "campton",
+      "county": "Grafton County",
+      "lat": 43.888507,
+      "lng": -71.636142
+    },
+    {
+      "name": "Canaan",
+      "slug": "canaan",
+      "county": "Grafton County",
+      "lat": 43.660092,
+      "lng": -72.029724
+    },
+    {
+      "name": "Candia",
+      "slug": "candia",
+      "county": "Rockingham County",
+      "lat": 43.058514,
+      "lng": -71.304857
+    },
+    {
+      "name": "Canterbury",
+      "slug": "canterbury",
+      "county": "Merrimack County",
+      "lat": 43.357041,
+      "lng": -71.557008
+    },
+    {
+      "name": "Center Barnstead",
+      "slug": "center-barnstead",
+      "county": "Belknap County",
+      "lat": 43.356563,
+      "lng": -71.24244
+    },
+    {
+      "name": "Center Harbor",
+      "slug": "center-harbor",
+      "county": "Belknap County",
+      "lat": 43.710688,
+      "lng": -71.47973
+    },
+    {
+      "name": "Center Ossipee",
+      "slug": "center-ossipee",
+      "county": "Carroll County",
+      "lat": 43.768189,
+      "lng": -71.134882
+    },
+    {
+      "name": "Center Sandwich",
+      "slug": "center-sandwich",
+      "county": "Carroll County",
+      "lat": 43.816169,
+      "lng": -71.450614
+    },
+    {
+      "name": "Center Strafford",
+      "slug": "center-strafford",
+      "county": "Strafford County",
+      "lat": 43.262888,
+      "lng": -71.107122
+    },
+    {
+      "name": "Center Tuftonboro",
+      "slug": "center-tuftonboro",
+      "county": "Carroll County",
+      "lat": 43.690205,
+      "lng": -71.265059
+    },
+    {
+      "name": "Charlestown",
+      "slug": "charlestown",
+      "county": "Sullivan County",
+      "lat": 43.257339,
+      "lng": -72.40638
+    },
+    {
+      "name": "Chatham",
+      "slug": "chatham",
+      "county": "Carroll County",
+      "lat": 43.98776,
+      "lng": -71.060677
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Rockingham County",
+      "lat": 42.967756,
+      "lng": -71.244962
+    },
+    {
+      "name": "Chesterfield",
+      "slug": "chesterfield",
+      "county": "Cheshire County",
+      "lat": 42.900785,
+      "lng": -72.487219
+    },
+    {
+      "name": "Chichester",
+      "slug": "chichester",
+      "county": "Merrimack County",
+      "lat": 43.249167,
+      "lng": -71.400278
+    },
+    {
+      "name": "Chocorua",
+      "slug": "chocorua",
+      "county": "Carroll County",
+      "lat": 43.890851,
+      "lng": -71.240716
+    },
+    {
+      "name": "Claremont",
+      "slug": "claremont",
+      "county": "Sullivan County",
+      "lat": 43.367942,
+      "lng": -72.342186
+    },
+    {
+      "name": "Colebrook",
+      "slug": "colebrook",
+      "county": "Coos County",
+      "lat": 44.907776,
+      "lng": -71.479341
+    },
+    {
+      "name": "Concord",
+      "slug": "concord",
+      "county": "Merrimack County",
+      "lat": 43.218525,
+      "lng": -71.527734
+    },
+    {
+      "name": "Contoocook",
+      "slug": "contoocook",
+      "county": "Merrimack County",
+      "lat": 43.218898,
+      "lng": -71.696299
+    },
+    {
+      "name": "Conway",
+      "slug": "conway",
+      "county": "Carroll County",
+      "lat": 43.974161,
+      "lng": -71.15028
+    },
+    {
+      "name": "Cornish",
+      "slug": "cornish",
+      "county": "Sullivan County",
+      "lat": 43.496339,
+      "lng": -72.339426
+    },
+    {
+      "name": "Cornish Flat",
+      "slug": "cornish-flat",
+      "county": "Sullivan County",
+      "lat": 43.497222,
+      "lng": -72.28
+    },
+    {
+      "name": "Danbury",
+      "slug": "danbury",
+      "county": "Merrimack County",
+      "lat": 43.5115,
+      "lng": -71.869074
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Rockingham County",
+      "lat": 42.923432,
+      "lng": -71.120985
+    },
+    {
+      "name": "Deerfield",
+      "slug": "deerfield",
+      "county": "Rockingham County",
+      "lat": 43.137756,
+      "lng": -71.251264
+    },
+    {
+      "name": "Derry",
+      "slug": "derry",
+      "county": "Rockingham County",
+      "lat": 42.887404,
+      "lng": -71.301971
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Strafford County",
+      "lat": 43.190006,
+      "lng": -70.884881
+    },
+    {
+      "name": "Drewsville",
+      "slug": "drewsville",
+      "county": "Cheshire County",
+      "lat": 43.128056,
+      "lng": -72.3925
+    },
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "county": "Cheshire County",
+      "lat": 42.897198,
+      "lng": -72.050538
+    },
+    {
+      "name": "Dunbarton",
+      "slug": "dunbarton",
+      "county": "Merrimack County",
+      "lat": 43.109444,
+      "lng": -71.599167
+    },
+    {
+      "name": "Durham",
+      "slug": "durham",
+      "county": "Strafford County",
+      "lat": 43.133821,
+      "lng": -70.952333
+    },
+    {
+      "name": "East Andover",
+      "slug": "east-andover",
+      "county": "Merrimack County",
+      "lat": 43.47766,
+      "lng": -71.759606
+    },
+    {
+      "name": "East Candia",
+      "slug": "east-candia",
+      "county": "Rockingham County",
+      "lat": 43.048056,
+      "lng": -71.249167
+    },
+    {
+      "name": "East Derry",
+      "slug": "east-derry",
+      "county": "Rockingham County",
+      "lat": 42.894444,
+      "lng": -71.291667
+    },
+    {
+      "name": "East Hampstead",
+      "slug": "east-hampstead",
+      "county": "Rockingham County",
+      "lat": 42.887656,
+      "lng": -71.127978
+    },
+    {
+      "name": "East Wakefield",
+      "slug": "east-wakefield",
+      "county": "Carroll County",
+      "lat": 43.641022,
+      "lng": -71.007712
+    },
+    {
+      "name": "Eaton Center",
+      "slug": "eaton-center",
+      "county": "Carroll County",
+      "lat": 43.909167,
+      "lng": -71.084167
+    },
+    {
+      "name": "Effingham",
+      "slug": "effingham",
+      "county": "Carroll County",
+      "lat": 43.721216,
+      "lng": -71.002109
+    },
+    {
+      "name": "Elkins",
+      "slug": "elkins",
+      "county": "Merrimack County",
+      "lat": 43.420833,
+      "lng": -71.937778
+    },
+    {
+      "name": "Enfield",
+      "slug": "enfield",
+      "county": "Grafton County",
+      "lat": 43.625584,
+      "lng": -72.127014
+    },
+    {
+      "name": "Enfield Center",
+      "slug": "enfield-center",
+      "county": "Grafton County",
+      "lat": 43.59,
+      "lng": -72.111389
+    },
+    {
+      "name": "Epping",
+      "slug": "epping",
+      "county": "Rockingham County",
+      "lat": 43.041052,
+      "lng": -71.076367
+    },
+    {
+      "name": "Epsom",
+      "slug": "epsom",
+      "county": "Merrimack County",
+      "lat": 43.217398,
+      "lng": -71.354576
+    },
+    {
+      "name": "Errol",
+      "slug": "errol",
+      "county": "Coos County",
+      "lat": 44.800273,
+      "lng": -71.143612
+    },
+    {
+      "name": "Etna",
+      "slug": "etna",
+      "county": "Grafton County",
+      "lat": 43.711333,
+      "lng": -72.212479
+    },
+    {
+      "name": "Exeter",
+      "slug": "exeter",
+      "county": "Rockingham County",
+      "lat": 42.977169,
+      "lng": -70.964306
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "Strafford County",
+      "lat": 43.388373,
+      "lng": -71.064693
+    },
+    {
+      "name": "Fitzwilliam",
+      "slug": "fitzwilliam",
+      "county": "Cheshire County",
+      "lat": 42.7611,
+      "lng": -72.145014
+    },
+    {
+      "name": "Francestown",
+      "slug": "francestown",
+      "county": "Hillsborough County",
+      "lat": 42.991952,
+      "lng": -71.81131
+    },
+    {
+      "name": "Franconia",
+      "slug": "franconia",
+      "county": "Grafton County",
+      "lat": 44.205273,
+      "lng": -71.751822
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Merrimack County",
+      "lat": 43.442569,
+      "lng": -71.649122
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "county": "Carroll County",
+      "lat": 43.817242,
+      "lng": -71.062815
+    },
+    {
+      "name": "Fremont",
+      "slug": "fremont",
+      "county": "Rockingham County",
+      "lat": 42.984016,
+      "lng": -71.121836
+    },
+    {
+      "name": "Georges Mills",
+      "slug": "georges-mills",
+      "county": "Sullivan County",
+      "lat": 43.431667,
+      "lng": -72.067778
+    },
+    {
+      "name": "Gilford",
+      "slug": "gilford",
+      "county": "Belknap County",
+      "lat": 43.5475,
+      "lng": -71.407222
+    },
+    {
+      "name": "Gilmanton",
+      "slug": "gilmanton",
+      "county": "Belknap County",
+      "lat": 43.417476,
+      "lng": -71.412063
+    },
+    {
+      "name": "Gilmanton Iron Works",
+      "slug": "gilmanton-iron-works",
+      "county": "Belknap County",
+      "lat": 43.425281,
+      "lng": -71.330315
+    },
+    {
+      "name": "Gilsum",
+      "slug": "gilsum",
+      "county": "Cheshire County",
+      "lat": 43.043105,
+      "lng": -72.263272
+    },
+    {
+      "name": "Glen",
+      "slug": "glen",
+      "county": "Carroll County",
+      "lat": 44.101777,
+      "lng": -71.192457
+    },
+    {
+      "name": "Glencliff",
+      "slug": "glencliff",
+      "county": "Grafton County",
+      "lat": 43.982778,
+      "lng": -71.893889
+    },
+    {
+      "name": "Goffstown",
+      "slug": "goffstown",
+      "county": "Hillsborough County",
+      "lat": 43.018224,
+      "lng": -71.56264
+    },
+    {
+      "name": "Gorham",
+      "slug": "gorham",
+      "county": "Coos County",
+      "lat": 44.399601,
+      "lng": -71.179983
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Sullivan County",
+      "lat": 43.302623,
+      "lng": -72.124117
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Grafton County",
+      "lat": 43.572743,
+      "lng": -71.963389
+    },
+    {
+      "name": "Grantham",
+      "slug": "grantham",
+      "county": "Sullivan County",
+      "lat": 43.510324,
+      "lng": -72.133437
+    },
+    {
+      "name": "Greenfield",
+      "slug": "greenfield",
+      "county": "Hillsborough County",
+      "lat": 42.949277,
+      "lng": -71.872755
+    },
+    {
+      "name": "Greenland",
+      "slug": "greenland",
+      "county": "Rockingham County",
+      "lat": 43.035294,
+      "lng": -70.847476
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Hillsborough County",
+      "lat": 42.7489,
+      "lng": -71.784487
+    },
+    {
+      "name": "Guild",
+      "slug": "guild",
+      "county": "Sullivan County",
+      "lat": 43.376667,
+      "lng": -72.138611
+    },
+    {
+      "name": "Hampstead",
+      "slug": "hampstead",
+      "county": "Rockingham County",
+      "lat": 42.881957,
+      "lng": -71.175802
+    },
+    {
+      "name": "Hampton",
+      "slug": "hampton",
+      "county": "Rockingham County",
+      "lat": 42.935883,
+      "lng": -70.824336
+    },
+    {
+      "name": "Hampton Falls",
+      "slug": "hampton-falls",
+      "county": "Rockingham County",
+      "lat": 42.926323,
+      "lng": -70.887608
+    },
+    {
+      "name": "Hancock",
+      "slug": "hancock",
+      "county": "Hillsborough County",
+      "lat": 42.976817,
+      "lng": -71.981858
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "Grafton County",
+      "lat": 43.704532,
+      "lng": -72.28496
+    },
+    {
+      "name": "Harrisville",
+      "slug": "harrisville",
+      "county": "Cheshire County",
+      "lat": 42.939874,
+      "lng": -72.097243
+    },
+    {
+      "name": "Haverhill",
+      "slug": "haverhill",
+      "county": "Grafton County",
+      "lat": 44.039438,
+      "lng": -72.057276
+    },
+    {
+      "name": "Hebron",
+      "slug": "hebron",
+      "county": "Grafton County",
+      "lat": 43.718571,
+      "lng": -71.82696
+    },
+    {
+      "name": "Henniker",
+      "slug": "henniker",
+      "county": "Merrimack County",
+      "lat": 43.179091,
+      "lng": -71.815921
+    },
+    {
+      "name": "Hill",
+      "slug": "hill",
+      "county": "Merrimack County",
+      "lat": 43.527422,
+      "lng": -71.729168
+    },
+    {
+      "name": "Hillsborough",
+      "slug": "hillsborough",
+      "county": "Hillsborough County",
+      "lat": 43.120709,
+      "lng": -71.902818
+    },
+    {
+      "name": "Hinsdale",
+      "slug": "hinsdale",
+      "county": "Cheshire County",
+      "lat": 42.802714,
+      "lng": -72.501474
+    },
+    {
+      "name": "Holderness",
+      "slug": "holderness",
+      "county": "Grafton County",
+      "lat": 43.731944,
+      "lng": -71.588889
+    },
+    {
+      "name": "Hollis",
+      "slug": "hollis",
+      "county": "Hillsborough County",
+      "lat": 42.748513,
+      "lng": -71.577206
+    },
+    {
+      "name": "Hooksett",
+      "slug": "hooksett",
+      "county": "Merrimack County",
+      "lat": 43.061708,
+      "lng": -71.444446
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Hillsborough County",
+      "lat": 42.769038,
+      "lng": -71.412144
+    },
+    {
+      "name": "Intervale",
+      "slug": "intervale",
+      "county": "Carroll County",
+      "lat": 44.095479,
+      "lng": -71.119415
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Carroll County",
+      "lat": 44.166989,
+      "lng": -71.187808
+    },
+    {
+      "name": "Jaffrey",
+      "slug": "jaffrey",
+      "county": "Cheshire County",
+      "lat": 42.81779,
+      "lng": -72.027514
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Coos County",
+      "lat": 44.399907,
+      "lng": -71.451834
+    },
+    {
+      "name": "Kearsarge",
+      "slug": "kearsarge",
+      "county": "Carroll County",
+      "lat": 44.075278,
+      "lng": -71.118056
+    },
+    {
+      "name": "Keene",
+      "slug": "keene",
+      "county": "Cheshire County",
+      "lat": 42.943127,
+      "lng": -72.28954
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Rockingham County",
+      "lat": 42.913258,
+      "lng": -71.063914
+    },
+    {
+      "name": "Laconia",
+      "slug": "laconia",
+      "county": "Belknap County",
+      "lat": 43.538713,
+      "lng": -71.452907
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Coos County",
+      "lat": 44.492074,
+      "lng": -71.559115
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Grafton County",
+      "lat": 43.642222,
+      "lng": -72.252222
+    },
+    {
+      "name": "Lee",
+      "slug": "lee",
+      "county": "Strafford County",
+      "lat": 43.1231401,
+      "lng": -71.0114497
+    },
+    {
+      "name": "Lempster",
+      "slug": "lempster",
+      "county": "Sullivan County",
+      "lat": 43.21863,
+      "lng": -72.166205
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Grafton County",
+      "lat": 44.058159,
+      "lng": -71.672707
+    },
+    {
+      "name": "Lisbon",
+      "slug": "lisbon",
+      "county": "Grafton County",
+      "lat": 44.214837,
+      "lng": -71.896565
+    },
+    {
+      "name": "Litchfield",
+      "slug": "litchfield",
+      "county": "Hillsborough County",
+      "lat": 42.844167,
+      "lng": -71.480278
+    },
+    {
+      "name": "Littleton",
+      "slug": "littleton",
+      "county": "Grafton County",
+      "lat": 44.311187,
+      "lng": -71.776816
+    },
+    {
+      "name": "Lochmere",
+      "slug": "lochmere",
+      "county": "Belknap County",
+      "lat": 43.471111,
+      "lng": -71.530556
+    },
+    {
+      "name": "Londonderry",
+      "slug": "londonderry",
+      "county": "Rockingham County",
+      "lat": 42.865555,
+      "lng": -71.37719
+    },
+    {
+      "name": "Loudon",
+      "slug": "loudon",
+      "county": "Merrimack County",
+      "lat": 43.285556,
+      "lng": -71.467778
+    },
+    {
+      "name": "Lyme",
+      "slug": "lyme",
+      "county": "Grafton County",
+      "lat": 43.791327,
+      "lng": -72.161993
+    },
+    {
+      "name": "Lyme Center",
+      "slug": "lyme-center",
+      "county": "Grafton County",
+      "lat": 43.799167,
+      "lng": -72.123333
+    },
+    {
+      "name": "Lyndeborough",
+      "slug": "lyndeborough",
+      "county": "Hillsborough County",
+      "lat": 42.895449,
+      "lng": -71.774373
+    },
+    {
+      "name": "Madbury",
+      "slug": "madbury",
+      "county": "Strafford County",
+      "lat": 43.169167,
+      "lng": -70.924444
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Carroll County",
+      "lat": 43.915206,
+      "lng": -71.125412
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Hillsborough County",
+      "lat": 42.992858,
+      "lng": -71.463255
+    },
+    {
+      "name": "Marlborough",
+      "slug": "marlborough",
+      "county": "Cheshire County",
+      "lat": 42.898804,
+      "lng": -72.201292
+    },
+    {
+      "name": "Marlow",
+      "slug": "marlow",
+      "county": "Cheshire County",
+      "lat": 43.132585,
+      "lng": -72.210879
+    },
+    {
+      "name": "Melvin Village",
+      "slug": "melvin-village",
+      "county": "Carroll County",
+      "lat": 43.688889,
+      "lng": -71.304722
+    },
+    {
+      "name": "Meredith",
+      "slug": "meredith",
+      "county": "Belknap County",
+      "lat": 43.650208,
+      "lng": -71.511327
+    },
+    {
+      "name": "Meriden",
+      "slug": "meriden",
+      "county": "Sullivan County",
+      "lat": 43.529873,
+      "lng": -72.275644
+    },
+    {
+      "name": "Merrimack",
+      "slug": "merrimack",
+      "county": "Hillsborough County",
+      "lat": 42.866689,
+      "lng": -71.51278
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "county": "Coos County",
+      "lat": 44.586968,
+      "lng": -71.181031
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Hillsborough County",
+      "lat": 42.828497,
+      "lng": -71.660569
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Strafford County",
+      "lat": 43.409722,
+      "lng": -70.988889
+    },
+    {
+      "name": "Milton Mills",
+      "slug": "milton-mills",
+      "county": "Strafford County",
+      "lat": 43.502494,
+      "lng": -70.969729
+    },
+    {
+      "name": "Mirror Lake",
+      "slug": "mirror-lake",
+      "county": "Carroll County",
+      "lat": 43.636552,
+      "lng": -71.272858
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Grafton County",
+      "lat": 44.273358,
+      "lng": -72.025028
+    },
+    {
+      "name": "Mont Vernon",
+      "slug": "mont-vernon",
+      "county": "Hillsborough County",
+      "lat": 42.897597,
+      "lng": -71.676243
+    },
+    {
+      "name": "Moultonborough",
+      "slug": "moultonborough",
+      "county": "Carroll County",
+      "lat": 43.728133,
+      "lng": -71.392245
+    },
+    {
+      "name": "Mount Washington",
+      "slug": "mount-washington",
+      "county": "Coos County",
+      "lat": 44.345833,
+      "lng": -71.554722
+    },
+    {
+      "name": "Nashua",
+      "slug": "nashua",
+      "county": "Hillsborough County",
+      "lat": 42.756395,
+      "lng": -71.466684
+    },
+    {
+      "name": "Nelson",
+      "slug": "nelson",
+      "county": "Cheshire County",
+      "lat": 42.998646,
+      "lng": -72.133702
+    },
+    {
+      "name": "New Boston",
+      "slug": "new-boston",
+      "county": "Hillsborough County",
+      "lat": 42.97217,
+      "lng": -71.686402
+    },
+    {
+      "name": "New Castle",
+      "slug": "new-castle",
+      "county": "Rockingham County",
+      "lat": 43.068114,
+      "lng": -70.719922
+    },
+    {
+      "name": "New Durham",
+      "slug": "new-durham",
+      "county": "Strafford County",
+      "lat": 43.443045,
+      "lng": -71.140828
+    },
+    {
+      "name": "New Hampton",
+      "slug": "new-hampton",
+      "county": "Belknap County",
+      "lat": 43.618393,
+      "lng": -71.643513
+    },
+    {
+      "name": "New Ipswich",
+      "slug": "new-ipswich",
+      "county": "Hillsborough County",
+      "lat": 42.751142,
+      "lng": -71.870318
+    },
+    {
+      "name": "New London",
+      "slug": "new-london",
+      "county": "Merrimack County",
+      "lat": 43.414501,
+      "lng": -71.985674
+    },
+    {
+      "name": "Newbury",
+      "slug": "newbury",
+      "county": "Merrimack County",
+      "lat": 43.340556,
+      "lng": -72.071389
+    },
+    {
+      "name": "Newfields",
+      "slug": "newfields",
+      "county": "Rockingham County",
+      "lat": 43.036944,
+      "lng": -70.938889
+    },
+    {
+      "name": "Newington",
+      "slug": "newington",
+      "county": "Strafford County",
+      "lat": 43.236111,
+      "lng": -70.820833
+    },
+    {
+      "name": "Newmarket",
+      "slug": "newmarket",
+      "county": "Rockingham County",
+      "lat": 43.072628,
+      "lng": -70.955317
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Sullivan County",
+      "lat": 43.353228,
+      "lng": -72.183789
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Rockingham County",
+      "lat": 42.867805,
+      "lng": -71.042021
+    },
+    {
+      "name": "Newton Junction",
+      "slug": "newton-junction",
+      "county": "Rockingham County",
+      "lat": 42.867222,
+      "lng": -71.066389
+    },
+    {
+      "name": "North Conway",
+      "slug": "north-conway",
+      "county": "Carroll County",
+      "lat": 44.033613,
+      "lng": -71.123811
+    },
+    {
+      "name": "North Hampton",
+      "slug": "north-hampton",
+      "county": "Rockingham County",
+      "lat": 42.977625,
+      "lng": -70.826738
+    },
+    {
+      "name": "North Haverhill",
+      "slug": "north-haverhill",
+      "county": "Grafton County",
+      "lat": 44.097841,
+      "lng": -72.019112
+    },
+    {
+      "name": "North Salem",
+      "slug": "north-salem",
+      "county": "Rockingham County",
+      "lat": 42.836944,
+      "lng": -71.221111
+    },
+    {
+      "name": "North Sandwich",
+      "slug": "north-sandwich",
+      "county": "Carroll County",
+      "lat": 43.845182,
+      "lng": -71.385025
+    },
+    {
+      "name": "North Stratford",
+      "slug": "north-stratford",
+      "county": "Coos County",
+      "lat": 44.714915,
+      "lng": -71.564368
+    },
+    {
+      "name": "North Sutton",
+      "slug": "north-sutton",
+      "county": "Merrimack County",
+      "lat": 43.363889,
+      "lng": -71.94
+    },
+    {
+      "name": "North Walpole",
+      "slug": "north-walpole",
+      "county": "Cheshire County",
+      "lat": 43.142759,
+      "lng": -72.448253
+    },
+    {
+      "name": "North Woodstock",
+      "slug": "north-woodstock",
+      "county": "Grafton County",
+      "lat": 44.019831,
+      "lng": -71.697684
+    },
+    {
+      "name": "Northumberland",
+      "slug": "northumberland",
+      "county": "Coos County",
+      "lat": 44.598367,
+      "lng": -71.506421
+    },
+    {
+      "name": "Northwood",
+      "slug": "northwood",
+      "county": "Rockingham County",
+      "lat": 43.206965,
+      "lng": -71.200423
+    },
+    {
+      "name": "Nottingham",
+      "slug": "nottingham",
+      "county": "Rockingham County",
+      "lat": 43.119632,
+      "lng": -71.110983
+    },
+    {
+      "name": "Orford",
+      "slug": "orford",
+      "county": "Grafton County",
+      "lat": 43.894101,
+      "lng": -72.097846
+    },
+    {
+      "name": "Ossipee",
+      "slug": "ossipee",
+      "county": "Carroll County",
+      "lat": 43.694506,
+      "lng": -71.112873
+    },
+    {
+      "name": "Pelham",
+      "slug": "pelham",
+      "county": "Hillsborough County",
+      "lat": 42.72881,
+      "lng": -71.304551
+    },
+    {
+      "name": "Peterborough",
+      "slug": "peterborough",
+      "county": "Hillsborough County",
+      "lat": 42.88559,
+      "lng": -71.946964
+    },
+    {
+      "name": "Piermont",
+      "slug": "piermont",
+      "county": "Grafton County",
+      "lat": 43.990572,
+      "lng": -72.081299
+    },
+    {
+      "name": "Pike",
+      "slug": "pike",
+      "county": "Grafton County",
+      "lat": 44.025511,
+      "lng": -72.009587
+    },
+    {
+      "name": "Pittsburg",
+      "slug": "pittsburg",
+      "county": "Coos County",
+      "lat": 45.086564,
+      "lng": -71.363593
+    },
+    {
+      "name": "Pittsfield",
+      "slug": "pittsfield",
+      "county": "Merrimack County",
+      "lat": 43.287384,
+      "lng": -71.33303
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Sullivan County",
+      "lat": 43.551919,
+      "lng": -72.270398
+    },
+    {
+      "name": "Plaistow",
+      "slug": "plaistow",
+      "county": "Rockingham County",
+      "lat": 42.835551,
+      "lng": -71.093397
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Grafton County",
+      "lat": 43.763524,
+      "lng": -71.684714
+    },
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "county": "Rockingham County",
+      "lat": 43.066524,
+      "lng": -70.780412
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Coos County",
+      "lat": 44.375278,
+      "lng": -71.280278
+    },
+    {
+      "name": "Raymond",
+      "slug": "raymond",
+      "county": "Rockingham County",
+      "lat": 43.032512,
+      "lng": -71.191159
+    },
+    {
+      "name": "Rindge",
+      "slug": "rindge",
+      "county": "Cheshire County",
+      "lat": 42.754391,
+      "lng": -72.019038
+    },
+    {
+      "name": "Rochester",
+      "slug": "rochester",
+      "county": "Strafford County",
+      "lat": 43.268374,
+      "lng": -70.976642
+    },
+    {
+      "name": "Rollinsford",
+      "slug": "rollinsford",
+      "county": "Strafford County",
+      "lat": 43.226936,
+      "lng": -70.833207
+    },
+    {
+      "name": "Rumney",
+      "slug": "rumney",
+      "county": "Grafton County",
+      "lat": 43.804389,
+      "lng": -71.848019
+    },
+    {
+      "name": "Rye",
+      "slug": "rye",
+      "county": "Rockingham County",
+      "lat": 43.009468,
+      "lng": -70.765153
+    },
+    {
+      "name": "Rye Beach",
+      "slug": "rye-beach",
+      "county": "Rockingham County",
+      "lat": 42.976667,
+      "lng": -70.766111
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Rockingham County",
+      "lat": 42.78465,
+      "lng": -71.21761
+    },
+    {
+      "name": "Salisbury",
+      "slug": "salisbury",
+      "county": "Merrimack County",
+      "lat": 43.406652,
+      "lng": -71.704468
+    },
+    {
+      "name": "Sanbornton",
+      "slug": "sanbornton",
+      "county": "Belknap County",
+      "lat": 43.549552,
+      "lng": -71.600348
+    },
+    {
+      "name": "Sanbornville",
+      "slug": "sanbornville",
+      "county": "Carroll County",
+      "lat": 43.551278,
+      "lng": -71.020005
+    },
+    {
+      "name": "Sandown",
+      "slug": "sandown",
+      "county": "Rockingham County",
+      "lat": 42.930819,
+      "lng": -71.18606
+    },
+    {
+      "name": "Seabrook",
+      "slug": "seabrook",
+      "county": "Rockingham County",
+      "lat": 42.88536,
+      "lng": -70.86464
+    },
+    {
+      "name": "Silver Lake",
+      "slug": "silver-lake",
+      "county": "Carroll County",
+      "lat": 43.878974,
+      "lng": -71.190501
+    },
+    {
+      "name": "Somersworth",
+      "slug": "somersworth",
+      "county": "Strafford County",
+      "lat": 43.252546,
+      "lng": -70.875589
+    },
+    {
+      "name": "South Acworth",
+      "slug": "south-acworth",
+      "county": "Sullivan County",
+      "lat": 43.176942,
+      "lng": -72.341053
+    },
+    {
+      "name": "South Hampton",
+      "slug": "south-hampton",
+      "county": "Rockingham County",
+      "lat": 42.911289,
+      "lng": -70.976904
+    },
+    {
+      "name": "South Newbury",
+      "slug": "south-newbury",
+      "county": "Merrimack County",
+      "lat": 43.295556,
+      "lng": -71.997222
+    },
+    {
+      "name": "South Sutton",
+      "slug": "south-sutton",
+      "county": "Merrimack County",
+      "lat": 43.32,
+      "lng": -71.934722
+    },
+    {
+      "name": "South Tamworth",
+      "slug": "south-tamworth",
+      "county": "Carroll County",
+      "lat": 43.833613,
+      "lng": -71.311654
+    },
+    {
+      "name": "Spofford",
+      "slug": "spofford",
+      "county": "Cheshire County",
+      "lat": 42.911973,
+      "lng": -72.410277
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Sullivan County",
+      "lat": 43.491615,
+      "lng": -72.057855
+    },
+    {
+      "name": "Stinson Lake",
+      "slug": "stinson-lake",
+      "county": "Grafton County",
+      "lat": 43.861111,
+      "lng": -71.808889
+    },
+    {
+      "name": "Stoddard",
+      "slug": "stoddard",
+      "county": "Cheshire County",
+      "lat": 43.073944,
+      "lng": -72.108811
+    },
+    {
+      "name": "Strafford",
+      "slug": "strafford",
+      "county": "Strafford County",
+      "lat": 43.250575,
+      "lng": -71.162475
+    },
+    {
+      "name": "Stratham",
+      "slug": "stratham",
+      "county": "Rockingham County",
+      "lat": 43.019432,
+      "lng": -70.899714
+    },
+    {
+      "name": "Sugar Hill",
+      "slug": "sugar-hill",
+      "county": "Grafton County",
+      "lat": 43.606667,
+      "lng": -71.736944
+    },
+    {
+      "name": "Sullivan",
+      "slug": "sullivan",
+      "county": "Cheshire County",
+      "lat": 42.994005,
+      "lng": -72.191778
+    },
+    {
+      "name": "Sunapee",
+      "slug": "sunapee",
+      "county": "Sullivan County",
+      "lat": 43.386816,
+      "lng": -72.095044
+    },
+    {
+      "name": "Suncook",
+      "slug": "suncook",
+      "county": "Merrimack County",
+      "lat": 43.147554,
+      "lng": -71.439663
+    },
+    {
+      "name": "Swanzey",
+      "slug": "swanzey",
+      "county": "Cheshire County",
+      "lat": 42.884137,
+      "lng": -72.249298
+    },
+    {
+      "name": "Tamworth",
+      "slug": "tamworth",
+      "county": "Carroll County",
+      "lat": 43.862049,
+      "lng": -71.264454
+    },
+    {
+      "name": "Temple",
+      "slug": "temple",
+      "county": "Hillsborough County",
+      "lat": 42.820035,
+      "lng": -71.852347
+    },
+    {
+      "name": "Thornton",
+      "slug": "thornton",
+      "county": "Grafton County",
+      "lat": 43.8928475,
+      "lng": -71.6759125
+    },
+    {
+      "name": "Tilton",
+      "slug": "tilton",
+      "county": "Belknap County",
+      "lat": 43.46033,
+      "lng": -71.577413
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Cheshire County",
+      "lat": 42.82697,
+      "lng": -72.184753
+    },
+    {
+      "name": "Twin Mountain",
+      "slug": "twin-mountain",
+      "county": "Coos County",
+      "lat": 44.272222,
+      "lng": -71.539444
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Carroll County",
+      "lat": 43.4382,
+      "lng": -71.020857
+    },
+    {
+      "name": "Walpole",
+      "slug": "walpole",
+      "county": "Cheshire County",
+      "lat": 43.076533,
+      "lng": -72.415489
+    },
+    {
+      "name": "Warner",
+      "slug": "warner",
+      "county": "Merrimack County",
+      "lat": 43.303512,
+      "lng": -71.835349
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Grafton County",
+      "lat": 43.944667,
+      "lng": -71.89013
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Sullivan County",
+      "lat": 43.174705,
+      "lng": -72.082407
+    },
+    {
+      "name": "Waterville Valley",
+      "slug": "waterville-valley",
+      "county": "Grafton County",
+      "lat": 43.95,
+      "lng": -71.5
+    },
+    {
+      "name": "Weare",
+      "slug": "weare",
+      "county": "Hillsborough County",
+      "lat": 43.071422,
+      "lng": -71.70376
+    },
+    {
+      "name": "Wentworth",
+      "slug": "wentworth",
+      "county": "Grafton County",
+      "lat": 43.868456,
+      "lng": -71.909651
+    },
+    {
+      "name": "West Chesterfield",
+      "slug": "west-chesterfield",
+      "county": "Cheshire County",
+      "lat": 42.873152,
+      "lng": -72.511216
+    },
+    {
+      "name": "West Lebanon",
+      "slug": "west-lebanon",
+      "county": "Grafton County",
+      "lat": 43.64401,
+      "lng": -72.300735
+    },
+    {
+      "name": "West Nottingham",
+      "slug": "west-nottingham",
+      "county": "Rockingham County",
+      "lat": 43.133971,
+      "lng": -71.111006
+    },
+    {
+      "name": "West Ossipee",
+      "slug": "west-ossipee",
+      "county": "Carroll County",
+      "lat": 43.835956,
+      "lng": -71.205141
+    },
+    {
+      "name": "West Peterborough",
+      "slug": "west-peterborough",
+      "county": "Hillsborough County",
+      "lat": 42.887222,
+      "lng": -71.985833
+    },
+    {
+      "name": "West Stewartstown",
+      "slug": "west-stewartstown",
+      "county": "Coos County",
+      "lat": 44.995278,
+      "lng": -71.531667
+    },
+    {
+      "name": "West Swanzey",
+      "slug": "west-swanzey",
+      "county": "Cheshire County",
+      "lat": 42.870313,
+      "lng": -72.297688
+    },
+    {
+      "name": "Westmoreland",
+      "slug": "westmoreland",
+      "county": "Cheshire County",
+      "lat": 42.968999,
+      "lng": -72.435784
+    },
+    {
+      "name": "Whitefield",
+      "slug": "whitefield",
+      "county": "Coos County",
+      "lat": 44.36811,
+      "lng": -71.603453
+    },
+    {
+      "name": "Wilmot",
+      "slug": "wilmot",
+      "county": "Merrimack County",
+      "lat": 43.432177,
+      "lng": -71.900983
+    },
+    {
+      "name": "Wilton",
+      "slug": "wilton",
+      "county": "Hillsborough County",
+      "lat": 42.836761,
+      "lng": -71.754066
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Cheshire County",
+      "lat": 42.773922,
+      "lng": -72.363672
+    },
+    {
+      "name": "Windham",
+      "slug": "windham",
+      "county": "Rockingham County",
+      "lat": 42.805106,
+      "lng": -71.306735
+    },
+    {
+      "name": "Winnisquam",
+      "slug": "winnisquam",
+      "county": "Belknap County",
+      "lat": 43.501389,
+      "lng": -71.5125
+    },
+    {
+      "name": "Wolfeboro",
+      "slug": "wolfeboro",
+      "county": "Carroll County",
+      "lat": 43.594996,
+      "lng": -71.190843
+    },
+    {
+      "name": "Wolfeboro Falls",
+      "slug": "wolfeboro-falls",
+      "county": "Carroll County",
+      "lat": 43.591944,
+      "lng": -71.206111
+    },
+    {
+      "name": "Wonalancet",
+      "slug": "wonalancet",
+      "county": "Carroll County",
+      "lat": 43.907222,
+      "lng": -71.351111
+    },
+    {
+      "name": "Woodstock",
+      "slug": "woodstock",
+      "county": "Grafton County",
+      "lat": 43.9775,
+      "lng": -71.685556
+    },
+    {
+      "name": "Woodsville",
+      "slug": "woodsville",
+      "county": "Grafton County",
+      "lat": 44.138549,
+      "lng": -71.989215
+    }
+  ]
+}

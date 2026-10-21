@@ -1,0 +1,5278 @@
+{
+  "stateName": "Wisconsin",
+  "stateCode": "WI",
+  "stateSlug": "wisconsin",
+  "cities": [
+    {
+      "name": "Abbotsford",
+      "slug": "abbotsford",
+      "county": "Clark County",
+      "lat": 44.964057,
+      "lng": -90.299438
+    },
+    {
+      "name": "Abrams",
+      "slug": "abrams",
+      "county": "Oconto County",
+      "lat": 44.78693,
+      "lng": -88.057101
+    },
+    {
+      "name": "Adams",
+      "slug": "adams",
+      "county": "Adams County",
+      "lat": 43.896688,
+      "lng": -89.821869
+    },
+    {
+      "name": "Adell",
+      "slug": "adell",
+      "county": "Sheboygan County",
+      "lat": 43.615071,
+      "lng": -88.025394
+    },
+    {
+      "name": "Afton",
+      "slug": "afton",
+      "county": "Rock County",
+      "lat": 42.603889,
+      "lng": -89.071111
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Green County",
+      "lat": 42.715535,
+      "lng": -89.435695
+    },
+    {
+      "name": "Algoma",
+      "slug": "algoma",
+      "county": "Kewaunee County",
+      "lat": 44.610051,
+      "lng": -87.457792
+    },
+    {
+      "name": "Allenton",
+      "slug": "allenton",
+      "county": "Washington County",
+      "lat": 43.468065,
+      "lng": -88.353901
+    },
+    {
+      "name": "Alma",
+      "slug": "alma",
+      "county": "Buffalo County",
+      "lat": 44.429437,
+      "lng": -91.807931
+    },
+    {
+      "name": "Alma Center",
+      "slug": "alma-center",
+      "county": "Jackson County",
+      "lat": 44.445218,
+      "lng": -90.935602
+    },
+    {
+      "name": "Almena",
+      "slug": "almena",
+      "county": "Barron County",
+      "lat": 45.419507,
+      "lng": -92.002691
+    },
+    {
+      "name": "Almond",
+      "slug": "almond",
+      "county": "Portage County",
+      "lat": 44.289832,
+      "lng": -89.358364
+    },
+    {
+      "name": "Altoona",
+      "slug": "altoona",
+      "county": "Eau Claire County",
+      "lat": 44.802142,
+      "lng": -91.43825
+    },
+    {
+      "name": "Amberg",
+      "slug": "amberg",
+      "county": "Marinette County",
+      "lat": 45.498878,
+      "lng": -87.964256
+    },
+    {
+      "name": "Amery",
+      "slug": "amery",
+      "county": "Polk County",
+      "lat": 45.325238,
+      "lng": -92.361527
+    },
+    {
+      "name": "Amherst",
+      "slug": "amherst",
+      "county": "Portage County",
+      "lat": 44.423052,
+      "lng": -89.303482
+    },
+    {
+      "name": "Amherst Junction",
+      "slug": "amherst-junction",
+      "county": "Portage County",
+      "lat": 44.506458,
+      "lng": -89.303754
+    },
+    {
+      "name": "Aniwa",
+      "slug": "aniwa",
+      "county": "Marathon County",
+      "lat": 45.01039,
+      "lng": -89.268254
+    },
+    {
+      "name": "Antigo",
+      "slug": "antigo",
+      "county": "Langlade County",
+      "lat": 45.131362,
+      "lng": -89.141871
+    },
+    {
+      "name": "Appleton",
+      "slug": "appleton",
+      "county": "Outagamie County",
+      "lat": 44.277325,
+      "lng": -88.397649
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Trempealeau County",
+      "lat": 44.253937,
+      "lng": -91.480453
+    },
+    {
+      "name": "Arena",
+      "slug": "arena",
+      "county": "Iowa County",
+      "lat": 43.152111,
+      "lng": -89.938614
+    },
+    {
+      "name": "Argonne",
+      "slug": "argonne",
+      "county": "Forest County",
+      "lat": 45.658309,
+      "lng": -88.888566
+    },
+    {
+      "name": "Argyle",
+      "slug": "argyle",
+      "county": "Lafayette County",
+      "lat": 42.695532,
+      "lng": -89.859834
+    },
+    {
+      "name": "Arkansaw",
+      "slug": "arkansaw",
+      "county": "Pepin County",
+      "lat": 44.626659,
+      "lng": -92.056646
+    },
+    {
+      "name": "Arkdale",
+      "slug": "arkdale",
+      "county": "Adams County",
+      "lat": 44.052886,
+      "lng": -89.896215
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Columbia County",
+      "lat": 43.326868,
+      "lng": -89.363082
+    },
+    {
+      "name": "Armstrong Creek",
+      "slug": "armstrong-creek",
+      "county": "Forest County",
+      "lat": 45.67261,
+      "lng": -88.490847
+    },
+    {
+      "name": "Arpin",
+      "slug": "arpin",
+      "county": "Wood County",
+      "lat": 44.54194,
+      "lng": -90.037049
+    },
+    {
+      "name": "Ashippun",
+      "slug": "ashippun",
+      "county": "Dodge County",
+      "lat": 43.211944,
+      "lng": -88.516111
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Ashland County",
+      "lat": 46.577948,
+      "lng": -90.876712
+    },
+    {
+      "name": "Athelstane",
+      "slug": "athelstane",
+      "county": "Marinette County",
+      "lat": 45.422819,
+      "lng": -88.175282
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "county": "Marathon County",
+      "lat": 45.032037,
+      "lng": -90.062612
+    },
+    {
+      "name": "Auburndale",
+      "slug": "auburndale",
+      "county": "Wood County",
+      "lat": 44.637836,
+      "lng": -90.013577
+    },
+    {
+      "name": "Augusta",
+      "slug": "augusta",
+      "county": "Eau Claire County",
+      "lat": 44.694737,
+      "lng": -91.123154
+    },
+    {
+      "name": "Avalon",
+      "slug": "avalon",
+      "county": "Rock County",
+      "lat": 42.65979,
+      "lng": -88.837142
+    },
+    {
+      "name": "Avoca",
+      "slug": "avoca",
+      "county": "Iowa County",
+      "lat": 43.157137,
+      "lng": -90.288859
+    },
+    {
+      "name": "Babcock",
+      "slug": "babcock",
+      "county": "Wood County",
+      "lat": 44.303064,
+      "lng": -90.098574
+    },
+    {
+      "name": "Bagley",
+      "slug": "bagley",
+      "county": "Grant County",
+      "lat": 42.920734,
+      "lng": -91.068502
+    },
+    {
+      "name": "Baileys Harbor",
+      "slug": "baileys-harbor",
+      "county": "Door County",
+      "lat": 45.056549,
+      "lng": -87.167626
+    },
+    {
+      "name": "Baldwin",
+      "slug": "baldwin",
+      "county": "Saint Croix County",
+      "lat": 44.9657,
+      "lng": -92.365498
+    },
+    {
+      "name": "Balsam Lake",
+      "slug": "balsam-lake",
+      "county": "Polk County",
+      "lat": 45.458845,
+      "lng": -92.414954
+    },
+    {
+      "name": "Bancroft",
+      "slug": "bancroft",
+      "county": "Portage County",
+      "lat": 44.30648,
+      "lng": -89.530438
+    },
+    {
+      "name": "Bangor",
+      "slug": "bangor",
+      "county": "La Crosse County",
+      "lat": 43.868697,
+      "lng": -90.980888
+    },
+    {
+      "name": "Baraboo",
+      "slug": "baraboo",
+      "county": "Sauk County",
+      "lat": 43.482531,
+      "lng": -89.746168
+    },
+    {
+      "name": "Barneveld",
+      "slug": "barneveld",
+      "county": "Iowa County",
+      "lat": 43.015797,
+      "lng": -89.904229
+    },
+    {
+      "name": "Barron",
+      "slug": "barron",
+      "county": "Barron County",
+      "lat": 45.400535,
+      "lng": -91.84996
+    },
+    {
+      "name": "Barronett",
+      "slug": "barronett",
+      "county": "Barron County",
+      "lat": 45.618995,
+      "lng": -92.019595
+    },
+    {
+      "name": "Bassett",
+      "slug": "bassett",
+      "county": "Kenosha County",
+      "lat": 42.540556,
+      "lng": -88.227778
+    },
+    {
+      "name": "Bay City",
+      "slug": "bay-city",
+      "county": "Pierce County",
+      "lat": 44.6166,
+      "lng": -92.446889
+    },
+    {
+      "name": "Bayfield",
+      "slug": "bayfield",
+      "county": "Bayfield County",
+      "lat": 46.835359,
+      "lng": -90.821681
+    },
+    {
+      "name": "Bear Creek",
+      "slug": "bear-creek",
+      "county": "Outagamie County",
+      "lat": 44.5348,
+      "lng": -88.740375
+    },
+    {
+      "name": "Beaver Dam",
+      "slug": "beaver-dam",
+      "county": "Dodge County",
+      "lat": 43.461574,
+      "lng": -88.840681
+    },
+    {
+      "name": "Beetown",
+      "slug": "beetown",
+      "county": "Grant County",
+      "lat": 42.795,
+      "lng": -90.885278
+    },
+    {
+      "name": "Beldenville",
+      "slug": "beldenville",
+      "county": "Pierce County",
+      "lat": 44.7721,
+      "lng": -92.437202
+    },
+    {
+      "name": "Belgium",
+      "slug": "belgium",
+      "county": "Ozaukee County",
+      "lat": 43.499465,
+      "lng": -87.850908
+    },
+    {
+      "name": "Belleville",
+      "slug": "belleville",
+      "county": "Dane County",
+      "lat": 42.866906,
+      "lng": -89.53773
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Lafayette County",
+      "lat": 42.730784,
+      "lng": -90.335881
+    },
+    {
+      "name": "Beloit",
+      "slug": "beloit",
+      "county": "Rock County",
+      "lat": 42.522871,
+      "lng": -89.039897
+    },
+    {
+      "name": "Benet Lake",
+      "slug": "benet-lake",
+      "county": "Kenosha County",
+      "lat": 42.498056,
+      "lng": -88.081667
+    },
+    {
+      "name": "Benoit",
+      "slug": "benoit",
+      "county": "Bayfield County",
+      "lat": 46.501944,
+      "lng": -91.076667
+    },
+    {
+      "name": "Benton",
+      "slug": "benton",
+      "county": "Lafayette County",
+      "lat": 42.534901,
+      "lng": -90.338045
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Green Lake County",
+      "lat": 43.976936,
+      "lng": -88.949009
+    },
+    {
+      "name": "Big Bend",
+      "slug": "big-bend",
+      "county": "Waukesha County",
+      "lat": 42.888463,
+      "lng": -88.212182
+    },
+    {
+      "name": "Big Falls",
+      "slug": "big-falls",
+      "county": "Waupaca County",
+      "lat": 44.615556,
+      "lng": -89.016111
+    },
+    {
+      "name": "Birchwood",
+      "slug": "birchwood",
+      "county": "Washburn County",
+      "lat": 45.640296,
+      "lng": -91.577564
+    },
+    {
+      "name": "Birnamwood",
+      "slug": "birnamwood",
+      "county": "Shawano County",
+      "lat": 44.926896,
+      "lng": -89.212433
+    },
+    {
+      "name": "Black Creek",
+      "slug": "black-creek",
+      "county": "Outagamie County",
+      "lat": 44.485595,
+      "lng": -88.444776
+    },
+    {
+      "name": "Black Earth",
+      "slug": "black-earth",
+      "county": "Dane County",
+      "lat": 43.132213,
+      "lng": -89.738974
+    },
+    {
+      "name": "Black River Falls",
+      "slug": "black-river-falls",
+      "county": "Jackson County",
+      "lat": 44.292101,
+      "lng": -90.847952
+    },
+    {
+      "name": "Blair",
+      "slug": "blair",
+      "county": "Trempealeau County",
+      "lat": 44.296843,
+      "lng": -91.223501
+    },
+    {
+      "name": "Blanchardville",
+      "slug": "blanchardville",
+      "county": "Lafayette County",
+      "lat": 42.806186,
+      "lng": -89.855511
+    },
+    {
+      "name": "Blenker",
+      "slug": "blenker",
+      "county": "Wood County",
+      "lat": 44.613333,
+      "lng": -89.915
+    },
+    {
+      "name": "Bloomer",
+      "slug": "bloomer",
+      "county": "Chippewa County",
+      "lat": 45.102477,
+      "lng": -91.489974
+    },
+    {
+      "name": "Bloomington",
+      "slug": "bloomington",
+      "county": "Grant County",
+      "lat": 42.872598,
+      "lng": -90.909905
+    },
+    {
+      "name": "Blue Mounds",
+      "slug": "blue-mounds",
+      "county": "Dane County",
+      "lat": 43.004964,
+      "lng": -89.834455
+    },
+    {
+      "name": "Blue River",
+      "slug": "blue-river",
+      "county": "Grant County",
+      "lat": 43.236567,
+      "lng": -90.587312
+    },
+    {
+      "name": "Bonduel",
+      "slug": "bonduel",
+      "county": "Shawano County",
+      "lat": 44.73794,
+      "lng": -88.439026
+    },
+    {
+      "name": "Boscobel",
+      "slug": "boscobel",
+      "county": "Grant County",
+      "lat": 43.139327,
+      "lng": -90.706101
+    },
+    {
+      "name": "Boulder Junction",
+      "slug": "boulder-junction",
+      "county": "Vilas County",
+      "lat": 46.111183,
+      "lng": -89.632454
+    },
+    {
+      "name": "Bowler",
+      "slug": "bowler",
+      "county": "Shawano County",
+      "lat": 44.933667,
+      "lng": -88.976071
+    },
+    {
+      "name": "Boyceville",
+      "slug": "boyceville",
+      "county": "Dunn County",
+      "lat": 45.064238,
+      "lng": -92.024803
+    },
+    {
+      "name": "Boyd",
+      "slug": "boyd",
+      "county": "Chippewa County",
+      "lat": 44.943737,
+      "lng": -91.029355
+    },
+    {
+      "name": "Brandon",
+      "slug": "brandon",
+      "county": "Fond Du Lac County",
+      "lat": 43.72579,
+      "lng": -88.784099
+    },
+    {
+      "name": "Brantwood",
+      "slug": "brantwood",
+      "county": "Price County",
+      "lat": 45.551413,
+      "lng": -90.115952
+    },
+    {
+      "name": "Briggsville",
+      "slug": "briggsville",
+      "county": "Marquette County",
+      "lat": 43.675865,
+      "lng": -89.580259
+    },
+    {
+      "name": "Brill",
+      "slug": "brill",
+      "county": "Barron County",
+      "lat": 45.602778,
+      "lng": -91.671944
+    },
+    {
+      "name": "Brillion",
+      "slug": "brillion",
+      "county": "Calumet County",
+      "lat": 44.17792,
+      "lng": -88.083337
+    },
+    {
+      "name": "Bristol",
+      "slug": "bristol",
+      "county": "Kenosha County",
+      "lat": 42.532525,
+      "lng": -88.047779
+    },
+    {
+      "name": "Brodhead",
+      "slug": "brodhead",
+      "county": "Green County",
+      "lat": 42.611074,
+      "lng": -89.371409
+    },
+    {
+      "name": "Brokaw",
+      "slug": "brokaw",
+      "county": "Marathon County",
+      "lat": 45.027222,
+      "lng": -89.653056
+    },
+    {
+      "name": "Brookfield",
+      "slug": "brookfield",
+      "county": "Waukesha County",
+      "lat": 43.062173,
+      "lng": -88.098
+    },
+    {
+      "name": "Brooklyn",
+      "slug": "brooklyn",
+      "county": "Green County",
+      "lat": 42.842327,
+      "lng": -89.381814
+    },
+    {
+      "name": "Brownsville",
+      "slug": "brownsville",
+      "county": "Dodge County",
+      "lat": 43.610934,
+      "lng": -88.509729
+    },
+    {
+      "name": "Browntown",
+      "slug": "browntown",
+      "county": "Green County",
+      "lat": 42.557872,
+      "lng": -89.78158
+    },
+    {
+      "name": "Bruce",
+      "slug": "bruce",
+      "county": "Rusk County",
+      "lat": 45.447923,
+      "lng": -91.290622
+    },
+    {
+      "name": "Brule",
+      "slug": "brule",
+      "county": "Douglas County",
+      "lat": 46.576318,
+      "lng": -91.553862
+    },
+    {
+      "name": "Brussels",
+      "slug": "brussels",
+      "county": "Door County",
+      "lat": 44.747558,
+      "lng": -87.62252
+    },
+    {
+      "name": "Bryant",
+      "slug": "bryant",
+      "county": "Langlade County",
+      "lat": 45.202962,
+      "lng": -88.998325
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Racine County",
+      "lat": 42.666034,
+      "lng": -88.274886
+    },
+    {
+      "name": "Burnett",
+      "slug": "burnett",
+      "county": "Dodge County",
+      "lat": 43.511609,
+      "lng": -88.717606
+    },
+    {
+      "name": "Butler",
+      "slug": "butler",
+      "county": "Waukesha County",
+      "lat": 43.105405,
+      "lng": -88.071043
+    },
+    {
+      "name": "Butte Des Morts",
+      "slug": "butte-des-morts",
+      "county": "Winnebago County",
+      "lat": 44.099444,
+      "lng": -88.653889
+    },
+    {
+      "name": "Butternut",
+      "slug": "butternut",
+      "county": "Ashland County",
+      "lat": 46.018358,
+      "lng": -90.482114
+    },
+    {
+      "name": "Cable",
+      "slug": "cable",
+      "county": "Bayfield County",
+      "lat": 46.217155,
+      "lng": -91.224438
+    },
+    {
+      "name": "Cadott",
+      "slug": "cadott",
+      "county": "Chippewa County",
+      "lat": 44.963014,
+      "lng": -91.169884
+    },
+    {
+      "name": "Caledonia",
+      "slug": "caledonia",
+      "county": "Racine County",
+      "lat": 42.829473,
+      "lng": -87.92278
+    },
+    {
+      "name": "Cambria",
+      "slug": "cambria",
+      "county": "Columbia County",
+      "lat": 43.57239,
+      "lng": -89.115614
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge",
+      "county": "Dane County",
+      "lat": 42.99176,
+      "lng": -89.020901
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Barron County",
+      "lat": 45.403836,
+      "lng": -91.730992
+    },
+    {
+      "name": "Camp Douglas",
+      "slug": "camp-douglas",
+      "county": "Juneau County",
+      "lat": 43.936705,
+      "lng": -90.268861
+    },
+    {
+      "name": "Camp Lake",
+      "slug": "camp-lake",
+      "county": "Kenosha County",
+      "lat": 42.534722,
+      "lng": -88.143611
+    },
+    {
+      "name": "Campbellsport",
+      "slug": "campbellsport",
+      "county": "Fond Du Lac County",
+      "lat": 43.604183,
+      "lng": -88.272855
+    },
+    {
+      "name": "Caroline",
+      "slug": "caroline",
+      "county": "Shawano County",
+      "lat": 44.727574,
+      "lng": -88.888749
+    },
+    {
+      "name": "Cascade",
+      "slug": "cascade",
+      "county": "Sheboygan County",
+      "lat": 43.659106,
+      "lng": -88.094658
+    },
+    {
+      "name": "Casco",
+      "slug": "casco",
+      "county": "Kewaunee County",
+      "lat": 44.58328,
+      "lng": -87.623122
+    },
+    {
+      "name": "Cashton",
+      "slug": "cashton",
+      "county": "Monroe County",
+      "lat": 43.745649,
+      "lng": -90.761197
+    },
+    {
+      "name": "Cassville",
+      "slug": "cassville",
+      "county": "Grant County",
+      "lat": 42.728791,
+      "lng": -90.960751
+    },
+    {
+      "name": "Cataract",
+      "slug": "cataract",
+      "county": "Monroe County",
+      "lat": 44.087778,
+      "lng": -90.842222
+    },
+    {
+      "name": "Catawba",
+      "slug": "catawba",
+      "county": "Price County",
+      "lat": 45.508123,
+      "lng": -90.514564
+    },
+    {
+      "name": "Cazenovia",
+      "slug": "cazenovia",
+      "county": "Richland County",
+      "lat": 43.498715,
+      "lng": -90.279572
+    },
+    {
+      "name": "Cecil",
+      "slug": "cecil",
+      "county": "Shawano County",
+      "lat": 44.811027,
+      "lng": -88.418253
+    },
+    {
+      "name": "Cedar Grove",
+      "slug": "cedar-grove",
+      "county": "Sheboygan County",
+      "lat": 43.575076,
+      "lng": -87.840108
+    },
+    {
+      "name": "Cedarburg",
+      "slug": "cedarburg",
+      "county": "Ozaukee County",
+      "lat": 43.303413,
+      "lng": -88.002867
+    },
+    {
+      "name": "Centuria",
+      "slug": "centuria",
+      "county": "Polk County",
+      "lat": 45.448369,
+      "lng": -92.547741
+    },
+    {
+      "name": "Chaseburg",
+      "slug": "chaseburg",
+      "county": "Vernon County",
+      "lat": 43.679372,
+      "lng": -91.079934
+    },
+    {
+      "name": "Chetek",
+      "slug": "chetek",
+      "county": "Barron County",
+      "lat": 45.317046,
+      "lng": -91.654154
+    },
+    {
+      "name": "Chili",
+      "slug": "chili",
+      "county": "Clark County",
+      "lat": 44.630135,
+      "lng": -90.359952
+    },
+    {
+      "name": "Chilton",
+      "slug": "chilton",
+      "county": "Calumet County",
+      "lat": 44.024242,
+      "lng": -88.182689
+    },
+    {
+      "name": "Chippewa Falls",
+      "slug": "chippewa-falls",
+      "county": "Chippewa County",
+      "lat": 44.932202,
+      "lng": -91.384376
+    },
+    {
+      "name": "Clam Lake",
+      "slug": "clam-lake",
+      "county": "Ashland County",
+      "lat": 46.245675,
+      "lng": -90.884107
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Polk County",
+      "lat": 45.306297,
+      "lng": -92.139462
+    },
+    {
+      "name": "Clear Lake",
+      "slug": "clear-lake",
+      "county": "Polk County",
+      "lat": 45.236481,
+      "lng": -92.27488
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Manitowoc County",
+      "lat": 43.921732,
+      "lng": -87.767314
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Rock County",
+      "lat": 42.553481,
+      "lng": -88.870477
+    },
+    {
+      "name": "Clintonville",
+      "slug": "clintonville",
+      "county": "Waupaca County",
+      "lat": 44.636442,
+      "lng": -88.742999
+    },
+    {
+      "name": "Clyman",
+      "slug": "clyman",
+      "county": "Dodge County",
+      "lat": 43.311389,
+      "lng": -88.72
+    },
+    {
+      "name": "Cobb",
+      "slug": "cobb",
+      "county": "Iowa County",
+      "lat": 42.966009,
+      "lng": -90.332408
+    },
+    {
+      "name": "Cochrane",
+      "slug": "cochrane",
+      "county": "Buffalo County",
+      "lat": 44.251591,
+      "lng": -91.858677
+    },
+    {
+      "name": "Colby",
+      "slug": "colby",
+      "county": "Clark County",
+      "lat": 44.911651,
+      "lng": -90.314432
+    },
+    {
+      "name": "Coleman",
+      "slug": "coleman",
+      "county": "Marinette County",
+      "lat": 45.072157,
+      "lng": -88.058667
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Dunn County",
+      "lat": 44.999326,
+      "lng": -91.735737
+    },
+    {
+      "name": "Colgate",
+      "slug": "colgate",
+      "county": "Washington County",
+      "lat": 43.199767,
+      "lng": -88.240614
+    },
+    {
+      "name": "Collins",
+      "slug": "collins",
+      "county": "Manitowoc County",
+      "lat": 44.085556,
+      "lng": -87.982778
+    },
+    {
+      "name": "Coloma",
+      "slug": "coloma",
+      "county": "Waushara County",
+      "lat": 44.027462,
+      "lng": -89.494332
+    },
+    {
+      "name": "Columbus",
+      "slug": "columbus",
+      "county": "Columbia County",
+      "lat": 43.331494,
+      "lng": -89.027089
+    },
+    {
+      "name": "Combined Locks",
+      "slug": "combined-locks",
+      "county": "Outagamie County",
+      "lat": 44.266581,
+      "lng": -88.313271
+    },
+    {
+      "name": "Comstock",
+      "slug": "comstock",
+      "county": "Barron County",
+      "lat": 45.491114,
+      "lng": -92.085961
+    },
+    {
+      "name": "Conover",
+      "slug": "conover",
+      "county": "Vilas County",
+      "lat": 46.043968,
+      "lng": -89.238919
+    },
+    {
+      "name": "Conrath",
+      "slug": "conrath",
+      "county": "Rusk County",
+      "lat": 45.353281,
+      "lng": -91.062132
+    },
+    {
+      "name": "Coon Valley",
+      "slug": "coon-valley",
+      "county": "Vernon County",
+      "lat": 43.721783,
+      "lng": -91.014338
+    },
+    {
+      "name": "Cornell",
+      "slug": "cornell",
+      "county": "Chippewa County",
+      "lat": 45.16191,
+      "lng": -91.173252
+    },
+    {
+      "name": "Cornucopia",
+      "slug": "cornucopia",
+      "county": "Bayfield County",
+      "lat": 46.837171,
+      "lng": -91.097421
+    },
+    {
+      "name": "Cottage Grove",
+      "slug": "cottage-grove",
+      "county": "Dane County",
+      "lat": 43.078405,
+      "lng": -89.201692
+    },
+    {
+      "name": "Couderay",
+      "slug": "couderay",
+      "county": "Sawyer County",
+      "lat": 45.809664,
+      "lng": -91.327825
+    },
+    {
+      "name": "Crandon",
+      "slug": "crandon",
+      "county": "Forest County",
+      "lat": 45.541553,
+      "lng": -88.911619
+    },
+    {
+      "name": "Crivitz",
+      "slug": "crivitz",
+      "county": "Marinette County",
+      "lat": 45.254053,
+      "lng": -88.061265
+    },
+    {
+      "name": "Cross Plains",
+      "slug": "cross-plains",
+      "county": "Dane County",
+      "lat": 43.113214,
+      "lng": -89.639665
+    },
+    {
+      "name": "Cuba City",
+      "slug": "cuba-city",
+      "county": "Grant County",
+      "lat": 42.599073,
+      "lng": -90.474907
+    },
+    {
+      "name": "Cudahy",
+      "slug": "cudahy",
+      "county": "Milwaukee County",
+      "lat": 42.948976,
+      "lng": -87.861983
+    },
+    {
+      "name": "Cumberland",
+      "slug": "cumberland",
+      "county": "Barron County",
+      "lat": 45.5403,
+      "lng": -92.029709
+    },
+    {
+      "name": "Curtiss",
+      "slug": "curtiss",
+      "county": "Clark County",
+      "lat": 44.960186,
+      "lng": -90.459223
+    },
+    {
+      "name": "Cushing",
+      "slug": "cushing",
+      "county": "Polk County",
+      "lat": 45.560359,
+      "lng": -92.624136
+    },
+    {
+      "name": "Custer",
+      "slug": "custer",
+      "county": "Portage County",
+      "lat": 44.56622,
+      "lng": -89.415275
+    },
+    {
+      "name": "Dale",
+      "slug": "dale",
+      "county": "Outagamie County",
+      "lat": 44.273056,
+      "lng": -88.678333
+    },
+    {
+      "name": "Dallas",
+      "slug": "dallas",
+      "county": "Barron County",
+      "lat": 45.254883,
+      "lng": -91.836844
+    },
+    {
+      "name": "Dalton",
+      "slug": "dalton",
+      "county": "Green Lake County",
+      "lat": 43.67178,
+      "lng": -89.191768
+    },
+    {
+      "name": "Danbury",
+      "slug": "danbury",
+      "county": "Burnett County",
+      "lat": 46.029681,
+      "lng": -92.265995
+    },
+    {
+      "name": "Dane",
+      "slug": "dane",
+      "county": "Dane County",
+      "lat": 43.242414,
+      "lng": -89.51174
+    },
+    {
+      "name": "Darien",
+      "slug": "darien",
+      "county": "Walworth County",
+      "lat": 42.6435,
+      "lng": -88.714217
+    },
+    {
+      "name": "Darlington",
+      "slug": "darlington",
+      "county": "Lafayette County",
+      "lat": 42.687816,
+      "lng": -90.110648
+    },
+    {
+      "name": "De Forest",
+      "slug": "de-forest",
+      "county": "Dane County",
+      "lat": 43.235748,
+      "lng": -89.329652
+    },
+    {
+      "name": "De Pere",
+      "slug": "de-pere",
+      "county": "Brown County",
+      "lat": 44.438779,
+      "lng": -88.080613
+    },
+    {
+      "name": "De Soto",
+      "slug": "de-soto",
+      "county": "Vernon County",
+      "lat": 43.494707,
+      "lng": -91.193015
+    },
+    {
+      "name": "Deer Park",
+      "slug": "deer-park",
+      "county": "Saint Croix County",
+      "lat": 45.169046,
+      "lng": -92.358464
+    },
+    {
+      "name": "Deerbrook",
+      "slug": "deerbrook",
+      "county": "Langlade County",
+      "lat": 45.236791,
+      "lng": -89.187257
+    },
+    {
+      "name": "Deerfield",
+      "slug": "deerfield",
+      "county": "Dane County",
+      "lat": 43.057106,
+      "lng": -89.086199
+    },
+    {
+      "name": "Delafield",
+      "slug": "delafield",
+      "county": "Waukesha County",
+      "lat": 43.050019,
+      "lng": -88.397248
+    },
+    {
+      "name": "Delavan",
+      "slug": "delavan",
+      "county": "Walworth County",
+      "lat": 42.622715,
+      "lng": -88.627717
+    },
+    {
+      "name": "Dellwood",
+      "slug": "dellwood",
+      "county": "Adams County",
+      "lat": 43.970556,
+      "lng": -89.816667
+    },
+    {
+      "name": "Denmark",
+      "slug": "denmark",
+      "county": "Brown County",
+      "lat": 44.359392,
+      "lng": -87.827036
+    },
+    {
+      "name": "Dickeyville",
+      "slug": "dickeyville",
+      "county": "Grant County",
+      "lat": 42.627222,
+      "lng": -90.591944
+    },
+    {
+      "name": "Dodge",
+      "slug": "dodge",
+      "county": "Trempealeau County",
+      "lat": 44.12886,
+      "lng": -91.524341
+    },
+    {
+      "name": "Dodgeville",
+      "slug": "dodgeville",
+      "county": "Iowa County",
+      "lat": 42.969779,
+      "lng": -90.140433
+    },
+    {
+      "name": "Dorchester",
+      "slug": "dorchester",
+      "county": "Clark County",
+      "lat": 45.004192,
+      "lng": -90.359648
+    },
+    {
+      "name": "Dousman",
+      "slug": "dousman",
+      "county": "Waukesha County",
+      "lat": 42.98506,
+      "lng": -88.456754
+    },
+    {
+      "name": "Downing",
+      "slug": "downing",
+      "county": "Dunn County",
+      "lat": 45.103032,
+      "lng": -92.113384
+    },
+    {
+      "name": "Downsville",
+      "slug": "downsville",
+      "county": "Dunn County",
+      "lat": 44.774722,
+      "lng": -91.931944
+    },
+    {
+      "name": "Doylestown",
+      "slug": "doylestown",
+      "county": "Columbia County",
+      "lat": 43.427778,
+      "lng": -89.15
+    },
+    {
+      "name": "Dresser",
+      "slug": "dresser",
+      "county": "Polk County",
+      "lat": 45.354585,
+      "lng": -92.5623
+    },
+    {
+      "name": "Drummond",
+      "slug": "drummond",
+      "county": "Bayfield County",
+      "lat": 46.311896,
+      "lng": -91.285569
+    },
+    {
+      "name": "Dunbar",
+      "slug": "dunbar",
+      "county": "Marinette County",
+      "lat": 45.600944,
+      "lng": -88.106669
+    },
+    {
+      "name": "Durand",
+      "slug": "durand",
+      "county": "Pepin County",
+      "lat": 44.630042,
+      "lng": -91.929476
+    },
+    {
+      "name": "Eagle",
+      "slug": "eagle",
+      "county": "Waukesha County",
+      "lat": 42.880942,
+      "lng": -88.46742
+    },
+    {
+      "name": "Eagle River",
+      "slug": "eagle-river",
+      "county": "Vilas County",
+      "lat": 45.916084,
+      "lng": -89.253058
+    },
+    {
+      "name": "East Ellsworth",
+      "slug": "east-ellsworth",
+      "county": "Pierce County",
+      "lat": 44.734167,
+      "lng": -92.467778
+    },
+    {
+      "name": "East Troy",
+      "slug": "east-troy",
+      "county": "Walworth County",
+      "lat": 42.803531,
+      "lng": -88.409215
+    },
+    {
+      "name": "Eastman",
+      "slug": "eastman",
+      "county": "Crawford County",
+      "lat": 43.19592,
+      "lng": -91.01927
+    },
+    {
+      "name": "Eau Claire",
+      "slug": "eau-claire",
+      "county": "Eau Claire County",
+      "lat": 44.783972,
+      "lng": -91.487686
+    },
+    {
+      "name": "Eau Galle",
+      "slug": "eau-galle",
+      "county": "Dunn County",
+      "lat": 44.721433,
+      "lng": -92.040816
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "county": "Fond Du Lac County",
+      "lat": 43.695878,
+      "lng": -88.326607
+    },
+    {
+      "name": "Edgar",
+      "slug": "edgar",
+      "county": "Marathon County",
+      "lat": 44.903831,
+      "lng": -89.998029
+    },
+    {
+      "name": "Edgerton",
+      "slug": "edgerton",
+      "county": "Rock County",
+      "lat": 42.838605,
+      "lng": -89.064157
+    },
+    {
+      "name": "Edgewater",
+      "slug": "edgewater",
+      "county": "Sawyer County",
+      "lat": 45.742222,
+      "lng": -91.475
+    },
+    {
+      "name": "Edmund",
+      "slug": "edmund",
+      "county": "Iowa County",
+      "lat": 42.9675,
+      "lng": -90.264444
+    },
+    {
+      "name": "Egg Harbor",
+      "slug": "egg-harbor",
+      "county": "Door County",
+      "lat": 45.010039,
+      "lng": -87.280521
+    },
+    {
+      "name": "Eland",
+      "slug": "eland",
+      "county": "Marathon County",
+      "lat": 44.830888,
+      "lng": -89.246117
+    },
+    {
+      "name": "Elcho",
+      "slug": "elcho",
+      "county": "Langlade County",
+      "lat": 45.440906,
+      "lng": -89.15157
+    },
+    {
+      "name": "Elderon",
+      "slug": "elderon",
+      "county": "Marathon County",
+      "lat": 44.783889,
+      "lng": -89.244722
+    },
+    {
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "county": "Fond Du Lac County",
+      "lat": 43.841471,
+      "lng": -88.638827
+    },
+    {
+      "name": "Eleva",
+      "slug": "eleva",
+      "county": "Trempealeau County",
+      "lat": 44.598493,
+      "lng": -91.48037
+    },
+    {
+      "name": "Elk Mound",
+      "slug": "elk-mound",
+      "county": "Dunn County",
+      "lat": 44.866973,
+      "lng": -91.675229
+    },
+    {
+      "name": "Elkhart Lake",
+      "slug": "elkhart-lake",
+      "county": "Sheboygan County",
+      "lat": 43.843553,
+      "lng": -87.97667
+    },
+    {
+      "name": "Elkhorn",
+      "slug": "elkhorn",
+      "county": "Walworth County",
+      "lat": 42.700928,
+      "lng": -88.546209
+    },
+    {
+      "name": "Ellison Bay",
+      "slug": "ellison-bay",
+      "county": "Door County",
+      "lat": 45.257206,
+      "lng": -87.051209
+    },
+    {
+      "name": "Ellsworth",
+      "slug": "ellsworth",
+      "county": "Pierce County",
+      "lat": 44.730191,
+      "lng": -92.489038
+    },
+    {
+      "name": "Elm Grove",
+      "slug": "elm-grove",
+      "county": "Waukesha County",
+      "lat": 43.047943,
+      "lng": -88.085374
+    },
+    {
+      "name": "Elmwood",
+      "slug": "elmwood",
+      "county": "Pierce County",
+      "lat": 44.756088,
+      "lng": -92.202195
+    },
+    {
+      "name": "Elroy",
+      "slug": "elroy",
+      "county": "Juneau County",
+      "lat": 43.751616,
+      "lng": -90.288857
+    },
+    {
+      "name": "Elton",
+      "slug": "elton",
+      "county": "Langlade County",
+      "lat": 45.156216,
+      "lng": -88.883743
+    },
+    {
+      "name": "Embarrass",
+      "slug": "embarrass",
+      "county": "Waupaca County",
+      "lat": 44.665556,
+      "lng": -88.707222
+    },
+    {
+      "name": "Endeavor",
+      "slug": "endeavor",
+      "county": "Marquette County",
+      "lat": 43.696305,
+      "lng": -89.461699
+    },
+    {
+      "name": "Ephraim",
+      "slug": "ephraim",
+      "county": "Door County",
+      "lat": 45.156389,
+      "lng": -87.168056
+    },
+    {
+      "name": "Ettrick",
+      "slug": "ettrick",
+      "county": "Trempealeau County",
+      "lat": 44.172428,
+      "lng": -91.263546
+    },
+    {
+      "name": "Eureka",
+      "slug": "eureka",
+      "county": "Winnebago County",
+      "lat": 44.004444,
+      "lng": -88.841667
+    },
+    {
+      "name": "Evansville",
+      "slug": "evansville",
+      "county": "Rock County",
+      "lat": 42.773216,
+      "lng": -89.287712
+    },
+    {
+      "name": "Exeland",
+      "slug": "exeland",
+      "county": "Sawyer County",
+      "lat": 45.675298,
+      "lng": -91.223819
+    },
+    {
+      "name": "Fairchild",
+      "slug": "fairchild",
+      "county": "Eau Claire County",
+      "lat": 44.596253,
+      "lng": -90.990568
+    },
+    {
+      "name": "Fairwater",
+      "slug": "fairwater",
+      "county": "Fond Du Lac County",
+      "lat": 43.743889,
+      "lng": -88.866944
+    },
+    {
+      "name": "Fall Creek",
+      "slug": "fall-creek",
+      "county": "Eau Claire County",
+      "lat": 44.768385,
+      "lng": -91.285631
+    },
+    {
+      "name": "Fall River",
+      "slug": "fall-river",
+      "county": "Columbia County",
+      "lat": 43.400838,
+      "lng": -89.062513
+    },
+    {
+      "name": "Fence",
+      "slug": "fence",
+      "county": "Florence County",
+      "lat": 45.759652,
+      "lng": -88.364873
+    },
+    {
+      "name": "Fennimore",
+      "slug": "fennimore",
+      "county": "Grant County",
+      "lat": 42.988558,
+      "lng": -90.655009
+    },
+    {
+      "name": "Ferryville",
+      "slug": "ferryville",
+      "county": "Crawford County",
+      "lat": 43.395857,
+      "lng": -91.044578
+    },
+    {
+      "name": "Fifield",
+      "slug": "fifield",
+      "county": "Price County",
+      "lat": 45.862148,
+      "lng": -90.4246
+    },
+    {
+      "name": "Fish Creek",
+      "slug": "fish-creek",
+      "county": "Door County",
+      "lat": 45.11554,
+      "lng": -87.206432
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Florence County",
+      "lat": 45.902724,
+      "lng": -88.228921
+    },
+    {
+      "name": "Fond Du Lac",
+      "slug": "fond-du-lac",
+      "county": "Fond Du Lac County",
+      "lat": 43.770446,
+      "lng": -88.429149
+    },
+    {
+      "name": "Fontana",
+      "slug": "fontana",
+      "county": "Walworth County",
+      "lat": 42.542928,
+      "lng": -88.568424
+    },
+    {
+      "name": "Footville",
+      "slug": "footville",
+      "county": "Rock County",
+      "lat": 42.670833,
+      "lng": -89.208889
+    },
+    {
+      "name": "Forest Junction",
+      "slug": "forest-junction",
+      "county": "Calumet County",
+      "lat": 44.20613,
+      "lng": -88.151716
+    },
+    {
+      "name": "Forestville",
+      "slug": "forestville",
+      "county": "Door County",
+      "lat": 44.696863,
+      "lng": -87.492832
+    },
+    {
+      "name": "Fort Atkinson",
+      "slug": "fort-atkinson",
+      "county": "Jefferson County",
+      "lat": 42.922902,
+      "lng": -88.846689
+    },
+    {
+      "name": "Fountain City",
+      "slug": "fountain-city",
+      "county": "Buffalo County",
+      "lat": 44.136436,
+      "lng": -91.677861
+    },
+    {
+      "name": "Fox Lake",
+      "slug": "fox-lake",
+      "county": "Dodge County",
+      "lat": 43.581507,
+      "lng": -88.904081
+    },
+    {
+      "name": "Foxboro",
+      "slug": "foxboro",
+      "county": "Douglas County",
+      "lat": 46.487511,
+      "lng": -92.149254
+    },
+    {
+      "name": "Francis Creek",
+      "slug": "francis-creek",
+      "county": "Manitowoc County",
+      "lat": 44.199964,
+      "lng": -87.720007
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Milwaukee County",
+      "lat": 42.901728,
+      "lng": -88.008582
+    },
+    {
+      "name": "Franksville",
+      "slug": "franksville",
+      "county": "Racine County",
+      "lat": 42.785892,
+      "lng": -87.987273
+    },
+    {
+      "name": "Frederic",
+      "slug": "frederic",
+      "county": "Polk County",
+      "lat": 45.665314,
+      "lng": -92.426482
+    },
+    {
+      "name": "Fredonia",
+      "slug": "fredonia",
+      "county": "Ozaukee County",
+      "lat": 43.484319,
+      "lng": -87.982243
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "county": "Outagamie County",
+      "lat": 44.386389,
+      "lng": -88.288611
+    },
+    {
+      "name": "Fremont",
+      "slug": "fremont",
+      "county": "Waupaca County",
+      "lat": 44.237884,
+      "lng": -88.844852
+    },
+    {
+      "name": "Friendship",
+      "slug": "friendship",
+      "county": "Adams County",
+      "lat": 43.989629,
+      "lng": -89.814875
+    },
+    {
+      "name": "Friesland",
+      "slug": "friesland",
+      "county": "Columbia County",
+      "lat": 43.588611,
+      "lng": -89.067222
+    },
+    {
+      "name": "Galesville",
+      "slug": "galesville",
+      "county": "Trempealeau County",
+      "lat": 44.088848,
+      "lng": -91.358789
+    },
+    {
+      "name": "Galloway",
+      "slug": "galloway",
+      "county": "Marathon County",
+      "lat": 44.827222,
+      "lng": -89.169444
+    },
+    {
+      "name": "Gays Mills",
+      "slug": "gays-mills",
+      "county": "Crawford County",
+      "lat": 43.293639,
+      "lng": -90.867636
+    },
+    {
+      "name": "Genesee Depot",
+      "slug": "genesee-depot",
+      "county": "Waukesha County",
+      "lat": 42.966667,
+      "lng": -88.371111
+    },
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "county": "Vernon County",
+      "lat": 43.605134,
+      "lng": -91.134999
+    },
+    {
+      "name": "Genoa City",
+      "slug": "genoa-city",
+      "county": "Walworth County",
+      "lat": 42.532276,
+      "lng": -88.348456
+    },
+    {
+      "name": "Germantown",
+      "slug": "germantown",
+      "county": "Washington County",
+      "lat": 43.218871,
+      "lng": -88.116508
+    },
+    {
+      "name": "Gile",
+      "slug": "gile",
+      "county": "Iron County",
+      "lat": 46.428333,
+      "lng": -90.225
+    },
+    {
+      "name": "Gillett",
+      "slug": "gillett",
+      "county": "Oconto County",
+      "lat": 44.901753,
+      "lng": -88.324221
+    },
+    {
+      "name": "Gilman",
+      "slug": "gilman",
+      "county": "Taylor County",
+      "lat": 45.18906,
+      "lng": -90.825672
+    },
+    {
+      "name": "Gilmanton",
+      "slug": "gilmanton",
+      "county": "Buffalo County",
+      "lat": 44.470833,
+      "lng": -91.675833
+    },
+    {
+      "name": "Gleason",
+      "slug": "gleason",
+      "county": "Lincoln County",
+      "lat": 45.338428,
+      "lng": -89.475264
+    },
+    {
+      "name": "Glen Flora",
+      "slug": "glen-flora",
+      "county": "Rusk County",
+      "lat": 45.488807,
+      "lng": -90.855183
+    },
+    {
+      "name": "Glen Haven",
+      "slug": "glen-haven",
+      "county": "Grant County",
+      "lat": 42.820372,
+      "lng": -91.000451
+    },
+    {
+      "name": "Glenbeulah",
+      "slug": "glenbeulah",
+      "county": "Sheboygan County",
+      "lat": 43.766611,
+      "lng": -88.104886
+    },
+    {
+      "name": "Glenwood City",
+      "slug": "glenwood-city",
+      "county": "Saint Croix County",
+      "lat": 45.062339,
+      "lng": -92.181588
+    },
+    {
+      "name": "Glidden",
+      "slug": "glidden",
+      "county": "Ashland County",
+      "lat": 46.133668,
+      "lng": -90.588856
+    },
+    {
+      "name": "Goodman",
+      "slug": "goodman",
+      "county": "Marinette County",
+      "lat": 45.646895,
+      "lng": -88.362901
+    },
+    {
+      "name": "Gordon",
+      "slug": "gordon",
+      "county": "Douglas County",
+      "lat": 46.233603,
+      "lng": -91.803301
+    },
+    {
+      "name": "Gotham",
+      "slug": "gotham",
+      "county": "Richland County",
+      "lat": 43.223333,
+      "lng": -90.291389
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Ozaukee County",
+      "lat": 43.323146,
+      "lng": -87.952087
+    },
+    {
+      "name": "Grand Marsh",
+      "slug": "grand-marsh",
+      "county": "Adams County",
+      "lat": 43.856789,
+      "lng": -89.655663
+    },
+    {
+      "name": "Grand View",
+      "slug": "grand-view",
+      "county": "Bayfield County",
+      "lat": 46.357682,
+      "lng": -91.107465
+    },
+    {
+      "name": "Granton",
+      "slug": "granton",
+      "county": "Clark County",
+      "lat": 44.560558,
+      "lng": -90.448383
+    },
+    {
+      "name": "Grantsburg",
+      "slug": "grantsburg",
+      "county": "Burnett County",
+      "lat": 45.761312,
+      "lng": -92.662685
+    },
+    {
+      "name": "Gratiot",
+      "slug": "gratiot",
+      "county": "Lafayette County",
+      "lat": 42.575852,
+      "lng": -90.024344
+    },
+    {
+      "name": "Green Bay",
+      "slug": "green-bay",
+      "county": "Brown County",
+      "lat": 44.485313,
+      "lng": -88.016868
+    },
+    {
+      "name": "Green Lake",
+      "slug": "green-lake",
+      "county": "Green Lake County",
+      "lat": 43.844383,
+      "lng": -88.96847
+    },
+    {
+      "name": "Green Valley",
+      "slug": "green-valley",
+      "county": "Shawano County",
+      "lat": 44.795556,
+      "lng": -88.270278
+    },
+    {
+      "name": "Greenbush",
+      "slug": "greenbush",
+      "county": "Sheboygan County",
+      "lat": 43.776667,
+      "lng": -88.083889
+    },
+    {
+      "name": "Greendale",
+      "slug": "greendale",
+      "county": "Milwaukee County",
+      "lat": 42.937293,
+      "lng": -87.994277
+    },
+    {
+      "name": "Greenleaf",
+      "slug": "greenleaf",
+      "county": "Brown County",
+      "lat": 44.29373,
+      "lng": -88.027519
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Outagamie County",
+      "lat": 44.299747,
+      "lng": -88.569579
+    },
+    {
+      "name": "Greenwood",
+      "slug": "greenwood",
+      "county": "Clark County",
+      "lat": 44.740373,
+      "lng": -90.622913
+    },
+    {
+      "name": "Gresham",
+      "slug": "gresham",
+      "county": "Shawano County",
+      "lat": 44.852963,
+      "lng": -88.78873
+    },
+    {
+      "name": "Hager City",
+      "slug": "hager-city",
+      "county": "Pierce County",
+      "lat": 44.626969,
+      "lng": -92.550146
+    },
+    {
+      "name": "Hales Corners",
+      "slug": "hales-corners",
+      "county": "Milwaukee County",
+      "lat": 42.941034,
+      "lng": -88.0503
+    },
+    {
+      "name": "Hammond",
+      "slug": "hammond",
+      "county": "Saint Croix County",
+      "lat": 44.967004,
+      "lng": -92.447215
+    },
+    {
+      "name": "Hancock",
+      "slug": "hancock",
+      "county": "Waushara County",
+      "lat": 44.129743,
+      "lng": -89.534448
+    },
+    {
+      "name": "Hannibal",
+      "slug": "hannibal",
+      "county": "Taylor County",
+      "lat": 45.2525,
+      "lng": -90.788889
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "Rock County",
+      "lat": 42.638611,
+      "lng": -89.161944
+    },
+    {
+      "name": "Harshaw",
+      "slug": "harshaw",
+      "county": "Oneida County",
+      "lat": 45.676244,
+      "lng": -89.650346
+    },
+    {
+      "name": "Hartford",
+      "slug": "hartford",
+      "county": "Washington County",
+      "lat": 43.315749,
+      "lng": -88.370727
+    },
+    {
+      "name": "Hartland",
+      "slug": "hartland",
+      "county": "Waukesha County",
+      "lat": 43.117153,
+      "lng": -88.344572
+    },
+    {
+      "name": "Hatley",
+      "slug": "hatley",
+      "county": "Marathon County",
+      "lat": 44.825638,
+      "lng": -89.377728
+    },
+    {
+      "name": "Haugen",
+      "slug": "haugen",
+      "county": "Barron County",
+      "lat": 45.608889,
+      "lng": -91.774722
+    },
+    {
+      "name": "Hawkins",
+      "slug": "hawkins",
+      "county": "Rusk County",
+      "lat": 45.524129,
+      "lng": -90.711373
+    },
+    {
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "county": "Douglas County",
+      "lat": 46.503056,
+      "lng": -91.860556
+    },
+    {
+      "name": "Hayward",
+      "slug": "hayward",
+      "county": "Sawyer County",
+      "lat": 46.001404,
+      "lng": -91.397659
+    },
+    {
+      "name": "Hazel Green",
+      "slug": "hazel-green",
+      "county": "Grant County",
+      "lat": 42.535913,
+      "lng": -90.511782
+    },
+    {
+      "name": "Hazelhurst",
+      "slug": "hazelhurst",
+      "county": "Oneida County",
+      "lat": 45.77446,
+      "lng": -89.747836
+    },
+    {
+      "name": "Heafford Junction",
+      "slug": "heafford-junction",
+      "county": "Lincoln County",
+      "lat": 45.547222,
+      "lng": -89.715278
+    },
+    {
+      "name": "Helenville",
+      "slug": "helenville",
+      "county": "Jefferson County",
+      "lat": 43.01007,
+      "lng": -88.726887
+    },
+    {
+      "name": "Herbster",
+      "slug": "herbster",
+      "county": "Bayfield County",
+      "lat": 46.82128,
+      "lng": -91.233193
+    },
+    {
+      "name": "Hertel",
+      "slug": "hertel",
+      "county": "Burnett County",
+      "lat": 45.807561,
+      "lng": -92.140419
+    },
+    {
+      "name": "Hewitt",
+      "slug": "hewitt",
+      "county": "Wood County",
+      "lat": 44.643651,
+      "lng": -90.103054
+    },
+    {
+      "name": "High Bridge",
+      "slug": "high-bridge",
+      "county": "Ashland County",
+      "lat": 46.379613,
+      "lng": -90.73826
+    },
+    {
+      "name": "Highland",
+      "slug": "highland",
+      "county": "Iowa County",
+      "lat": 43.052368,
+      "lng": -90.36501
+    },
+    {
+      "name": "Hilbert",
+      "slug": "hilbert",
+      "county": "Calumet County",
+      "lat": 44.127129,
+      "lng": -88.206961
+    },
+    {
+      "name": "Hillpoint",
+      "slug": "hillpoint",
+      "county": "Sauk County",
+      "lat": 43.395129,
+      "lng": -90.158792
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Vernon County",
+      "lat": 43.635009,
+      "lng": -90.370595
+    },
+    {
+      "name": "Hingham",
+      "slug": "hingham",
+      "county": "Sheboygan County",
+      "lat": 43.638889,
+      "lng": -87.914167
+    },
+    {
+      "name": "Hixton",
+      "slug": "hixton",
+      "county": "Jackson County",
+      "lat": 44.397778,
+      "lng": -91.039086
+    },
+    {
+      "name": "Holcombe",
+      "slug": "holcombe",
+      "county": "Chippewa County",
+      "lat": 45.251263,
+      "lng": -91.132955
+    },
+    {
+      "name": "Hollandale",
+      "slug": "hollandale",
+      "county": "Iowa County",
+      "lat": 42.877321,
+      "lng": -89.912973
+    },
+    {
+      "name": "Holmen",
+      "slug": "holmen",
+      "county": "La Crosse County",
+      "lat": 43.976125,
+      "lng": -91.2497
+    },
+    {
+      "name": "Honey Creek",
+      "slug": "honey-creek",
+      "county": "Walworth County",
+      "lat": 42.748333,
+      "lng": -88.307778
+    },
+    {
+      "name": "Horicon",
+      "slug": "horicon",
+      "county": "Dodge County",
+      "lat": 43.446859,
+      "lng": -88.631049
+    },
+    {
+      "name": "Hortonville",
+      "slug": "hortonville",
+      "county": "Outagamie County",
+      "lat": 44.327306,
+      "lng": -88.62813
+    },
+    {
+      "name": "Houlton",
+      "slug": "houlton",
+      "county": "Saint Croix County",
+      "lat": 45.070123,
+      "lng": -92.760803
+    },
+    {
+      "name": "Hubertus",
+      "slug": "hubertus",
+      "county": "Washington County",
+      "lat": 43.234269,
+      "lng": -88.231147
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Saint Croix County",
+      "lat": 44.984187,
+      "lng": -92.727062
+    },
+    {
+      "name": "Humbird",
+      "slug": "humbird",
+      "county": "Clark County",
+      "lat": 44.536676,
+      "lng": -90.888257
+    },
+    {
+      "name": "Hurley",
+      "slug": "hurley",
+      "county": "Iron County",
+      "lat": 46.44482,
+      "lng": -90.1975
+    },
+    {
+      "name": "Hustisford",
+      "slug": "hustisford",
+      "county": "Dodge County",
+      "lat": 43.345,
+      "lng": -88.601667
+    },
+    {
+      "name": "Hustler",
+      "slug": "hustler",
+      "county": "Juneau County",
+      "lat": 43.9225,
+      "lng": -90.271389
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Trempealeau County",
+      "lat": 44.395926,
+      "lng": -91.453511
+    },
+    {
+      "name": "Iola",
+      "slug": "iola",
+      "county": "Waupaca County",
+      "lat": 44.532183,
+      "lng": -89.137311
+    },
+    {
+      "name": "Irma",
+      "slug": "irma",
+      "county": "Lincoln County",
+      "lat": 45.348483,
+      "lng": -89.661138
+    },
+    {
+      "name": "Iron Belt",
+      "slug": "iron-belt",
+      "county": "Iron County",
+      "lat": 46.395545,
+      "lng": -90.324528
+    },
+    {
+      "name": "Iron Ridge",
+      "slug": "iron-ridge",
+      "county": "Dodge County",
+      "lat": 43.393415,
+      "lng": -88.544072
+    },
+    {
+      "name": "Iron River",
+      "slug": "iron-river",
+      "county": "Bayfield County",
+      "lat": 46.578984,
+      "lng": -91.421056
+    },
+    {
+      "name": "Ixonia",
+      "slug": "ixonia",
+      "county": "Jefferson County",
+      "lat": 43.170667,
+      "lng": -88.580567
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Washington County",
+      "lat": 43.325243,
+      "lng": -88.162592
+    },
+    {
+      "name": "Janesville",
+      "slug": "janesville",
+      "county": "Rock County",
+      "lat": 42.691542,
+      "lng": -89.033124
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Jefferson County",
+      "lat": 43.000557,
+      "lng": -88.807765
+    },
+    {
+      "name": "Jim Falls",
+      "slug": "jim-falls",
+      "county": "Chippewa County",
+      "lat": 45.064439,
+      "lng": -91.264909
+    },
+    {
+      "name": "Johnson Creek",
+      "slug": "johnson-creek",
+      "county": "Jefferson County",
+      "lat": 43.075051,
+      "lng": -88.783602
+    },
+    {
+      "name": "Juda",
+      "slug": "juda",
+      "county": "Green County",
+      "lat": 42.567874,
+      "lng": -89.502608
+    },
+    {
+      "name": "Jump River",
+      "slug": "jump-river",
+      "county": "Taylor County",
+      "lat": 45.166667,
+      "lng": -90.8075
+    },
+    {
+      "name": "Junction City",
+      "slug": "junction-city",
+      "county": "Portage County",
+      "lat": 44.59634,
+      "lng": -89.743758
+    },
+    {
+      "name": "Juneau",
+      "slug": "juneau",
+      "county": "Dodge County",
+      "lat": 43.379199,
+      "lng": -88.684517
+    },
+    {
+      "name": "Kansasville",
+      "slug": "kansasville",
+      "county": "Racine County",
+      "lat": 42.701246,
+      "lng": -88.118037
+    },
+    {
+      "name": "Kaukauna",
+      "slug": "kaukauna",
+      "county": "Outagamie County",
+      "lat": 44.29561,
+      "lng": -88.271692
+    },
+    {
+      "name": "Kellnersville",
+      "slug": "kellnersville",
+      "county": "Manitowoc County",
+      "lat": 44.22493,
+      "lng": -87.803596
+    },
+    {
+      "name": "Kendall",
+      "slug": "kendall",
+      "county": "Monroe County",
+      "lat": 43.81614,
+      "lng": -90.410691
+    },
+    {
+      "name": "Kennan",
+      "slug": "kennan",
+      "county": "Price County",
+      "lat": 45.53497,
+      "lng": -90.590987
+    },
+    {
+      "name": "Kenosha",
+      "slug": "kenosha",
+      "county": "Kenosha County",
+      "lat": 42.605228,
+      "lng": -87.829945
+    },
+    {
+      "name": "Keshena",
+      "slug": "keshena",
+      "county": "Menominee County",
+      "lat": 44.914635,
+      "lng": -88.635686
+    },
+    {
+      "name": "Kewaskum",
+      "slug": "kewaskum",
+      "county": "Washington County",
+      "lat": 43.521446,
+      "lng": -88.19253
+    },
+    {
+      "name": "Kewaunee",
+      "slug": "kewaunee",
+      "county": "Kewaunee County",
+      "lat": 44.440143,
+      "lng": -87.559442
+    },
+    {
+      "name": "Kiel",
+      "slug": "kiel",
+      "county": "Manitowoc County",
+      "lat": 43.934105,
+      "lng": -87.995644
+    },
+    {
+      "name": "Kieler",
+      "slug": "kieler",
+      "county": "Grant County",
+      "lat": 42.581389,
+      "lng": -90.6025
+    },
+    {
+      "name": "Kimberly",
+      "slug": "kimberly",
+      "county": "Outagamie County",
+      "lat": 44.27008,
+      "lng": -88.338374
+    },
+    {
+      "name": "King",
+      "slug": "king",
+      "county": "Waupaca County",
+      "lat": 44.267332,
+      "lng": -89.113739
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Green Lake County",
+      "lat": 43.69236,
+      "lng": -89.131997
+    },
+    {
+      "name": "Knapp",
+      "slug": "knapp",
+      "county": "Dunn County",
+      "lat": 44.954495,
+      "lng": -92.075201
+    },
+    {
+      "name": "Kohler",
+      "slug": "kohler",
+      "county": "Sheboygan County",
+      "lat": 43.738096,
+      "lng": -87.78673
+    },
+    {
+      "name": "Krakow",
+      "slug": "krakow",
+      "county": "Shawano County",
+      "lat": 44.763457,
+      "lng": -88.25933
+    },
+    {
+      "name": "La Crosse",
+      "slug": "la-crosse",
+      "county": "La Crosse County",
+      "lat": 43.798938,
+      "lng": -91.217494
+    },
+    {
+      "name": "La Farge",
+      "slug": "la-farge",
+      "county": "Vernon County",
+      "lat": 43.616955,
+      "lng": -90.648257
+    },
+    {
+      "name": "La Pointe",
+      "slug": "la-pointe",
+      "county": "Ashland County",
+      "lat": 46.846675,
+      "lng": -90.603622
+    },
+    {
+      "name": "La Valle",
+      "slug": "la-valle",
+      "county": "Sauk County",
+      "lat": 43.569874,
+      "lng": -90.127966
+    },
+    {
+      "name": "Lac Du Flambeau",
+      "slug": "lac-du-flambeau",
+      "county": "Vilas County",
+      "lat": 45.97175,
+      "lng": -89.890078
+    },
+    {
+      "name": "Ladysmith",
+      "slug": "ladysmith",
+      "county": "Rusk County",
+      "lat": 45.471941,
+      "lng": -91.108804
+    },
+    {
+      "name": "Lake Delton",
+      "slug": "lake-delton",
+      "county": "Sauk County",
+      "lat": 43.601111,
+      "lng": -89.793611
+    },
+    {
+      "name": "Lake Geneva",
+      "slug": "lake-geneva",
+      "county": "Walworth County",
+      "lat": 42.588111,
+      "lng": -88.455379
+    },
+    {
+      "name": "Lake Mills",
+      "slug": "lake-mills",
+      "county": "Jefferson County",
+      "lat": 43.081576,
+      "lng": -88.913335
+    },
+    {
+      "name": "Lake Nebagamon",
+      "slug": "lake-nebagamon",
+      "county": "Douglas County",
+      "lat": 46.502347,
+      "lng": -91.740243
+    },
+    {
+      "name": "Lake Tomahawk",
+      "slug": "lake-tomahawk",
+      "county": "Oneida County",
+      "lat": 45.803455,
+      "lng": -89.585609
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Oconto County",
+      "lat": 45.316285,
+      "lng": -88.503189
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Grant County",
+      "lat": 42.844469,
+      "lng": -90.710906
+    },
+    {
+      "name": "Land O Lakes",
+      "slug": "land-o-lakes",
+      "county": "Vilas County",
+      "lat": 46.156305,
+      "lng": -89.321787
+    },
+    {
+      "name": "Lannon",
+      "slug": "lannon",
+      "county": "Waukesha County",
+      "lat": 43.149651,
+      "lng": -88.163863
+    },
+    {
+      "name": "Laona",
+      "slug": "laona",
+      "county": "Forest County",
+      "lat": 45.553416,
+      "lng": -88.671525
+    },
+    {
+      "name": "Larsen",
+      "slug": "larsen",
+      "county": "Winnebago County",
+      "lat": 44.198421,
+      "lng": -88.696305
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Dodge County",
+      "lat": 43.255278,
+      "lng": -88.626667
+    },
+    {
+      "name": "Lena",
+      "slug": "lena",
+      "county": "Oconto County",
+      "lat": 44.940494,
+      "lng": -88.054308
+    },
+    {
+      "name": "Leopolis",
+      "slug": "leopolis",
+      "county": "Shawano County",
+      "lat": 44.781188,
+      "lng": -88.872223
+    },
+    {
+      "name": "Lime Ridge",
+      "slug": "lime-ridge",
+      "county": "Sauk County",
+      "lat": 43.467778,
+      "lng": -90.154722
+    },
+    {
+      "name": "Linden",
+      "slug": "linden",
+      "county": "Iowa County",
+      "lat": 42.918419,
+      "lng": -90.279726
+    },
+    {
+      "name": "Little Chute",
+      "slug": "little-chute",
+      "county": "Outagamie County",
+      "lat": 44.284248,
+      "lng": -88.311989
+    },
+    {
+      "name": "Little Suamico",
+      "slug": "little-suamico",
+      "county": "Oconto County",
+      "lat": 44.67751,
+      "lng": -88.027245
+    },
+    {
+      "name": "Livingston",
+      "slug": "livingston",
+      "county": "Grant County",
+      "lat": 42.904432,
+      "lng": -90.441986
+    },
+    {
+      "name": "Lodi",
+      "slug": "lodi",
+      "county": "Columbia County",
+      "lat": 43.326964,
+      "lng": -89.555421
+    },
+    {
+      "name": "Loganville",
+      "slug": "loganville",
+      "county": "Sauk County",
+      "lat": 43.405046,
+      "lng": -90.033688
+    },
+    {
+      "name": "Lomira",
+      "slug": "lomira",
+      "county": "Dodge County",
+      "lat": 43.588489,
+      "lng": -88.441309
+    },
+    {
+      "name": "Lone Rock",
+      "slug": "lone-rock",
+      "county": "Richland County",
+      "lat": 43.220773,
+      "lng": -90.235229
+    },
+    {
+      "name": "Long Lake",
+      "slug": "long-lake",
+      "county": "Florence County",
+      "lat": 45.921841,
+      "lng": -88.695308
+    },
+    {
+      "name": "Lowell",
+      "slug": "lowell",
+      "county": "Dodge County",
+      "lat": 43.342018,
+      "lng": -88.787263
+    },
+    {
+      "name": "Loyal",
+      "slug": "loyal",
+      "county": "Clark County",
+      "lat": 44.727243,
+      "lng": -90.492238
+    },
+    {
+      "name": "Lublin",
+      "slug": "lublin",
+      "county": "Taylor County",
+      "lat": 45.073933,
+      "lng": -90.733678
+    },
+    {
+      "name": "Luck",
+      "slug": "luck",
+      "county": "Polk County",
+      "lat": 45.556799,
+      "lng": -92.416391
+    },
+    {
+      "name": "Luxemburg",
+      "slug": "luxemburg",
+      "county": "Kewaunee County",
+      "lat": 44.550612,
+      "lng": -87.715606
+    },
+    {
+      "name": "Lyndon Station",
+      "slug": "lyndon-station",
+      "county": "Juneau County",
+      "lat": 43.689875,
+      "lng": -89.891543
+    },
+    {
+      "name": "Lynxville",
+      "slug": "lynxville",
+      "county": "Crawford County",
+      "lat": 43.246389,
+      "lng": -91.056111
+    },
+    {
+      "name": "Lyons",
+      "slug": "lyons",
+      "county": "Walworth County",
+      "lat": 42.651111,
+      "lng": -88.358333
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Dane County",
+      "lat": 43.073,
+      "lng": -89.3817
+    },
+    {
+      "name": "Maiden Rock",
+      "slug": "maiden-rock",
+      "county": "Pierce County",
+      "lat": 44.608599,
+      "lng": -92.278212
+    },
+    {
+      "name": "Malone",
+      "slug": "malone",
+      "county": "Fond Du Lac County",
+      "lat": 43.869002,
+      "lng": -88.307289
+    },
+    {
+      "name": "Manawa",
+      "slug": "manawa",
+      "county": "Waupaca County",
+      "lat": 44.470148,
+      "lng": -88.916444
+    },
+    {
+      "name": "Manitowish Waters",
+      "slug": "manitowish-waters",
+      "county": "Vilas County",
+      "lat": 46.123909,
+      "lng": -89.830767
+    },
+    {
+      "name": "Manitowoc",
+      "slug": "manitowoc",
+      "county": "Manitowoc County",
+      "lat": 44.097122,
+      "lng": -87.682303
+    },
+    {
+      "name": "Maple",
+      "slug": "maple",
+      "county": "Douglas County",
+      "lat": 46.620591,
+      "lng": -91.702015
+    },
+    {
+      "name": "Maplewood",
+      "slug": "maplewood",
+      "county": "Door County",
+      "lat": 44.7475,
+      "lng": -87.479167
+    },
+    {
+      "name": "Marathon",
+      "slug": "marathon",
+      "county": "Marathon County",
+      "lat": 44.965664,
+      "lng": -89.829948
+    },
+    {
+      "name": "Marengo",
+      "slug": "marengo",
+      "county": "Ashland County",
+      "lat": 46.407112,
+      "lng": -90.839991
+    },
+    {
+      "name": "Maribel",
+      "slug": "maribel",
+      "county": "Manitowoc County",
+      "lat": 44.285151,
+      "lng": -87.805482
+    },
+    {
+      "name": "Marinette",
+      "slug": "marinette",
+      "county": "Marinette County",
+      "lat": 45.087403,
+      "lng": -87.669684
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Waupaca County",
+      "lat": 44.679414,
+      "lng": -88.876706
+    },
+    {
+      "name": "Markesan",
+      "slug": "markesan",
+      "county": "Green Lake County",
+      "lat": 43.714015,
+      "lng": -89.006971
+    },
+    {
+      "name": "Marquette",
+      "slug": "marquette",
+      "county": "Green Lake County",
+      "lat": 43.745886,
+      "lng": -89.139654
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Dane County",
+      "lat": 43.163639,
+      "lng": -89.075331
+    },
+    {
+      "name": "Marshfield",
+      "slug": "marshfield",
+      "county": "Wood County",
+      "lat": 44.6688,
+      "lng": -90.1716
+    },
+    {
+      "name": "Mason",
+      "slug": "mason",
+      "county": "Bayfield County",
+      "lat": 46.457285,
+      "lng": -91.057511
+    },
+    {
+      "name": "Mather",
+      "slug": "mather",
+      "county": "Juneau County",
+      "lat": 44.147706,
+      "lng": -90.295264
+    },
+    {
+      "name": "Mattoon",
+      "slug": "mattoon",
+      "county": "Shawano County",
+      "lat": 45.004167,
+      "lng": -89.041944
+    },
+    {
+      "name": "Mauston",
+      "slug": "mauston",
+      "county": "Juneau County",
+      "lat": 43.793383,
+      "lng": -90.064085
+    },
+    {
+      "name": "Mayville",
+      "slug": "mayville",
+      "county": "Dodge County",
+      "lat": 43.504496,
+      "lng": -88.545084
+    },
+    {
+      "name": "Mazomanie",
+      "slug": "mazomanie",
+      "county": "Dane County",
+      "lat": 43.184746,
+      "lng": -89.763616
+    },
+    {
+      "name": "Mc Farland",
+      "slug": "mc-farland",
+      "county": "Dane County",
+      "lat": 43.010651,
+      "lng": -89.294773
+    },
+    {
+      "name": "Mc Naughton",
+      "slug": "mc-naughton",
+      "county": "Oneida County",
+      "lat": 45.723333,
+      "lng": -89.482778
+    },
+    {
+      "name": "Medford",
+      "slug": "medford",
+      "county": "Taylor County",
+      "lat": 45.151185,
+      "lng": -90.350306
+    },
+    {
+      "name": "Mellen",
+      "slug": "mellen",
+      "county": "Ashland County",
+      "lat": 46.300659,
+      "lng": -90.655233
+    },
+    {
+      "name": "Melrose",
+      "slug": "melrose",
+      "county": "Jackson County",
+      "lat": 44.138156,
+      "lng": -91.044463
+    },
+    {
+      "name": "Menasha",
+      "slug": "menasha",
+      "county": "Winnebago County",
+      "lat": 44.211164,
+      "lng": -88.417536
+    },
+    {
+      "name": "Menomonee Falls",
+      "slug": "menomonee-falls",
+      "county": "Waukesha County",
+      "lat": 43.160174,
+      "lng": -88.112774
+    },
+    {
+      "name": "Menomonie",
+      "slug": "menomonie",
+      "county": "Dunn County",
+      "lat": 44.87182,
+      "lng": -91.92651
+    },
+    {
+      "name": "Mequon",
+      "slug": "mequon",
+      "county": "Ozaukee County",
+      "lat": 43.236389,
+      "lng": -87.984444
+    },
+    {
+      "name": "Mercer",
+      "slug": "mercer",
+      "county": "Iron County",
+      "lat": 46.169594,
+      "lng": -90.067914
+    },
+    {
+      "name": "Merrill",
+      "slug": "merrill",
+      "county": "Lincoln County",
+      "lat": 45.180924,
+      "lng": -89.690696
+    },
+    {
+      "name": "Merrillan",
+      "slug": "merrillan",
+      "county": "Jackson County",
+      "lat": 44.436938,
+      "lng": -90.810496
+    },
+    {
+      "name": "Merrimac",
+      "slug": "merrimac",
+      "county": "Sauk County",
+      "lat": 43.385527,
+      "lng": -89.632254
+    },
+    {
+      "name": "Merton",
+      "slug": "merton",
+      "county": "Waukesha County",
+      "lat": 43.146667,
+      "lng": -88.306667
+    },
+    {
+      "name": "Middleton",
+      "slug": "middleton",
+      "county": "Dane County",
+      "lat": 43.105196,
+      "lng": -89.507258
+    },
+    {
+      "name": "Mikana",
+      "slug": "mikana",
+      "county": "Barron County",
+      "lat": 45.591944,
+      "lng": -91.601111
+    },
+    {
+      "name": "Milladore",
+      "slug": "milladore",
+      "county": "Wood County",
+      "lat": 44.604416,
+      "lng": -89.887532
+    },
+    {
+      "name": "Millston",
+      "slug": "millston",
+      "county": "Jackson County",
+      "lat": 44.193056,
+      "lng": -90.6475
+    },
+    {
+      "name": "Milltown",
+      "slug": "milltown",
+      "county": "Polk County",
+      "lat": 45.527082,
+      "lng": -92.501739
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Rock County",
+      "lat": 42.779087,
+      "lng": -88.953087
+    },
+    {
+      "name": "Milwaukee",
+      "slug": "milwaukee",
+      "county": "Milwaukee County",
+      "lat": 43.0343,
+      "lng": -87.9151
+    },
+    {
+      "name": "Mindoro",
+      "slug": "mindoro",
+      "county": "La Crosse County",
+      "lat": 44.02873,
+      "lng": -91.064181
+    },
+    {
+      "name": "Mineral Point",
+      "slug": "mineral-point",
+      "county": "Iowa County",
+      "lat": 42.854696,
+      "lng": -90.164556
+    },
+    {
+      "name": "Minocqua",
+      "slug": "minocqua",
+      "county": "Oneida County",
+      "lat": 45.871909,
+      "lng": -89.757954
+    },
+    {
+      "name": "Minong",
+      "slug": "minong",
+      "county": "Washburn County",
+      "lat": 46.10445,
+      "lng": -91.850628
+    },
+    {
+      "name": "Mishicot",
+      "slug": "mishicot",
+      "county": "Manitowoc County",
+      "lat": 44.260942,
+      "lng": -87.644703
+    },
+    {
+      "name": "Mondovi",
+      "slug": "mondovi",
+      "county": "Buffalo County",
+      "lat": 44.609853,
+      "lng": -91.669576
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Green County",
+      "lat": 42.599076,
+      "lng": -89.6403
+    },
+    {
+      "name": "Montello",
+      "slug": "montello",
+      "county": "Marquette County",
+      "lat": 43.768984,
+      "lng": -89.358641
+    },
+    {
+      "name": "Montfort",
+      "slug": "montfort",
+      "county": "Grant County",
+      "lat": 42.975745,
+      "lng": -90.44473
+    },
+    {
+      "name": "Monticello",
+      "slug": "monticello",
+      "county": "Green County",
+      "lat": 42.741482,
+      "lng": -89.608069
+    },
+    {
+      "name": "Montreal",
+      "slug": "montreal",
+      "county": "Iron County",
+      "lat": 46.425736,
+      "lng": -90.244195
+    },
+    {
+      "name": "Morrisonville",
+      "slug": "morrisonville",
+      "county": "Dane County",
+      "lat": 43.277222,
+      "lng": -89.359444
+    },
+    {
+      "name": "Mosinee",
+      "slug": "mosinee",
+      "county": "Marathon County",
+      "lat": 44.799736,
+      "lng": -89.684491
+    },
+    {
+      "name": "Mount Calvary",
+      "slug": "mount-calvary",
+      "county": "Fond Du Lac County",
+      "lat": 43.814211,
+      "lng": -88.239922
+    },
+    {
+      "name": "Mount Hope",
+      "slug": "mount-hope",
+      "county": "Grant County",
+      "lat": 42.968862,
+      "lng": -90.86648
+    },
+    {
+      "name": "Mount Horeb",
+      "slug": "mount-horeb",
+      "county": "Dane County",
+      "lat": 43.002022,
+      "lng": -89.741448
+    },
+    {
+      "name": "Mount Sterling",
+      "slug": "mount-sterling",
+      "county": "Crawford County",
+      "lat": 43.315278,
+      "lng": -90.928611
+    },
+    {
+      "name": "Mountain",
+      "slug": "mountain",
+      "county": "Oconto County",
+      "lat": 45.199127,
+      "lng": -88.45828
+    },
+    {
+      "name": "Mukwonago",
+      "slug": "mukwonago",
+      "county": "Waukesha County",
+      "lat": 42.882054,
+      "lng": -88.345116
+    },
+    {
+      "name": "Muscoda",
+      "slug": "muscoda",
+      "county": "Grant County",
+      "lat": 43.207375,
+      "lng": -90.456998
+    },
+    {
+      "name": "Muskego",
+      "slug": "muskego",
+      "county": "Waukesha County",
+      "lat": 42.904651,
+      "lng": -88.121411
+    },
+    {
+      "name": "Nashotah",
+      "slug": "nashotah",
+      "county": "Waukesha County",
+      "lat": 43.111791,
+      "lng": -88.408913
+    },
+    {
+      "name": "Necedah",
+      "slug": "necedah",
+      "county": "Juneau County",
+      "lat": 44.034481,
+      "lng": -90.059976
+    },
+    {
+      "name": "Neenah",
+      "slug": "neenah",
+      "county": "Winnebago County",
+      "lat": 44.181094,
+      "lng": -88.479201
+    },
+    {
+      "name": "Neillsville",
+      "slug": "neillsville",
+      "county": "Clark County",
+      "lat": 44.549429,
+      "lng": -90.611197
+    },
+    {
+      "name": "Nekoosa",
+      "slug": "nekoosa",
+      "county": "Wood County",
+      "lat": 44.281979,
+      "lng": -89.881394
+    },
+    {
+      "name": "Nelson",
+      "slug": "nelson",
+      "county": "Buffalo County",
+      "lat": 44.42947,
+      "lng": -92.000742
+    },
+    {
+      "name": "Nelsonville",
+      "slug": "nelsonville",
+      "county": "Portage County",
+      "lat": 44.495,
+      "lng": -89.309722
+    },
+    {
+      "name": "Neopit",
+      "slug": "neopit",
+      "county": "Menominee County",
+      "lat": 44.987323,
+      "lng": -88.861116
+    },
+    {
+      "name": "Neosho",
+      "slug": "neosho",
+      "county": "Dodge County",
+      "lat": 43.297841,
+      "lng": -88.520482
+    },
+    {
+      "name": "Neshkoro",
+      "slug": "neshkoro",
+      "county": "Marquette County",
+      "lat": 43.898943,
+      "lng": -89.233572
+    },
+    {
+      "name": "New Auburn",
+      "slug": "new-auburn",
+      "county": "Chippewa County",
+      "lat": 45.23562,
+      "lng": -91.519747
+    },
+    {
+      "name": "New Berlin",
+      "slug": "new-berlin",
+      "county": "Waukesha County",
+      "lat": 42.97397,
+      "lng": -88.155274
+    },
+    {
+      "name": "New Franken",
+      "slug": "new-franken",
+      "county": "Brown County",
+      "lat": 44.559193,
+      "lng": -87.823482
+    },
+    {
+      "name": "New Glarus",
+      "slug": "new-glarus",
+      "county": "Green County",
+      "lat": 42.814344,
+      "lng": -89.643666
+    },
+    {
+      "name": "New Holstein",
+      "slug": "new-holstein",
+      "county": "Calumet County",
+      "lat": 43.944639,
+      "lng": -88.091083
+    },
+    {
+      "name": "New Lisbon",
+      "slug": "new-lisbon",
+      "county": "Juneau County",
+      "lat": 43.88775,
+      "lng": -90.152407
+    },
+    {
+      "name": "New London",
+      "slug": "new-london",
+      "county": "Waupaca County",
+      "lat": 44.392847,
+      "lng": -88.755428
+    },
+    {
+      "name": "New Munster",
+      "slug": "new-munster",
+      "county": "Kenosha County",
+      "lat": 42.579444,
+      "lng": -88.227778
+    },
+    {
+      "name": "New Richmond",
+      "slug": "new-richmond",
+      "county": "Saint Croix County",
+      "lat": 45.159819,
+      "lng": -92.551333
+    },
+    {
+      "name": "Newburg",
+      "slug": "newburg",
+      "county": "Washington County",
+      "lat": 43.431667,
+      "lng": -88.046389
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Manitowoc County",
+      "lat": 43.983621,
+      "lng": -87.784764
+    },
+    {
+      "name": "Niagara",
+      "slug": "niagara",
+      "county": "Marinette County",
+      "lat": 45.765343,
+      "lng": -88.030927
+    },
+    {
+      "name": "Nichols",
+      "slug": "nichols",
+      "county": "Outagamie County",
+      "lat": 44.563056,
+      "lng": -88.463333
+    },
+    {
+      "name": "North Freedom",
+      "slug": "north-freedom",
+      "county": "Sauk County",
+      "lat": 43.410562,
+      "lng": -89.849019
+    },
+    {
+      "name": "North Lake",
+      "slug": "north-lake",
+      "county": "Waukesha County",
+      "lat": 43.156111,
+      "lng": -88.370556
+    },
+    {
+      "name": "North Prairie",
+      "slug": "north-prairie",
+      "county": "Waukesha County",
+      "lat": 42.938501,
+      "lng": -88.394988
+    },
+    {
+      "name": "Norwalk",
+      "slug": "norwalk",
+      "county": "Monroe County",
+      "lat": 43.812823,
+      "lng": -90.680134
+    },
+    {
+      "name": "Oak Creek",
+      "slug": "oak-creek",
+      "county": "Milwaukee County",
+      "lat": 42.88916,
+      "lng": -87.902661
+    },
+    {
+      "name": "Oakdale",
+      "slug": "oakdale",
+      "county": "Monroe County",
+      "lat": 43.959722,
+      "lng": -90.381667
+    },
+    {
+      "name": "Oakfield",
+      "slug": "oakfield",
+      "county": "Fond Du Lac County",
+      "lat": 43.686371,
+      "lng": -88.556919
+    },
+    {
+      "name": "Oconomowoc",
+      "slug": "oconomowoc",
+      "county": "Waukesha County",
+      "lat": 43.109497,
+      "lng": -88.486229
+    },
+    {
+      "name": "Oconto",
+      "slug": "oconto",
+      "county": "Oconto County",
+      "lat": 44.891359,
+      "lng": -87.891728
+    },
+    {
+      "name": "Oconto Falls",
+      "slug": "oconto-falls",
+      "county": "Oconto County",
+      "lat": 44.875499,
+      "lng": -88.155528
+    },
+    {
+      "name": "Odanah",
+      "slug": "odanah",
+      "county": "Ashland County",
+      "lat": 46.608333,
+      "lng": -90.696667
+    },
+    {
+      "name": "Ogdensburg",
+      "slug": "ogdensburg",
+      "county": "Waupaca County",
+      "lat": 44.467803,
+      "lng": -89.011851
+    },
+    {
+      "name": "Ogema",
+      "slug": "ogema",
+      "county": "Price County",
+      "lat": 45.439187,
+      "lng": -90.256513
+    },
+    {
+      "name": "Ojibwa",
+      "slug": "ojibwa",
+      "county": "Sawyer County",
+      "lat": 45.785351,
+      "lng": -91.110922
+    },
+    {
+      "name": "Okauchee",
+      "slug": "okauchee",
+      "county": "Waukesha County",
+      "lat": 43.113011,
+      "lng": -88.432287
+    },
+    {
+      "name": "Omro",
+      "slug": "omro",
+      "county": "Winnebago County",
+      "lat": 44.035678,
+      "lng": -88.751933
+    },
+    {
+      "name": "Onalaska",
+      "slug": "onalaska",
+      "county": "La Crosse County",
+      "lat": 43.897392,
+      "lng": -91.231419
+    },
+    {
+      "name": "Oneida",
+      "slug": "oneida",
+      "county": "Brown County",
+      "lat": 44.516641,
+      "lng": -88.185851
+    },
+    {
+      "name": "Ontario",
+      "slug": "ontario",
+      "county": "Vernon County",
+      "lat": 43.717197,
+      "lng": -90.620534
+    },
+    {
+      "name": "Oostburg",
+      "slug": "oostburg",
+      "county": "Sheboygan County",
+      "lat": 43.622939,
+      "lng": -87.796955
+    },
+    {
+      "name": "Oregon",
+      "slug": "oregon",
+      "county": "Dane County",
+      "lat": 42.929485,
+      "lng": -89.387002
+    },
+    {
+      "name": "Orfordville",
+      "slug": "orfordville",
+      "county": "Rock County",
+      "lat": 42.627766,
+      "lng": -89.253292
+    },
+    {
+      "name": "Osceola",
+      "slug": "osceola",
+      "county": "Polk County",
+      "lat": 45.321757,
+      "lng": -92.697108
+    },
+    {
+      "name": "Oshkosh",
+      "slug": "oshkosh",
+      "county": "Winnebago County",
+      "lat": 44.021962,
+      "lng": -88.543635
+    },
+    {
+      "name": "Osseo",
+      "slug": "osseo",
+      "county": "Trempealeau County",
+      "lat": 44.559923,
+      "lng": -91.219148
+    },
+    {
+      "name": "Owen",
+      "slug": "owen",
+      "county": "Clark County",
+      "lat": 44.957817,
+      "lng": -90.5469
+    },
+    {
+      "name": "Oxford",
+      "slug": "oxford",
+      "county": "Marquette County",
+      "lat": 43.779914,
+      "lng": -89.563175
+    },
+    {
+      "name": "Packwaukee",
+      "slug": "packwaukee",
+      "county": "Marquette County",
+      "lat": 43.763333,
+      "lng": -89.458333
+    },
+    {
+      "name": "Palmyra",
+      "slug": "palmyra",
+      "county": "Jefferson County",
+      "lat": 42.879263,
+      "lng": -88.590255
+    },
+    {
+      "name": "Pardeeville",
+      "slug": "pardeeville",
+      "county": "Columbia County",
+      "lat": 43.533975,
+      "lng": -89.326514
+    },
+    {
+      "name": "Park Falls",
+      "slug": "park-falls",
+      "county": "Price County",
+      "lat": 45.936345,
+      "lng": -90.424648
+    },
+    {
+      "name": "Patch Grove",
+      "slug": "patch-grove",
+      "county": "Grant County",
+      "lat": 42.940278,
+      "lng": -90.971944
+    },
+    {
+      "name": "Pearson",
+      "slug": "pearson",
+      "county": "Langlade County",
+      "lat": 45.388119,
+      "lng": -89.075824
+    },
+    {
+      "name": "Pelican Lake",
+      "slug": "pelican-lake",
+      "county": "Oneida County",
+      "lat": 45.504886,
+      "lng": -89.181707
+    },
+    {
+      "name": "Pell Lake",
+      "slug": "pell-lake",
+      "county": "Walworth County",
+      "lat": 42.538056,
+      "lng": -88.350833
+    },
+    {
+      "name": "Pembine",
+      "slug": "pembine",
+      "county": "Marinette County",
+      "lat": 45.607398,
+      "lng": -87.970363
+    },
+    {
+      "name": "Pepin",
+      "slug": "pepin",
+      "county": "Pepin County",
+      "lat": 44.458687,
+      "lng": -92.139353
+    },
+    {
+      "name": "Peshtigo",
+      "slug": "peshtigo",
+      "county": "Marinette County",
+      "lat": 45.045778,
+      "lng": -87.729795
+    },
+    {
+      "name": "Pewaukee",
+      "slug": "pewaukee",
+      "county": "Waukesha County",
+      "lat": 43.078777,
+      "lng": -88.272922
+    },
+    {
+      "name": "Phelps",
+      "slug": "phelps",
+      "county": "Vilas County",
+      "lat": 46.064481,
+      "lng": -89.081547
+    },
+    {
+      "name": "Phillips",
+      "slug": "phillips",
+      "county": "Price County",
+      "lat": 45.697463,
+      "lng": -90.404131
+    },
+    {
+      "name": "Phlox",
+      "slug": "phlox",
+      "county": "Langlade County",
+      "lat": 45.051111,
+      "lng": -89.014167
+    },
+    {
+      "name": "Pickerel",
+      "slug": "pickerel",
+      "county": "Langlade County",
+      "lat": 45.356658,
+      "lng": -88.91365
+    },
+    {
+      "name": "Pickett",
+      "slug": "pickett",
+      "county": "Winnebago County",
+      "lat": 43.900917,
+      "lng": -88.713457
+    },
+    {
+      "name": "Pigeon Falls",
+      "slug": "pigeon-falls",
+      "county": "Trempealeau County",
+      "lat": 44.426389,
+      "lng": -91.210278
+    },
+    {
+      "name": "Pine River",
+      "slug": "pine-river",
+      "county": "Waushara County",
+      "lat": 44.160393,
+      "lng": -89.040415
+    },
+    {
+      "name": "Pittsville",
+      "slug": "pittsville",
+      "county": "Wood County",
+      "lat": 44.43747,
+      "lng": -90.189174
+    },
+    {
+      "name": "Plain",
+      "slug": "plain",
+      "county": "Sauk County",
+      "lat": 43.292693,
+      "lng": -90.055825
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Waushara County",
+      "lat": 44.209079,
+      "lng": -89.455896
+    },
+    {
+      "name": "Platteville",
+      "slug": "platteville",
+      "county": "Grant County",
+      "lat": 42.73932,
+      "lng": -90.485406
+    },
+    {
+      "name": "Pleasant Prairie",
+      "slug": "pleasant-prairie",
+      "county": "Kenosha County",
+      "lat": 42.5277,
+      "lng": -87.8857
+    },
+    {
+      "name": "Plover",
+      "slug": "plover",
+      "county": "Portage County",
+      "lat": 44.450673,
+      "lng": -89.542805
+    },
+    {
+      "name": "Plum City",
+      "slug": "plum-city",
+      "county": "Pierce County",
+      "lat": 44.635979,
+      "lng": -92.183725
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Sheboygan County",
+      "lat": 43.75258,
+      "lng": -87.977906
+    },
+    {
+      "name": "Poplar",
+      "slug": "poplar",
+      "county": "Douglas County",
+      "lat": 46.57708,
+      "lng": -91.825345
+    },
+    {
+      "name": "Port Edwards",
+      "slug": "port-edwards",
+      "county": "Wood County",
+      "lat": 44.349705,
+      "lng": -89.865246
+    },
+    {
+      "name": "Port Washington",
+      "slug": "port-washington",
+      "county": "Ozaukee County",
+      "lat": 43.395463,
+      "lng": -87.879659
+    },
+    {
+      "name": "Port Wing",
+      "slug": "port-wing",
+      "county": "Bayfield County",
+      "lat": 46.76204,
+      "lng": -91.392016
+    },
+    {
+      "name": "Portage",
+      "slug": "portage",
+      "county": "Columbia County",
+      "lat": 43.550145,
+      "lng": -89.47139
+    },
+    {
+      "name": "Porterfield",
+      "slug": "porterfield",
+      "county": "Marinette County",
+      "lat": 45.193399,
+      "lng": -87.806243
+    },
+    {
+      "name": "Potosi",
+      "slug": "potosi",
+      "county": "Grant County",
+      "lat": 42.6884,
+      "lng": -90.700153
+    },
+    {
+      "name": "Potter",
+      "slug": "potter",
+      "county": "Calumet County",
+      "lat": 44.120556,
+      "lng": -88.099167
+    },
+    {
+      "name": "Pound",
+      "slug": "pound",
+      "county": "Marinette County",
+      "lat": 45.127317,
+      "lng": -88.139621
+    },
+    {
+      "name": "Powers Lake",
+      "slug": "powers-lake",
+      "county": "Kenosha County",
+      "lat": 42.553611,
+      "lng": -88.294444
+    },
+    {
+      "name": "Poy Sippi",
+      "slug": "poy-sippi",
+      "county": "Waushara County",
+      "lat": 44.110069,
+      "lng": -88.926835
+    },
+    {
+      "name": "Poynette",
+      "slug": "poynette",
+      "county": "Columbia County",
+      "lat": 43.401342,
+      "lng": -89.418857
+    },
+    {
+      "name": "Prairie Du Chien",
+      "slug": "prairie-du-chien",
+      "county": "Crawford County",
+      "lat": 43.042649,
+      "lng": -91.119305
+    },
+    {
+      "name": "Prairie Du Sac",
+      "slug": "prairie-du-sac",
+      "county": "Sauk County",
+      "lat": 43.295631,
+      "lng": -89.745233
+    },
+    {
+      "name": "Prairie Farm",
+      "slug": "prairie-farm",
+      "county": "Barron County",
+      "lat": 45.246183,
+      "lng": -91.974205
+    },
+    {
+      "name": "Prentice",
+      "slug": "prentice",
+      "county": "Price County",
+      "lat": 45.548201,
+      "lng": -90.294217
+    },
+    {
+      "name": "Prescott",
+      "slug": "prescott",
+      "county": "Pierce County",
+      "lat": 44.747648,
+      "lng": -92.753528
+    },
+    {
+      "name": "Presque Isle",
+      "slug": "presque-isle",
+      "county": "Vilas County",
+      "lat": 46.221735,
+      "lng": -89.772795
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Green Lake County",
+      "lat": 43.843827,
+      "lng": -89.124913
+    },
+    {
+      "name": "Pulaski",
+      "slug": "pulaski",
+      "county": "Brown County",
+      "lat": 44.66112,
+      "lng": -88.263447
+    },
+    {
+      "name": "Racine",
+      "slug": "racine",
+      "county": "",
+      "lat": 42.6868,
+      "lng": -87.8378
+    },
+    {
+      "name": "Radisson",
+      "slug": "radisson",
+      "county": "Sawyer County",
+      "lat": 45.773359,
+      "lng": -91.22615
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Columbia County",
+      "lat": 43.539167,
+      "lng": -89.006667
+    },
+    {
+      "name": "Random Lake",
+      "slug": "random-lake",
+      "county": "Sheboygan County",
+      "lat": 43.567206,
+      "lng": -87.981553
+    },
+    {
+      "name": "Readfield",
+      "slug": "readfield",
+      "county": "Waupaca County",
+      "lat": 44.2725,
+      "lng": -88.769722
+    },
+    {
+      "name": "Readstown",
+      "slug": "readstown",
+      "county": "Vernon County",
+      "lat": 43.450791,
+      "lng": -90.757872
+    },
+    {
+      "name": "Redgranite",
+      "slug": "redgranite",
+      "county": "Waushara County",
+      "lat": 44.04381,
+      "lng": -89.098125
+    },
+    {
+      "name": "Reedsburg",
+      "slug": "reedsburg",
+      "county": "Sauk County",
+      "lat": 43.5325,
+      "lng": -90.0025
+    },
+    {
+      "name": "Reedsville",
+      "slug": "reedsville",
+      "county": "Manitowoc County",
+      "lat": 44.157566,
+      "lng": -87.966028
+    },
+    {
+      "name": "Reeseville",
+      "slug": "reeseville",
+      "county": "Dodge County",
+      "lat": 43.301278,
+      "lng": -88.857117
+    },
+    {
+      "name": "Rewey",
+      "slug": "rewey",
+      "county": "Iowa County",
+      "lat": 42.859393,
+      "lng": -90.380361
+    },
+    {
+      "name": "Rhinelander",
+      "slug": "rhinelander",
+      "county": "Oneida County",
+      "lat": 45.646718,
+      "lng": -89.409285
+    },
+    {
+      "name": "Rib Lake",
+      "slug": "rib-lake",
+      "county": "Taylor County",
+      "lat": 45.298376,
+      "lng": -90.176322
+    },
+    {
+      "name": "Rice Lake",
+      "slug": "rice-lake",
+      "county": "Barron County",
+      "lat": 45.510466,
+      "lng": -91.733544
+    },
+    {
+      "name": "Richfield",
+      "slug": "richfield",
+      "county": "Washington County",
+      "lat": 43.273925,
+      "lng": -88.215467
+    },
+    {
+      "name": "Richland Center",
+      "slug": "richland-center",
+      "county": "Richland County",
+      "lat": 43.362714,
+      "lng": -90.391378
+    },
+    {
+      "name": "Ridgeland",
+      "slug": "ridgeland",
+      "county": "Dunn County",
+      "lat": 45.186773,
+      "lng": -91.879024
+    },
+    {
+      "name": "Ridgeway",
+      "slug": "ridgeway",
+      "county": "Iowa County",
+      "lat": 43.007654,
+      "lng": -89.988946
+    },
+    {
+      "name": "Ringle",
+      "slug": "ringle",
+      "county": "Marathon County",
+      "lat": 44.92383,
+      "lng": -89.432845
+    },
+    {
+      "name": "Rio",
+      "slug": "rio",
+      "county": "Columbia County",
+      "lat": 43.423053,
+      "lng": -89.235362
+    },
+    {
+      "name": "Ripon",
+      "slug": "ripon",
+      "county": "Fond Du Lac County",
+      "lat": 43.845402,
+      "lng": -88.842433
+    },
+    {
+      "name": "River Falls",
+      "slug": "river-falls",
+      "county": "Pierce County",
+      "lat": 44.85501,
+      "lng": -92.631275
+    },
+    {
+      "name": "Roberts",
+      "slug": "roberts",
+      "county": "Saint Croix County",
+      "lat": 44.987356,
+      "lng": -92.559773
+    },
+    {
+      "name": "Rochester",
+      "slug": "rochester",
+      "county": "Racine County",
+      "lat": 42.741389,
+      "lng": -88.224167
+    },
+    {
+      "name": "Rock Falls",
+      "slug": "rock-falls",
+      "county": "Dunn County",
+      "lat": 44.718611,
+      "lng": -91.689722
+    },
+    {
+      "name": "Rock Springs",
+      "slug": "rock-springs",
+      "county": "Sauk County",
+      "lat": 43.468098,
+      "lng": -89.921834
+    },
+    {
+      "name": "Rockland",
+      "slug": "rockland",
+      "county": "La Crosse County",
+      "lat": 43.938159,
+      "lng": -90.948846
+    },
+    {
+      "name": "Rosendale",
+      "slug": "rosendale",
+      "county": "Fond Du Lac County",
+      "lat": 43.788903,
+      "lng": -88.641704
+    },
+    {
+      "name": "Rosholt",
+      "slug": "rosholt",
+      "county": "Portage County",
+      "lat": 44.662224,
+      "lng": -89.335637
+    },
+    {
+      "name": "Rothschild",
+      "slug": "rothschild",
+      "county": "Marathon County",
+      "lat": 44.88429,
+      "lng": -89.619262
+    },
+    {
+      "name": "Rubicon",
+      "slug": "rubicon",
+      "county": "Dodge County",
+      "lat": 43.312144,
+      "lng": -88.452793
+    },
+    {
+      "name": "Rudolph",
+      "slug": "rudolph",
+      "county": "Wood County",
+      "lat": 44.474061,
+      "lng": -89.800252
+    },
+    {
+      "name": "Saint Cloud",
+      "slug": "saint-cloud",
+      "county": "Fond Du Lac County",
+      "lat": 43.807431,
+      "lng": -88.184482
+    },
+    {
+      "name": "Saint Croix Falls",
+      "slug": "saint-croix-falls",
+      "county": "Polk County",
+      "lat": 45.413215,
+      "lng": -92.638371
+    },
+    {
+      "name": "Saint Germain",
+      "slug": "saint-germain",
+      "county": "Vilas County",
+      "lat": 45.918315,
+      "lng": -89.486556
+    },
+    {
+      "name": "Saint Nazianz",
+      "slug": "saint-nazianz",
+      "county": "Manitowoc County",
+      "lat": 44.006425,
+      "lng": -87.922906
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Kenosha County",
+      "lat": 42.570922,
+      "lng": -88.128731
+    },
+    {
+      "name": "Sand Creek",
+      "slug": "sand-creek",
+      "county": "Dunn County",
+      "lat": 45.170513,
+      "lng": -91.701446
+    },
+    {
+      "name": "Sarona",
+      "slug": "sarona",
+      "county": "Washburn County",
+      "lat": 45.708532,
+      "lng": -91.762103
+    },
+    {
+      "name": "Sauk City",
+      "slug": "sauk-city",
+      "county": "Sauk County",
+      "lat": 43.268558,
+      "lng": -89.741777
+    },
+    {
+      "name": "Saukville",
+      "slug": "saukville",
+      "county": "Ozaukee County",
+      "lat": 43.391265,
+      "lng": -87.956765
+    },
+    {
+      "name": "Saxeville",
+      "slug": "saxeville",
+      "county": "Waushara County",
+      "lat": 44.176111,
+      "lng": -89.114444
+    },
+    {
+      "name": "Saxon",
+      "slug": "saxon",
+      "county": "Iron County",
+      "lat": 46.495855,
+      "lng": -90.438273
+    },
+    {
+      "name": "Sayner",
+      "slug": "sayner",
+      "county": "Vilas County",
+      "lat": 45.986664,
+      "lng": -89.519437
+    },
+    {
+      "name": "Scandinavia",
+      "slug": "scandinavia",
+      "county": "Waupaca County",
+      "lat": 44.460436,
+      "lng": -89.165042
+    },
+    {
+      "name": "Schofield",
+      "slug": "schofield",
+      "county": "Marathon County",
+      "lat": 44.906407,
+      "lng": -89.581789
+    },
+    {
+      "name": "Seneca",
+      "slug": "seneca",
+      "county": "Crawford County",
+      "lat": 43.265,
+      "lng": -90.958333
+    },
+    {
+      "name": "Sextonville",
+      "slug": "sextonville",
+      "county": "Richland County",
+      "lat": 43.278333,
+      "lng": -90.290833
+    },
+    {
+      "name": "Seymour",
+      "slug": "seymour",
+      "county": "Outagamie County",
+      "lat": 44.509096,
+      "lng": -88.317243
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Walworth County",
+      "lat": 42.519367,
+      "lng": -88.726522
+    },
+    {
+      "name": "Shawano",
+      "slug": "shawano",
+      "county": "Shawano County",
+      "lat": 44.785133,
+      "lng": -88.603599
+    },
+    {
+      "name": "Sheboygan",
+      "slug": "sheboygan",
+      "county": "Sheboygan County",
+      "lat": 43.740981,
+      "lng": -87.724667
+    },
+    {
+      "name": "Sheboygan Falls",
+      "slug": "sheboygan-falls",
+      "county": "Sheboygan County",
+      "lat": 43.726598,
+      "lng": -87.824228
+    },
+    {
+      "name": "Sheldon",
+      "slug": "sheldon",
+      "county": "Rusk County",
+      "lat": 45.318171,
+      "lng": -90.914148
+    },
+    {
+      "name": "Shell Lake",
+      "slug": "shell-lake",
+      "county": "Washburn County",
+      "lat": 45.753598,
+      "lng": -91.960606
+    },
+    {
+      "name": "Sherwood",
+      "slug": "sherwood",
+      "county": "Calumet County",
+      "lat": 44.173611,
+      "lng": -88.259722
+    },
+    {
+      "name": "Shiocton",
+      "slug": "shiocton",
+      "county": "Outagamie County",
+      "lat": 44.497202,
+      "lng": -88.556236
+    },
+    {
+      "name": "Shullsburg",
+      "slug": "shullsburg",
+      "county": "Lafayette County",
+      "lat": 42.57856,
+      "lng": -90.226619
+    },
+    {
+      "name": "Silver Lake",
+      "slug": "silver-lake",
+      "county": "Kenosha County",
+      "lat": 42.546111,
+      "lng": -88.165556
+    },
+    {
+      "name": "Sinsinawa",
+      "slug": "sinsinawa",
+      "county": "Grant County",
+      "lat": 42.523611,
+      "lng": -90.539167
+    },
+    {
+      "name": "Siren",
+      "slug": "siren",
+      "county": "Burnett County",
+      "lat": 45.78214,
+      "lng": -92.389151
+    },
+    {
+      "name": "Sister Bay",
+      "slug": "sister-bay",
+      "county": "Door County",
+      "lat": 45.187544,
+      "lng": -87.113865
+    },
+    {
+      "name": "Slinger",
+      "slug": "slinger",
+      "county": "Washington County",
+      "lat": 43.332211,
+      "lng": -88.282377
+    },
+    {
+      "name": "Sobieski",
+      "slug": "sobieski",
+      "county": "Oconto County",
+      "lat": 44.710495,
+      "lng": -88.107605
+    },
+    {
+      "name": "Soldiers Grove",
+      "slug": "soldiers-grove",
+      "county": "Crawford County",
+      "lat": 43.391857,
+      "lng": -90.766293
+    },
+    {
+      "name": "Solon Springs",
+      "slug": "solon-springs",
+      "county": "Douglas County",
+      "lat": 46.388821,
+      "lng": -91.770154
+    },
+    {
+      "name": "Somers",
+      "slug": "somers",
+      "county": "Kenosha County",
+      "lat": 42.640278,
+      "lng": -87.910278
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "Saint Croix County",
+      "lat": 45.133064,
+      "lng": -92.686466
+    },
+    {
+      "name": "South Milwaukee",
+      "slug": "south-milwaukee",
+      "county": "Milwaukee County",
+      "lat": 42.910468,
+      "lng": -87.864626
+    },
+    {
+      "name": "South Range",
+      "slug": "south-range",
+      "county": "Douglas County",
+      "lat": 46.588659,
+      "lng": -91.945805
+    },
+    {
+      "name": "South Wayne",
+      "slug": "south-wayne",
+      "county": "Lafayette County",
+      "lat": 42.582199,
+      "lng": -89.888844
+    },
+    {
+      "name": "Sparta",
+      "slug": "sparta",
+      "county": "Monroe County",
+      "lat": 43.954045,
+      "lng": -90.814566
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Marathon County",
+      "lat": 44.739148,
+      "lng": -90.311406
+    },
+    {
+      "name": "Spooner",
+      "slug": "spooner",
+      "county": "Washburn County",
+      "lat": 45.850468,
+      "lng": -91.91555
+    },
+    {
+      "name": "Spring Green",
+      "slug": "spring-green",
+      "county": "Sauk County",
+      "lat": 43.18835,
+      "lng": -90.067608
+    },
+    {
+      "name": "Spring Valley",
+      "slug": "spring-valley",
+      "county": "Pierce County",
+      "lat": 44.835569,
+      "lng": -92.290599
+    },
+    {
+      "name": "Springbrook",
+      "slug": "springbrook",
+      "county": "Washburn County",
+      "lat": 45.960384,
+      "lng": -91.677734
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Walworth County",
+      "lat": 42.641667,
+      "lng": -88.411944
+    },
+    {
+      "name": "Stanley",
+      "slug": "stanley",
+      "county": "Chippewa County",
+      "lat": 44.968872,
+      "lng": -90.938935
+    },
+    {
+      "name": "Star Lake",
+      "slug": "star-lake",
+      "county": "Vilas County",
+      "lat": 46.038333,
+      "lng": -89.472222
+    },
+    {
+      "name": "Star Prairie",
+      "slug": "star-prairie",
+      "county": "Polk County",
+      "lat": 45.2013,
+      "lng": -92.551353
+    },
+    {
+      "name": "Stetsonville",
+      "slug": "stetsonville",
+      "county": "Taylor County",
+      "lat": 45.07923,
+      "lng": -90.282931
+    },
+    {
+      "name": "Steuben",
+      "slug": "steuben",
+      "county": "Crawford County",
+      "lat": 43.195464,
+      "lng": -90.860878
+    },
+    {
+      "name": "Stevens Point",
+      "slug": "stevens-point",
+      "county": "Portage County",
+      "lat": 44.521221,
+      "lng": -89.558764
+    },
+    {
+      "name": "Stitzer",
+      "slug": "stitzer",
+      "county": "Grant County",
+      "lat": 42.92142,
+      "lng": -90.607924
+    },
+    {
+      "name": "Stockbridge",
+      "slug": "stockbridge",
+      "county": "Calumet County",
+      "lat": 44.071667,
+      "lng": -88.298889
+    },
+    {
+      "name": "Stockholm",
+      "slug": "stockholm",
+      "county": "Pepin County",
+      "lat": 44.500441,
+      "lng": -92.228429
+    },
+    {
+      "name": "Stoddard",
+      "slug": "stoddard",
+      "county": "Vernon County",
+      "lat": 43.691227,
+      "lng": -91.19188
+    },
+    {
+      "name": "Stone Lake",
+      "slug": "stone-lake",
+      "county": "Sawyer County",
+      "lat": 45.833733,
+      "lng": -91.509291
+    },
+    {
+      "name": "Stoughton",
+      "slug": "stoughton",
+      "county": "Dane County",
+      "lat": 42.929007,
+      "lng": -89.223989
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Marathon County",
+      "lat": 44.789878,
+      "lng": -90.058317
+    },
+    {
+      "name": "Strum",
+      "slug": "strum",
+      "county": "Trempealeau County",
+      "lat": 44.567356,
+      "lng": -91.383271
+    },
+    {
+      "name": "Sturgeon Bay",
+      "slug": "sturgeon-bay",
+      "county": "Door County",
+      "lat": 44.84384,
+      "lng": -87.375311
+    },
+    {
+      "name": "Sturtevant",
+      "slug": "sturtevant",
+      "county": "Racine County",
+      "lat": 42.69673,
+      "lng": -87.903082
+    },
+    {
+      "name": "Suamico",
+      "slug": "suamico",
+      "county": "Brown County",
+      "lat": 44.631944,
+      "lng": -88.039167
+    },
+    {
+      "name": "Sullivan",
+      "slug": "sullivan",
+      "county": "Jefferson County",
+      "lat": 42.99825,
+      "lng": -88.602569
+    },
+    {
+      "name": "Summit Lake",
+      "slug": "summit-lake",
+      "county": "Langlade County",
+      "lat": 45.320414,
+      "lng": -89.180743
+    },
+    {
+      "name": "Sun Prairie",
+      "slug": "sun-prairie",
+      "county": "Dane County",
+      "lat": 43.186901,
+      "lng": -89.222662
+    },
+    {
+      "name": "Superior",
+      "slug": "superior",
+      "county": "Douglas County",
+      "lat": 46.701552,
+      "lng": -92.091174
+    },
+    {
+      "name": "Suring",
+      "slug": "suring",
+      "county": "Oconto County",
+      "lat": 45.018551,
+      "lng": -88.362767
+    },
+    {
+      "name": "Sussex",
+      "slug": "sussex",
+      "county": "Waukesha County",
+      "lat": 43.144059,
+      "lng": -88.227064
+    },
+    {
+      "name": "Taylor",
+      "slug": "taylor",
+      "county": "Jackson County",
+      "lat": 44.289855,
+      "lng": -91.112752
+    },
+    {
+      "name": "Theresa",
+      "slug": "theresa",
+      "county": "Dodge County",
+      "lat": 43.504477,
+      "lng": -88.447766
+    },
+    {
+      "name": "Thiensville",
+      "slug": "thiensville",
+      "county": "Ozaukee County",
+      "lat": 43.225145,
+      "lng": -87.959357
+    },
+    {
+      "name": "Thorp",
+      "slug": "thorp",
+      "county": "Clark County",
+      "lat": 44.957319,
+      "lng": -90.802861
+    },
+    {
+      "name": "Three Lakes",
+      "slug": "three-lakes",
+      "county": "Oneida County",
+      "lat": 45.804633,
+      "lng": -89.132792
+    },
+    {
+      "name": "Tigerton",
+      "slug": "tigerton",
+      "county": "Shawano County",
+      "lat": 44.729938,
+      "lng": -89.056893
+    },
+    {
+      "name": "Tilleda",
+      "slug": "tilleda",
+      "county": "Shawano County",
+      "lat": 44.811812,
+      "lng": -88.907498
+    },
+    {
+      "name": "Tisch Mills",
+      "slug": "tisch-mills",
+      "county": "Manitowoc County",
+      "lat": 44.327222,
+      "lng": -87.623611
+    },
+    {
+      "name": "Tomah",
+      "slug": "tomah",
+      "county": "Monroe County",
+      "lat": 43.994833,
+      "lng": -90.491704
+    },
+    {
+      "name": "Tomahawk",
+      "slug": "tomahawk",
+      "county": "Lincoln County",
+      "lat": 45.496308,
+      "lng": -89.727269
+    },
+    {
+      "name": "Tony",
+      "slug": "tony",
+      "county": "Rusk County",
+      "lat": 45.474082,
+      "lng": -90.986938
+    },
+    {
+      "name": "Townsend",
+      "slug": "townsend",
+      "county": "Oconto County",
+      "lat": 45.314819,
+      "lng": -88.610743
+    },
+    {
+      "name": "Trego",
+      "slug": "trego",
+      "county": "Washburn County",
+      "lat": 45.951556,
+      "lng": -91.858051
+    },
+    {
+      "name": "Trempealeau",
+      "slug": "trempealeau",
+      "county": "Trempealeau County",
+      "lat": 44.021843,
+      "lng": -91.4282
+    },
+    {
+      "name": "Trevor",
+      "slug": "trevor",
+      "county": "Kenosha County",
+      "lat": 42.520112,
+      "lng": -88.13869
+    },
+    {
+      "name": "Tripoli",
+      "slug": "tripoli",
+      "county": "Oneida County",
+      "lat": 45.581387,
+      "lng": -89.985218
+    },
+    {
+      "name": "Tunnel City",
+      "slug": "tunnel-city",
+      "county": "Monroe County",
+      "lat": 44.007222,
+      "lng": -90.565556
+    },
+    {
+      "name": "Turtle Lake",
+      "slug": "turtle-lake",
+      "county": "Barron County",
+      "lat": 45.421349,
+      "lng": -92.178142
+    },
+    {
+      "name": "Twin Lakes",
+      "slug": "twin-lakes",
+      "county": "Kenosha County",
+      "lat": 42.523173,
+      "lng": -88.257318
+    },
+    {
+      "name": "Two Rivers",
+      "slug": "two-rivers",
+      "county": "Manitowoc County",
+      "lat": 44.166008,
+      "lng": -87.585504
+    },
+    {
+      "name": "Union Center",
+      "slug": "union-center",
+      "county": "Juneau County",
+      "lat": 43.685278,
+      "lng": -90.266667
+    },
+    {
+      "name": "Union Grove",
+      "slug": "union-grove",
+      "county": "Racine County",
+      "lat": 42.689643,
+      "lng": -88.039004
+    },
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "county": "Marathon County",
+      "lat": 44.822676,
+      "lng": -90.322074
+    },
+    {
+      "name": "Upson",
+      "slug": "upson",
+      "county": "Iron County",
+      "lat": 46.376124,
+      "lng": -90.405135
+    },
+    {
+      "name": "Valders",
+      "slug": "valders",
+      "county": "Manitowoc County",
+      "lat": 44.041977,
+      "lng": -87.881183
+    },
+    {
+      "name": "Van Dyne",
+      "slug": "van-dyne",
+      "county": "Fond Du Lac County",
+      "lat": 43.873399,
+      "lng": -88.510008
+    },
+    {
+      "name": "Verona",
+      "slug": "verona",
+      "county": "Dane County",
+      "lat": 42.999913,
+      "lng": -89.552247
+    },
+    {
+      "name": "Vesper",
+      "slug": "vesper",
+      "county": "Wood County",
+      "lat": 44.467656,
+      "lng": -89.982553
+    },
+    {
+      "name": "Viola",
+      "slug": "viola",
+      "county": "Richland County",
+      "lat": 43.504758,
+      "lng": -90.655416
+    },
+    {
+      "name": "Viroqua",
+      "slug": "viroqua",
+      "county": "Vernon County",
+      "lat": 43.54419,
+      "lng": -90.893865
+    },
+    {
+      "name": "Wabeno",
+      "slug": "wabeno",
+      "county": "Forest County",
+      "lat": 45.433172,
+      "lng": -88.662456
+    },
+    {
+      "name": "Waldo",
+      "slug": "waldo",
+      "county": "Sheboygan County",
+      "lat": 43.657087,
+      "lng": -87.97217
+    },
+    {
+      "name": "Wales",
+      "slug": "wales",
+      "county": "Waukesha County",
+      "lat": 43.008787,
+      "lng": -88.378742
+    },
+    {
+      "name": "Walworth",
+      "slug": "walworth",
+      "county": "Walworth County",
+      "lat": 42.535005,
+      "lng": -88.602738
+    },
+    {
+      "name": "Warrens",
+      "slug": "warrens",
+      "county": "Monroe County",
+      "lat": 44.15697,
+      "lng": -90.496692
+    },
+    {
+      "name": "Wascott",
+      "slug": "wascott",
+      "county": "Douglas County",
+      "lat": 46.1725,
+      "lng": -91.798056
+    },
+    {
+      "name": "Washburn",
+      "slug": "washburn",
+      "county": "Bayfield County",
+      "lat": 46.680595,
+      "lng": -90.909516
+    },
+    {
+      "name": "Washington Island",
+      "slug": "washington-island",
+      "county": "Door County",
+      "lat": 45.374042,
+      "lng": -86.913664
+    },
+    {
+      "name": "Waterford",
+      "slug": "waterford",
+      "county": "Racine County",
+      "lat": 42.796882,
+      "lng": -88.19335
+    },
+    {
+      "name": "Waterloo",
+      "slug": "waterloo",
+      "county": "Jefferson County",
+      "lat": 43.183171,
+      "lng": -88.983835
+    },
+    {
+      "name": "Watertown",
+      "slug": "watertown",
+      "county": "Dodge County",
+      "lat": 43.194722,
+      "lng": -88.728889
+    },
+    {
+      "name": "Waukau",
+      "slug": "waukau",
+      "county": "Winnebago County",
+      "lat": 43.989167,
+      "lng": -88.771667
+    },
+    {
+      "name": "Waukesha",
+      "slug": "waukesha",
+      "county": "Waukesha County",
+      "lat": 42.999304,
+      "lng": -88.219559
+    },
+    {
+      "name": "Waunakee",
+      "slug": "waunakee",
+      "county": "Dane County",
+      "lat": 43.181828,
+      "lng": -89.45317
+    },
+    {
+      "name": "Waupaca",
+      "slug": "waupaca",
+      "county": "Waupaca County",
+      "lat": 44.348101,
+      "lng": -89.110143
+    },
+    {
+      "name": "Waupun",
+      "slug": "waupun",
+      "county": "Dodge County",
+      "lat": 43.632441,
+      "lng": -88.737253
+    },
+    {
+      "name": "Wausau",
+      "slug": "wausau",
+      "county": "Marathon County",
+      "lat": 44.963433,
+      "lng": -89.633955
+    },
+    {
+      "name": "Wausaukee",
+      "slug": "wausaukee",
+      "county": "Marinette County",
+      "lat": 45.349507,
+      "lng": -87.909877
+    },
+    {
+      "name": "Wautoma",
+      "slug": "wautoma",
+      "county": "Waushara County",
+      "lat": 44.065576,
+      "lng": -89.266551
+    },
+    {
+      "name": "Wauzeka",
+      "slug": "wauzeka",
+      "county": "Crawford County",
+      "lat": 43.114264,
+      "lng": -90.923885
+    },
+    {
+      "name": "Webster",
+      "slug": "webster",
+      "county": "Burnett County",
+      "lat": 45.874001,
+      "lng": -92.322722
+    },
+    {
+      "name": "West Bend",
+      "slug": "west-bend",
+      "county": "Washington County",
+      "lat": 43.425278,
+      "lng": -88.183333
+    },
+    {
+      "name": "West Salem",
+      "slug": "west-salem",
+      "county": "La Crosse County",
+      "lat": 43.906253,
+      "lng": -91.089311
+    },
+    {
+      "name": "Westboro",
+      "slug": "westboro",
+      "county": "Taylor County",
+      "lat": 45.344539,
+      "lng": -90.307194
+    },
+    {
+      "name": "Westby",
+      "slug": "westby",
+      "county": "Vernon County",
+      "lat": 43.663123,
+      "lng": -90.87403
+    },
+    {
+      "name": "Westfield",
+      "slug": "westfield",
+      "county": "Marquette County",
+      "lat": 43.896788,
+      "lng": -89.502015
+    },
+    {
+      "name": "Weyauwega",
+      "slug": "weyauwega",
+      "county": "Waupaca County",
+      "lat": 44.320973,
+      "lng": -88.941047
+    },
+    {
+      "name": "Weyerhaeuser",
+      "slug": "weyerhaeuser",
+      "county": "Rusk County",
+      "lat": 45.426347,
+      "lng": -91.428944
+    },
+    {
+      "name": "Wheeler",
+      "slug": "wheeler",
+      "county": "Dunn County",
+      "lat": 45.071856,
+      "lng": -91.887055
+    },
+    {
+      "name": "White Lake",
+      "slug": "white-lake",
+      "county": "Langlade County",
+      "lat": 45.171465,
+      "lng": -88.755489
+    },
+    {
+      "name": "Whitehall",
+      "slug": "whitehall",
+      "county": "Trempealeau County",
+      "lat": 44.382683,
+      "lng": -91.302953
+    },
+    {
+      "name": "Whitelaw",
+      "slug": "whitelaw",
+      "county": "Manitowoc County",
+      "lat": 44.157269,
+      "lng": -87.826698
+    },
+    {
+      "name": "Whitewater",
+      "slug": "whitewater",
+      "county": "Walworth County",
+      "lat": 42.827174,
+      "lng": -88.742864
+    },
+    {
+      "name": "Wild Rose",
+      "slug": "wild-rose",
+      "county": "Waushara County",
+      "lat": 44.183433,
+      "lng": -89.195252
+    },
+    {
+      "name": "Willard",
+      "slug": "willard",
+      "county": "Clark County",
+      "lat": 44.727378,
+      "lng": -90.749897
+    },
+    {
+      "name": "Williams Bay",
+      "slug": "williams-bay",
+      "county": "Walworth County",
+      "lat": 42.576678,
+      "lng": -88.543089
+    },
+    {
+      "name": "Wilmot",
+      "slug": "wilmot",
+      "county": "Kenosha County",
+      "lat": 42.512778,
+      "lng": -88.181944
+    },
+    {
+      "name": "Wilson",
+      "slug": "wilson",
+      "county": "Saint Croix County",
+      "lat": 44.94658,
+      "lng": -92.196538
+    },
+    {
+      "name": "Wilton",
+      "slug": "wilton",
+      "county": "Monroe County",
+      "lat": 43.832209,
+      "lng": -90.516185
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Dane County",
+      "lat": 43.214121,
+      "lng": -89.341469
+    },
+    {
+      "name": "Winnebago",
+      "slug": "winnebago",
+      "county": "Winnebago County",
+      "lat": 44.075833,
+      "lng": -88.525
+    },
+    {
+      "name": "Winneconne",
+      "slug": "winneconne",
+      "county": "Winnebago County",
+      "lat": 44.118704,
+      "lng": -88.721384
+    },
+    {
+      "name": "Winter",
+      "slug": "winter",
+      "county": "Sawyer County",
+      "lat": 45.841419,
+      "lng": -90.949591
+    },
+    {
+      "name": "Wisconsin Dells",
+      "slug": "wisconsin-dells",
+      "county": "Columbia County",
+      "lat": 43.650789,
+      "lng": -89.76652
+    },
+    {
+      "name": "Wisconsin Rapids",
+      "slug": "wisconsin-rapids",
+      "county": "Wood County",
+      "lat": 44.375803,
+      "lng": -89.806229
+    },
+    {
+      "name": "Withee",
+      "slug": "withee",
+      "county": "Clark County",
+      "lat": 44.975726,
+      "lng": -90.604862
+    },
+    {
+      "name": "Wittenberg",
+      "slug": "wittenberg",
+      "county": "Shawano County",
+      "lat": 44.823247,
+      "lng": -89.166479
+    },
+    {
+      "name": "Wonewoc",
+      "slug": "wonewoc",
+      "county": "Juneau County",
+      "lat": 43.62848,
+      "lng": -90.239357
+    },
+    {
+      "name": "Woodford",
+      "slug": "woodford",
+      "county": "Lafayette County",
+      "lat": 42.648611,
+      "lng": -89.8625
+    },
+    {
+      "name": "Woodland",
+      "slug": "woodland",
+      "county": "Dodge County",
+      "lat": 43.370278,
+      "lng": -88.518611
+    },
+    {
+      "name": "Woodman",
+      "slug": "woodman",
+      "county": "Grant County",
+      "lat": 43.057697,
+      "lng": -90.824539
+    },
+    {
+      "name": "Woodruff",
+      "slug": "woodruff",
+      "county": "Oneida County",
+      "lat": 45.918583,
+      "lng": -89.69545
+    },
+    {
+      "name": "Woodville",
+      "slug": "woodville",
+      "county": "Saint Croix County",
+      "lat": 44.940806,
+      "lng": -92.284803
+    },
+    {
+      "name": "Woodworth",
+      "slug": "woodworth",
+      "county": "Kenosha County",
+      "lat": 42.558056,
+      "lng": -88.001111
+    },
+    {
+      "name": "Wrightstown",
+      "slug": "wrightstown",
+      "county": "Brown County",
+      "lat": 44.338377,
+      "lng": -88.121769
+    },
+    {
+      "name": "Wyocena",
+      "slug": "wyocena",
+      "county": "Columbia County",
+      "lat": 43.495833,
+      "lng": -89.308333
+    },
+    {
+      "name": "Zachow",
+      "slug": "zachow",
+      "county": "Shawano County",
+      "lat": 44.740278,
+      "lng": -88.444722
+    },
+    {
+      "name": "Zenda",
+      "slug": "zenda",
+      "county": "Walworth County",
+      "lat": 42.511944,
+      "lng": -88.481667
+    }
+  ]
+}

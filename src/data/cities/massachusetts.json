@@ -1,0 +1,3584 @@
+{
+  "stateName": "Massachusetts",
+  "stateCode": "MA",
+  "stateSlug": "massachusetts",
+  "cities": [
+    {
+      "name": "Abington",
+      "slug": "abington",
+      "county": "Plymouth County",
+      "lat": 42.116715,
+      "lng": -70.954293
+    },
+    {
+      "name": "Accord",
+      "slug": "accord",
+      "county": "Plymouth County",
+      "lat": 42.1747,
+      "lng": -70.8871
+    },
+    {
+      "name": "Acton",
+      "slug": "acton",
+      "county": "Middlesex County",
+      "lat": 42.475076,
+      "lng": -71.448255
+    },
+    {
+      "name": "Acushnet",
+      "slug": "acushnet",
+      "county": "Bristol County",
+      "lat": 41.6997,
+      "lng": -70.908652
+    },
+    {
+      "name": "Adams",
+      "slug": "adams",
+      "county": "Berkshire County",
+      "lat": 42.622319,
+      "lng": -73.117225
+    },
+    {
+      "name": "Agawam",
+      "slug": "agawam",
+      "county": "Hampden County",
+      "lat": 42.070206,
+      "lng": -72.622739
+    },
+    {
+      "name": "Allston",
+      "slug": "allston",
+      "county": "Suffolk County",
+      "lat": 42.353519,
+      "lng": -71.132866
+    },
+    {
+      "name": "Amesbury",
+      "slug": "amesbury",
+      "county": "Essex County",
+      "lat": 42.855879,
+      "lng": -70.936681
+    },
+    {
+      "name": "Amherst",
+      "slug": "amherst",
+      "county": "Hampshire County",
+      "lat": 42.377017,
+      "lng": -72.51565
+    },
+    {
+      "name": "Andover",
+      "slug": "andover",
+      "county": "Essex County",
+      "lat": 42.64956,
+      "lng": -71.156481
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Middlesex County",
+      "lat": 42.404167,
+      "lng": -71.147222
+    },
+    {
+      "name": "Arlington Heights",
+      "slug": "arlington-heights",
+      "county": "Middlesex County",
+      "lat": 42.420278,
+      "lng": -71.180556
+    },
+    {
+      "name": "Ashburnham",
+      "slug": "ashburnham",
+      "county": "Worcester County",
+      "lat": 42.649614,
+      "lng": -71.92666
+    },
+    {
+      "name": "Ashby",
+      "slug": "ashby",
+      "county": "Middlesex County",
+      "lat": 42.674462,
+      "lng": -71.817369
+    },
+    {
+      "name": "Ashfield",
+      "slug": "ashfield",
+      "county": "Franklin County",
+      "lat": 42.523207,
+      "lng": -72.810998
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Middlesex County",
+      "lat": 42.253909,
+      "lng": -71.458347
+    },
+    {
+      "name": "Ashley Falls",
+      "slug": "ashley-falls",
+      "county": "Berkshire County",
+      "lat": 42.059552,
+      "lng": -73.320195
+    },
+    {
+      "name": "Assonet",
+      "slug": "assonet",
+      "county": "Bristol County",
+      "lat": 41.797458,
+      "lng": -71.060736
+    },
+    {
+      "name": "Athol",
+      "slug": "athol",
+      "county": "Worcester County",
+      "lat": 42.592065,
+      "lng": -72.214644
+    },
+    {
+      "name": "Attleboro",
+      "slug": "attleboro",
+      "county": "Bristol County",
+      "lat": 41.929599,
+      "lng": -71.30092
+    },
+    {
+      "name": "Attleboro Falls",
+      "slug": "attleboro-falls",
+      "county": "Bristol County",
+      "lat": 41.970979,
+      "lng": -71.310353
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "Worcester County",
+      "lat": 42.205502,
+      "lng": -71.839144
+    },
+    {
+      "name": "Auburndale",
+      "slug": "auburndale",
+      "county": "Middlesex County",
+      "lat": 42.347222,
+      "lng": -71.25
+    },
+    {
+      "name": "Avon",
+      "slug": "avon",
+      "county": "Norfolk County",
+      "lat": 42.125825,
+      "lng": -71.043738
+    },
+    {
+      "name": "Ayer",
+      "slug": "ayer",
+      "county": "Middlesex County",
+      "lat": 42.55914,
+      "lng": -71.578763
+    },
+    {
+      "name": "Babson Park",
+      "slug": "babson-park",
+      "county": "Norfolk County",
+      "lat": 42.298611,
+      "lng": -71.26
+    },
+    {
+      "name": "Baldwinville",
+      "slug": "baldwinville",
+      "county": "Worcester County",
+      "lat": 42.593568,
+      "lng": -72.064647
+    },
+    {
+      "name": "Barnstable",
+      "slug": "barnstable",
+      "county": "Barnstable County",
+      "lat": 41.698289,
+      "lng": -70.300067
+    },
+    {
+      "name": "Barre",
+      "slug": "barre",
+      "county": "Worcester County",
+      "lat": 42.409698,
+      "lng": -72.108354
+    },
+    {
+      "name": "Becket",
+      "slug": "becket",
+      "county": "Berkshire County",
+      "lat": 42.359363,
+      "lng": -73.120325
+    },
+    {
+      "name": "Bedford",
+      "slug": "bedford",
+      "county": "Middlesex County",
+      "lat": 42.484287,
+      "lng": -71.276796
+    },
+    {
+      "name": "Belchertown",
+      "slug": "belchertown",
+      "county": "Hampshire County",
+      "lat": 42.275103,
+      "lng": -72.410953
+    },
+    {
+      "name": "Bellingham",
+      "slug": "bellingham",
+      "county": "Norfolk County",
+      "lat": 42.074573,
+      "lng": -71.476829
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Middlesex County",
+      "lat": 42.395833,
+      "lng": -71.179167
+    },
+    {
+      "name": "Berkley",
+      "slug": "berkley",
+      "county": "Bristol County",
+      "lat": 41.835325,
+      "lng": -71.076534
+    },
+    {
+      "name": "Berkshire",
+      "slug": "berkshire",
+      "county": "Berkshire County",
+      "lat": 42.5125,
+      "lng": -73.193333
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Worcester County",
+      "lat": 42.384438,
+      "lng": -71.635634
+    },
+    {
+      "name": "Bernardston",
+      "slug": "bernardston",
+      "county": "Franklin County",
+      "lat": 42.683784,
+      "lng": -72.563439
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly",
+      "county": "Essex County",
+      "lat": 42.560825,
+      "lng": -70.875939
+    },
+    {
+      "name": "Billerica",
+      "slug": "billerica",
+      "county": "Middlesex County",
+      "lat": 42.551874,
+      "lng": -71.251754
+    },
+    {
+      "name": "Blackstone",
+      "slug": "blackstone",
+      "county": "Worcester County",
+      "lat": 42.028708,
+      "lng": -71.52691
+    },
+    {
+      "name": "Blandford",
+      "slug": "blandford",
+      "county": "Hampden County",
+      "lat": 42.182949,
+      "lng": -72.936114
+    },
+    {
+      "name": "Bolton",
+      "slug": "bolton",
+      "county": "Worcester County",
+      "lat": 42.436523,
+      "lng": -71.607593
+    },
+    {
+      "name": "Bondsville",
+      "slug": "bondsville",
+      "county": "Hampden County",
+      "lat": 42.2125,
+      "lng": -72.345833
+    },
+    {
+      "name": "Boston",
+      "slug": "boston",
+      "county": "Suffolk County",
+      "lat": 42.357603,
+      "lng": -71.068432
+    },
+    {
+      "name": "Boxborough",
+      "slug": "boxborough",
+      "county": "Middlesex County",
+      "lat": 42.486876,
+      "lng": -71.518229
+    },
+    {
+      "name": "Boxford",
+      "slug": "boxford",
+      "county": "Essex County",
+      "lat": 42.679719,
+      "lng": -71.011372
+    },
+    {
+      "name": "Boylston",
+      "slug": "boylston",
+      "county": "Worcester County",
+      "lat": 42.337727,
+      "lng": -71.731042
+    },
+    {
+      "name": "Braintree",
+      "slug": "braintree",
+      "county": "Norfolk County",
+      "lat": 42.209284,
+      "lng": -70.996304
+    },
+    {
+      "name": "Brant Rock",
+      "slug": "brant-rock",
+      "county": "Plymouth County",
+      "lat": 42.086111,
+      "lng": -70.641667
+    },
+    {
+      "name": "Brewster",
+      "slug": "brewster",
+      "county": "Barnstable County",
+      "lat": 41.749179,
+      "lng": -70.069868
+    },
+    {
+      "name": "Bridgewater",
+      "slug": "bridgewater",
+      "county": "Plymouth County",
+      "lat": 41.977341,
+      "lng": -70.97234
+    },
+    {
+      "name": "Brighton",
+      "slug": "brighton",
+      "county": "Suffolk County",
+      "lat": 42.34779,
+      "lng": -71.156599
+    },
+    {
+      "name": "Brimfield",
+      "slug": "brimfield",
+      "county": "Hampden County",
+      "lat": 42.116543,
+      "lng": -72.188455
+    },
+    {
+      "name": "Brockton",
+      "slug": "brockton",
+      "county": "Plymouth County",
+      "lat": 42.08,
+      "lng": -71.0377
+    },
+    {
+      "name": "Brookfield",
+      "slug": "brookfield",
+      "county": "Worcester County",
+      "lat": 42.199141,
+      "lng": -72.098887
+    },
+    {
+      "name": "Brookline",
+      "slug": "brookline",
+      "county": "Norfolk County",
+      "lat": 42.3302,
+      "lng": -71.1304
+    },
+    {
+      "name": "Brookline Village",
+      "slug": "brookline-village",
+      "county": "Norfolk County",
+      "lat": 42.332778,
+      "lng": -71.116667
+    },
+    {
+      "name": "Bryantville",
+      "slug": "bryantville",
+      "county": "Plymouth County",
+      "lat": 42.043889,
+      "lng": -70.843056
+    },
+    {
+      "name": "Buckland",
+      "slug": "buckland",
+      "county": "Franklin County",
+      "lat": 42.615174,
+      "lng": -72.764124
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Middlesex County",
+      "lat": 42.508942,
+      "lng": -71.200437
+    },
+    {
+      "name": "Buzzards Bay",
+      "slug": "buzzards-bay",
+      "county": "Barnstable County",
+      "lat": 41.752918,
+      "lng": -70.593168
+    },
+    {
+      "name": "Byfield",
+      "slug": "byfield",
+      "county": "Essex County",
+      "lat": 42.756792,
+      "lng": -70.935053
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge",
+      "county": "Middlesex County",
+      "lat": 42.377045,
+      "lng": -71.125611
+    },
+    {
+      "name": "Canton",
+      "slug": "canton",
+      "county": "Norfolk County",
+      "lat": 42.164454,
+      "lng": -71.135536
+    },
+    {
+      "name": "Carlisle",
+      "slug": "carlisle",
+      "county": "Middlesex County",
+      "lat": 42.528562,
+      "lng": -71.351892
+    },
+    {
+      "name": "Carver",
+      "slug": "carver",
+      "county": "Plymouth County",
+      "lat": 41.888265,
+      "lng": -70.767754
+    },
+    {
+      "name": "Cataumet",
+      "slug": "cataumet",
+      "county": "Barnstable County",
+      "lat": 41.666111,
+      "lng": -70.620278
+    },
+    {
+      "name": "Centerville",
+      "slug": "centerville",
+      "county": "Barnstable County",
+      "lat": 41.660585,
+      "lng": -70.353196
+    },
+    {
+      "name": "Charlemont",
+      "slug": "charlemont",
+      "county": "Franklin County",
+      "lat": 42.621802,
+      "lng": -72.880162
+    },
+    {
+      "name": "Charlestown",
+      "slug": "charlestown",
+      "county": "Suffolk County",
+      "lat": 42.377815,
+      "lng": -71.062715
+    },
+    {
+      "name": "Charlton",
+      "slug": "charlton",
+      "county": "Worcester County",
+      "lat": 42.137902,
+      "lng": -71.966384
+    },
+    {
+      "name": "Charlton City",
+      "slug": "charlton-city",
+      "county": "Worcester County",
+      "lat": 42.145833,
+      "lng": -71.988889
+    },
+    {
+      "name": "Charlton Depot",
+      "slug": "charlton-depot",
+      "county": "Worcester County",
+      "lat": 42.173056,
+      "lng": -71.979167
+    },
+    {
+      "name": "Chartley",
+      "slug": "chartley",
+      "county": "Bristol County",
+      "lat": 41.948611,
+      "lng": -71.226389
+    },
+    {
+      "name": "Chatham",
+      "slug": "chatham",
+      "county": "Barnstable County",
+      "lat": 41.687634,
+      "lng": -69.980758
+    },
+    {
+      "name": "Chelmsford",
+      "slug": "chelmsford",
+      "county": "Middlesex County",
+      "lat": 42.59356,
+      "lng": -71.357521
+    },
+    {
+      "name": "Chelsea",
+      "slug": "chelsea",
+      "county": "Suffolk County",
+      "lat": 42.396252,
+      "lng": -71.032521
+    },
+    {
+      "name": "Cherry Valley",
+      "slug": "cherry-valley",
+      "county": "Worcester County",
+      "lat": 42.237287,
+      "lng": -71.874971
+    },
+    {
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "county": "Berkshire County",
+      "lat": 42.561059,
+      "lng": -73.157964
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Hampden County",
+      "lat": 42.279421,
+      "lng": -72.988761
+    },
+    {
+      "name": "Chesterfield",
+      "slug": "chesterfield",
+      "county": "Hampshire County",
+      "lat": 42.38167,
+      "lng": -72.833309
+    },
+    {
+      "name": "Chestnut Hill",
+      "slug": "chestnut-hill",
+      "county": "Middlesex County",
+      "lat": 42.330556,
+      "lng": -71.166667
+    },
+    {
+      "name": "Chicopee",
+      "slug": "chicopee",
+      "county": "Hampden County",
+      "lat": 42.162046,
+      "lng": -72.607962
+    },
+    {
+      "name": "Chilmark",
+      "slug": "chilmark",
+      "county": "Dukes County",
+      "lat": 41.357523,
+      "lng": -70.741613
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Worcester County",
+      "lat": 42.418147,
+      "lng": -71.682847
+    },
+    {
+      "name": "Cohasset",
+      "slug": "cohasset",
+      "county": "Norfolk County",
+      "lat": 42.239484,
+      "lng": -70.812788
+    },
+    {
+      "name": "Colrain",
+      "slug": "colrain",
+      "county": "Franklin County",
+      "lat": 42.67905,
+      "lng": -72.726508
+    },
+    {
+      "name": "Concord",
+      "slug": "concord",
+      "county": "Middlesex County",
+      "lat": 42.456701,
+      "lng": -71.374741
+    },
+    {
+      "name": "Conway",
+      "slug": "conway",
+      "county": "Franklin County",
+      "lat": 42.513832,
+      "lng": -72.702473
+    },
+    {
+      "name": "Cotuit",
+      "slug": "cotuit",
+      "county": "Barnstable County",
+      "lat": 41.696025,
+      "lng": -70.433431
+    },
+    {
+      "name": "Cummaquid",
+      "slug": "cummaquid",
+      "county": "Barnstable County",
+      "lat": 41.701667,
+      "lng": -70.273611
+    },
+    {
+      "name": "Cummington",
+      "slug": "cummington",
+      "county": "Hampshire County",
+      "lat": 42.435296,
+      "lng": -72.905767
+    },
+    {
+      "name": "Cuttyhunk",
+      "slug": "cuttyhunk",
+      "county": "Dukes County",
+      "lat": 41.443601,
+      "lng": -70.87854
+    },
+    {
+      "name": "Dalton",
+      "slug": "dalton",
+      "county": "Berkshire County",
+      "lat": 42.475046,
+      "lng": -73.160259
+    },
+    {
+      "name": "Danvers",
+      "slug": "danvers",
+      "county": "Essex County",
+      "lat": 42.569402,
+      "lng": -70.942461
+    },
+    {
+      "name": "Dartmouth",
+      "slug": "dartmouth",
+      "county": "Bristol County",
+      "lat": 41.640833,
+      "lng": -70.98
+    },
+    {
+      "name": "Dedham",
+      "slug": "dedham",
+      "county": "Norfolk County",
+      "lat": 42.243685,
+      "lng": -71.163741
+    },
+    {
+      "name": "Deerfield",
+      "slug": "deerfield",
+      "county": "Franklin County",
+      "lat": 42.540636,
+      "lng": -72.607234
+    },
+    {
+      "name": "Dennis",
+      "slug": "dennis",
+      "county": "Barnstable County",
+      "lat": 41.732166,
+      "lng": -70.191054
+    },
+    {
+      "name": "Dennis Port",
+      "slug": "dennis-port",
+      "county": "Barnstable County",
+      "lat": 41.664873,
+      "lng": -70.132711
+    },
+    {
+      "name": "Devens",
+      "slug": "devens",
+      "county": "Middlesex County",
+      "lat": 42.546667,
+      "lng": -71.598333
+    },
+    {
+      "name": "Dighton",
+      "slug": "dighton",
+      "county": "Bristol County",
+      "lat": 41.812505,
+      "lng": -71.142723
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Worcester County",
+      "lat": 42.060566,
+      "lng": -71.726611
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Norfolk County",
+      "lat": 42.236233,
+      "lng": -71.285363
+    },
+    {
+      "name": "Dracut",
+      "slug": "dracut",
+      "county": "Middlesex County",
+      "lat": 42.676422,
+      "lng": -71.318592
+    },
+    {
+      "name": "Drury",
+      "slug": "drury",
+      "county": "Berkshire County",
+      "lat": 42.652222,
+      "lng": -72.998056
+    },
+    {
+      "name": "Dudley",
+      "slug": "dudley",
+      "county": "Worcester County",
+      "lat": 42.048894,
+      "lng": -71.893228
+    },
+    {
+      "name": "Dunstable",
+      "slug": "dunstable",
+      "county": "Middlesex County",
+      "lat": 42.673917,
+      "lng": -71.495201
+    },
+    {
+      "name": "Duxbury",
+      "slug": "duxbury",
+      "county": "Plymouth County",
+      "lat": 42.041667,
+      "lng": -70.672778
+    },
+    {
+      "name": "East Boston",
+      "slug": "east-boston",
+      "county": "Suffolk County",
+      "lat": 42.375,
+      "lng": -71.039722
+    },
+    {
+      "name": "East Bridgewater",
+      "slug": "east-bridgewater",
+      "county": "Plymouth County",
+      "lat": 42.031478,
+      "lng": -70.944964
+    },
+    {
+      "name": "East Brookfield",
+      "slug": "east-brookfield",
+      "county": "Worcester County",
+      "lat": 42.219308,
+      "lng": -72.048078
+    },
+    {
+      "name": "East Dennis",
+      "slug": "east-dennis",
+      "county": "Barnstable County",
+      "lat": 41.7425,
+      "lng": -70.1625
+    },
+    {
+      "name": "East Falmouth",
+      "slug": "east-falmouth",
+      "county": "Barnstable County",
+      "lat": 41.58504,
+      "lng": -70.565174
+    },
+    {
+      "name": "East Freetown",
+      "slug": "east-freetown",
+      "county": "Bristol County",
+      "lat": 41.763455,
+      "lng": -70.967709
+    },
+    {
+      "name": "East Longmeadow",
+      "slug": "east-longmeadow",
+      "county": "Hampden County",
+      "lat": 42.067203,
+      "lng": -72.505565
+    },
+    {
+      "name": "East Mansfield",
+      "slug": "east-mansfield",
+      "county": "Bristol County",
+      "lat": 42.023056,
+      "lng": -71.177778
+    },
+    {
+      "name": "East Orleans",
+      "slug": "east-orleans",
+      "county": "Barnstable County",
+      "lat": 41.785,
+      "lng": -69.970833
+    },
+    {
+      "name": "East Otis",
+      "slug": "east-otis",
+      "county": "Berkshire County",
+      "lat": 42.173333,
+      "lng": -73.035
+    },
+    {
+      "name": "East Princeton",
+      "slug": "east-princeton",
+      "county": "Worcester County",
+      "lat": 42.472778,
+      "lng": -71.839444
+    },
+    {
+      "name": "East Sandwich",
+      "slug": "east-sandwich",
+      "county": "Barnstable County",
+      "lat": 41.684603,
+      "lng": -70.46822
+    },
+    {
+      "name": "East Taunton",
+      "slug": "east-taunton",
+      "county": "Bristol County",
+      "lat": 41.873585,
+      "lng": -71.019225
+    },
+    {
+      "name": "East Templeton",
+      "slug": "east-templeton",
+      "county": "Worcester County",
+      "lat": 42.563056,
+      "lng": -72.0375
+    },
+    {
+      "name": "East Walpole",
+      "slug": "east-walpole",
+      "county": "Norfolk County",
+      "lat": 42.15324,
+      "lng": -71.2179
+    },
+    {
+      "name": "East Wareham",
+      "slug": "east-wareham",
+      "county": "Plymouth County",
+      "lat": 41.768247,
+      "lng": -70.653237
+    },
+    {
+      "name": "East Weymouth",
+      "slug": "east-weymouth",
+      "county": "Norfolk County",
+      "lat": 42.211606,
+      "lng": -70.931671
+    },
+    {
+      "name": "Eastham",
+      "slug": "eastham",
+      "county": "Barnstable County",
+      "lat": 41.840781,
+      "lng": -69.984865
+    },
+    {
+      "name": "Easthampton",
+      "slug": "easthampton",
+      "county": "Hampshire County",
+      "lat": 42.264319,
+      "lng": -72.679921
+    },
+    {
+      "name": "Easton",
+      "slug": "easton",
+      "county": "Bristol County",
+      "lat": 42.024444,
+      "lng": -71.129167
+    },
+    {
+      "name": "Edgartown",
+      "slug": "edgartown",
+      "county": "Dukes County",
+      "lat": 41.388856,
+      "lng": -70.533893
+    },
+    {
+      "name": "Elmwood",
+      "slug": "elmwood",
+      "county": "Plymouth County",
+      "lat": 42.009722,
+      "lng": -70.9625
+    },
+    {
+      "name": "Erving",
+      "slug": "erving",
+      "county": "Franklin County",
+      "lat": 42.604957,
+      "lng": -72.416638
+    },
+    {
+      "name": "Essex",
+      "slug": "essex",
+      "county": "Essex County",
+      "lat": 42.628629,
+      "lng": -70.782794
+    },
+    {
+      "name": "Everett",
+      "slug": "everett",
+      "county": "Middlesex County",
+      "lat": 42.411199,
+      "lng": -71.051448
+    },
+    {
+      "name": "Fairhaven",
+      "slug": "fairhaven",
+      "county": "Bristol County",
+      "lat": 41.640924,
+      "lng": -70.889608
+    },
+    {
+      "name": "Fall River",
+      "slug": "fall-river",
+      "county": "Bristol County",
+      "lat": 41.718221,
+      "lng": -71.139991
+    },
+    {
+      "name": "Falmouth",
+      "slug": "falmouth",
+      "county": "Barnstable County",
+      "lat": 41.564754,
+      "lng": -70.621663
+    },
+    {
+      "name": "Fayville",
+      "slug": "fayville",
+      "county": "Worcester County",
+      "lat": 42.293221,
+      "lng": -71.502256
+    },
+    {
+      "name": "Feeding Hills",
+      "slug": "feeding-hills",
+      "county": "Hampden County",
+      "lat": 42.07182,
+      "lng": -72.675077
+    },
+    {
+      "name": "Fiskdale",
+      "slug": "fiskdale",
+      "county": "Worcester County",
+      "lat": 42.122762,
+      "lng": -72.117764
+    },
+    {
+      "name": "Fitchburg",
+      "slug": "fitchburg",
+      "county": "Worcester County",
+      "lat": 42.579563,
+      "lng": -71.803133
+    },
+    {
+      "name": "Forestdale",
+      "slug": "forestdale",
+      "county": "Barnstable County",
+      "lat": 41.682695,
+      "lng": -70.514317
+    },
+    {
+      "name": "Foxboro",
+      "slug": "foxboro",
+      "county": "Norfolk County",
+      "lat": 42.064938,
+      "lng": -71.244127
+    },
+    {
+      "name": "Framingham",
+      "slug": "framingham",
+      "county": "Middlesex County",
+      "lat": 42.300665,
+      "lng": -71.425486
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Norfolk County",
+      "lat": 42.09347,
+      "lng": -71.405786
+    },
+    {
+      "name": "Gardner",
+      "slug": "gardner",
+      "county": "Worcester County",
+      "lat": 42.57405,
+      "lng": -71.9898
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Essex County",
+      "lat": 42.728067,
+      "lng": -70.982239
+    },
+    {
+      "name": "Gilbertville",
+      "slug": "gilbertville",
+      "county": "Worcester County",
+      "lat": 42.332194,
+      "lng": -72.198585
+    },
+    {
+      "name": "Gill",
+      "slug": "gill",
+      "county": "Franklin County",
+      "lat": 42.676944,
+      "lng": -72.447222
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Berkshire County",
+      "lat": 42.283333,
+      "lng": -73.344444
+    },
+    {
+      "name": "Gloucester",
+      "slug": "gloucester",
+      "county": "Essex County",
+      "lat": 42.620836,
+      "lng": -70.672149
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Hampshire County",
+      "lat": 42.466234,
+      "lng": -72.844092
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Worcester County",
+      "lat": 42.200371,
+      "lng": -71.686848
+    },
+    {
+      "name": "Granby",
+      "slug": "granby",
+      "county": "Hampshire County",
+      "lat": 42.255704,
+      "lng": -72.520001
+    },
+    {
+      "name": "Granville",
+      "slug": "granville",
+      "county": "Hampden County",
+      "lat": 42.070234,
+      "lng": -72.908793
+    },
+    {
+      "name": "Great Barrington",
+      "slug": "great-barrington",
+      "county": "Berkshire County",
+      "lat": 42.195922,
+      "lng": -73.36065
+    },
+    {
+      "name": "Green Harbor",
+      "slug": "green-harbor",
+      "county": "Plymouth County",
+      "lat": 42.077778,
+      "lng": -70.65
+    },
+    {
+      "name": "Greenbush",
+      "slug": "greenbush",
+      "county": "Plymouth County",
+      "lat": 42.179167,
+      "lng": -70.75
+    },
+    {
+      "name": "Greenfield",
+      "slug": "greenfield",
+      "county": "Franklin County",
+      "lat": 42.601222,
+      "lng": -72.601847
+    },
+    {
+      "name": "Groton",
+      "slug": "groton",
+      "county": "Middlesex County",
+      "lat": 42.612351,
+      "lng": -71.558371
+    },
+    {
+      "name": "Groveland",
+      "slug": "groveland",
+      "county": "Essex County",
+      "lat": 42.753027,
+      "lng": -71.027018
+    },
+    {
+      "name": "Hadley",
+      "slug": "hadley",
+      "county": "Hampshire County",
+      "lat": 42.36062,
+      "lng": -72.571499
+    },
+    {
+      "name": "Halifax",
+      "slug": "halifax",
+      "county": "Plymouth County",
+      "lat": 42.000159,
+      "lng": -70.844794
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "county": "Essex County",
+      "lat": 42.618333,
+      "lng": -70.856667
+    },
+    {
+      "name": "Hampden",
+      "slug": "hampden",
+      "county": "Hampden County",
+      "lat": 42.064756,
+      "lng": -72.431823
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "Plymouth County",
+      "lat": 42.121406,
+      "lng": -70.857006
+    },
+    {
+      "name": "Hanscom Afb",
+      "slug": "hanscom-afb",
+      "county": "Middlesex County",
+      "lat": 42.464444,
+      "lng": -71.284167
+    },
+    {
+      "name": "Hanson",
+      "slug": "hanson",
+      "county": "Plymouth County",
+      "lat": 42.061627,
+      "lng": -70.865053
+    },
+    {
+      "name": "Hardwick",
+      "slug": "hardwick",
+      "county": "Worcester County",
+      "lat": 42.35,
+      "lng": -72.2
+    },
+    {
+      "name": "Harvard",
+      "slug": "harvard",
+      "county": "Worcester County",
+      "lat": 42.498565,
+      "lng": -71.575293
+    },
+    {
+      "name": "Harwich",
+      "slug": "harwich",
+      "county": "Barnstable County",
+      "lat": 41.70082,
+      "lng": -70.057929
+    },
+    {
+      "name": "Harwich Port",
+      "slug": "harwich-port",
+      "county": "Barnstable County",
+      "lat": 41.67128,
+      "lng": -70.076755
+    },
+    {
+      "name": "Hatfield",
+      "slug": "hatfield",
+      "county": "Hampshire County",
+      "lat": 42.38439,
+      "lng": -72.616735
+    },
+    {
+      "name": "Hathorne",
+      "slug": "hathorne",
+      "county": "Essex County",
+      "lat": 42.586111,
+      "lng": -70.975
+    },
+    {
+      "name": "Haverhill",
+      "slug": "haverhill",
+      "county": "Essex County",
+      "lat": 42.785605,
+      "lng": -71.072057
+    },
+    {
+      "name": "Haydenville",
+      "slug": "haydenville",
+      "county": "Hampshire County",
+      "lat": 42.381799,
+      "lng": -72.703178
+    },
+    {
+      "name": "Heath",
+      "slug": "heath",
+      "county": "Franklin County",
+      "lat": 42.685347,
+      "lng": -72.839101
+    },
+    {
+      "name": "Hingham",
+      "slug": "hingham",
+      "county": "Plymouth County",
+      "lat": 42.224485,
+      "lng": -70.891051
+    },
+    {
+      "name": "Hinsdale",
+      "slug": "hinsdale",
+      "county": "Berkshire County",
+      "lat": 42.434604,
+      "lng": -73.092433
+    },
+    {
+      "name": "Holbrook",
+      "slug": "holbrook",
+      "county": "Norfolk County",
+      "lat": 42.14641,
+      "lng": -71.008273
+    },
+    {
+      "name": "Holden",
+      "slug": "holden",
+      "county": "Worcester County",
+      "lat": 42.341983,
+      "lng": -71.84142
+    },
+    {
+      "name": "Holland",
+      "slug": "holland",
+      "county": "Hampden County",
+      "lat": 42.040264,
+      "lng": -72.154373
+    },
+    {
+      "name": "Holliston",
+      "slug": "holliston",
+      "county": "Middlesex County",
+      "lat": 42.202641,
+      "lng": -71.436059
+    },
+    {
+      "name": "Holyoke",
+      "slug": "holyoke",
+      "county": "Hampden County",
+      "lat": 42.202007,
+      "lng": -72.626193
+    },
+    {
+      "name": "Hopedale",
+      "slug": "hopedale",
+      "county": "Worcester County",
+      "lat": 42.126796,
+      "lng": -71.537601
+    },
+    {
+      "name": "Hopkinton",
+      "slug": "hopkinton",
+      "county": "Middlesex County",
+      "lat": 42.219046,
+      "lng": -71.530178
+    },
+    {
+      "name": "Housatonic",
+      "slug": "housatonic",
+      "county": "Berkshire County",
+      "lat": 42.265296,
+      "lng": -73.374544
+    },
+    {
+      "name": "Hubbardston",
+      "slug": "hubbardston",
+      "county": "Worcester County",
+      "lat": 42.486538,
+      "lng": -72.001159
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Middlesex County",
+      "lat": 42.391796,
+      "lng": -71.560896
+    },
+    {
+      "name": "Hull",
+      "slug": "hull",
+      "county": "Plymouth County",
+      "lat": 42.285346,
+      "lng": -70.875442
+    },
+    {
+      "name": "Humarock",
+      "slug": "humarock",
+      "county": "Plymouth County",
+      "lat": 42.136111,
+      "lng": -70.690556
+    },
+    {
+      "name": "Huntington",
+      "slug": "huntington",
+      "county": "Hampshire County",
+      "lat": 42.265301,
+      "lng": -72.873341
+    },
+    {
+      "name": "Hyannis",
+      "slug": "hyannis",
+      "county": "Barnstable County",
+      "lat": 41.653682,
+      "lng": -70.298176
+    },
+    {
+      "name": "Hyannis Port",
+      "slug": "hyannis-port",
+      "county": "Barnstable County",
+      "lat": 41.635556,
+      "lng": -70.3
+    },
+    {
+      "name": "Hyde Park",
+      "slug": "hyde-park",
+      "county": "Suffolk County",
+      "lat": 42.253989,
+      "lng": -71.126052
+    },
+    {
+      "name": "Ipswich",
+      "slug": "ipswich",
+      "county": "Essex County",
+      "lat": 42.680877,
+      "lng": -70.849353
+    },
+    {
+      "name": "Jamaica Plain",
+      "slug": "jamaica-plain",
+      "county": "Suffolk County",
+      "lat": 42.312596,
+      "lng": -71.111495
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Worcester County",
+      "lat": 42.375519,
+      "lng": -71.87058
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Plymouth County",
+      "lat": 41.995022,
+      "lng": -70.740993
+    },
+    {
+      "name": "Lake Pleasant",
+      "slug": "lake-pleasant",
+      "county": "Franklin County",
+      "lat": 42.556389,
+      "lng": -72.518611
+    },
+    {
+      "name": "Lakeville",
+      "slug": "lakeville",
+      "county": "Plymouth County",
+      "lat": 41.837377,
+      "lng": -70.958195
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Worcester County",
+      "lat": 42.450984,
+      "lng": -71.686831
+    },
+    {
+      "name": "Lanesboro",
+      "slug": "lanesboro",
+      "county": "Berkshire County",
+      "lat": 42.541961,
+      "lng": -73.248737
+    },
+    {
+      "name": "Lawrence",
+      "slug": "lawrence",
+      "county": "Essex County",
+      "lat": 42.707958,
+      "lng": -71.16381
+    },
+    {
+      "name": "Lee",
+      "slug": "lee",
+      "county": "Berkshire County",
+      "lat": 42.298994,
+      "lng": -73.231696
+    },
+    {
+      "name": "Leeds",
+      "slug": "leeds",
+      "county": "Hampshire County",
+      "lat": 42.354292,
+      "lng": -72.703403
+    },
+    {
+      "name": "Leicester",
+      "slug": "leicester",
+      "county": "Worcester County",
+      "lat": 42.237047,
+      "lng": -71.918829
+    },
+    {
+      "name": "Lenox",
+      "slug": "lenox",
+      "county": "Berkshire County",
+      "lat": 42.364241,
+      "lng": -73.271322
+    },
+    {
+      "name": "Lenox Dale",
+      "slug": "lenox-dale",
+      "county": "Berkshire County",
+      "lat": 42.336111,
+      "lng": -73.245833
+    },
+    {
+      "name": "Leominster",
+      "slug": "leominster",
+      "county": "Worcester County",
+      "lat": 42.52744,
+      "lng": -71.756308
+    },
+    {
+      "name": "Leverett",
+      "slug": "leverett",
+      "county": "Franklin County",
+      "lat": 42.46823,
+      "lng": -72.499334
+    },
+    {
+      "name": "Lexington",
+      "slug": "lexington",
+      "county": "Middlesex County",
+      "lat": 42.4558,
+      "lng": -71.2193
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Middlesex County",
+      "lat": 42.421723,
+      "lng": -71.313723
+    },
+    {
+      "name": "Linwood",
+      "slug": "linwood",
+      "county": "Worcester County",
+      "lat": 42.097222,
+      "lng": -71.645278
+    },
+    {
+      "name": "Littleton",
+      "slug": "littleton",
+      "county": "Middlesex County",
+      "lat": 42.540132,
+      "lng": -71.487667
+    },
+    {
+      "name": "Longmeadow",
+      "slug": "longmeadow",
+      "county": "Hampden County",
+      "lat": 42.050658,
+      "lng": -72.5676
+    },
+    {
+      "name": "Lowell",
+      "slug": "lowell",
+      "county": "Middlesex County",
+      "lat": 42.656035,
+      "lng": -71.305078
+    },
+    {
+      "name": "Ludlow",
+      "slug": "ludlow",
+      "county": "Hampden County",
+      "lat": 42.172823,
+      "lng": -72.471012
+    },
+    {
+      "name": "Lunenburg",
+      "slug": "lunenburg",
+      "county": "Worcester County",
+      "lat": 42.58843,
+      "lng": -71.726642
+    },
+    {
+      "name": "Lynn",
+      "slug": "lynn",
+      "county": "Essex County",
+      "lat": 42.463378,
+      "lng": -70.945516
+    },
+    {
+      "name": "Lynnfield",
+      "slug": "lynnfield",
+      "county": "Essex County",
+      "lat": 42.532711,
+      "lng": -71.033873
+    },
+    {
+      "name": "Malden",
+      "slug": "malden",
+      "county": "Middlesex County",
+      "lat": 42.42911,
+      "lng": -71.060507
+    },
+    {
+      "name": "Manchaug",
+      "slug": "manchaug",
+      "county": "Worcester County",
+      "lat": 42.094444,
+      "lng": -71.748056
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Essex County",
+      "lat": 42.57963,
+      "lng": -70.767434
+    },
+    {
+      "name": "Manomet",
+      "slug": "manomet",
+      "county": "Plymouth County",
+      "lat": 41.918611,
+      "lng": -70.566667
+    },
+    {
+      "name": "Mansfield",
+      "slug": "mansfield",
+      "county": "Bristol County",
+      "lat": 42.021238,
+      "lng": -71.217775
+    },
+    {
+      "name": "Marblehead",
+      "slug": "marblehead",
+      "county": "Essex County",
+      "lat": 42.498431,
+      "lng": -70.865291
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Plymouth County",
+      "lat": 41.709526,
+      "lng": -70.761261
+    },
+    {
+      "name": "Marlborough",
+      "slug": "marlborough",
+      "county": "Middlesex County",
+      "lat": 42.350861,
+      "lng": -71.543355
+    },
+    {
+      "name": "Marshfield",
+      "slug": "marshfield",
+      "county": "Plymouth County",
+      "lat": 42.106177,
+      "lng": -70.69931
+    },
+    {
+      "name": "Marshfield Hills",
+      "slug": "marshfield-hills",
+      "county": "Plymouth County",
+      "lat": 42.133333,
+      "lng": -70.758333
+    },
+    {
+      "name": "Marstons Mills",
+      "slug": "marstons-mills",
+      "county": "Barnstable County",
+      "lat": 41.670274,
+      "lng": -70.416321
+    },
+    {
+      "name": "Mashpee",
+      "slug": "mashpee",
+      "county": "Barnstable County",
+      "lat": 41.618116,
+      "lng": -70.485361
+    },
+    {
+      "name": "Mattapan",
+      "slug": "mattapan",
+      "county": "Suffolk County",
+      "lat": 42.273889,
+      "lng": -71.093871
+    },
+    {
+      "name": "Mattapoisett",
+      "slug": "mattapoisett",
+      "county": "Plymouth County",
+      "lat": 41.661845,
+      "lng": -70.816357
+    },
+    {
+      "name": "Maynard",
+      "slug": "maynard",
+      "county": "Middlesex County",
+      "lat": 42.432118,
+      "lng": -71.454975
+    },
+    {
+      "name": "Medfield",
+      "slug": "medfield",
+      "county": "Norfolk County",
+      "lat": 42.184525,
+      "lng": -71.304813
+    },
+    {
+      "name": "Medford",
+      "slug": "medford",
+      "county": "Middlesex County",
+      "lat": 42.418333,
+      "lng": -71.106667
+    },
+    {
+      "name": "Medway",
+      "slug": "medway",
+      "county": "Norfolk County",
+      "lat": 42.151363,
+      "lng": -71.421715
+    },
+    {
+      "name": "Melrose",
+      "slug": "melrose",
+      "county": "Middlesex County",
+      "lat": 42.458066,
+      "lng": -71.063191
+    },
+    {
+      "name": "Mendon",
+      "slug": "mendon",
+      "county": "Worcester County",
+      "lat": 42.096744,
+      "lng": -71.549882
+    },
+    {
+      "name": "Menemsha",
+      "slug": "menemsha",
+      "county": "Dukes County",
+      "lat": 41.351667,
+      "lng": -70.764722
+    },
+    {
+      "name": "Merrimac",
+      "slug": "merrimac",
+      "county": "Essex County",
+      "lat": 42.834629,
+      "lng": -71.004658
+    },
+    {
+      "name": "Methuen",
+      "slug": "methuen",
+      "county": "Essex County",
+      "lat": 42.728019,
+      "lng": -71.181031
+    },
+    {
+      "name": "Middleboro",
+      "slug": "middleboro",
+      "county": "Plymouth County",
+      "lat": 41.8938,
+      "lng": -70.9187
+    },
+    {
+      "name": "Middlefield",
+      "slug": "middlefield",
+      "county": "Hampshire County",
+      "lat": 42.34795,
+      "lng": -73.006226
+    },
+    {
+      "name": "Middleton",
+      "slug": "middleton",
+      "county": "Essex County",
+      "lat": 42.594184,
+      "lng": -71.013004
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Worcester County",
+      "lat": 42.151142,
+      "lng": -71.527402
+    },
+    {
+      "name": "Mill River",
+      "slug": "mill-river",
+      "county": "Berkshire County",
+      "lat": 42.113889,
+      "lng": -73.268056
+    },
+    {
+      "name": "Millbury",
+      "slug": "millbury",
+      "county": "Worcester County",
+      "lat": 42.196779,
+      "lng": -71.764438
+    },
+    {
+      "name": "Millers Falls",
+      "slug": "millers-falls",
+      "county": "Franklin County",
+      "lat": 42.576206,
+      "lng": -72.494626
+    },
+    {
+      "name": "Millis",
+      "slug": "millis",
+      "county": "Norfolk County",
+      "lat": 42.166938,
+      "lng": -71.360693
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Worcester County",
+      "lat": 42.033102,
+      "lng": -71.579813
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Norfolk County",
+      "lat": 42.253663,
+      "lng": -71.077051
+    },
+    {
+      "name": "Milton Village",
+      "slug": "milton-village",
+      "county": "Norfolk County",
+      "lat": 42.266667,
+      "lng": -71.072222
+    },
+    {
+      "name": "Minot",
+      "slug": "minot",
+      "county": "Plymouth County",
+      "lat": 42.195833,
+      "lng": -70.726389
+    },
+    {
+      "name": "Monponsett",
+      "slug": "monponsett",
+      "county": "Plymouth County",
+      "lat": 42.018333,
+      "lng": -70.847222
+    },
+    {
+      "name": "Monroe Bridge",
+      "slug": "monroe-bridge",
+      "county": "Franklin County",
+      "lat": 42.723885,
+      "lng": -72.960156
+    },
+    {
+      "name": "Monson",
+      "slug": "monson",
+      "county": "Hampden County",
+      "lat": 42.101017,
+      "lng": -72.319634
+    },
+    {
+      "name": "Montague",
+      "slug": "montague",
+      "county": "Franklin County",
+      "lat": 42.542864,
+      "lng": -72.532837
+    },
+    {
+      "name": "Monterey",
+      "slug": "monterey",
+      "county": "Berkshire County",
+      "lat": 42.187847,
+      "lng": -73.213452
+    },
+    {
+      "name": "Monument Beach",
+      "slug": "monument-beach",
+      "county": "Barnstable County",
+      "lat": 41.719444,
+      "lng": -70.6125
+    },
+    {
+      "name": "Nahant",
+      "slug": "nahant",
+      "county": "Essex County",
+      "lat": 42.426098,
+      "lng": -70.927739
+    },
+    {
+      "name": "Nantucket",
+      "slug": "nantucket",
+      "county": "Nantucket County",
+      "lat": 41.272529,
+      "lng": -70.093216
+    },
+    {
+      "name": "Natick",
+      "slug": "natick",
+      "county": "Middlesex County",
+      "lat": 42.287476,
+      "lng": -71.35741
+    },
+    {
+      "name": "Needham",
+      "slug": "needham",
+      "county": "Norfolk County",
+      "lat": 42.2778,
+      "lng": -71.235
+    },
+    {
+      "name": "Needham Heights",
+      "slug": "needham-heights",
+      "county": "Norfolk County",
+      "lat": 42.2997,
+      "lng": -71.2321
+    },
+    {
+      "name": "New Bedford",
+      "slug": "new-bedford",
+      "county": "Bristol County",
+      "lat": 41.634749,
+      "lng": -70.9372
+    },
+    {
+      "name": "New Braintree",
+      "slug": "new-braintree",
+      "county": "Worcester County",
+      "lat": 42.31977,
+      "lng": -72.130642
+    },
+    {
+      "name": "New Salem",
+      "slug": "new-salem",
+      "county": "Franklin County",
+      "lat": 42.514643,
+      "lng": -72.306241
+    },
+    {
+      "name": "New Town",
+      "slug": "new-town",
+      "county": "Middlesex County",
+      "lat": 42.36,
+      "lng": -71.130556
+    },
+    {
+      "name": "Newbury",
+      "slug": "newbury",
+      "county": "Essex County",
+      "lat": 42.783475,
+      "lng": -70.847377
+    },
+    {
+      "name": "Newburyport",
+      "slug": "newburyport",
+      "county": "Essex County",
+      "lat": 42.812964,
+      "lng": -70.884668
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Middlesex County",
+      "lat": 42.3545,
+      "lng": -71.1877
+    },
+    {
+      "name": "Newton Center",
+      "slug": "newton-center",
+      "county": "Middlesex County",
+      "lat": 42.336944,
+      "lng": -71.209722
+    },
+    {
+      "name": "Newton Highlands",
+      "slug": "newton-highlands",
+      "county": "Middlesex County",
+      "lat": 42.320833,
+      "lng": -71.2
+    },
+    {
+      "name": "Newton Lower Falls",
+      "slug": "newton-lower-falls",
+      "county": "Middlesex County",
+      "lat": 42.329167,
+      "lng": -71.254167
+    },
+    {
+      "name": "Newton Upper Falls",
+      "slug": "newton-upper-falls",
+      "county": "Middlesex County",
+      "lat": 42.313889,
+      "lng": -71.22
+    },
+    {
+      "name": "Newtonville",
+      "slug": "newtonville",
+      "county": "Middlesex County",
+      "lat": 42.3521,
+      "lng": -71.2081
+    },
+    {
+      "name": "Nonantum",
+      "slug": "nonantum",
+      "county": "Middlesex County",
+      "lat": 42.3625,
+      "lng": -71.202778
+    },
+    {
+      "name": "Norfolk",
+      "slug": "norfolk",
+      "county": "Norfolk County",
+      "lat": 42.117746,
+      "lng": -71.326934
+    },
+    {
+      "name": "North Adams",
+      "slug": "north-adams",
+      "county": "Berkshire County",
+      "lat": 42.69865,
+      "lng": -73.10999
+    },
+    {
+      "name": "North Amherst",
+      "slug": "north-amherst",
+      "county": "Hampshire County",
+      "lat": 42.4102,
+      "lng": -72.5313
+    },
+    {
+      "name": "North Andover",
+      "slug": "north-andover",
+      "county": "Essex County",
+      "lat": 42.682583,
+      "lng": -71.109004
+    },
+    {
+      "name": "North Attleboro",
+      "slug": "north-attleboro",
+      "county": "Bristol County",
+      "lat": 41.977542,
+      "lng": -71.329757
+    },
+    {
+      "name": "North Billerica",
+      "slug": "north-billerica",
+      "county": "Middlesex County",
+      "lat": 42.575694,
+      "lng": -71.290217
+    },
+    {
+      "name": "North Brookfield",
+      "slug": "north-brookfield",
+      "county": "Worcester County",
+      "lat": 42.266455,
+      "lng": -72.082129
+    },
+    {
+      "name": "North Carver",
+      "slug": "north-carver",
+      "county": "Plymouth County",
+      "lat": 41.920278,
+      "lng": -70.8
+    },
+    {
+      "name": "North Chatham",
+      "slug": "north-chatham",
+      "county": "Barnstable County",
+      "lat": 41.70298,
+      "lng": -69.966607
+    },
+    {
+      "name": "North Chelmsford",
+      "slug": "north-chelmsford",
+      "county": "Middlesex County",
+      "lat": 42.634737,
+      "lng": -71.390834
+    },
+    {
+      "name": "North Dartmouth",
+      "slug": "north-dartmouth",
+      "county": "Bristol County",
+      "lat": 41.633789,
+      "lng": -70.995769
+    },
+    {
+      "name": "North Dighton",
+      "slug": "north-dighton",
+      "county": "Bristol County",
+      "lat": 41.852874,
+      "lng": -71.148523
+    },
+    {
+      "name": "North Eastham",
+      "slug": "north-eastham",
+      "county": "Barnstable County",
+      "lat": 41.865,
+      "lng": -69.991667
+    },
+    {
+      "name": "North Easton",
+      "slug": "north-easton",
+      "county": "Bristol County",
+      "lat": 42.058956,
+      "lng": -71.112337
+    },
+    {
+      "name": "North Egremont",
+      "slug": "north-egremont",
+      "county": "Berkshire County",
+      "lat": 42.196667,
+      "lng": -73.438333
+    },
+    {
+      "name": "North Falmouth",
+      "slug": "north-falmouth",
+      "county": "Barnstable County",
+      "lat": 41.641677,
+      "lng": -70.623043
+    },
+    {
+      "name": "North Grafton",
+      "slug": "north-grafton",
+      "county": "Worcester County",
+      "lat": 42.229726,
+      "lng": -71.703691
+    },
+    {
+      "name": "North Hatfield",
+      "slug": "north-hatfield",
+      "county": "Hampshire County",
+      "lat": 42.411111,
+      "lng": -72.622778
+    },
+    {
+      "name": "North Marshfield",
+      "slug": "north-marshfield",
+      "county": "Plymouth County",
+      "lat": 42.143056,
+      "lng": -70.770833
+    },
+    {
+      "name": "North Oxford",
+      "slug": "north-oxford",
+      "county": "Worcester County",
+      "lat": 42.16549,
+      "lng": -71.885953
+    },
+    {
+      "name": "North Pembroke",
+      "slug": "north-pembroke",
+      "county": "Plymouth County",
+      "lat": 42.093056,
+      "lng": -70.793056
+    },
+    {
+      "name": "North Reading",
+      "slug": "north-reading",
+      "county": "Middlesex County",
+      "lat": 42.581898,
+      "lng": -71.094711
+    },
+    {
+      "name": "North Scituate",
+      "slug": "north-scituate",
+      "county": "Plymouth County",
+      "lat": 42.218889,
+      "lng": -70.786111
+    },
+    {
+      "name": "North Truro",
+      "slug": "north-truro",
+      "county": "Barnstable County",
+      "lat": 42.033779,
+      "lng": -70.08751
+    },
+    {
+      "name": "North Uxbridge",
+      "slug": "north-uxbridge",
+      "county": "Worcester County",
+      "lat": 42.0875,
+      "lng": -71.641667
+    },
+    {
+      "name": "North Waltham",
+      "slug": "north-waltham",
+      "county": "Middlesex County",
+      "lat": 42.393056,
+      "lng": -71.220278
+    },
+    {
+      "name": "North Weymouth",
+      "slug": "north-weymouth",
+      "county": "Norfolk County",
+      "lat": 42.243564,
+      "lng": -70.944318
+    },
+    {
+      "name": "Northampton",
+      "slug": "northampton",
+      "county": "Hampshire County",
+      "lat": 42.324662,
+      "lng": -72.654245
+    },
+    {
+      "name": "Northborough",
+      "slug": "northborough",
+      "county": "Worcester County",
+      "lat": 42.318242,
+      "lng": -71.646372
+    },
+    {
+      "name": "Northbridge",
+      "slug": "northbridge",
+      "county": "Worcester County",
+      "lat": 42.1494,
+      "lng": -71.656366
+    },
+    {
+      "name": "Northfield",
+      "slug": "northfield",
+      "county": "Franklin County",
+      "lat": 42.688705,
+      "lng": -72.450995
+    },
+    {
+      "name": "Norton",
+      "slug": "norton",
+      "county": "Bristol County",
+      "lat": 41.971801,
+      "lng": -71.189441
+    },
+    {
+      "name": "Norwell",
+      "slug": "norwell",
+      "county": "Plymouth County",
+      "lat": 42.159574,
+      "lng": -70.82172
+    },
+    {
+      "name": "Norwood",
+      "slug": "norwood",
+      "county": "Norfolk County",
+      "lat": 42.186843,
+      "lng": -71.203313
+    },
+    {
+      "name": "Nutting Lake",
+      "slug": "nutting-lake",
+      "county": "Middlesex County",
+      "lat": 42.537778,
+      "lng": -71.269444
+    },
+    {
+      "name": "Oak Bluffs",
+      "slug": "oak-bluffs",
+      "county": "Dukes County",
+      "lat": 41.454167,
+      "lng": -70.5625
+    },
+    {
+      "name": "Oakham",
+      "slug": "oakham",
+      "county": "Worcester County",
+      "lat": 42.348033,
+      "lng": -72.051265
+    },
+    {
+      "name": "Ocean Bluff",
+      "slug": "ocean-bluff",
+      "county": "Plymouth County",
+      "lat": 42.097222,
+      "lng": -70.654167
+    },
+    {
+      "name": "Onset",
+      "slug": "onset",
+      "county": "Plymouth County",
+      "lat": 41.741667,
+      "lng": -70.658333
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "county": "Franklin County",
+      "lat": 42.591231,
+      "lng": -72.305867
+    },
+    {
+      "name": "Orleans",
+      "slug": "orleans",
+      "county": "Barnstable County",
+      "lat": 41.779161,
+      "lng": -69.982198
+    },
+    {
+      "name": "Osterville",
+      "slug": "osterville",
+      "county": "Barnstable County",
+      "lat": 41.63005,
+      "lng": -70.383726
+    },
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "county": "Berkshire County",
+      "lat": 42.18988,
+      "lng": -73.082093
+    },
+    {
+      "name": "Oxford",
+      "slug": "oxford",
+      "county": "Worcester County",
+      "lat": 42.11285,
+      "lng": -71.868677
+    },
+    {
+      "name": "Palmer",
+      "slug": "palmer",
+      "county": "Hampden County",
+      "lat": 42.176233,
+      "lng": -72.328785
+    },
+    {
+      "name": "Paxton",
+      "slug": "paxton",
+      "county": "Worcester County",
+      "lat": 42.306646,
+      "lng": -71.920234
+    },
+    {
+      "name": "Peabody",
+      "slug": "peabody",
+      "county": "Essex County",
+      "lat": 42.532579,
+      "lng": -70.961194
+    },
+    {
+      "name": "Pembroke",
+      "slug": "pembroke",
+      "county": "Plymouth County",
+      "lat": 42.062072,
+      "lng": -70.804404
+    },
+    {
+      "name": "Pepperell",
+      "slug": "pepperell",
+      "county": "Middlesex County",
+      "lat": 42.668888,
+      "lng": -71.593392
+    },
+    {
+      "name": "Petersham",
+      "slug": "petersham",
+      "county": "Worcester County",
+      "lat": 42.489761,
+      "lng": -72.189349
+    },
+    {
+      "name": "Pinehurst",
+      "slug": "pinehurst",
+      "county": "Middlesex County",
+      "lat": 42.529167,
+      "lng": -71.228611
+    },
+    {
+      "name": "Pittsfield",
+      "slug": "pittsfield",
+      "county": "Berkshire County",
+      "lat": 42.453086,
+      "lng": -73.247088
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Hampshire County",
+      "lat": 42.514393,
+      "lng": -72.918289
+    },
+    {
+      "name": "Plainville",
+      "slug": "plainville",
+      "county": "Norfolk County",
+      "lat": 42.012403,
+      "lng": -71.327454
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Plymouth County",
+      "lat": 41.910404,
+      "lng": -70.642004
+    },
+    {
+      "name": "Plympton",
+      "slug": "plympton",
+      "county": "Plymouth County",
+      "lat": 41.96549,
+      "lng": -70.804582
+    },
+    {
+      "name": "Pocasset",
+      "slug": "pocasset",
+      "county": "Barnstable County",
+      "lat": 41.688115,
+      "lng": -70.610512
+    },
+    {
+      "name": "Prides Crossing",
+      "slug": "prides-crossing",
+      "county": "Essex County",
+      "lat": 42.559722,
+      "lng": -70.825
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Worcester County",
+      "lat": 42.450812,
+      "lng": -71.876245
+    },
+    {
+      "name": "Provincetown",
+      "slug": "provincetown",
+      "county": "Barnstable County",
+      "lat": 42.053364,
+      "lng": -70.186504
+    },
+    {
+      "name": "Quincy",
+      "slug": "quincy",
+      "county": "Norfolk County",
+      "lat": 42.249133,
+      "lng": -70.997816
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Norfolk County",
+      "lat": 42.173587,
+      "lng": -71.051392
+    },
+    {
+      "name": "Raynham",
+      "slug": "raynham",
+      "county": "Bristol County",
+      "lat": 41.932361,
+      "lng": -71.046856
+    },
+    {
+      "name": "Raynham Center",
+      "slug": "raynham-center",
+      "county": "Bristol County",
+      "lat": 41.923611,
+      "lng": -71.052778
+    },
+    {
+      "name": "Reading",
+      "slug": "reading",
+      "county": "Middlesex County",
+      "lat": 42.527986,
+      "lng": -71.109021
+    },
+    {
+      "name": "Readville",
+      "slug": "readville",
+      "county": "Suffolk County",
+      "lat": 42.249167,
+      "lng": -71.229167
+    },
+    {
+      "name": "Rehoboth",
+      "slug": "rehoboth",
+      "county": "Bristol County",
+      "lat": 41.85152,
+      "lng": -71.254453
+    },
+    {
+      "name": "Revere",
+      "slug": "revere",
+      "county": "Suffolk County",
+      "lat": 42.413767,
+      "lng": -71.005165
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "county": "Berkshire County",
+      "lat": 42.378398,
+      "lng": -73.364457
+    },
+    {
+      "name": "Rochdale",
+      "slug": "rochdale",
+      "county": "Worcester County",
+      "lat": 42.199685,
+      "lng": -71.906882
+    },
+    {
+      "name": "Rochester",
+      "slug": "rochester",
+      "county": "Plymouth County",
+      "lat": 41.759082,
+      "lng": -70.852257
+    },
+    {
+      "name": "Rockland",
+      "slug": "rockland",
+      "county": "Plymouth County",
+      "lat": 42.129286,
+      "lng": -70.913263
+    },
+    {
+      "name": "Rockport",
+      "slug": "rockport",
+      "county": "Essex County",
+      "lat": 42.657973,
+      "lng": -70.619424
+    },
+    {
+      "name": "Roslindale",
+      "slug": "roslindale",
+      "county": "Suffolk County",
+      "lat": 42.283615,
+      "lng": -71.129543
+    },
+    {
+      "name": "Rowe",
+      "slug": "rowe",
+      "county": "Franklin County",
+      "lat": 42.695289,
+      "lng": -72.925776
+    },
+    {
+      "name": "Rowley",
+      "slug": "rowley",
+      "county": "Essex County",
+      "lat": 42.713753,
+      "lng": -70.90696
+    },
+    {
+      "name": "Royalston",
+      "slug": "royalston",
+      "county": "Worcester County",
+      "lat": 42.5925,
+      "lng": -72.227778
+    },
+    {
+      "name": "Russell",
+      "slug": "russell",
+      "county": "Hampden County",
+      "lat": 42.147063,
+      "lng": -72.840343
+    },
+    {
+      "name": "Rutland",
+      "slug": "rutland",
+      "county": "Worcester County",
+      "lat": 42.376199,
+      "lng": -71.948951
+    },
+    {
+      "name": "Sagamore",
+      "slug": "sagamore",
+      "county": "Barnstable County",
+      "lat": 41.77,
+      "lng": -70.528889
+    },
+    {
+      "name": "Sagamore Beach",
+      "slug": "sagamore-beach",
+      "county": "Barnstable County",
+      "lat": 41.798333,
+      "lng": -70.529444
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Essex County",
+      "lat": 42.515114,
+      "lng": -70.900343
+    },
+    {
+      "name": "Salisbury",
+      "slug": "salisbury",
+      "county": "Essex County",
+      "lat": 42.850678,
+      "lng": -70.858822
+    },
+    {
+      "name": "Sandisfield",
+      "slug": "sandisfield",
+      "county": "Berkshire County",
+      "lat": 42.109429,
+      "lng": -73.116285
+    },
+    {
+      "name": "Sandwich",
+      "slug": "sandwich",
+      "county": "Barnstable County",
+      "lat": 41.698304,
+      "lng": -70.469325
+    },
+    {
+      "name": "Saugus",
+      "slug": "saugus",
+      "county": "Essex County",
+      "lat": 42.463344,
+      "lng": -71.011093
+    },
+    {
+      "name": "Savoy",
+      "slug": "savoy",
+      "county": "Berkshire County",
+      "lat": 42.576964,
+      "lng": -73.023281
+    },
+    {
+      "name": "Scituate",
+      "slug": "scituate",
+      "county": "Plymouth County",
+      "lat": 42.203235,
+      "lng": -70.752476
+    },
+    {
+      "name": "Seekonk",
+      "slug": "seekonk",
+      "county": "Bristol County",
+      "lat": 41.837835,
+      "lng": -71.322406
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Norfolk County",
+      "lat": 42.109388,
+      "lng": -71.175872
+    },
+    {
+      "name": "Sheffield",
+      "slug": "sheffield",
+      "county": "Berkshire County",
+      "lat": 42.100102,
+      "lng": -73.361091
+    },
+    {
+      "name": "Shelburne Falls",
+      "slug": "shelburne-falls",
+      "county": "Franklin County",
+      "lat": 42.602203,
+      "lng": -72.739059
+    },
+    {
+      "name": "Sheldonville",
+      "slug": "sheldonville",
+      "county": "Norfolk County",
+      "lat": 42.034722,
+      "lng": -71.3875
+    },
+    {
+      "name": "Sherborn",
+      "slug": "sherborn",
+      "county": "Middlesex County",
+      "lat": 42.233088,
+      "lng": -71.378717
+    },
+    {
+      "name": "Shirley",
+      "slug": "shirley",
+      "county": "Middlesex County",
+      "lat": 42.558653,
+      "lng": -71.646444
+    },
+    {
+      "name": "Shrewsbury",
+      "slug": "shrewsbury",
+      "county": "Worcester County",
+      "lat": 42.284801,
+      "lng": -71.720503
+    },
+    {
+      "name": "Shutesbury",
+      "slug": "shutesbury",
+      "county": "Franklin County",
+      "lat": 42.481968,
+      "lng": -72.421342
+    },
+    {
+      "name": "Siasconset",
+      "slug": "siasconset",
+      "county": "Nantucket County",
+      "lat": 41.2625,
+      "lng": -69.966667
+    },
+    {
+      "name": "Silver Beach",
+      "slug": "silver-beach",
+      "county": "Barnstable County",
+      "lat": 42.640278,
+      "lng": -70.6375
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "Bristol County",
+      "lat": 41.722299,
+      "lng": -71.177971
+    },
+    {
+      "name": "Somerville",
+      "slug": "somerville",
+      "county": "Middlesex County",
+      "lat": 42.382945,
+      "lng": -71.102814
+    },
+    {
+      "name": "South Barre",
+      "slug": "south-barre",
+      "county": "Worcester County",
+      "lat": 42.385278,
+      "lng": -72.095833
+    },
+    {
+      "name": "South Carver",
+      "slug": "south-carver",
+      "county": "Plymouth County",
+      "lat": 41.840556,
+      "lng": -70.747222
+    },
+    {
+      "name": "South Chatham",
+      "slug": "south-chatham",
+      "county": "Barnstable County",
+      "lat": 41.680126,
+      "lng": -70.024106
+    },
+    {
+      "name": "South Dartmouth",
+      "slug": "south-dartmouth",
+      "county": "Bristol County",
+      "lat": 41.591728,
+      "lng": -70.956521
+    },
+    {
+      "name": "South Deerfield",
+      "slug": "south-deerfield",
+      "county": "Franklin County",
+      "lat": 42.475616,
+      "lng": -72.615268
+    },
+    {
+      "name": "South Dennis",
+      "slug": "south-dennis",
+      "county": "Barnstable County",
+      "lat": 41.709711,
+      "lng": -70.15851
+    },
+    {
+      "name": "South Easton",
+      "slug": "south-easton",
+      "county": "Bristol County",
+      "lat": 42.025704,
+      "lng": -71.098814
+    },
+    {
+      "name": "South Egremont",
+      "slug": "south-egremont",
+      "county": "Berkshire County",
+      "lat": 42.101153,
+      "lng": -73.456575
+    },
+    {
+      "name": "South Grafton",
+      "slug": "south-grafton",
+      "county": "Worcester County",
+      "lat": 42.176042,
+      "lng": -71.692725
+    },
+    {
+      "name": "South Hadley",
+      "slug": "south-hadley",
+      "county": "Hampshire County",
+      "lat": 42.237537,
+      "lng": -72.581137
+    },
+    {
+      "name": "South Hamilton",
+      "slug": "south-hamilton",
+      "county": "Essex County",
+      "lat": 42.618478,
+      "lng": -70.856132
+    },
+    {
+      "name": "South Harwich",
+      "slug": "south-harwich",
+      "county": "Barnstable County",
+      "lat": 41.675,
+      "lng": -70.044444
+    },
+    {
+      "name": "South Lancaster",
+      "slug": "south-lancaster",
+      "county": "Worcester County",
+      "lat": 42.444444,
+      "lng": -71.6875
+    },
+    {
+      "name": "South Lee",
+      "slug": "south-lee",
+      "county": "Berkshire County",
+      "lat": 42.277778,
+      "lng": -73.277778
+    },
+    {
+      "name": "South Orleans",
+      "slug": "south-orleans",
+      "county": "Barnstable County",
+      "lat": 41.750556,
+      "lng": -69.991667
+    },
+    {
+      "name": "South Walpole",
+      "slug": "south-walpole",
+      "county": "Norfolk County",
+      "lat": 42.099203,
+      "lng": -71.275235
+    },
+    {
+      "name": "South Wellfleet",
+      "slug": "south-wellfleet",
+      "county": "Barnstable County",
+      "lat": 41.918056,
+      "lng": -69.995833
+    },
+    {
+      "name": "South Weymouth",
+      "slug": "south-weymouth",
+      "county": "Norfolk County",
+      "lat": 42.172817,
+      "lng": -70.94869
+    },
+    {
+      "name": "South Yarmouth",
+      "slug": "south-yarmouth",
+      "county": "Barnstable County",
+      "lat": 41.672805,
+      "lng": -70.19731
+    },
+    {
+      "name": "Southampton",
+      "slug": "southampton",
+      "county": "Hampshire County",
+      "lat": 42.224697,
+      "lng": -72.719381
+    },
+    {
+      "name": "Southborough",
+      "slug": "southborough",
+      "county": "Worcester County",
+      "lat": 42.293919,
+      "lng": -71.531997
+    },
+    {
+      "name": "Southbridge",
+      "slug": "southbridge",
+      "county": "Worcester County",
+      "lat": 42.075024,
+      "lng": -72.035347
+    },
+    {
+      "name": "Southfield",
+      "slug": "southfield",
+      "county": "Berkshire County",
+      "lat": 42.078014,
+      "lng": -73.260933
+    },
+    {
+      "name": "Southwick",
+      "slug": "southwick",
+      "county": "Hampden County",
+      "lat": 42.051099,
+      "lng": -72.770588
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Worcester County",
+      "lat": 42.244103,
+      "lng": -71.990617
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Hampden County",
+      "lat": 42.106,
+      "lng": -72.5977
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Worcester County",
+      "lat": 42.435351,
+      "lng": -71.775192
+    },
+    {
+      "name": "Still River",
+      "slug": "still-river",
+      "county": "Worcester County",
+      "lat": 42.491667,
+      "lng": -71.618056
+    },
+    {
+      "name": "Stockbridge",
+      "slug": "stockbridge",
+      "county": "Berkshire County",
+      "lat": 42.30104,
+      "lng": -73.322263
+    },
+    {
+      "name": "Stoneham",
+      "slug": "stoneham",
+      "county": "Middlesex County",
+      "lat": 42.482778,
+      "lng": -71.0978
+    },
+    {
+      "name": "Stoughton",
+      "slug": "stoughton",
+      "county": "Norfolk County",
+      "lat": 42.125279,
+      "lng": -71.107357
+    },
+    {
+      "name": "Stow",
+      "slug": "stow",
+      "county": "Middlesex County",
+      "lat": 42.430785,
+      "lng": -71.515019
+    },
+    {
+      "name": "Sturbridge",
+      "slug": "sturbridge",
+      "county": "Worcester County",
+      "lat": 42.112619,
+      "lng": -72.084233
+    },
+    {
+      "name": "Sudbury",
+      "slug": "sudbury",
+      "county": "Middlesex County",
+      "lat": 42.383655,
+      "lng": -71.428159
+    },
+    {
+      "name": "Sunderland",
+      "slug": "sunderland",
+      "county": "Franklin County",
+      "lat": 42.453947,
+      "lng": -72.567569
+    },
+    {
+      "name": "Sutton",
+      "slug": "sutton",
+      "county": "Worcester County",
+      "lat": 42.140586,
+      "lng": -71.748416
+    },
+    {
+      "name": "Swampscott",
+      "slug": "swampscott",
+      "county": "Essex County",
+      "lat": 42.474611,
+      "lng": -70.909774
+    },
+    {
+      "name": "Swansea",
+      "slug": "swansea",
+      "county": "Bristol County",
+      "lat": 41.74734,
+      "lng": -71.212167
+    },
+    {
+      "name": "Taunton",
+      "slug": "taunton",
+      "county": "Bristol County",
+      "lat": 41.905007,
+      "lng": -71.10261
+    },
+    {
+      "name": "Templeton",
+      "slug": "templeton",
+      "county": "Worcester County",
+      "lat": 42.545976,
+      "lng": -72.064971
+    },
+    {
+      "name": "Tewksbury",
+      "slug": "tewksbury",
+      "county": "Middlesex County",
+      "lat": 42.60283,
+      "lng": -71.223224
+    },
+    {
+      "name": "Thorndike",
+      "slug": "thorndike",
+      "county": "Hampden County",
+      "lat": 42.1875,
+      "lng": -72.336111
+    },
+    {
+      "name": "Three Rivers",
+      "slug": "three-rivers",
+      "county": "Hampden County",
+      "lat": 42.181894,
+      "lng": -72.362352
+    },
+    {
+      "name": "Topsfield",
+      "slug": "topsfield",
+      "county": "Essex County",
+      "lat": 42.641546,
+      "lng": -70.948843
+    },
+    {
+      "name": "Townsend",
+      "slug": "townsend",
+      "county": "Middlesex County",
+      "lat": 42.652511,
+      "lng": -71.689646
+    },
+    {
+      "name": "Truro",
+      "slug": "truro",
+      "county": "Barnstable County",
+      "lat": 41.998792,
+      "lng": -70.056362
+    },
+    {
+      "name": "Turners Falls",
+      "slug": "turners-falls",
+      "county": "Franklin County",
+      "lat": 42.606521,
+      "lng": -72.54701
+    },
+    {
+      "name": "Tyngsboro",
+      "slug": "tyngsboro",
+      "county": "Middlesex County",
+      "lat": 42.672383,
+      "lng": -71.415766
+    },
+    {
+      "name": "Tyringham",
+      "slug": "tyringham",
+      "county": "Berkshire County",
+      "lat": 42.245833,
+      "lng": -73.204167
+    },
+    {
+      "name": "Upton",
+      "slug": "upton",
+      "county": "Worcester County",
+      "lat": 42.173275,
+      "lng": -71.608014
+    },
+    {
+      "name": "Uxbridge",
+      "slug": "uxbridge",
+      "county": "Worcester County",
+      "lat": 42.074426,
+      "lng": -71.632869
+    },
+    {
+      "name": "Village Of Nagog Woods",
+      "slug": "village-of-nagog-woods",
+      "county": "Middlesex County",
+      "lat": 42.514941,
+      "lng": -71.422354
+    },
+    {
+      "name": "Vineyard Haven",
+      "slug": "vineyard-haven",
+      "county": "Dukes County",
+      "lat": 41.449955,
+      "lng": -70.593737
+    },
+    {
+      "name": "Waban",
+      "slug": "waban",
+      "county": "Middlesex County",
+      "lat": 42.327778,
+      "lng": -71.227778
+    },
+    {
+      "name": "Wakefield",
+      "slug": "wakefield",
+      "county": "Middlesex County",
+      "lat": 42.500886,
+      "lng": -71.068471
+    },
+    {
+      "name": "Wales",
+      "slug": "wales",
+      "county": "Hampden County",
+      "lat": 42.062734,
+      "lng": -72.204592
+    },
+    {
+      "name": "Walpole",
+      "slug": "walpole",
+      "county": "Norfolk County",
+      "lat": 42.144413,
+      "lng": -71.254391
+    },
+    {
+      "name": "Waltham",
+      "slug": "waltham",
+      "county": "Middlesex County",
+      "lat": 42.3954,
+      "lng": -71.2508
+    },
+    {
+      "name": "Ware",
+      "slug": "ware",
+      "county": "Hampshire County",
+      "lat": 42.261831,
+      "lng": -72.258285
+    },
+    {
+      "name": "Wareham",
+      "slug": "wareham",
+      "county": "Plymouth County",
+      "lat": 41.754084,
+      "lng": -70.711594
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Worcester County",
+      "lat": 42.2125,
+      "lng": -72.191667
+    },
+    {
+      "name": "Warwick",
+      "slug": "warwick",
+      "county": "Franklin County",
+      "lat": 42.681944,
+      "lng": -72.339444
+    },
+    {
+      "name": "Watertown",
+      "slug": "watertown",
+      "county": "Middlesex County",
+      "lat": 42.3733,
+      "lng": -71.154
+    },
+    {
+      "name": "Waverley",
+      "slug": "waverley",
+      "county": "Middlesex County",
+      "lat": 42.3875,
+      "lng": -71.183333
+    },
+    {
+      "name": "Wayland",
+      "slug": "wayland",
+      "county": "Middlesex County",
+      "lat": 42.348629,
+      "lng": -71.358781
+    },
+    {
+      "name": "Webster",
+      "slug": "webster",
+      "county": "Worcester County",
+      "lat": 42.047574,
+      "lng": -71.839467
+    },
+    {
+      "name": "Wellesley",
+      "slug": "wellesley",
+      "county": "Norfolk County",
+      "lat": 42.2986,
+      "lng": -71.3016
+    },
+    {
+      "name": "Wellesley Hills",
+      "slug": "wellesley-hills",
+      "county": "Norfolk County",
+      "lat": 42.3133,
+      "lng": -71.2695
+    },
+    {
+      "name": "Wellfleet",
+      "slug": "wellfleet",
+      "county": "Barnstable County",
+      "lat": 41.928934,
+      "lng": -70.018587
+    },
+    {
+      "name": "Wendell",
+      "slug": "wendell",
+      "county": "Franklin County",
+      "lat": 42.565644,
+      "lng": -72.400851
+    },
+    {
+      "name": "Wendell Depot",
+      "slug": "wendell-depot",
+      "county": "Franklin County",
+      "lat": 42.595833,
+      "lng": -72.360278
+    },
+    {
+      "name": "Wenham",
+      "slug": "wenham",
+      "county": "Essex County",
+      "lat": 42.60166,
+      "lng": -70.878622
+    },
+    {
+      "name": "West Barnstable",
+      "slug": "west-barnstable",
+      "county": "Barnstable County",
+      "lat": 41.700212,
+      "lng": -70.371985
+    },
+    {
+      "name": "West Boxford",
+      "slug": "west-boxford",
+      "county": "Essex County",
+      "lat": 42.706944,
+      "lng": -71.064444
+    },
+    {
+      "name": "West Boylston",
+      "slug": "west-boylston",
+      "county": "Worcester County",
+      "lat": 42.35836,
+      "lng": -71.783822
+    },
+    {
+      "name": "West Bridgewater",
+      "slug": "west-bridgewater",
+      "county": "Plymouth County",
+      "lat": 42.025511,
+      "lng": -71.016054
+    },
+    {
+      "name": "West Brookfield",
+      "slug": "west-brookfield",
+      "county": "Worcester County",
+      "lat": 42.244137,
+      "lng": -72.151137
+    },
+    {
+      "name": "West Chatham",
+      "slug": "west-chatham",
+      "county": "Barnstable County",
+      "lat": 41.681111,
+      "lng": -69.991667
+    },
+    {
+      "name": "West Chesterfield",
+      "slug": "west-chesterfield",
+      "county": "Hampshire County",
+      "lat": 42.402778,
+      "lng": -72.876389
+    },
+    {
+      "name": "West Chop",
+      "slug": "west-chop",
+      "county": "Dukes County",
+      "lat": 41.48,
+      "lng": -70.603333
+    },
+    {
+      "name": "West Dennis",
+      "slug": "west-dennis",
+      "county": "Barnstable County",
+      "lat": 41.662557,
+      "lng": -70.168092
+    },
+    {
+      "name": "West Falmouth",
+      "slug": "west-falmouth",
+      "county": "Barnstable County",
+      "lat": 41.604167,
+      "lng": -70.635
+    },
+    {
+      "name": "West Groton",
+      "slug": "west-groton",
+      "county": "Middlesex County",
+      "lat": 42.604167,
+      "lng": -71.627778
+    },
+    {
+      "name": "West Harwich",
+      "slug": "west-harwich",
+      "county": "Barnstable County",
+      "lat": 41.669367,
+      "lng": -70.113501
+    },
+    {
+      "name": "West Hatfield",
+      "slug": "west-hatfield",
+      "county": "Hampshire County",
+      "lat": 42.370833,
+      "lng": -72.6375
+    },
+    {
+      "name": "West Hyannisport",
+      "slug": "west-hyannisport",
+      "county": "Barnstable County",
+      "lat": 41.636111,
+      "lng": -70.320833
+    },
+    {
+      "name": "West Medford",
+      "slug": "west-medford",
+      "county": "Middlesex County",
+      "lat": 42.422222,
+      "lng": -71.133333
+    },
+    {
+      "name": "West Millbury",
+      "slug": "west-millbury",
+      "county": "Worcester County",
+      "lat": 42.171111,
+      "lng": -71.804167
+    },
+    {
+      "name": "West Newbury",
+      "slug": "west-newbury",
+      "county": "Essex County",
+      "lat": 42.794865,
+      "lng": -70.977811
+    },
+    {
+      "name": "West Newton",
+      "slug": "west-newton",
+      "county": "Middlesex County",
+      "lat": 42.35,
+      "lng": -71.233333
+    },
+    {
+      "name": "West Roxbury",
+      "slug": "west-roxbury",
+      "county": "Suffolk County",
+      "lat": 42.27868,
+      "lng": -71.158868
+    },
+    {
+      "name": "West Springfield",
+      "slug": "west-springfield",
+      "county": "Hampden County",
+      "lat": 42.115066,
+      "lng": -72.641109
+    },
+    {
+      "name": "West Stockbridge",
+      "slug": "west-stockbridge",
+      "county": "Berkshire County",
+      "lat": 42.334752,
+      "lng": -73.38251
+    },
+    {
+      "name": "West Tisbury",
+      "slug": "west-tisbury",
+      "county": "Dukes County",
+      "lat": 41.413717,
+      "lng": -70.655802
+    },
+    {
+      "name": "West Townsend",
+      "slug": "west-townsend",
+      "county": "Middlesex County",
+      "lat": 42.670404,
+      "lng": -71.74057
+    },
+    {
+      "name": "West Wareham",
+      "slug": "west-wareham",
+      "county": "Plymouth County",
+      "lat": 41.779617,
+      "lng": -70.764179
+    },
+    {
+      "name": "West Warren",
+      "slug": "west-warren",
+      "county": "Worcester County",
+      "lat": 42.20734,
+      "lng": -72.203639
+    },
+    {
+      "name": "West Yarmouth",
+      "slug": "west-yarmouth",
+      "county": "Barnstable County",
+      "lat": 41.661367,
+      "lng": -70.236297
+    },
+    {
+      "name": "Westborough",
+      "slug": "westborough",
+      "county": "Worcester County",
+      "lat": 42.283,
+      "lng": -71.6015
+    },
+    {
+      "name": "Westfield",
+      "slug": "westfield",
+      "county": "Hampden County",
+      "lat": 42.129484,
+      "lng": -72.754318
+    },
+    {
+      "name": "Westford",
+      "slug": "westford",
+      "county": "Middlesex County",
+      "lat": 42.589959,
+      "lng": -71.438143
+    },
+    {
+      "name": "Westminster",
+      "slug": "westminster",
+      "county": "Worcester County",
+      "lat": 42.545833,
+      "lng": -71.911111
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Middlesex County",
+      "lat": 42.366667,
+      "lng": -71.303611
+    },
+    {
+      "name": "Westport",
+      "slug": "westport",
+      "county": "Bristol County",
+      "lat": 41.621127,
+      "lng": -71.089003
+    },
+    {
+      "name": "Westport Point",
+      "slug": "westport-point",
+      "county": "Bristol County",
+      "lat": 41.522222,
+      "lng": -71.075
+    },
+    {
+      "name": "Westwood",
+      "slug": "westwood",
+      "county": "Norfolk County",
+      "lat": 42.214824,
+      "lng": -71.210426
+    },
+    {
+      "name": "Weymouth",
+      "slug": "weymouth",
+      "county": "Norfolk County",
+      "lat": 42.211327,
+      "lng": -70.958248
+    },
+    {
+      "name": "Whately",
+      "slug": "whately",
+      "county": "Franklin County",
+      "lat": 42.439722,
+      "lng": -72.635278
+    },
+    {
+      "name": "Wheelwright",
+      "slug": "wheelwright",
+      "county": "Worcester County",
+      "lat": 42.351944,
+      "lng": -72.140278
+    },
+    {
+      "name": "White Horse Beach",
+      "slug": "white-horse-beach",
+      "county": "Plymouth County",
+      "lat": 41.930833,
+      "lng": -70.558333
+    },
+    {
+      "name": "Whitinsville",
+      "slug": "whitinsville",
+      "county": "Worcester County",
+      "lat": 42.115319,
+      "lng": -71.664357
+    },
+    {
+      "name": "Whitman",
+      "slug": "whitman",
+      "county": "Plymouth County",
+      "lat": 42.081603,
+      "lng": -70.938127
+    },
+    {
+      "name": "Wilbraham",
+      "slug": "wilbraham",
+      "county": "Hampden County",
+      "lat": 42.124506,
+      "lng": -72.446415
+    },
+    {
+      "name": "Williamsburg",
+      "slug": "williamsburg",
+      "county": "Hampshire County",
+      "lat": 42.408522,
+      "lng": -72.777989
+    },
+    {
+      "name": "Williamstown",
+      "slug": "williamstown",
+      "county": "Berkshire County",
+      "lat": 42.708883,
+      "lng": -73.20364
+    },
+    {
+      "name": "Wilmington",
+      "slug": "wilmington",
+      "county": "Middlesex County",
+      "lat": 42.558143,
+      "lng": -71.172306
+    },
+    {
+      "name": "Winchendon",
+      "slug": "winchendon",
+      "county": "Worcester County",
+      "lat": 42.678943,
+      "lng": -72.047524
+    },
+    {
+      "name": "Winchendon Springs",
+      "slug": "winchendon-springs",
+      "county": "Worcester County",
+      "lat": 42.694444,
+      "lng": -72.015278
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Middlesex County",
+      "lat": 42.453028,
+      "lng": -71.14407
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Berkshire County",
+      "lat": 42.509494,
+      "lng": -73.04661
+    },
+    {
+      "name": "Winthrop",
+      "slug": "winthrop",
+      "county": "Suffolk County",
+      "lat": 42.376294,
+      "lng": -70.980043
+    },
+    {
+      "name": "Woburn",
+      "slug": "woburn",
+      "county": "Middlesex County",
+      "lat": 42.482894,
+      "lng": -71.157404
+    },
+    {
+      "name": "Woods Hole",
+      "slug": "woods-hole",
+      "county": "Barnstable County",
+      "lat": 41.526272,
+      "lng": -70.66431
+    },
+    {
+      "name": "Woodville",
+      "slug": "woodville",
+      "county": "Middlesex County",
+      "lat": 42.2375,
+      "lng": -71.5625
+    },
+    {
+      "name": "Worcester",
+      "slug": "worcester",
+      "county": "Worcester County",
+      "lat": 42.2621,
+      "lng": -71.8034
+    },
+    {
+      "name": "Woronoco",
+      "slug": "woronoco",
+      "county": "Hampden County",
+      "lat": 42.163889,
+      "lng": -72.83
+    },
+    {
+      "name": "Worthington",
+      "slug": "worthington",
+      "county": "Hampshire County",
+      "lat": 42.384293,
+      "lng": -72.931427
+    },
+    {
+      "name": "Wrentham",
+      "slug": "wrentham",
+      "county": "Norfolk County",
+      "lat": 42.061746,
+      "lng": -71.339568
+    },
+    {
+      "name": "Yarmouth Port",
+      "slug": "yarmouth-port",
+      "county": "Barnstable County",
+      "lat": 41.705149,
+      "lng": -70.227014
+    }
+  ]
+}

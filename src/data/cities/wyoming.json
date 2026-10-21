@@ -1,0 +1,1239 @@
+{
+  "stateName": "Wyoming",
+  "stateCode": "WY",
+  "stateSlug": "wyoming",
+  "cities": [
+    {
+      "name": "Afton",
+      "slug": "afton",
+      "county": "Lincoln County",
+      "lat": 42.712829,
+      "lng": -110.941976
+    },
+    {
+      "name": "Aladdin",
+      "slug": "aladdin",
+      "county": "Crook County",
+      "lat": 44.747331,
+      "lng": -104.19314
+    },
+    {
+      "name": "Albin",
+      "slug": "albin",
+      "county": "Laramie County",
+      "lat": 41.434237,
+      "lng": -104.150542
+    },
+    {
+      "name": "Alcova",
+      "slug": "alcova",
+      "county": "Natrona County",
+      "lat": 42.568383,
+      "lng": -106.610199
+    },
+    {
+      "name": "Alpine",
+      "slug": "alpine",
+      "county": "Lincoln County",
+      "lat": 43.175278,
+      "lng": -111.033889
+    },
+    {
+      "name": "Alta",
+      "slug": "alta",
+      "county": "Teton County",
+      "lat": 43.753889,
+      "lng": -111.036111
+    },
+    {
+      "name": "Alva",
+      "slug": "alva",
+      "county": "Crook County",
+      "lat": 44.694722,
+      "lng": -104.440833
+    },
+    {
+      "name": "Arapahoe",
+      "slug": "arapahoe",
+      "county": "Fremont County",
+      "lat": 42.967936,
+      "lng": -108.494134
+    },
+    {
+      "name": "Arminto",
+      "slug": "arminto",
+      "county": "Natrona County",
+      "lat": 43.120883,
+      "lng": -107.343611
+    },
+    {
+      "name": "Arvada",
+      "slug": "arvada",
+      "county": "Sheridan County",
+      "lat": 44.689876,
+      "lng": -106.109191
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "Lincoln County",
+      "lat": 42.805114,
+      "lng": -110.994415
+    },
+    {
+      "name": "Baggs",
+      "slug": "baggs",
+      "county": "Carbon County",
+      "lat": 41.031191,
+      "lng": -107.668733
+    },
+    {
+      "name": "Bairoil",
+      "slug": "bairoil",
+      "county": "Sweetwater County",
+      "lat": 42.232721,
+      "lng": -107.563288
+    },
+    {
+      "name": "Banner",
+      "slug": "banner",
+      "county": "Sheridan County",
+      "lat": 44.590804,
+      "lng": -106.87331
+    },
+    {
+      "name": "Basin",
+      "slug": "basin",
+      "county": "Big Horn County",
+      "lat": 44.378765,
+      "lng": -108.043787
+    },
+    {
+      "name": "Bedford",
+      "slug": "bedford",
+      "county": "Lincoln County",
+      "lat": 42.932336,
+      "lng": -110.95556
+    },
+    {
+      "name": "Beulah",
+      "slug": "beulah",
+      "county": "Crook County",
+      "lat": 44.573575,
+      "lng": -104.153095
+    },
+    {
+      "name": "Big Horn",
+      "slug": "big-horn",
+      "county": "Sheridan County",
+      "lat": 44.683333,
+      "lng": -106.991667
+    },
+    {
+      "name": "Big Piney",
+      "slug": "big-piney",
+      "county": "Sublette County",
+      "lat": 42.552059,
+      "lng": -110.132954
+    },
+    {
+      "name": "Bondurant",
+      "slug": "bondurant",
+      "county": "Sublette County",
+      "lat": 43.223798,
+      "lng": -110.335287
+    },
+    {
+      "name": "Bosler",
+      "slug": "bosler",
+      "county": "Albany County",
+      "lat": 41.562721,
+      "lng": -105.819708
+    },
+    {
+      "name": "Boulder",
+      "slug": "boulder",
+      "county": "Sublette County",
+      "lat": 42.688146,
+      "lng": -109.540105
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Johnson County",
+      "lat": 44.34847,
+      "lng": -106.70726
+    },
+    {
+      "name": "Buford",
+      "slug": "buford",
+      "county": "Albany County",
+      "lat": 41.142115,
+      "lng": -105.469697
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Big Horn County",
+      "lat": 44.444218,
+      "lng": -108.432669
+    },
+    {
+      "name": "Burns",
+      "slug": "burns",
+      "county": "Laramie County",
+      "lat": 41.200297,
+      "lng": -104.315521
+    },
+    {
+      "name": "Byron",
+      "slug": "byron",
+      "county": "Big Horn County",
+      "lat": 44.796389,
+      "lng": -108.505833
+    },
+    {
+      "name": "Carpenter",
+      "slug": "carpenter",
+      "county": "Laramie County",
+      "lat": 41.042819,
+      "lng": -104.276514
+    },
+    {
+      "name": "Casper",
+      "slug": "casper",
+      "county": "Natrona County",
+      "lat": 42.845763,
+      "lng": -106.316571
+    },
+    {
+      "name": "Centennial",
+      "slug": "centennial",
+      "county": "Albany County",
+      "lat": 41.339149,
+      "lng": -105.99451
+    },
+    {
+      "name": "Cheyenne",
+      "slug": "cheyenne",
+      "county": "Laramie County",
+      "lat": 41.143719,
+      "lng": -104.796234
+    },
+    {
+      "name": "Chugwater",
+      "slug": "chugwater",
+      "county": "Platte County",
+      "lat": 41.748668,
+      "lng": -104.817916
+    },
+    {
+      "name": "Clearmont",
+      "slug": "clearmont",
+      "county": "Sheridan County",
+      "lat": 44.66101,
+      "lng": -106.458071
+    },
+    {
+      "name": "Cody",
+      "slug": "cody",
+      "county": "Park County",
+      "lat": 44.523135,
+      "lng": -109.075611
+    },
+    {
+      "name": "Cokeville",
+      "slug": "cokeville",
+      "county": "Lincoln County",
+      "lat": 42.057983,
+      "lng": -110.916419
+    },
+    {
+      "name": "Cora",
+      "slug": "cora",
+      "county": "Sublette County",
+      "lat": 43.139921,
+      "lng": -109.915351
+    },
+    {
+      "name": "Cowley",
+      "slug": "cowley",
+      "county": "Big Horn County",
+      "lat": 44.883333,
+      "lng": -108.468889
+    },
+    {
+      "name": "Crowheart",
+      "slug": "crowheart",
+      "county": "Fremont County",
+      "lat": 43.371569,
+      "lng": -109.296043
+    },
+    {
+      "name": "Daniel",
+      "slug": "daniel",
+      "county": "Sublette County",
+      "lat": 42.917629,
+      "lng": -110.133624
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Sheridan County",
+      "lat": 44.877958,
+      "lng": -107.302605
+    },
+    {
+      "name": "Deaver",
+      "slug": "deaver",
+      "county": "Big Horn County",
+      "lat": 44.925695,
+      "lng": -108.597948
+    },
+    {
+      "name": "Devils Tower",
+      "slug": "devils-tower",
+      "county": "Crook County",
+      "lat": 44.617067,
+      "lng": -104.793638
+    },
+    {
+      "name": "Diamondville",
+      "slug": "diamondville",
+      "county": "Lincoln County",
+      "lat": 41.779444,
+      "lng": -110.537778
+    },
+    {
+      "name": "Dixon",
+      "slug": "dixon",
+      "county": "Carbon County",
+      "lat": 41.044631,
+      "lng": -107.560354
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Converse County",
+      "lat": 42.762558,
+      "lng": -105.385484
+    },
+    {
+      "name": "Dubois",
+      "slug": "dubois",
+      "county": "Fremont County",
+      "lat": 43.545136,
+      "lng": -109.649175
+    },
+    {
+      "name": "Edgerton",
+      "slug": "edgerton",
+      "county": "Natrona County",
+      "lat": 43.413056,
+      "lng": -106.248889
+    },
+    {
+      "name": "Elk Mountain",
+      "slug": "elk-mountain",
+      "county": "Carbon County",
+      "lat": 41.6875,
+      "lng": -106.412778
+    },
+    {
+      "name": "Emblem",
+      "slug": "emblem",
+      "county": "Big Horn County",
+      "lat": 44.505833,
+      "lng": -108.391111
+    },
+    {
+      "name": "Encampment",
+      "slug": "encampment",
+      "county": "Carbon County",
+      "lat": 41.205353,
+      "lng": -106.780285
+    },
+    {
+      "name": "Etna",
+      "slug": "etna",
+      "county": "Lincoln County",
+      "lat": 43.138606,
+      "lng": -111.015996
+    },
+    {
+      "name": "Evanston",
+      "slug": "evanston",
+      "county": "Uinta County",
+      "lat": 41.260947,
+      "lng": -110.963067
+    },
+    {
+      "name": "Evansville",
+      "slug": "evansville",
+      "county": "Natrona County",
+      "lat": 42.861384,
+      "lng": -106.263886
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Lincoln County",
+      "lat": 42.688611,
+      "lng": -110.981667
+    },
+    {
+      "name": "Farson",
+      "slug": "farson",
+      "county": "Sweetwater County",
+      "lat": 42.050833,
+      "lng": -109.436389
+    },
+    {
+      "name": "Fort Bridger",
+      "slug": "fort-bridger",
+      "county": "Uinta County",
+      "lat": 41.28282,
+      "lng": -110.347428
+    },
+    {
+      "name": "Fort Laramie",
+      "slug": "fort-laramie",
+      "county": "Goshen County",
+      "lat": 42.213314,
+      "lng": -104.522595
+    },
+    {
+      "name": "Fort Washakie",
+      "slug": "fort-washakie",
+      "county": "Fremont County",
+      "lat": 43.004761,
+      "lng": -108.896445
+    },
+    {
+      "name": "Four Corners",
+      "slug": "four-corners",
+      "county": "Weston County",
+      "lat": 44.100747,
+      "lng": -104.122897
+    },
+    {
+      "name": "Frannie",
+      "slug": "frannie",
+      "county": "Park County",
+      "lat": 44.969722,
+      "lng": -108.620278
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "county": "Lincoln County",
+      "lat": 43.017167,
+      "lng": -111.029178
+    },
+    {
+      "name": "Frontier",
+      "slug": "frontier",
+      "county": "Lincoln County",
+      "lat": 41.814167,
+      "lng": -110.536389
+    },
+    {
+      "name": "Ft Warren Afb",
+      "slug": "ft-warren-afb",
+      "county": "Laramie County",
+      "lat": 41.1511,
+      "lng": -104.861
+    },
+    {
+      "name": "Garrett",
+      "slug": "garrett",
+      "county": "Albany County",
+      "lat": 42.142015,
+      "lng": -105.550534
+    },
+    {
+      "name": "Gillette",
+      "slug": "gillette",
+      "county": "Campbell County",
+      "lat": 44.282009,
+      "lng": -105.497442
+    },
+    {
+      "name": "Glendo",
+      "slug": "glendo",
+      "county": "Platte County",
+      "lat": 42.500352,
+      "lng": -105.000013
+    },
+    {
+      "name": "Glenrock",
+      "slug": "glenrock",
+      "county": "Converse County",
+      "lat": 42.867495,
+      "lng": -105.857911
+    },
+    {
+      "name": "Granger",
+      "slug": "granger",
+      "county": "Sweetwater County",
+      "lat": 41.593611,
+      "lng": -109.968056
+    },
+    {
+      "name": "Granite Canon",
+      "slug": "granite-canon",
+      "county": "Laramie County",
+      "lat": 41.005278,
+      "lng": -105.249167
+    },
+    {
+      "name": "Green River",
+      "slug": "green-river",
+      "county": "Sweetwater County",
+      "lat": 41.51959,
+      "lng": -109.471445
+    },
+    {
+      "name": "Greybull",
+      "slug": "greybull",
+      "county": "Big Horn County",
+      "lat": 44.491881,
+      "lng": -108.079503
+    },
+    {
+      "name": "Grover",
+      "slug": "grover",
+      "county": "Lincoln County",
+      "lat": 42.796472,
+      "lng": -110.924392
+    },
+    {
+      "name": "Guernsey",
+      "slug": "guernsey",
+      "county": "Platte County",
+      "lat": 42.265513,
+      "lng": -104.751164
+    },
+    {
+      "name": "Hanna",
+      "slug": "hanna",
+      "county": "Carbon County",
+      "lat": 41.87264,
+      "lng": -106.528283
+    },
+    {
+      "name": "Hartville",
+      "slug": "hartville",
+      "county": "Platte County",
+      "lat": 42.33339,
+      "lng": -104.729564
+    },
+    {
+      "name": "Hawk Springs",
+      "slug": "hawk-springs",
+      "county": "Goshen County",
+      "lat": 41.741481,
+      "lng": -104.329498
+    },
+    {
+      "name": "Hiland",
+      "slug": "hiland",
+      "county": "Natrona County",
+      "lat": 42.8375,
+      "lng": -106.387222
+    },
+    {
+      "name": "Hillsdale",
+      "slug": "hillsdale",
+      "county": "Laramie County",
+      "lat": 41.212778,
+      "lng": -104.476944
+    },
+    {
+      "name": "Horse Creek",
+      "slug": "horse-creek",
+      "county": "Laramie County",
+      "lat": 41.415,
+      "lng": -105.181667
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Fremont County",
+      "lat": 42.906111,
+      "lng": -108.582778
+    },
+    {
+      "name": "Hulett",
+      "slug": "hulett",
+      "county": "Crook County",
+      "lat": 44.735222,
+      "lng": -104.617367
+    },
+    {
+      "name": "Huntley",
+      "slug": "huntley",
+      "county": "Goshen County",
+      "lat": 41.932778,
+      "lng": -104.145556
+    },
+    {
+      "name": "Hyattville",
+      "slug": "hyattville",
+      "county": "Big Horn County",
+      "lat": 44.250693,
+      "lng": -107.605318
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Teton County",
+      "lat": 43.460734,
+      "lng": -110.766277
+    },
+    {
+      "name": "Jay Em",
+      "slug": "jay-em",
+      "county": "Goshen County",
+      "lat": 42.357399,
+      "lng": -104.311437
+    },
+    {
+      "name": "Jeffrey City",
+      "slug": "jeffrey-city",
+      "county": "Fremont County",
+      "lat": 42.540201,
+      "lng": -107.872422
+    },
+    {
+      "name": "Jelm",
+      "slug": "jelm",
+      "county": "Albany County",
+      "lat": 41.145723,
+      "lng": -105.925727
+    },
+    {
+      "name": "Kaycee",
+      "slug": "kaycee",
+      "county": "Johnson County",
+      "lat": 43.723625,
+      "lng": -106.56323
+    },
+    {
+      "name": "Kelly",
+      "slug": "kelly",
+      "county": "Teton County",
+      "lat": 43.609361,
+      "lng": -110.544186
+    },
+    {
+      "name": "Kemmerer",
+      "slug": "kemmerer",
+      "county": "Lincoln County",
+      "lat": 41.788661,
+      "lng": -110.52834
+    },
+    {
+      "name": "Kinnear",
+      "slug": "kinnear",
+      "county": "Fremont County",
+      "lat": 43.131777,
+      "lng": -108.615428
+    },
+    {
+      "name": "Kirby",
+      "slug": "kirby",
+      "county": "Hot Springs County",
+      "lat": 43.804444,
+      "lng": -108.180833
+    },
+    {
+      "name": "La Barge",
+      "slug": "la-barge",
+      "county": "Lincoln County",
+      "lat": 42.24734,
+      "lng": -110.210865
+    },
+    {
+      "name": "Lagrange",
+      "slug": "lagrange",
+      "county": "Goshen County",
+      "lat": 41.642311,
+      "lng": -104.19738
+    },
+    {
+      "name": "Lance Creek",
+      "slug": "lance-creek",
+      "county": "Niobrara County",
+      "lat": 43.231636,
+      "lng": -104.544958
+    },
+    {
+      "name": "Lander",
+      "slug": "lander",
+      "county": "Fremont County",
+      "lat": 42.859678,
+      "lng": -108.738288
+    },
+    {
+      "name": "Laramie",
+      "slug": "laramie",
+      "county": "Albany County",
+      "lat": 41.312907,
+      "lng": -105.581146
+    },
+    {
+      "name": "Leiter",
+      "slug": "leiter",
+      "county": "Sheridan County",
+      "lat": 44.718056,
+      "lng": -106.268611
+    },
+    {
+      "name": "Linch",
+      "slug": "linch",
+      "county": "Johnson County",
+      "lat": 43.606389,
+      "lng": -106.195556
+    },
+    {
+      "name": "Lingle",
+      "slug": "lingle",
+      "county": "Goshen County",
+      "lat": 42.134624,
+      "lng": -104.331992
+    },
+    {
+      "name": "Little America",
+      "slug": "little-america",
+      "county": "Sweetwater County",
+      "lat": 41.543611,
+      "lng": -109.858333
+    },
+    {
+      "name": "Lonetree",
+      "slug": "lonetree",
+      "county": "Uinta County",
+      "lat": 41.049144,
+      "lng": -110.172862
+    },
+    {
+      "name": "Lost Springs",
+      "slug": "lost-springs",
+      "county": "Converse County",
+      "lat": 42.729835,
+      "lng": -104.920901
+    },
+    {
+      "name": "Lovell",
+      "slug": "lovell",
+      "county": "Big Horn County",
+      "lat": 44.833637,
+      "lng": -108.414107
+    },
+    {
+      "name": "Lusk",
+      "slug": "lusk",
+      "county": "Niobrara County",
+      "lat": 42.765953,
+      "lng": -104.465076
+    },
+    {
+      "name": "Lyman",
+      "slug": "lyman",
+      "county": "Uinta County",
+      "lat": 41.329136,
+      "lng": -110.292629
+    },
+    {
+      "name": "Lysite",
+      "slug": "lysite",
+      "county": "Fremont County",
+      "lat": 43.328417,
+      "lng": -107.648781
+    },
+    {
+      "name": "Manderson",
+      "slug": "manderson",
+      "county": "Big Horn County",
+      "lat": 44.311931,
+      "lng": -107.953423
+    },
+    {
+      "name": "Manville",
+      "slug": "manville",
+      "county": "Niobrara County",
+      "lat": 42.779167,
+      "lng": -104.617222
+    },
+    {
+      "name": "Mc Kinnon",
+      "slug": "mc-kinnon",
+      "county": "Sweetwater County",
+      "lat": 41.040898,
+      "lng": -109.874536
+    },
+    {
+      "name": "Medicine Bow",
+      "slug": "medicine-bow",
+      "county": "Carbon County",
+      "lat": 41.903002,
+      "lng": -106.201228
+    },
+    {
+      "name": "Meeteetse",
+      "slug": "meeteetse",
+      "county": "Park County",
+      "lat": 44.196202,
+      "lng": -108.950045
+    },
+    {
+      "name": "Meriden",
+      "slug": "meriden",
+      "county": "Laramie County",
+      "lat": 41.54236,
+      "lng": -104.286606
+    },
+    {
+      "name": "Midwest",
+      "slug": "midwest",
+      "county": "Natrona County",
+      "lat": 43.410829,
+      "lng": -106.266818
+    },
+    {
+      "name": "Mills",
+      "slug": "mills",
+      "county": "Natrona County",
+      "lat": 42.840556,
+      "lng": -106.365278
+    },
+    {
+      "name": "Moorcroft",
+      "slug": "moorcroft",
+      "county": "Crook County",
+      "lat": 44.299932,
+      "lng": -104.905904
+    },
+    {
+      "name": "Moose",
+      "slug": "moose",
+      "county": "Teton County",
+      "lat": 43.771201,
+      "lng": -110.857493
+    },
+    {
+      "name": "Moran",
+      "slug": "moran",
+      "county": "Teton County",
+      "lat": 43.881635,
+      "lng": -110.329429
+    },
+    {
+      "name": "Mountain View",
+      "slug": "mountain-view",
+      "county": "Uinta County",
+      "lat": 41.268889,
+      "lng": -110.339167
+    },
+    {
+      "name": "Natrona",
+      "slug": "natrona",
+      "county": "Natrona County",
+      "lat": 43.029722,
+      "lng": -106.808611
+    },
+    {
+      "name": "Newcastle",
+      "slug": "newcastle",
+      "county": "Weston County",
+      "lat": 43.851098,
+      "lng": -104.226205
+    },
+    {
+      "name": "Opal",
+      "slug": "opal",
+      "county": "Lincoln County",
+      "lat": 41.769167,
+      "lng": -110.325278
+    },
+    {
+      "name": "Osage",
+      "slug": "osage",
+      "county": "Weston County",
+      "lat": 43.998982,
+      "lng": -104.4226
+    },
+    {
+      "name": "Otto",
+      "slug": "otto",
+      "county": "Big Horn County",
+      "lat": 44.405644,
+      "lng": -108.304673
+    },
+    {
+      "name": "Parkman",
+      "slug": "parkman",
+      "county": "Sheridan County",
+      "lat": 44.964965,
+      "lng": -107.325393
+    },
+    {
+      "name": "Pavillion",
+      "slug": "pavillion",
+      "county": "Fremont County",
+      "lat": 43.198515,
+      "lng": -108.604394
+    },
+    {
+      "name": "Pine Bluffs",
+      "slug": "pine-bluffs",
+      "county": "Laramie County",
+      "lat": 41.178799,
+      "lng": -104.066591
+    },
+    {
+      "name": "Pinedale",
+      "slug": "pinedale",
+      "county": "Sublette County",
+      "lat": 42.854331,
+      "lng": -109.856088
+    },
+    {
+      "name": "Point Of Rocks",
+      "slug": "point-of-rocks",
+      "county": "Sweetwater County",
+      "lat": 41.680278,
+      "lng": -108.785
+    },
+    {
+      "name": "Powder River",
+      "slug": "powder-river",
+      "county": "Natrona County",
+      "lat": 43.032222,
+      "lng": -106.986667
+    },
+    {
+      "name": "Powell",
+      "slug": "powell",
+      "county": "Park County",
+      "lat": 44.756077,
+      "lng": -108.777322
+    },
+    {
+      "name": "Ralston",
+      "slug": "ralston",
+      "county": "Park County",
+      "lat": 44.716111,
+      "lng": -108.863889
+    },
+    {
+      "name": "Ranchester",
+      "slug": "ranchester",
+      "county": "Sheridan County",
+      "lat": 44.904789,
+      "lng": -107.159833
+    },
+    {
+      "name": "Rawlins",
+      "slug": "rawlins",
+      "county": "Carbon County",
+      "lat": 41.795131,
+      "lng": -107.234883
+    },
+    {
+      "name": "Recluse",
+      "slug": "recluse",
+      "county": "Campbell County",
+      "lat": 44.786149,
+      "lng": -105.776005
+    },
+    {
+      "name": "Reliance",
+      "slug": "reliance",
+      "county": "Sweetwater County",
+      "lat": 41.669167,
+      "lng": -109.196389
+    },
+    {
+      "name": "Riverton",
+      "slug": "riverton",
+      "county": "Fremont County",
+      "lat": 43.045786,
+      "lng": -108.411335
+    },
+    {
+      "name": "Robertson",
+      "slug": "robertson",
+      "county": "Uinta County",
+      "lat": 41.185278,
+      "lng": -110.4125
+    },
+    {
+      "name": "Rock River",
+      "slug": "rock-river",
+      "county": "Albany County",
+      "lat": 41.746073,
+      "lng": -105.974629
+    },
+    {
+      "name": "Rock Springs",
+      "slug": "rock-springs",
+      "county": "Sweetwater County",
+      "lat": 41.605957,
+      "lng": -109.230047
+    },
+    {
+      "name": "Rozet",
+      "slug": "rozet",
+      "county": "Campbell County",
+      "lat": 44.305825,
+      "lng": -105.245875
+    },
+    {
+      "name": "Saddlestring",
+      "slug": "saddlestring",
+      "county": "Johnson County",
+      "lat": 44.348333,
+      "lng": -106.698333
+    },
+    {
+      "name": "Saint Stephens",
+      "slug": "saint-stephens",
+      "county": "Fremont County",
+      "lat": 42.983889,
+      "lng": -108.415833
+    },
+    {
+      "name": "Saratoga",
+      "slug": "saratoga",
+      "county": "Carbon County",
+      "lat": 41.446293,
+      "lng": -106.797538
+    },
+    {
+      "name": "Savery",
+      "slug": "savery",
+      "county": "Carbon County",
+      "lat": 41.039485,
+      "lng": -107.42338
+    },
+    {
+      "name": "Shawnee",
+      "slug": "shawnee",
+      "county": "Converse County",
+      "lat": 42.839464,
+      "lng": -105.032447
+    },
+    {
+      "name": "Shell",
+      "slug": "shell",
+      "county": "Big Horn County",
+      "lat": 44.563649,
+      "lng": -107.824333
+    },
+    {
+      "name": "Sheridan",
+      "slug": "sheridan",
+      "county": "Sheridan County",
+      "lat": 44.78486,
+      "lng": -106.964795
+    },
+    {
+      "name": "Shirley Basin",
+      "slug": "shirley-basin",
+      "county": "Carbon County",
+      "lat": 42.222778,
+      "lng": -106.521944
+    },
+    {
+      "name": "Shoshoni",
+      "slug": "shoshoni",
+      "county": "Fremont County",
+      "lat": 43.245707,
+      "lng": -108.100667
+    },
+    {
+      "name": "Sinclair",
+      "slug": "sinclair",
+      "county": "Carbon County",
+      "lat": 41.779741,
+      "lng": -107.109083
+    },
+    {
+      "name": "Smoot",
+      "slug": "smoot",
+      "county": "Lincoln County",
+      "lat": 42.619238,
+      "lng": -110.922351
+    },
+    {
+      "name": "Story",
+      "slug": "story",
+      "county": "Sheridan County",
+      "lat": 44.607169,
+      "lng": -107.049229
+    },
+    {
+      "name": "Sundance",
+      "slug": "sundance",
+      "county": "Crook County",
+      "lat": 44.405755,
+      "lng": -104.383696
+    },
+    {
+      "name": "Superior",
+      "slug": "superior",
+      "county": "Sweetwater County",
+      "lat": 41.769444,
+      "lng": -108.975833
+    },
+    {
+      "name": "Ten Sleep",
+      "slug": "ten-sleep",
+      "county": "Washakie County",
+      "lat": 43.997848,
+      "lng": -107.415305
+    },
+    {
+      "name": "Teton Village",
+      "slug": "teton-village",
+      "county": "Teton County",
+      "lat": 43.588056,
+      "lng": -110.827222
+    },
+    {
+      "name": "Thayne",
+      "slug": "thayne",
+      "county": "Lincoln County",
+      "lat": 42.933026,
+      "lng": -111.011354
+    },
+    {
+      "name": "Thermopolis",
+      "slug": "thermopolis",
+      "county": "Hot Springs County",
+      "lat": 43.662152,
+      "lng": -108.231297
+    },
+    {
+      "name": "Tie Siding",
+      "slug": "tie-siding",
+      "county": "Albany County",
+      "lat": 41.052785,
+      "lng": -105.446222
+    },
+    {
+      "name": "Torrington",
+      "slug": "torrington",
+      "county": "Goshen County",
+      "lat": 42.062377,
+      "lng": -104.191662
+    },
+    {
+      "name": "Upton",
+      "slug": "upton",
+      "county": "Weston County",
+      "lat": 44.089271,
+      "lng": -104.635159
+    },
+    {
+      "name": "Van Tassell",
+      "slug": "van-tassell",
+      "county": "Niobrara County",
+      "lat": 42.830004,
+      "lng": -104.315073
+    },
+    {
+      "name": "Veteran",
+      "slug": "veteran",
+      "county": "Goshen County",
+      "lat": 41.982091,
+      "lng": -104.370899
+    },
+    {
+      "name": "Walcott",
+      "slug": "walcott",
+      "county": "Carbon County",
+      "lat": 41.761111,
+      "lng": -106.844444
+    },
+    {
+      "name": "Wamsutter",
+      "slug": "wamsutter",
+      "county": "Sweetwater County",
+      "lat": 41.658278,
+      "lng": -108.151674
+    },
+    {
+      "name": "Wapiti",
+      "slug": "wapiti",
+      "county": "Park County",
+      "lat": 44.47967,
+      "lng": -109.432629
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Campbell County",
+      "lat": 44.835689,
+      "lng": -105.373236
+    },
+    {
+      "name": "Wheatland",
+      "slug": "wheatland",
+      "county": "Platte County",
+      "lat": 42.049467,
+      "lng": -104.967852
+    },
+    {
+      "name": "Wilson",
+      "slug": "wilson",
+      "county": "Teton County",
+      "lat": 43.49922,
+      "lng": -110.874199
+    },
+    {
+      "name": "Wolf",
+      "slug": "wolf",
+      "county": "Sheridan County",
+      "lat": 44.768228,
+      "lng": -107.303429
+    },
+    {
+      "name": "Worland",
+      "slug": "worland",
+      "county": "Washakie County",
+      "lat": 44.013796,
+      "lng": -107.95626
+    },
+    {
+      "name": "Wright",
+      "slug": "wright",
+      "county": "Campbell County",
+      "lat": 43.829349,
+      "lng": -105.532327
+    },
+    {
+      "name": "Wyarno",
+      "slug": "wyarno",
+      "county": "Sheridan County",
+      "lat": 44.813333,
+      "lng": -106.773333
+    },
+    {
+      "name": "Yellowstone National Park",
+      "slug": "yellowstone-national-park",
+      "county": "Park County",
+      "lat": 44.853913,
+      "lng": -110.674366
+    },
+    {
+      "name": "Yoder",
+      "slug": "yoder",
+      "county": "Goshen County",
+      "lat": 41.912018,
+      "lng": -104.353507
+    }
+  ]
+}

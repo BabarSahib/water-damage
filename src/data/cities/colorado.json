@@ -1,0 +1,2807 @@
+{
+  "stateName": "Colorado",
+  "stateCode": "CO",
+  "stateSlug": "colorado",
+  "cities": [
+    {
+      "name": "Agate",
+      "slug": "agate",
+      "county": "Elbert County",
+      "lat": 39.420256,
+      "lng": -103.984575
+    },
+    {
+      "name": "Aguilar",
+      "slug": "aguilar",
+      "county": "Las Animas County",
+      "lat": 37.393304,
+      "lng": -104.676926
+    },
+    {
+      "name": "Akron",
+      "slug": "akron",
+      "county": "Washington County",
+      "lat": 40.180315,
+      "lng": -103.225885
+    },
+    {
+      "name": "Alamosa",
+      "slug": "alamosa",
+      "county": "Alamosa County",
+      "lat": 37.470274,
+      "lng": -105.878602
+    },
+    {
+      "name": "Allenspark",
+      "slug": "allenspark",
+      "county": "Boulder County",
+      "lat": 40.226775,
+      "lng": -105.520064
+    },
+    {
+      "name": "Alma",
+      "slug": "alma",
+      "county": "Park County",
+      "lat": 39.283889,
+      "lng": -106.062222
+    },
+    {
+      "name": "Almont",
+      "slug": "almont",
+      "county": "Gunnison County",
+      "lat": 38.64997,
+      "lng": -106.627099
+    },
+    {
+      "name": "Amherst",
+      "slug": "amherst",
+      "county": "Phillips County",
+      "lat": 40.682386,
+      "lng": -102.170567
+    },
+    {
+      "name": "Anton",
+      "slug": "anton",
+      "county": "Washington County",
+      "lat": 39.686527,
+      "lng": -103.434296
+    },
+    {
+      "name": "Antonito",
+      "slug": "antonito",
+      "county": "Conejos County",
+      "lat": 37.085473,
+      "lng": -106.037946
+    },
+    {
+      "name": "Arapahoe",
+      "slug": "arapahoe",
+      "county": "Cheyenne County",
+      "lat": 38.841716,
+      "lng": -102.19401
+    },
+    {
+      "name": "Arboles",
+      "slug": "arboles",
+      "county": "Archuleta County",
+      "lat": 37.101633,
+      "lng": -107.390749
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Kiowa County",
+      "lat": 38.40677,
+      "lng": -103.369741
+    },
+    {
+      "name": "Arriba",
+      "slug": "arriba",
+      "county": "Lincoln County",
+      "lat": 39.30253,
+      "lng": -103.270968
+    },
+    {
+      "name": "Arvada",
+      "slug": "arvada",
+      "county": "Jefferson County",
+      "lat": 39.8039,
+      "lng": -105.0859
+    },
+    {
+      "name": "Aspen",
+      "slug": "aspen",
+      "county": "Pitkin County",
+      "lat": 39.195139,
+      "lng": -106.823593
+    },
+    {
+      "name": "Atwood",
+      "slug": "atwood",
+      "county": "Logan County",
+      "lat": 40.517432,
+      "lng": -103.039301
+    },
+    {
+      "name": "Ault",
+      "slug": "ault",
+      "county": "Weld County",
+      "lat": 40.593772,
+      "lng": -104.735629
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "county": "Adams County",
+      "lat": 39.737809,
+      "lng": -104.815233
+    },
+    {
+      "name": "Austin",
+      "slug": "austin",
+      "county": "Delta County",
+      "lat": 38.797544,
+      "lng": -107.97384
+    },
+    {
+      "name": "Avon",
+      "slug": "avon",
+      "county": "Eagle County",
+      "lat": 39.631389,
+      "lng": -106.521667
+    },
+    {
+      "name": "Avondale",
+      "slug": "avondale",
+      "county": "Pueblo County",
+      "lat": 38.211603,
+      "lng": -104.359686
+    },
+    {
+      "name": "Bailey",
+      "slug": "bailey",
+      "county": "Park County",
+      "lat": 39.448233,
+      "lng": -105.469282
+    },
+    {
+      "name": "Basalt",
+      "slug": "basalt",
+      "county": "Eagle County",
+      "lat": 39.353466,
+      "lng": -106.998752
+    },
+    {
+      "name": "Battlement Mesa",
+      "slug": "battlement-mesa",
+      "county": "Garfield County",
+      "lat": 39.358333,
+      "lng": -107.914167
+    },
+    {
+      "name": "Bayfield",
+      "slug": "bayfield",
+      "county": "La Plata County",
+      "lat": 37.260328,
+      "lng": -107.613728
+    },
+    {
+      "name": "Bedrock",
+      "slug": "bedrock",
+      "county": "Montrose County",
+      "lat": 38.384352,
+      "lng": -108.953224
+    },
+    {
+      "name": "Bellvue",
+      "slug": "bellvue",
+      "county": "Larimer County",
+      "lat": 40.626528,
+      "lng": -105.260977
+    },
+    {
+      "name": "Bennett",
+      "slug": "bennett",
+      "county": "Adams County",
+      "lat": 39.725398,
+      "lng": -104.427284
+    },
+    {
+      "name": "Berthoud",
+      "slug": "berthoud",
+      "county": "Larimer County",
+      "lat": 40.299333,
+      "lng": -105.105459
+    },
+    {
+      "name": "Bethune",
+      "slug": "bethune",
+      "county": "Kit Carson County",
+      "lat": 39.344771,
+      "lng": -102.428142
+    },
+    {
+      "name": "Beulah",
+      "slug": "beulah",
+      "county": "Pueblo County",
+      "lat": 38.083712,
+      "lng": -104.97245
+    },
+    {
+      "name": "Black Hawk",
+      "slug": "black-hawk",
+      "county": "Gilpin County",
+      "lat": 39.801105,
+      "lng": -105.503991
+    },
+    {
+      "name": "Blanca",
+      "slug": "blanca",
+      "county": "Costilla County",
+      "lat": 37.431702,
+      "lng": -105.517784
+    },
+    {
+      "name": "Boncarbo",
+      "slug": "boncarbo",
+      "county": "Las Animas County",
+      "lat": 37.216667,
+      "lng": -104.694444
+    },
+    {
+      "name": "Bond",
+      "slug": "bond",
+      "county": "Eagle County",
+      "lat": 39.869119,
+      "lng": -106.676273
+    },
+    {
+      "name": "Boone",
+      "slug": "boone",
+      "county": "Pueblo County",
+      "lat": 38.264614,
+      "lng": -104.25851
+    },
+    {
+      "name": "Boulder",
+      "slug": "boulder",
+      "county": "Boulder County",
+      "lat": 40.049733,
+      "lng": -105.21426
+    },
+    {
+      "name": "Branson",
+      "slug": "branson",
+      "county": "Las Animas County",
+      "lat": 37.051775,
+      "lng": -103.874115
+    },
+    {
+      "name": "Breckenridge",
+      "slug": "breckenridge",
+      "county": "Summit County",
+      "lat": 39.481667,
+      "lng": -106.037778
+    },
+    {
+      "name": "Briggsdale",
+      "slug": "briggsdale",
+      "county": "Weld County",
+      "lat": 40.639192,
+      "lng": -104.28707
+    },
+    {
+      "name": "Brighton",
+      "slug": "brighton",
+      "county": "Adams County",
+      "lat": 39.980553,
+      "lng": -104.810278
+    },
+    {
+      "name": "Broomfield",
+      "slug": "broomfield",
+      "county": "Broomfield County",
+      "lat": 39.924513,
+      "lng": -105.060902
+    },
+    {
+      "name": "Brush",
+      "slug": "brush",
+      "county": "Morgan County",
+      "lat": 40.260255,
+      "lng": -103.62788
+    },
+    {
+      "name": "Buena Vista",
+      "slug": "buena-vista",
+      "county": "Chaffee County",
+      "lat": 38.838003,
+      "lng": -106.147121
+    },
+    {
+      "name": "Buffalo Creek",
+      "slug": "buffalo-creek",
+      "county": "Jefferson County",
+      "lat": 39.327222,
+      "lng": -105.371389
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Kit Carson County",
+      "lat": 39.310649,
+      "lng": -102.258281
+    },
+    {
+      "name": "Burns",
+      "slug": "burns",
+      "county": "Eagle County",
+      "lat": 39.873889,
+      "lng": -106.885
+    },
+    {
+      "name": "Byers",
+      "slug": "byers",
+      "county": "Arapahoe County",
+      "lat": 39.698454,
+      "lng": -104.201872
+    },
+    {
+      "name": "Cahone",
+      "slug": "cahone",
+      "county": "Dolores County",
+      "lat": 37.69163,
+      "lng": -108.579442
+    },
+    {
+      "name": "Calhan",
+      "slug": "calhan",
+      "county": "El Paso County",
+      "lat": 38.964773,
+      "lng": -104.355274
+    },
+    {
+      "name": "Campo",
+      "slug": "campo",
+      "county": "Baca County",
+      "lat": 37.119547,
+      "lng": -102.546423
+    },
+    {
+      "name": "Canon City",
+      "slug": "canon-city",
+      "county": "Fremont County",
+      "lat": 38.445074,
+      "lng": -105.217829
+    },
+    {
+      "name": "Capulin",
+      "slug": "capulin",
+      "county": "Conejos County",
+      "lat": 37.283889,
+      "lng": -106.110833
+    },
+    {
+      "name": "Carbondale",
+      "slug": "carbondale",
+      "county": "Garfield County",
+      "lat": 39.385431,
+      "lng": -107.171012
+    },
+    {
+      "name": "Carr",
+      "slug": "carr",
+      "county": "Weld County",
+      "lat": 40.866551,
+      "lng": -104.885865
+    },
+    {
+      "name": "Cascade",
+      "slug": "cascade",
+      "county": "El Paso County",
+      "lat": 38.921314,
+      "lng": -104.993684
+    },
+    {
+      "name": "Castle Rock",
+      "slug": "castle-rock",
+      "county": "Douglas County",
+      "lat": 39.39256,
+      "lng": -104.860187
+    },
+    {
+      "name": "Cedaredge",
+      "slug": "cedaredge",
+      "county": "Delta County",
+      "lat": 38.911878,
+      "lng": -107.926786
+    },
+    {
+      "name": "Center",
+      "slug": "center",
+      "county": "Rio Grande County",
+      "lat": 37.734295,
+      "lng": -106.090628
+    },
+    {
+      "name": "Central City",
+      "slug": "central-city",
+      "county": "Gilpin County",
+      "lat": 39.801944,
+      "lng": -105.513611
+    },
+    {
+      "name": "Chama",
+      "slug": "chama",
+      "county": "Costilla County",
+      "lat": 37.161944,
+      "lng": -105.377778
+    },
+    {
+      "name": "Cheraw",
+      "slug": "cheraw",
+      "county": "Otero County",
+      "lat": 38.106944,
+      "lng": -103.509722
+    },
+    {
+      "name": "Cheyenne Wells",
+      "slug": "cheyenne-wells",
+      "county": "Cheyenne County",
+      "lat": 38.819762,
+      "lng": -102.358173
+    },
+    {
+      "name": "Chimney Rock",
+      "slug": "chimney-rock",
+      "county": "Archuleta County",
+      "lat": 37.194444,
+      "lng": -107.300556
+    },
+    {
+      "name": "Chromo",
+      "slug": "chromo",
+      "county": "Archuleta County",
+      "lat": 37.036389,
+      "lng": -106.842778
+    },
+    {
+      "name": "Cimarron",
+      "slug": "cimarron",
+      "county": "Montrose County",
+      "lat": 38.387633,
+      "lng": -107.482366
+    },
+    {
+      "name": "Clark",
+      "slug": "clark",
+      "county": "Routt County",
+      "lat": 40.726783,
+      "lng": -106.921482
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Mesa County",
+      "lat": 39.0805,
+      "lng": -108.449628
+    },
+    {
+      "name": "Climax",
+      "slug": "climax",
+      "county": "Lake County",
+      "lat": 39.298804,
+      "lng": -106.258027
+    },
+    {
+      "name": "Coal Creek",
+      "slug": "coal-creek",
+      "county": "Fremont County",
+      "lat": 38.361111,
+      "lng": -105.147778
+    },
+    {
+      "name": "Coaldale",
+      "slug": "coaldale",
+      "county": "Fremont County",
+      "lat": 38.365556,
+      "lng": -105.757222
+    },
+    {
+      "name": "Coalmont",
+      "slug": "coalmont",
+      "county": "Jackson County",
+      "lat": 40.538252,
+      "lng": -106.532134
+    },
+    {
+      "name": "Collbran",
+      "slug": "collbran",
+      "county": "Mesa County",
+      "lat": 39.245267,
+      "lng": -107.924945
+    },
+    {
+      "name": "Colorado City",
+      "slug": "colorado-city",
+      "county": "Pueblo County",
+      "lat": 37.945278,
+      "lng": -104.834722
+    },
+    {
+      "name": "Colorado Springs",
+      "slug": "colorado-springs",
+      "county": "El Paso County",
+      "lat": 38.8335,
+      "lng": -104.8206
+    },
+    {
+      "name": "Commerce City",
+      "slug": "commerce-city",
+      "county": "Adams County",
+      "lat": 39.825875,
+      "lng": -104.911349
+    },
+    {
+      "name": "Como",
+      "slug": "como",
+      "county": "Park County",
+      "lat": 39.316111,
+      "lng": -105.892222
+    },
+    {
+      "name": "Conejos",
+      "slug": "conejos",
+      "county": "Conejos County",
+      "lat": 37.088333,
+      "lng": -106.019167
+    },
+    {
+      "name": "Conifer",
+      "slug": "conifer",
+      "county": "Jefferson County",
+      "lat": 39.519735,
+      "lng": -105.316873
+    },
+    {
+      "name": "Cope",
+      "slug": "cope",
+      "county": "Washington County",
+      "lat": 39.746227,
+      "lng": -102.988098
+    },
+    {
+      "name": "Cortez",
+      "slug": "cortez",
+      "county": "Montezuma County",
+      "lat": 37.354949,
+      "lng": -108.583726
+    },
+    {
+      "name": "Cory",
+      "slug": "cory",
+      "county": "Delta County",
+      "lat": 38.788056,
+      "lng": -107.986667
+    },
+    {
+      "name": "Cotopaxi",
+      "slug": "cotopaxi",
+      "county": "Fremont County",
+      "lat": 38.370278,
+      "lng": -105.6875
+    },
+    {
+      "name": "Cowdrey",
+      "slug": "cowdrey",
+      "county": "Jackson County",
+      "lat": 40.859722,
+      "lng": -106.3125
+    },
+    {
+      "name": "Craig",
+      "slug": "craig",
+      "county": "Moffat County",
+      "lat": 40.522351,
+      "lng": -107.561458
+    },
+    {
+      "name": "Crawford",
+      "slug": "crawford",
+      "county": "Delta County",
+      "lat": 38.69408,
+      "lng": -107.614864
+    },
+    {
+      "name": "Creede",
+      "slug": "creede",
+      "county": "Mineral County",
+      "lat": 37.816367,
+      "lng": -106.927679
+    },
+    {
+      "name": "Crested Butte",
+      "slug": "crested-butte",
+      "county": "Gunnison County",
+      "lat": 38.869081,
+      "lng": -106.961899
+    },
+    {
+      "name": "Crestone",
+      "slug": "crestone",
+      "county": "Saguache County",
+      "lat": 37.996389,
+      "lng": -105.699167
+    },
+    {
+      "name": "Cripple Creek",
+      "slug": "cripple-creek",
+      "county": "Teller County",
+      "lat": 38.746667,
+      "lng": -105.177778
+    },
+    {
+      "name": "Crook",
+      "slug": "crook",
+      "county": "Logan County",
+      "lat": 40.874743,
+      "lng": -102.847174
+    },
+    {
+      "name": "Crowley",
+      "slug": "crowley",
+      "county": "Crowley County",
+      "lat": 38.193,
+      "lng": -103.8555
+    },
+    {
+      "name": "Dacono",
+      "slug": "dacono",
+      "county": "Weld County",
+      "lat": 40.08361,
+      "lng": -104.929705
+    },
+    {
+      "name": "De Beque",
+      "slug": "de-beque",
+      "county": "Mesa County",
+      "lat": 39.311764,
+      "lng": -108.230405
+    },
+    {
+      "name": "Deer Trail",
+      "slug": "deer-trail",
+      "county": "Arapahoe County",
+      "lat": 39.593121,
+      "lng": -104.068003
+    },
+    {
+      "name": "Del Norte",
+      "slug": "del-norte",
+      "county": "Rio Grande County",
+      "lat": 37.671346,
+      "lng": -106.350502
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "county": "Delta County",
+      "lat": 38.734891,
+      "lng": -108.060421
+    },
+    {
+      "name": "Denver",
+      "slug": "denver",
+      "county": "Adams County",
+      "lat": 39.840562,
+      "lng": -105.007985
+    },
+    {
+      "name": "Dillon",
+      "slug": "dillon",
+      "county": "Summit County",
+      "lat": 39.574827,
+      "lng": -106.057345
+    },
+    {
+      "name": "Dinosaur",
+      "slug": "dinosaur",
+      "county": "Moffat County",
+      "lat": 40.256609,
+      "lng": -108.965184
+    },
+    {
+      "name": "Divide",
+      "slug": "divide",
+      "county": "Teller County",
+      "lat": 38.957622,
+      "lng": -105.19937
+    },
+    {
+      "name": "Dolores",
+      "slug": "dolores",
+      "county": "Montezuma County",
+      "lat": 37.466571,
+      "lng": -108.471748
+    },
+    {
+      "name": "Dove Creek",
+      "slug": "dove-creek",
+      "county": "Dolores County",
+      "lat": 37.763199,
+      "lng": -108.918147
+    },
+    {
+      "name": "Drake",
+      "slug": "drake",
+      "county": "Larimer County",
+      "lat": 40.443257,
+      "lng": -105.296925
+    },
+    {
+      "name": "Dumont",
+      "slug": "dumont",
+      "county": "Clear Creek County",
+      "lat": 39.764722,
+      "lng": -105.599722
+    },
+    {
+      "name": "Dupont",
+      "slug": "dupont",
+      "county": "Adams County",
+      "lat": 39.838056,
+      "lng": -104.911389
+    },
+    {
+      "name": "Durango",
+      "slug": "durango",
+      "county": "La Plata County",
+      "lat": 37.287388,
+      "lng": -107.861684
+    },
+    {
+      "name": "Eads",
+      "slug": "eads",
+      "county": "Kiowa County",
+      "lat": 38.444141,
+      "lng": -102.50536
+    },
+    {
+      "name": "Eagle",
+      "slug": "eagle",
+      "county": "Eagle County",
+      "lat": 39.634138,
+      "lng": -106.75884
+    },
+    {
+      "name": "Eastlake",
+      "slug": "eastlake",
+      "county": "Adams County",
+      "lat": 39.929722,
+      "lng": -104.948889
+    },
+    {
+      "name": "Eaton",
+      "slug": "eaton",
+      "county": "Weld County",
+      "lat": 40.527272,
+      "lng": -104.714559
+    },
+    {
+      "name": "Eckert",
+      "slug": "eckert",
+      "county": "Delta County",
+      "lat": 38.844982,
+      "lng": -107.962452
+    },
+    {
+      "name": "Eckley",
+      "slug": "eckley",
+      "county": "Yuma County",
+      "lat": 40.113775,
+      "lng": -102.482776
+    },
+    {
+      "name": "Edwards",
+      "slug": "edwards",
+      "county": "Eagle County",
+      "lat": 39.645,
+      "lng": -106.593611
+    },
+    {
+      "name": "Egnar",
+      "slug": "egnar",
+      "county": "San Miguel County",
+      "lat": 37.934448,
+      "lng": -108.929889
+    },
+    {
+      "name": "Elbert",
+      "slug": "elbert",
+      "county": "El Paso County",
+      "lat": 39.096892,
+      "lng": -104.574631
+    },
+    {
+      "name": "Eldorado Springs",
+      "slug": "eldorado-springs",
+      "county": "Boulder County",
+      "lat": 39.9325,
+      "lng": -105.276389
+    },
+    {
+      "name": "Elizabeth",
+      "slug": "elizabeth",
+      "county": "Elbert County",
+      "lat": 39.383618,
+      "lng": -104.591961
+    },
+    {
+      "name": "Empire",
+      "slug": "empire",
+      "county": "Clear Creek County",
+      "lat": 39.761389,
+      "lng": -105.683889
+    },
+    {
+      "name": "Englewood",
+      "slug": "englewood",
+      "county": "Arapahoe County",
+      "lat": 39.646027,
+      "lng": -104.990022
+    },
+    {
+      "name": "Erie",
+      "slug": "erie",
+      "county": "Boulder County",
+      "lat": 40.059746,
+      "lng": -105.068583
+    },
+    {
+      "name": "Estes Park",
+      "slug": "estes-park",
+      "county": "Larimer County",
+      "lat": 40.393611,
+      "lng": -105.494167
+    },
+    {
+      "name": "Evans",
+      "slug": "evans",
+      "county": "Weld County",
+      "lat": 40.380255,
+      "lng": -104.697095
+    },
+    {
+      "name": "Evergreen",
+      "slug": "evergreen",
+      "county": "Jefferson County",
+      "lat": 39.633333,
+      "lng": -105.316667
+    },
+    {
+      "name": "Fairplay",
+      "slug": "fairplay",
+      "county": "Park County",
+      "lat": 39.225617,
+      "lng": -105.999416
+    },
+    {
+      "name": "Firestone",
+      "slug": "firestone",
+      "county": "Weld County",
+      "lat": 40.1125,
+      "lng": -104.936111
+    },
+    {
+      "name": "Flagler",
+      "slug": "flagler",
+      "county": "Kit Carson County",
+      "lat": 39.312654,
+      "lng": -103.062395
+    },
+    {
+      "name": "Fleming",
+      "slug": "fleming",
+      "county": "Logan County",
+      "lat": 40.637019,
+      "lng": -102.868821
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Fremont County",
+      "lat": 38.385016,
+      "lng": -105.123233
+    },
+    {
+      "name": "Florissant",
+      "slug": "florissant",
+      "county": "Teller County",
+      "lat": 38.827669,
+      "lng": -105.226106
+    },
+    {
+      "name": "Fort Collins",
+      "slug": "fort-collins",
+      "county": "Larimer County",
+      "lat": 40.581293,
+      "lng": -105.103884
+    },
+    {
+      "name": "Fort Garland",
+      "slug": "fort-garland",
+      "county": "Costilla County",
+      "lat": 37.426978,
+      "lng": -105.404879
+    },
+    {
+      "name": "Fort Lupton",
+      "slug": "fort-lupton",
+      "county": "Weld County",
+      "lat": 40.078876,
+      "lng": -104.865639
+    },
+    {
+      "name": "Fort Lyon",
+      "slug": "fort-lyon",
+      "county": "Bent County",
+      "lat": 39.1,
+      "lng": -103.15
+    },
+    {
+      "name": "Fort Morgan",
+      "slug": "fort-morgan",
+      "county": "Morgan County",
+      "lat": 40.254084,
+      "lng": -103.803119
+    },
+    {
+      "name": "Fountain",
+      "slug": "fountain",
+      "county": "El Paso County",
+      "lat": 38.699563,
+      "lng": -104.700469
+    },
+    {
+      "name": "Fowler",
+      "slug": "fowler",
+      "county": "Otero County",
+      "lat": 38.123071,
+      "lng": -104.029908
+    },
+    {
+      "name": "Franktown",
+      "slug": "franktown",
+      "county": "Douglas County",
+      "lat": 39.372841,
+      "lng": -104.725569
+    },
+    {
+      "name": "Fraser",
+      "slug": "fraser",
+      "county": "Grand County",
+      "lat": 39.945,
+      "lng": -105.816667
+    },
+    {
+      "name": "Frederick",
+      "slug": "frederick",
+      "county": "Weld County",
+      "lat": 40.099167,
+      "lng": -104.936667
+    },
+    {
+      "name": "Frisco",
+      "slug": "frisco",
+      "county": "Summit County",
+      "lat": 39.468889,
+      "lng": -106.156389
+    },
+    {
+      "name": "Fruita",
+      "slug": "fruita",
+      "county": "Mesa County",
+      "lat": 39.163656,
+      "lng": -108.721757
+    },
+    {
+      "name": "Galeton",
+      "slug": "galeton",
+      "county": "Weld County",
+      "lat": 40.515034,
+      "lng": -104.597254
+    },
+    {
+      "name": "Garcia",
+      "slug": "garcia",
+      "county": "",
+      "lat": 37.004167,
+      "lng": -105.536667
+    },
+    {
+      "name": "Gardner",
+      "slug": "gardner",
+      "county": "Huerfano County",
+      "lat": 37.763753,
+      "lng": -105.237397
+    },
+    {
+      "name": "Gateway",
+      "slug": "gateway",
+      "county": "Mesa County",
+      "lat": 38.915136,
+      "lng": -108.791344
+    },
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "county": "Lincoln County",
+      "lat": 39.338328,
+      "lng": -103.460689
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Clear Creek County",
+      "lat": 39.706111,
+      "lng": -105.696944
+    },
+    {
+      "name": "Gilcrest",
+      "slug": "gilcrest",
+      "county": "Weld County",
+      "lat": 40.281944,
+      "lng": -104.777222
+    },
+    {
+      "name": "Gill",
+      "slug": "gill",
+      "county": "Weld County",
+      "lat": 40.469586,
+      "lng": -104.499995
+    },
+    {
+      "name": "Glade Park",
+      "slug": "glade-park",
+      "county": "Mesa County",
+      "lat": 38.993333,
+      "lng": -108.740278
+    },
+    {
+      "name": "Glen Haven",
+      "slug": "glen-haven",
+      "county": "Larimer County",
+      "lat": 40.453889,
+      "lng": -105.448611
+    },
+    {
+      "name": "Glenwood Springs",
+      "slug": "glenwood-springs",
+      "county": "Garfield County",
+      "lat": 39.529607,
+      "lng": -107.325188
+    },
+    {
+      "name": "Golden",
+      "slug": "golden",
+      "county": "Jefferson County",
+      "lat": 39.730548,
+      "lng": -105.191528
+    },
+    {
+      "name": "Granada",
+      "slug": "granada",
+      "county": "Prowers County",
+      "lat": 38.054485,
+      "lng": -102.32712
+    },
+    {
+      "name": "Granby",
+      "slug": "granby",
+      "county": "Grand County",
+      "lat": 40.012834,
+      "lng": -105.889916
+    },
+    {
+      "name": "Grand Junction",
+      "slug": "grand-junction",
+      "county": "Mesa County",
+      "lat": 39.078326,
+      "lng": -108.545692
+    },
+    {
+      "name": "Grand Lake",
+      "slug": "grand-lake",
+      "county": "Grand County",
+      "lat": 40.228862,
+      "lng": -105.860488
+    },
+    {
+      "name": "Granite",
+      "slug": "granite",
+      "county": "Chaffee County",
+      "lat": 39.095294,
+      "lng": -106.311417
+    },
+    {
+      "name": "Grant",
+      "slug": "grant",
+      "county": "Park County",
+      "lat": 39.459722,
+      "lng": -105.661111
+    },
+    {
+      "name": "Greeley",
+      "slug": "greeley",
+      "county": "Weld County",
+      "lat": 40.413968,
+      "lng": -104.704756
+    },
+    {
+      "name": "Green Mountain Falls",
+      "slug": "green-mountain-falls",
+      "county": "El Paso County",
+      "lat": 38.934444,
+      "lng": -105.0175
+    },
+    {
+      "name": "Grover",
+      "slug": "grover",
+      "county": "Weld County",
+      "lat": 40.871635,
+      "lng": -104.234613
+    },
+    {
+      "name": "Guffey",
+      "slug": "guffey",
+      "county": "Park County",
+      "lat": 38.814584,
+      "lng": -105.57835
+    },
+    {
+      "name": "Gunnison",
+      "slug": "gunnison",
+      "county": "Gunnison County",
+      "lat": 38.551056,
+      "lng": -106.931013
+    },
+    {
+      "name": "Gypsum",
+      "slug": "gypsum",
+      "county": "Eagle County",
+      "lat": 39.661848,
+      "lng": -106.967083
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "county": "Moffat County",
+      "lat": 40.32504,
+      "lng": -107.584089
+    },
+    {
+      "name": "Hartman",
+      "slug": "hartman",
+      "county": "Prowers County",
+      "lat": 38.145291,
+      "lng": -102.186609
+    },
+    {
+      "name": "Hartsel",
+      "slug": "hartsel",
+      "county": "Park County",
+      "lat": 39.021667,
+      "lng": -105.795278
+    },
+    {
+      "name": "Hasty",
+      "slug": "hasty",
+      "county": "Bent County",
+      "lat": 38.107347,
+      "lng": -102.933145
+    },
+    {
+      "name": "Haswell",
+      "slug": "haswell",
+      "county": "Kiowa County",
+      "lat": 38.447431,
+      "lng": -103.150543
+    },
+    {
+      "name": "Haxtun",
+      "slug": "haxtun",
+      "county": "Phillips County",
+      "lat": 40.640587,
+      "lng": -102.605175
+    },
+    {
+      "name": "Hayden",
+      "slug": "hayden",
+      "county": "Routt County",
+      "lat": 40.494487,
+      "lng": -107.257055
+    },
+    {
+      "name": "Henderson",
+      "slug": "henderson",
+      "county": "Adams County",
+      "lat": 39.898304,
+      "lng": -104.871834
+    },
+    {
+      "name": "Hereford",
+      "slug": "hereford",
+      "county": "Weld County",
+      "lat": 40.975,
+      "lng": -104.305278
+    },
+    {
+      "name": "Hesperus",
+      "slug": "hesperus",
+      "county": "La Plata County",
+      "lat": 37.165368,
+      "lng": -108.121917
+    },
+    {
+      "name": "Hillrose",
+      "slug": "hillrose",
+      "county": "Morgan County",
+      "lat": 40.307186,
+      "lng": -103.541816
+    },
+    {
+      "name": "Hillside",
+      "slug": "hillside",
+      "county": "Fremont County",
+      "lat": 38.265278,
+      "lng": -105.611111
+    },
+    {
+      "name": "Hoehne",
+      "slug": "hoehne",
+      "county": "Las Animas County",
+      "lat": 37.281111,
+      "lng": -104.380556
+    },
+    {
+      "name": "Holly",
+      "slug": "holly",
+      "county": "Prowers County",
+      "lat": 38.0205,
+      "lng": -102.141466
+    },
+    {
+      "name": "Holyoke",
+      "slug": "holyoke",
+      "county": "Phillips County",
+      "lat": 40.582542,
+      "lng": -102.282545
+    },
+    {
+      "name": "Homelake",
+      "slug": "homelake",
+      "county": "Rio Grande County",
+      "lat": 37.575556,
+      "lng": -106.096389
+    },
+    {
+      "name": "Hooper",
+      "slug": "hooper",
+      "county": "Alamosa County",
+      "lat": 37.723203,
+      "lng": -105.871193
+    },
+    {
+      "name": "Hot Sulphur Springs",
+      "slug": "hot-sulphur-springs",
+      "county": "Grand County",
+      "lat": 40.073056,
+      "lng": -106.102222
+    },
+    {
+      "name": "Hotchkiss",
+      "slug": "hotchkiss",
+      "county": "Delta County",
+      "lat": 38.812417,
+      "lng": -107.747173
+    },
+    {
+      "name": "Howard",
+      "slug": "howard",
+      "county": "Fremont County",
+      "lat": 38.388519,
+      "lng": -105.747124
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Weld County",
+      "lat": 40.060555,
+      "lng": -104.653208
+    },
+    {
+      "name": "Hugo",
+      "slug": "hugo",
+      "county": "Lincoln County",
+      "lat": 39.084318,
+      "lng": -103.498971
+    },
+    {
+      "name": "Hygiene",
+      "slug": "hygiene",
+      "county": "Boulder County",
+      "lat": 40.188611,
+      "lng": -105.180278
+    },
+    {
+      "name": "Idaho Springs",
+      "slug": "idaho-springs",
+      "county": "Clear Creek County",
+      "lat": 39.740192,
+      "lng": -105.598261
+    },
+    {
+      "name": "Idalia",
+      "slug": "idalia",
+      "county": "Yuma County",
+      "lat": 39.733147,
+      "lng": -102.211563
+    },
+    {
+      "name": "Idledale",
+      "slug": "idledale",
+      "county": "Jefferson County",
+      "lat": 39.666111,
+      "lng": -105.243611
+    },
+    {
+      "name": "Ignacio",
+      "slug": "ignacio",
+      "county": "La Plata County",
+      "lat": 37.126412,
+      "lng": -107.639465
+    },
+    {
+      "name": "Iliff",
+      "slug": "iliff",
+      "county": "Logan County",
+      "lat": 40.769174,
+      "lng": -103.096808
+    },
+    {
+      "name": "Indian Hills",
+      "slug": "indian-hills",
+      "county": "Jefferson County",
+      "lat": 39.616667,
+      "lng": -105.236667
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Boulder County",
+      "lat": 40.10056,
+      "lng": -105.418971
+    },
+    {
+      "name": "Jaroso",
+      "slug": "jaroso",
+      "county": "Costilla County",
+      "lat": 37.002778,
+      "lng": -105.623611
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Park County",
+      "lat": 39.300926,
+      "lng": -105.78633
+    },
+    {
+      "name": "Joes",
+      "slug": "joes",
+      "county": "Yuma County",
+      "lat": 39.672771,
+      "lng": -102.615134
+    },
+    {
+      "name": "Johnstown",
+      "slug": "johnstown",
+      "county": "Weld County",
+      "lat": 40.335526,
+      "lng": -104.923558
+    },
+    {
+      "name": "Julesburg",
+      "slug": "julesburg",
+      "county": "Sedgwick County",
+      "lat": 40.97083,
+      "lng": -102.257501
+    },
+    {
+      "name": "Karval",
+      "slug": "karval",
+      "county": "Lincoln County",
+      "lat": 38.71194,
+      "lng": -103.500613
+    },
+    {
+      "name": "Keenesburg",
+      "slug": "keenesburg",
+      "county": "Weld County",
+      "lat": 40.095847,
+      "lng": -104.446366
+    },
+    {
+      "name": "Kersey",
+      "slug": "kersey",
+      "county": "Weld County",
+      "lat": 40.396305,
+      "lng": -104.528768
+    },
+    {
+      "name": "Kim",
+      "slug": "kim",
+      "county": "Las Animas County",
+      "lat": 37.331189,
+      "lng": -103.358348
+    },
+    {
+      "name": "Kiowa",
+      "slug": "kiowa",
+      "county": "Elbert County",
+      "lat": 39.323972,
+      "lng": -104.452263
+    },
+    {
+      "name": "Kirk",
+      "slug": "kirk",
+      "county": "Yuma County",
+      "lat": 39.617072,
+      "lng": -102.477554
+    },
+    {
+      "name": "Kit Carson",
+      "slug": "kit-carson",
+      "county": "Cheyenne County",
+      "lat": 38.803984,
+      "lng": -102.819842
+    },
+    {
+      "name": "Kittredge",
+      "slug": "kittredge",
+      "county": "Jefferson County",
+      "lat": 39.654722,
+      "lng": -105.299167
+    },
+    {
+      "name": "Kremmling",
+      "slug": "kremmling",
+      "county": "Grand County",
+      "lat": 40.063224,
+      "lng": -106.395472
+    },
+    {
+      "name": "La Jara",
+      "slug": "la-jara",
+      "county": "Conejos County",
+      "lat": 37.290726,
+      "lng": -106.005427
+    },
+    {
+      "name": "La Junta",
+      "slug": "la-junta",
+      "county": "Otero County",
+      "lat": 37.991552,
+      "lng": -103.549068
+    },
+    {
+      "name": "La Salle",
+      "slug": "la-salle",
+      "county": "Weld County",
+      "lat": 40.321138,
+      "lng": -104.726784
+    },
+    {
+      "name": "La Veta",
+      "slug": "la-veta",
+      "county": "Huerfano County",
+      "lat": 37.498292,
+      "lng": -105.012994
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Boulder County",
+      "lat": 39.997964,
+      "lng": -105.096346
+    },
+    {
+      "name": "Lake City",
+      "slug": "lake-city",
+      "county": "Hinsdale County",
+      "lat": 37.986769,
+      "lng": -107.302037
+    },
+    {
+      "name": "Lake George",
+      "slug": "lake-george",
+      "county": "Park County",
+      "lat": 39.034233,
+      "lng": -105.434654
+    },
+    {
+      "name": "Lamar",
+      "slug": "lamar",
+      "county": "Prowers County",
+      "lat": 38.084136,
+      "lng": -102.619195
+    },
+    {
+      "name": "Laporte",
+      "slug": "laporte",
+      "county": "Larimer County",
+      "lat": 40.634683,
+      "lng": -105.148757
+    },
+    {
+      "name": "Larkspur",
+      "slug": "larkspur",
+      "county": "Douglas County",
+      "lat": 39.201079,
+      "lng": -104.854587
+    },
+    {
+      "name": "Las Animas",
+      "slug": "las-animas",
+      "county": "Bent County",
+      "lat": 38.065514,
+      "lng": -103.208492
+    },
+    {
+      "name": "Lazear",
+      "slug": "lazear",
+      "county": "Delta County",
+      "lat": 38.78,
+      "lng": -107.781111
+    },
+    {
+      "name": "Leadville",
+      "slug": "leadville",
+      "county": "Lake County",
+      "lat": 39.249742,
+      "lng": -106.301545
+    },
+    {
+      "name": "Lewis",
+      "slug": "lewis",
+      "county": "Montezuma County",
+      "lat": 37.47101,
+      "lng": -108.61891
+    },
+    {
+      "name": "Limon",
+      "slug": "limon",
+      "county": "Lincoln County",
+      "lat": 39.263889,
+      "lng": -103.691667
+    },
+    {
+      "name": "Lindon",
+      "slug": "lindon",
+      "county": "Washington County",
+      "lat": 39.830849,
+      "lng": -103.314471
+    },
+    {
+      "name": "Littleton",
+      "slug": "littleton",
+      "county": "Arapahoe County",
+      "lat": 39.599426,
+      "lng": -105.0044
+    },
+    {
+      "name": "Livermore",
+      "slug": "livermore",
+      "county": "Larimer County",
+      "lat": 40.779878,
+      "lng": -105.367745
+    },
+    {
+      "name": "Log Lane Village",
+      "slug": "log-lane-village",
+      "county": "Morgan County",
+      "lat": 40.250278,
+      "lng": -103.799444
+    },
+    {
+      "name": "Loma",
+      "slug": "loma",
+      "county": "Mesa County",
+      "lat": 39.227896,
+      "lng": -108.814902
+    },
+    {
+      "name": "Longmont",
+      "slug": "longmont",
+      "county": "Boulder County",
+      "lat": 40.177921,
+      "lng": -105.10095
+    },
+    {
+      "name": "Louisville",
+      "slug": "louisville",
+      "county": "Boulder County",
+      "lat": 39.978942,
+      "lng": -105.145557
+    },
+    {
+      "name": "Louviers",
+      "slug": "louviers",
+      "county": "Douglas County",
+      "lat": 39.477778,
+      "lng": -105.006667
+    },
+    {
+      "name": "Loveland",
+      "slug": "loveland",
+      "county": "Larimer County",
+      "lat": 40.384917,
+      "lng": -105.09164
+    },
+    {
+      "name": "Lucerne",
+      "slug": "lucerne",
+      "county": "Weld County",
+      "lat": 40.481944,
+      "lng": -104.699167
+    },
+    {
+      "name": "Lyons",
+      "slug": "lyons",
+      "county": "Boulder County",
+      "lat": 40.235715,
+      "lng": -105.323071
+    },
+    {
+      "name": "Mack",
+      "slug": "mack",
+      "county": "Mesa County",
+      "lat": 39.255367,
+      "lng": -108.929597
+    },
+    {
+      "name": "Manassa",
+      "slug": "manassa",
+      "county": "Conejos County",
+      "lat": 37.174167,
+      "lng": -105.936944
+    },
+    {
+      "name": "Mancos",
+      "slug": "mancos",
+      "county": "Montezuma County",
+      "lat": 37.347133,
+      "lng": -108.298242
+    },
+    {
+      "name": "Manitou Springs",
+      "slug": "manitou-springs",
+      "county": "El Paso County",
+      "lat": 38.854994,
+      "lng": -104.905839
+    },
+    {
+      "name": "Manzanola",
+      "slug": "manzanola",
+      "county": "Otero County",
+      "lat": 38.110861,
+      "lng": -103.876602
+    },
+    {
+      "name": "Marvel",
+      "slug": "marvel",
+      "county": "La Plata County",
+      "lat": 37.1125,
+      "lng": -108.126111
+    },
+    {
+      "name": "Masonville",
+      "slug": "masonville",
+      "county": "Larimer County",
+      "lat": 40.4875,
+      "lng": -105.210278
+    },
+    {
+      "name": "Matheson",
+      "slug": "matheson",
+      "county": "Elbert County",
+      "lat": 39.132044,
+      "lng": -103.913165
+    },
+    {
+      "name": "Maybell",
+      "slug": "maybell",
+      "county": "Moffat County",
+      "lat": 40.650649,
+      "lng": -108.272264
+    },
+    {
+      "name": "Mc Clave",
+      "slug": "mc-clave",
+      "county": "Bent County",
+      "lat": 38.150484,
+      "lng": -102.816934
+    },
+    {
+      "name": "Mc Coy",
+      "slug": "mc-coy",
+      "county": "Eagle County",
+      "lat": 39.913377,
+      "lng": -106.730906
+    },
+    {
+      "name": "Mead",
+      "slug": "mead",
+      "county": "Weld County",
+      "lat": 40.233333,
+      "lng": -104.998056
+    },
+    {
+      "name": "Meeker",
+      "slug": "meeker",
+      "county": "Rio Blanco County",
+      "lat": 40.038726,
+      "lng": -107.892498
+    },
+    {
+      "name": "Meredith",
+      "slug": "meredith",
+      "county": "Pitkin County",
+      "lat": 39.335348,
+      "lng": -106.67823
+    },
+    {
+      "name": "Merino",
+      "slug": "merino",
+      "county": "Logan County",
+      "lat": 40.511548,
+      "lng": -103.34471
+    },
+    {
+      "name": "Mesa",
+      "slug": "mesa",
+      "county": "Mesa County",
+      "lat": 39.161161,
+      "lng": -108.104401
+    },
+    {
+      "name": "Mesa Verde National Park",
+      "slug": "mesa-verde-national-park",
+      "county": "Montezuma County",
+      "lat": 37.233056,
+      "lng": -108.479167
+    },
+    {
+      "name": "Milliken",
+      "slug": "milliken",
+      "county": "Weld County",
+      "lat": 40.310656,
+      "lng": -104.876137
+    },
+    {
+      "name": "Minturn",
+      "slug": "minturn",
+      "county": "Eagle County",
+      "lat": 39.532778,
+      "lng": -106.393333
+    },
+    {
+      "name": "Model",
+      "slug": "model",
+      "county": "Las Animas County",
+      "lat": 37.478533,
+      "lng": -104.13074
+    },
+    {
+      "name": "Moffat",
+      "slug": "moffat",
+      "county": "Saguache County",
+      "lat": 38.045195,
+      "lng": -105.841051
+    },
+    {
+      "name": "Molina",
+      "slug": "molina",
+      "county": "Mesa County",
+      "lat": 39.189167,
+      "lng": -108.059722
+    },
+    {
+      "name": "Monarch",
+      "slug": "monarch",
+      "county": "Chaffee County",
+      "lat": 38.532778,
+      "lng": -106.049444
+    },
+    {
+      "name": "Monte Vista",
+      "slug": "monte-vista",
+      "county": "Rio Grande County",
+      "lat": 37.573095,
+      "lng": -106.140833
+    },
+    {
+      "name": "Montrose",
+      "slug": "montrose",
+      "county": "Montrose County",
+      "lat": 38.46783,
+      "lng": -107.875182
+    },
+    {
+      "name": "Monument",
+      "slug": "monument",
+      "county": "El Paso County",
+      "lat": 39.100726,
+      "lng": -104.85416
+    },
+    {
+      "name": "Morrison",
+      "slug": "morrison",
+      "county": "Jefferson County",
+      "lat": 39.612452,
+      "lng": -105.174641
+    },
+    {
+      "name": "Mosca",
+      "slug": "mosca",
+      "county": "Alamosa County",
+      "lat": 37.635796,
+      "lng": -105.806866
+    },
+    {
+      "name": "Nathrop",
+      "slug": "nathrop",
+      "county": "Chaffee County",
+      "lat": 38.710343,
+      "lng": -106.116576
+    },
+    {
+      "name": "Naturita",
+      "slug": "naturita",
+      "county": "Montrose County",
+      "lat": 38.222559,
+      "lng": -108.572836
+    },
+    {
+      "name": "Nederland",
+      "slug": "nederland",
+      "county": "Boulder County",
+      "lat": 39.970259,
+      "lng": -105.481265
+    },
+    {
+      "name": "New Castle",
+      "slug": "new-castle",
+      "county": "Garfield County",
+      "lat": 39.570922,
+      "lng": -107.542758
+    },
+    {
+      "name": "New Raymer",
+      "slug": "new-raymer",
+      "county": "Weld County",
+      "lat": 40.685079,
+      "lng": -103.838982
+    },
+    {
+      "name": "Niwot",
+      "slug": "niwot",
+      "county": "Boulder County",
+      "lat": 40.103889,
+      "lng": -105.170278
+    },
+    {
+      "name": "Norwood",
+      "slug": "norwood",
+      "county": "San Miguel County",
+      "lat": 38.110406,
+      "lng": -108.284472
+    },
+    {
+      "name": "Nucla",
+      "slug": "nucla",
+      "county": "Montrose County",
+      "lat": 38.268219,
+      "lng": -108.547644
+    },
+    {
+      "name": "Nunn",
+      "slug": "nunn",
+      "county": "Weld County",
+      "lat": 40.726483,
+      "lng": -104.785012
+    },
+    {
+      "name": "Oak Creek",
+      "slug": "oak-creek",
+      "county": "Routt County",
+      "lat": 40.256733,
+      "lng": -106.929621
+    },
+    {
+      "name": "Ohio City",
+      "slug": "ohio-city",
+      "county": "Gunnison County",
+      "lat": 38.545556,
+      "lng": -106.588889
+    },
+    {
+      "name": "Olathe",
+      "slug": "olathe",
+      "county": "Montrose County",
+      "lat": 38.597575,
+      "lng": -107.992118
+    },
+    {
+      "name": "Olney Springs",
+      "slug": "olney-springs",
+      "county": "Crowley County",
+      "lat": 38.201877,
+      "lng": -103.941033
+    },
+    {
+      "name": "Ophir",
+      "slug": "ophir",
+      "county": "San Miguel County",
+      "lat": 37.856197,
+      "lng": -107.851961
+    },
+    {
+      "name": "Orchard",
+      "slug": "orchard",
+      "county": "Morgan County",
+      "lat": 40.363946,
+      "lng": -104.097325
+    },
+    {
+      "name": "Ordway",
+      "slug": "ordway",
+      "county": "Crowley County",
+      "lat": 38.209546,
+      "lng": -103.800277
+    },
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "county": "Washington County",
+      "lat": 40.202989,
+      "lng": -102.939219
+    },
+    {
+      "name": "Ouray",
+      "slug": "ouray",
+      "county": "Ouray County",
+      "lat": 38.02576,
+      "lng": -107.67261
+    },
+    {
+      "name": "Ovid",
+      "slug": "ovid",
+      "county": "Sedgwick County",
+      "lat": 40.945865,
+      "lng": -102.387396
+    },
+    {
+      "name": "Padroni",
+      "slug": "padroni",
+      "county": "Logan County",
+      "lat": 40.954911,
+      "lng": -103.358163
+    },
+    {
+      "name": "Pagosa Springs",
+      "slug": "pagosa-springs",
+      "county": "Archuleta County",
+      "lat": 37.252345,
+      "lng": -107.038497
+    },
+    {
+      "name": "Palisade",
+      "slug": "palisade",
+      "county": "Mesa County",
+      "lat": 39.103178,
+      "lng": -108.367977
+    },
+    {
+      "name": "Palmer Lake",
+      "slug": "palmer-lake",
+      "county": "El Paso County",
+      "lat": 39.120498,
+      "lng": -104.914795
+    },
+    {
+      "name": "Paoli",
+      "slug": "paoli",
+      "county": "Phillips County",
+      "lat": 40.612222,
+      "lng": -102.472222
+    },
+    {
+      "name": "Paonia",
+      "slug": "paonia",
+      "county": "Delta County",
+      "lat": 38.864978,
+      "lng": -107.598483
+    },
+    {
+      "name": "Parachute",
+      "slug": "parachute",
+      "county": "Garfield County",
+      "lat": 39.440729,
+      "lng": -108.038038
+    },
+    {
+      "name": "Paradox",
+      "slug": "paradox",
+      "county": "Montrose County",
+      "lat": 38.368333,
+      "lng": -108.961667
+    },
+    {
+      "name": "Parker",
+      "slug": "parker",
+      "county": "Douglas County",
+      "lat": 39.505466,
+      "lng": -104.734904
+    },
+    {
+      "name": "Parlin",
+      "slug": "parlin",
+      "county": "Gunnison County",
+      "lat": 38.508762,
+      "lng": -106.677995
+    },
+    {
+      "name": "Parshall",
+      "slug": "parshall",
+      "county": "Grand County",
+      "lat": 40.053765,
+      "lng": -106.225492
+    },
+    {
+      "name": "Peetz",
+      "slug": "peetz",
+      "county": "Logan County",
+      "lat": 40.95195,
+      "lng": -103.116606
+    },
+    {
+      "name": "Penrose",
+      "slug": "penrose",
+      "county": "Fremont County",
+      "lat": 38.433622,
+      "lng": -105.011325
+    },
+    {
+      "name": "Peyton",
+      "slug": "peyton",
+      "county": "El Paso County",
+      "lat": 38.954097,
+      "lng": -104.54722
+    },
+    {
+      "name": "Phippsburg",
+      "slug": "phippsburg",
+      "county": "Routt County",
+      "lat": 40.232222,
+      "lng": -106.943056
+    },
+    {
+      "name": "Pierce",
+      "slug": "pierce",
+      "county": "Weld County",
+      "lat": 40.635911,
+      "lng": -104.763764
+    },
+    {
+      "name": "Pine",
+      "slug": "pine",
+      "county": "Jefferson County",
+      "lat": 39.46667,
+      "lng": -105.374116
+    },
+    {
+      "name": "Pinecliffe",
+      "slug": "pinecliffe",
+      "county": "Boulder County",
+      "lat": 39.942898,
+      "lng": -105.354004
+    },
+    {
+      "name": "Pitkin",
+      "slug": "pitkin",
+      "county": "Gunnison County",
+      "lat": 38.608542,
+      "lng": -106.516774
+    },
+    {
+      "name": "Placerville",
+      "slug": "placerville",
+      "county": "San Miguel County",
+      "lat": 38.008759,
+      "lng": -108.024775
+    },
+    {
+      "name": "Platteville",
+      "slug": "platteville",
+      "county": "Weld County",
+      "lat": 40.213121,
+      "lng": -104.802776
+    },
+    {
+      "name": "Pleasant View",
+      "slug": "pleasant-view",
+      "county": "Montezuma County",
+      "lat": 37.588763,
+      "lng": -108.809487
+    },
+    {
+      "name": "Poncha Springs",
+      "slug": "poncha-springs",
+      "county": "Chaffee County",
+      "lat": 38.512778,
+      "lng": -106.076667
+    },
+    {
+      "name": "Powderhorn",
+      "slug": "powderhorn",
+      "county": "Gunnison County",
+      "lat": 38.282165,
+      "lng": -107.108449
+    },
+    {
+      "name": "Pritchett",
+      "slug": "pritchett",
+      "county": "Baca County",
+      "lat": 37.355885,
+      "lng": -102.893106
+    },
+    {
+      "name": "Pueblo",
+      "slug": "pueblo",
+      "county": "Pueblo County",
+      "lat": 38.287876,
+      "lng": -104.584828
+    },
+    {
+      "name": "Ramah",
+      "slug": "ramah",
+      "county": "El Paso County",
+      "lat": 39.073571,
+      "lng": -104.124733
+    },
+    {
+      "name": "Rand",
+      "slug": "rand",
+      "county": "Jackson County",
+      "lat": 40.453889,
+      "lng": -106.180833
+    },
+    {
+      "name": "Rangely",
+      "slug": "rangely",
+      "county": "Rio Blanco County",
+      "lat": 40.082844,
+      "lng": -108.799148
+    },
+    {
+      "name": "Red Cliff",
+      "slug": "red-cliff",
+      "county": "Eagle County",
+      "lat": 39.512222,
+      "lng": -106.3675
+    },
+    {
+      "name": "Red Feather Lakes",
+      "slug": "red-feather-lakes",
+      "county": "Larimer County",
+      "lat": 40.796451,
+      "lng": -105.624455
+    },
+    {
+      "name": "Redvale",
+      "slug": "redvale",
+      "county": "Montrose County",
+      "lat": 38.186452,
+      "lng": -108.389536
+    },
+    {
+      "name": "Rico",
+      "slug": "rico",
+      "county": "Dolores County",
+      "lat": 37.692778,
+      "lng": -108.029722
+    },
+    {
+      "name": "Ridgway",
+      "slug": "ridgway",
+      "county": "Ouray County",
+      "lat": 38.138074,
+      "lng": -107.753341
+    },
+    {
+      "name": "Rifle",
+      "slug": "rifle",
+      "county": "Garfield County",
+      "lat": 39.549073,
+      "lng": -107.789804
+    },
+    {
+      "name": "Rockvale",
+      "slug": "rockvale",
+      "county": "Fremont County",
+      "lat": 38.119444,
+      "lng": -105.163889
+    },
+    {
+      "name": "Rocky Ford",
+      "slug": "rocky-ford",
+      "county": "Otero County",
+      "lat": 38.049016,
+      "lng": -103.725143
+    },
+    {
+      "name": "Roggen",
+      "slug": "roggen",
+      "county": "Weld County",
+      "lat": 40.207445,
+      "lng": -104.315747
+    },
+    {
+      "name": "Rollinsville",
+      "slug": "rollinsville",
+      "county": "Gilpin County",
+      "lat": 39.910757,
+      "lng": -105.472596
+    },
+    {
+      "name": "Romeo",
+      "slug": "romeo",
+      "county": "Conejos County",
+      "lat": 37.172222,
+      "lng": -105.984722
+    },
+    {
+      "name": "Rush",
+      "slug": "rush",
+      "county": "El Paso County",
+      "lat": 38.764248,
+      "lng": -104.024065
+    },
+    {
+      "name": "Rye",
+      "slug": "rye",
+      "county": "Pueblo County",
+      "lat": 37.937145,
+      "lng": -104.886257
+    },
+    {
+      "name": "Saguache",
+      "slug": "saguache",
+      "county": "Saguache County",
+      "lat": 38.09775,
+      "lng": -106.187592
+    },
+    {
+      "name": "Salida",
+      "slug": "salida",
+      "county": "Chaffee County",
+      "lat": 38.525909,
+      "lng": -105.997818
+    },
+    {
+      "name": "San Luis",
+      "slug": "san-luis",
+      "county": "Costilla County",
+      "lat": 37.05057,
+      "lng": -105.575625
+    },
+    {
+      "name": "San Pablo",
+      "slug": "san-pablo",
+      "county": "Costilla County",
+      "lat": 37.134872,
+      "lng": -105.346196
+    },
+    {
+      "name": "Sanford",
+      "slug": "sanford",
+      "county": "Conejos County",
+      "lat": 37.208724,
+      "lng": -105.928588
+    },
+    {
+      "name": "Sargents",
+      "slug": "sargents",
+      "county": "Saguache County",
+      "lat": 38.404167,
+      "lng": -106.414444
+    },
+    {
+      "name": "Sedalia",
+      "slug": "sedalia",
+      "county": "Douglas County",
+      "lat": 39.330109,
+      "lng": -105.008305
+    },
+    {
+      "name": "Sedgwick",
+      "slug": "sedgwick",
+      "county": "Sedgwick County",
+      "lat": 40.910317,
+      "lng": -102.529122
+    },
+    {
+      "name": "Seibert",
+      "slug": "seibert",
+      "county": "Kit Carson County",
+      "lat": 39.318329,
+      "lng": -102.882184
+    },
+    {
+      "name": "Severance",
+      "slug": "severance",
+      "county": "Weld County",
+      "lat": 40.524167,
+      "lng": -104.850556
+    },
+    {
+      "name": "Shawnee",
+      "slug": "shawnee",
+      "county": "Park County",
+      "lat": 39.421111,
+      "lng": -105.553611
+    },
+    {
+      "name": "Sheridan Lake",
+      "slug": "sheridan-lake",
+      "county": "Kiowa County",
+      "lat": 38.462172,
+      "lng": -102.295367
+    },
+    {
+      "name": "Silt",
+      "slug": "silt",
+      "county": "Garfield County",
+      "lat": 39.541464,
+      "lng": -107.657411
+    },
+    {
+      "name": "Silver Plume",
+      "slug": "silver-plume",
+      "county": "Clear Creek County",
+      "lat": 39.696111,
+      "lng": -105.725278
+    },
+    {
+      "name": "Silverthorne",
+      "slug": "silverthorne",
+      "county": "Summit County",
+      "lat": 39.6375,
+      "lng": -106.061389
+    },
+    {
+      "name": "Silverton",
+      "slug": "silverton",
+      "county": "San Juan County",
+      "lat": 37.808995,
+      "lng": -107.666686
+    },
+    {
+      "name": "Simla",
+      "slug": "simla",
+      "county": "Elbert County",
+      "lat": 39.146457,
+      "lng": -104.086236
+    },
+    {
+      "name": "Slater",
+      "slug": "slater",
+      "county": "Moffat County",
+      "lat": 40.947985,
+      "lng": -107.497178
+    },
+    {
+      "name": "Snowmass",
+      "slug": "snowmass",
+      "county": "Pitkin County",
+      "lat": 39.250059,
+      "lng": -106.950839
+    },
+    {
+      "name": "Snowmass Village",
+      "slug": "snowmass-village",
+      "county": "Pitkin County",
+      "lat": 39.213056,
+      "lng": -106.937222
+    },
+    {
+      "name": "Snyder",
+      "slug": "snyder",
+      "county": "Morgan County",
+      "lat": 40.330655,
+      "lng": -103.597134
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "Gunnison County",
+      "lat": 38.946801,
+      "lng": -107.378145
+    },
+    {
+      "name": "South Fork",
+      "slug": "south-fork",
+      "county": "Rio Grande County",
+      "lat": 37.67248,
+      "lng": -106.612451
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Baca County",
+      "lat": 37.406727,
+      "lng": -102.617322
+    },
+    {
+      "name": "Steamboat Springs",
+      "slug": "steamboat-springs",
+      "county": "Routt County",
+      "lat": 40.485,
+      "lng": -106.8311
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Logan County",
+      "lat": 40.63062,
+      "lng": -103.221183
+    },
+    {
+      "name": "Stoneham",
+      "slug": "stoneham",
+      "county": "Weld County",
+      "lat": 40.686994,
+      "lng": -103.638687
+    },
+    {
+      "name": "Strasburg",
+      "slug": "strasburg",
+      "county": "Adams County",
+      "lat": 39.781359,
+      "lng": -104.268258
+    },
+    {
+      "name": "Stratton",
+      "slug": "stratton",
+      "county": "Kit Carson County",
+      "lat": 39.308733,
+      "lng": -102.597928
+    },
+    {
+      "name": "Sugar City",
+      "slug": "sugar-city",
+      "county": "Crowley County",
+      "lat": 38.244368,
+      "lng": -103.655557
+    },
+    {
+      "name": "Swink",
+      "slug": "swink",
+      "county": "Otero County",
+      "lat": 38.014444,
+      "lng": -103.627778
+    },
+    {
+      "name": "Tabernash",
+      "slug": "tabernash",
+      "county": "Grand County",
+      "lat": 39.993611,
+      "lng": -105.8425
+    },
+    {
+      "name": "Telluride",
+      "slug": "telluride",
+      "county": "San Miguel County",
+      "lat": 37.940028,
+      "lng": -107.821371
+    },
+    {
+      "name": "Timnath",
+      "slug": "timnath",
+      "county": "Larimer County",
+      "lat": 40.529167,
+      "lng": -104.984722
+    },
+    {
+      "name": "Toponas",
+      "slug": "toponas",
+      "county": "Routt County",
+      "lat": 40.119601,
+      "lng": -106.908172
+    },
+    {
+      "name": "Towaoc",
+      "slug": "towaoc",
+      "county": "Montezuma County",
+      "lat": 37.208408,
+      "lng": -108.719993
+    },
+    {
+      "name": "Trinchera",
+      "slug": "trinchera",
+      "county": "Las Animas County",
+      "lat": 37.075662,
+      "lng": -104.118354
+    },
+    {
+      "name": "Trinidad",
+      "slug": "trinidad",
+      "county": "Las Animas County",
+      "lat": 37.175475,
+      "lng": -104.500715
+    },
+    {
+      "name": "Twin Lakes",
+      "slug": "twin-lakes",
+      "county": "Lake County",
+      "lat": 39.090231,
+      "lng": -106.435079
+    },
+    {
+      "name": "Two Buttes",
+      "slug": "two-buttes",
+      "county": "Baca County",
+      "lat": 37.57476,
+      "lng": -102.320128
+    },
+    {
+      "name": "U S A F Academy",
+      "slug": "u-s-a-f-academy",
+      "county": "El Paso County",
+      "lat": 38.990448,
+      "lng": -104.860139
+    },
+    {
+      "name": "Vail",
+      "slug": "vail",
+      "county": "Eagle County",
+      "lat": 39.623793,
+      "lng": -106.463454
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "county": "Yuma County",
+      "lat": 39.933127,
+      "lng": -102.319343
+    },
+    {
+      "name": "Victor",
+      "slug": "victor",
+      "county": "Teller County",
+      "lat": 38.71,
+      "lng": -105.139444
+    },
+    {
+      "name": "Vilas",
+      "slug": "vilas",
+      "county": "Baca County",
+      "lat": 37.373043,
+      "lng": -102.44374
+    },
+    {
+      "name": "Villa Grove",
+      "slug": "villa-grove",
+      "county": "Saguache County",
+      "lat": 38.2952,
+      "lng": -106.110183
+    },
+    {
+      "name": "Vona",
+      "slug": "vona",
+      "county": "Kit Carson County",
+      "lat": 39.323564,
+      "lng": -102.739287
+    },
+    {
+      "name": "Walden",
+      "slug": "walden",
+      "county": "Jackson County",
+      "lat": 40.709978,
+      "lng": -106.276728
+    },
+    {
+      "name": "Walsenburg",
+      "slug": "walsenburg",
+      "county": "Huerfano County",
+      "lat": 37.638159,
+      "lng": -104.804301
+    },
+    {
+      "name": "Walsh",
+      "slug": "walsh",
+      "county": "Baca County",
+      "lat": 37.352057,
+      "lng": -102.253716
+    },
+    {
+      "name": "Ward",
+      "slug": "ward",
+      "county": "Boulder County",
+      "lat": 40.072572,
+      "lng": -105.508023
+    },
+    {
+      "name": "Watkins",
+      "slug": "watkins",
+      "county": "Adams County",
+      "lat": 39.762317,
+      "lng": -104.583391
+    },
+    {
+      "name": "Weldona",
+      "slug": "weldona",
+      "county": "Morgan County",
+      "lat": 40.368093,
+      "lng": -103.967755
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "county": "Larimer County",
+      "lat": 40.725525,
+      "lng": -105.031844
+    },
+    {
+      "name": "Westcliffe",
+      "slug": "westcliffe",
+      "county": "Custer County",
+      "lat": 38.123023,
+      "lng": -105.433154
+    },
+    {
+      "name": "Westminster",
+      "slug": "westminster",
+      "county": "Adams County",
+      "lat": 39.854238,
+      "lng": -105.037086
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Las Animas County",
+      "lat": 37.170211,
+      "lng": -104.824749
+    },
+    {
+      "name": "Wetmore",
+      "slug": "wetmore",
+      "county": "Custer County",
+      "lat": 38.189857,
+      "lng": -105.106441
+    },
+    {
+      "name": "Wheat Ridge",
+      "slug": "wheat-ridge",
+      "county": "Jefferson County",
+      "lat": 39.774036,
+      "lng": -105.096195
+    },
+    {
+      "name": "Whitewater",
+      "slug": "whitewater",
+      "county": "Mesa County",
+      "lat": 38.974422,
+      "lng": -108.399042
+    },
+    {
+      "name": "Wiggins",
+      "slug": "wiggins",
+      "county": "Morgan County",
+      "lat": 40.205651,
+      "lng": -104.052814
+    },
+    {
+      "name": "Wild Horse",
+      "slug": "wild-horse",
+      "county": "Cheyenne County",
+      "lat": 38.825833,
+      "lng": -103.011111
+    },
+    {
+      "name": "Wiley",
+      "slug": "wiley",
+      "county": "Prowers County",
+      "lat": 38.158978,
+      "lng": -102.714734
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Weld County",
+      "lat": 40.483663,
+      "lng": -104.899442
+    },
+    {
+      "name": "Winter Park",
+      "slug": "winter-park",
+      "county": "Grand County",
+      "lat": 39.891667,
+      "lng": -105.7625
+    },
+    {
+      "name": "Wolcott",
+      "slug": "wolcott",
+      "county": "Eagle County",
+      "lat": 39.702778,
+      "lng": -106.678056
+    },
+    {
+      "name": "Woodland Park",
+      "slug": "woodland-park",
+      "county": "Teller County",
+      "lat": 38.996929,
+      "lng": -105.062292
+    },
+    {
+      "name": "Woodrow",
+      "slug": "woodrow",
+      "county": "Washington County",
+      "lat": 39.938105,
+      "lng": -103.578033
+    },
+    {
+      "name": "Woody Creek",
+      "slug": "woody-creek",
+      "county": "Pitkin County",
+      "lat": 39.276944,
+      "lng": -106.890833
+    },
+    {
+      "name": "Wray",
+      "slug": "wray",
+      "county": "Yuma County",
+      "lat": 40.104917,
+      "lng": -102.233751
+    },
+    {
+      "name": "Yampa",
+      "slug": "yampa",
+      "county": "Routt County",
+      "lat": 40.1525,
+      "lng": -106.908056
+    },
+    {
+      "name": "Yellow Jacket",
+      "slug": "yellow-jacket",
+      "county": "Montezuma County",
+      "lat": 37.499526,
+      "lng": -108.785167
+    },
+    {
+      "name": "Yoder",
+      "slug": "yoder",
+      "county": "El Paso County",
+      "lat": 38.775252,
+      "lng": -104.218353
+    },
+    {
+      "name": "Yuma",
+      "slug": "yuma",
+      "county": "Yuma County",
+      "lat": 40.130063,
+      "lng": -102.707174
+    }
+  ]
+}

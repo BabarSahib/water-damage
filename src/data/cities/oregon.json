@@ -1,0 +1,2660 @@
+{
+  "stateName": "Oregon",
+  "stateCode": "OR",
+  "stateSlug": "oregon",
+  "cities": [
+    {
+      "name": "Adams",
+      "slug": "adams",
+      "county": "Umatilla County",
+      "lat": 45.749678,
+      "lng": -118.617582
+    },
+    {
+      "name": "Adel",
+      "slug": "adel",
+      "county": "Lake County",
+      "lat": 42.148697,
+      "lng": -119.883291
+    },
+    {
+      "name": "Adrian",
+      "slug": "adrian",
+      "county": "Malheur County",
+      "lat": 43.653712,
+      "lng": -117.060193
+    },
+    {
+      "name": "Agness",
+      "slug": "agness",
+      "county": "Curry County",
+      "lat": 42.574788,
+      "lng": -124.064769
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Linn County",
+      "lat": 44.627722,
+      "lng": -123.094409
+    },
+    {
+      "name": "Allegany",
+      "slug": "allegany",
+      "county": "Coos County",
+      "lat": 43.426111,
+      "lng": -124.031111
+    },
+    {
+      "name": "Alsea",
+      "slug": "alsea",
+      "county": "Benton County",
+      "lat": 44.369068,
+      "lng": -123.60892
+    },
+    {
+      "name": "Alvadore",
+      "slug": "alvadore",
+      "county": "Lane County",
+      "lat": 44.126944,
+      "lng": -123.263333
+    },
+    {
+      "name": "Amity",
+      "slug": "amity",
+      "county": "Yamhill County",
+      "lat": 45.115704,
+      "lng": -123.174402
+    },
+    {
+      "name": "Antelope",
+      "slug": "antelope",
+      "county": "Wasco County",
+      "lat": 44.889196,
+      "lng": -120.791384
+    },
+    {
+      "name": "Arch Cape",
+      "slug": "arch-cape",
+      "county": "Clatsop County",
+      "lat": 45.801944,
+      "lng": -123.966667
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Gilliam County",
+      "lat": 45.666417,
+      "lng": -120.197148
+    },
+    {
+      "name": "Arock",
+      "slug": "arock",
+      "county": "Malheur County",
+      "lat": 43.970896,
+      "lng": -117.034189
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Jackson County",
+      "lat": 42.188509,
+      "lng": -122.693033
+    },
+    {
+      "name": "Ashwood",
+      "slug": "ashwood",
+      "county": "Jefferson County",
+      "lat": 44.719479,
+      "lng": -120.719161
+    },
+    {
+      "name": "Astoria",
+      "slug": "astoria",
+      "county": "Clatsop County",
+      "lat": 46.155802,
+      "lng": -123.79798
+    },
+    {
+      "name": "Athena",
+      "slug": "athena",
+      "county": "Umatilla County",
+      "lat": 45.828893,
+      "lng": -118.497147
+    },
+    {
+      "name": "Aumsville",
+      "slug": "aumsville",
+      "county": "Marion County",
+      "lat": 44.817817,
+      "lng": -122.878575
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "county": "Marion County",
+      "lat": 45.228432,
+      "lng": -122.803881
+    },
+    {
+      "name": "Azalea",
+      "slug": "azalea",
+      "county": "Douglas County",
+      "lat": 42.844992,
+      "lng": -123.155017
+    },
+    {
+      "name": "Baker City",
+      "slug": "baker-city",
+      "county": "Baker County",
+      "lat": 44.780102,
+      "lng": -117.828631
+    },
+    {
+      "name": "Bandon",
+      "slug": "bandon",
+      "county": "Coos County",
+      "lat": 43.096806,
+      "lng": -124.40367
+    },
+    {
+      "name": "Banks",
+      "slug": "banks",
+      "county": "Washington County",
+      "lat": 45.653476,
+      "lng": -123.120982
+    },
+    {
+      "name": "Bates",
+      "slug": "bates",
+      "county": "Grant County",
+      "lat": 44.593056,
+      "lng": -118.5075
+    },
+    {
+      "name": "Bay City",
+      "slug": "bay-city",
+      "county": "Tillamook County",
+      "lat": 45.519658,
+      "lng": -123.876075
+    },
+    {
+      "name": "Beatty",
+      "slug": "beatty",
+      "county": "Klamath County",
+      "lat": 42.436942,
+      "lng": -121.219962
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Tillamook County",
+      "lat": 45.276746,
+      "lng": -123.823417
+    },
+    {
+      "name": "Beavercreek",
+      "slug": "beavercreek",
+      "county": "Clackamas County",
+      "lat": 45.259723,
+      "lng": -122.475122
+    },
+    {
+      "name": "Beaverton",
+      "slug": "beaverton",
+      "county": "Washington County",
+      "lat": 45.475035,
+      "lng": -122.805395
+    },
+    {
+      "name": "Bend",
+      "slug": "bend",
+      "county": "Deschutes County",
+      "lat": 44.092788,
+      "lng": -121.293632
+    },
+    {
+      "name": "Blachly",
+      "slug": "blachly",
+      "county": "Lane County",
+      "lat": 44.196597,
+      "lng": -123.534816
+    },
+    {
+      "name": "Blodgett",
+      "slug": "blodgett",
+      "county": "Benton County",
+      "lat": 44.628141,
+      "lng": -123.606715
+    },
+    {
+      "name": "Blue River",
+      "slug": "blue-river",
+      "county": "Lane County",
+      "lat": 44.177809,
+      "lng": -122.222951
+    },
+    {
+      "name": "Bly",
+      "slug": "bly",
+      "county": "Klamath County",
+      "lat": 42.397778,
+      "lng": -121.040556
+    },
+    {
+      "name": "Boardman",
+      "slug": "boardman",
+      "county": "Morrow County",
+      "lat": 45.827165,
+      "lng": -119.72057
+    },
+    {
+      "name": "Bonanza",
+      "slug": "bonanza",
+      "county": "Klamath County",
+      "lat": 42.246268,
+      "lng": -121.333558
+    },
+    {
+      "name": "Boring",
+      "slug": "boring",
+      "county": "Clackamas County",
+      "lat": 45.429704,
+      "lng": -122.380713
+    },
+    {
+      "name": "Bridal Veil",
+      "slug": "bridal-veil",
+      "county": "Multnomah County",
+      "lat": 45.557904,
+      "lng": -122.176587
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Baker County",
+      "lat": 44.485833,
+      "lng": -117.744167
+    },
+    {
+      "name": "Brightwood",
+      "slug": "brightwood",
+      "county": "Clackamas County",
+      "lat": 45.365218,
+      "lng": -122.003621
+    },
+    {
+      "name": "Broadbent",
+      "slug": "broadbent",
+      "county": "Coos County",
+      "lat": 42.985048,
+      "lng": -124.118924
+    },
+    {
+      "name": "Brogan",
+      "slug": "brogan",
+      "county": "Malheur County",
+      "lat": 44.199396,
+      "lng": -117.590371
+    },
+    {
+      "name": "Brookings",
+      "slug": "brookings",
+      "county": "Curry County",
+      "lat": 42.064004,
+      "lng": -124.267811
+    },
+    {
+      "name": "Brothers",
+      "slug": "brothers",
+      "county": "Deschutes County",
+      "lat": 43.778877,
+      "lng": -120.477035
+    },
+    {
+      "name": "Brownsville",
+      "slug": "brownsville",
+      "county": "Linn County",
+      "lat": 44.376974,
+      "lng": -122.948491
+    },
+    {
+      "name": "Burns",
+      "slug": "burns",
+      "county": "Harney County",
+      "lat": 43.51451,
+      "lng": -119.050398
+    },
+    {
+      "name": "Butte Falls",
+      "slug": "butte-falls",
+      "county": "Jackson County",
+      "lat": 42.549243,
+      "lng": -122.563801
+    },
+    {
+      "name": "Buxton",
+      "slug": "buxton",
+      "county": "Washington County",
+      "lat": 45.736983,
+      "lng": -123.214555
+    },
+    {
+      "name": "Camas Valley",
+      "slug": "camas-valley",
+      "county": "Douglas County",
+      "lat": 43.05566,
+      "lng": -123.665465
+    },
+    {
+      "name": "Camp Sherman",
+      "slug": "camp-sherman",
+      "county": "Jefferson County",
+      "lat": 44.454997,
+      "lng": -121.639363
+    },
+    {
+      "name": "Canby",
+      "slug": "canby",
+      "county": "Clackamas County",
+      "lat": 45.251425,
+      "lng": -122.68322
+    },
+    {
+      "name": "Cannon Beach",
+      "slug": "cannon-beach",
+      "county": "Clatsop County",
+      "lat": 45.881944,
+      "lng": -123.963056
+    },
+    {
+      "name": "Canyon City",
+      "slug": "canyon-city",
+      "county": "Grant County",
+      "lat": 44.410005,
+      "lng": -118.950155
+    },
+    {
+      "name": "Canyonville",
+      "slug": "canyonville",
+      "county": "Douglas County",
+      "lat": 42.930683,
+      "lng": -123.278015
+    },
+    {
+      "name": "Carlton",
+      "slug": "carlton",
+      "county": "Yamhill County",
+      "lat": 45.28593,
+      "lng": -123.152346
+    },
+    {
+      "name": "Cascade Locks",
+      "slug": "cascade-locks",
+      "county": "Hood River County",
+      "lat": 45.671447,
+      "lng": -121.882411
+    },
+    {
+      "name": "Cascadia",
+      "slug": "cascadia",
+      "county": "Linn County",
+      "lat": 44.392239,
+      "lng": -122.464214
+    },
+    {
+      "name": "Cave Junction",
+      "slug": "cave-junction",
+      "county": "Josephine County",
+      "lat": 42.134789,
+      "lng": -123.627199
+    },
+    {
+      "name": "Central Point",
+      "slug": "central-point",
+      "county": "Jackson County",
+      "lat": 42.389914,
+      "lng": -122.922235
+    },
+    {
+      "name": "Chemult",
+      "slug": "chemult",
+      "county": "Klamath County",
+      "lat": 43.124669,
+      "lng": -121.8447
+    },
+    {
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "county": "Lane County",
+      "lat": 44.178206,
+      "lng": -123.371516
+    },
+    {
+      "name": "Chiloquin",
+      "slug": "chiloquin",
+      "county": "Klamath County",
+      "lat": 42.546293,
+      "lng": -121.744959
+    },
+    {
+      "name": "Christmas Valley",
+      "slug": "christmas-valley",
+      "county": "Lake County",
+      "lat": 43.236389,
+      "lng": -120.635833
+    },
+    {
+      "name": "Clackamas",
+      "slug": "clackamas",
+      "county": "Clackamas County",
+      "lat": 45.414992,
+      "lng": -122.52005
+    },
+    {
+      "name": "Clatskanie",
+      "slug": "clatskanie",
+      "county": "Columbia County",
+      "lat": 46.09978,
+      "lng": -123.2124
+    },
+    {
+      "name": "Cloverdale",
+      "slug": "cloverdale",
+      "county": "Tillamook County",
+      "lat": 45.285821,
+      "lng": -123.835628
+    },
+    {
+      "name": "Colton",
+      "slug": "colton",
+      "county": "Clackamas County",
+      "lat": 45.157291,
+      "lng": -122.424753
+    },
+    {
+      "name": "Columbia City",
+      "slug": "columbia-city",
+      "county": "Columbia County",
+      "lat": 45.892474,
+      "lng": -122.812174
+    },
+    {
+      "name": "Condon",
+      "slug": "condon",
+      "county": "Gilliam County",
+      "lat": 45.230587,
+      "lng": -120.189834
+    },
+    {
+      "name": "Coos Bay",
+      "slug": "coos-bay",
+      "county": "Coos County",
+      "lat": 43.362812,
+      "lng": -124.233101
+    },
+    {
+      "name": "Coquille",
+      "slug": "coquille",
+      "county": "Coos County",
+      "lat": 43.188413,
+      "lng": -124.201386
+    },
+    {
+      "name": "Corbett",
+      "slug": "corbett",
+      "county": "Multnomah County",
+      "lat": 45.522116,
+      "lng": -122.241746
+    },
+    {
+      "name": "Cornelius",
+      "slug": "cornelius",
+      "county": "Washington County",
+      "lat": 45.529034,
+      "lng": -123.041536
+    },
+    {
+      "name": "Corvallis",
+      "slug": "corvallis",
+      "county": "Benton County",
+      "lat": 44.590411,
+      "lng": -123.272171
+    },
+    {
+      "name": "Cottage Grove",
+      "slug": "cottage-grove",
+      "county": "Lane County",
+      "lat": 43.783934,
+      "lng": -123.05291
+    },
+    {
+      "name": "Cove",
+      "slug": "cove",
+      "county": "Union County",
+      "lat": 45.319902,
+      "lng": -117.814741
+    },
+    {
+      "name": "Crabtree",
+      "slug": "crabtree",
+      "county": "Linn County",
+      "lat": 44.635278,
+      "lng": -122.896944
+    },
+    {
+      "name": "Crane",
+      "slug": "crane",
+      "county": "Harney County",
+      "lat": 43.426219,
+      "lng": -118.4642
+    },
+    {
+      "name": "Crater Lake",
+      "slug": "crater-lake",
+      "county": "Klamath County",
+      "lat": 42.943889,
+      "lng": -122.105556
+    },
+    {
+      "name": "Crawfordsville",
+      "slug": "crawfordsville",
+      "county": "Linn County",
+      "lat": 44.357222,
+      "lng": -122.856667
+    },
+    {
+      "name": "Crescent",
+      "slug": "crescent",
+      "county": "Klamath County",
+      "lat": 43.497226,
+      "lng": -121.664813
+    },
+    {
+      "name": "Crescent Lake",
+      "slug": "crescent-lake",
+      "county": "Klamath County",
+      "lat": 43.509444,
+      "lng": -121.968333
+    },
+    {
+      "name": "Creswell",
+      "slug": "creswell",
+      "county": "Lane County",
+      "lat": 43.90583,
+      "lng": -123.02838
+    },
+    {
+      "name": "Culp Creek",
+      "slug": "culp-creek",
+      "county": "Lane County",
+      "lat": 43.684534,
+      "lng": -122.752417
+    },
+    {
+      "name": "Culver",
+      "slug": "culver",
+      "county": "Jefferson County",
+      "lat": 44.481796,
+      "lng": -121.234353
+    },
+    {
+      "name": "Curtin",
+      "slug": "curtin",
+      "county": "Douglas County",
+      "lat": 43.7225,
+      "lng": -123.210833
+    },
+    {
+      "name": "Dairy",
+      "slug": "dairy",
+      "county": "Klamath County",
+      "lat": 42.258141,
+      "lng": -121.642453
+    },
+    {
+      "name": "Dallas",
+      "slug": "dallas",
+      "county": "Polk County",
+      "lat": 44.922534,
+      "lng": -123.319991
+    },
+    {
+      "name": "Damascus",
+      "slug": "damascus",
+      "county": "Clackamas County",
+      "lat": 45.425391,
+      "lng": -122.436877
+    },
+    {
+      "name": "Days Creek",
+      "slug": "days-creek",
+      "county": "Douglas County",
+      "lat": 42.981946,
+      "lng": -123.14387
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Yamhill County",
+      "lat": 45.197722,
+      "lng": -123.075332
+    },
+    {
+      "name": "Dayville",
+      "slug": "dayville",
+      "county": "Grant County",
+      "lat": 44.466307,
+      "lng": -119.531178
+    },
+    {
+      "name": "Deadwood",
+      "slug": "deadwood",
+      "county": "Lane County",
+      "lat": 44.145131,
+      "lng": -123.688328
+    },
+    {
+      "name": "Deer Island",
+      "slug": "deer-island",
+      "county": "Columbia County",
+      "lat": 45.935553,
+      "lng": -122.898458
+    },
+    {
+      "name": "Depoe Bay",
+      "slug": "depoe-bay",
+      "county": "Lincoln County",
+      "lat": 44.851445,
+      "lng": -124.03234
+    },
+    {
+      "name": "Detroit",
+      "slug": "detroit",
+      "county": "Marion County",
+      "lat": 44.776619,
+      "lng": -122.18447
+    },
+    {
+      "name": "Dexter",
+      "slug": "dexter",
+      "county": "Lane County",
+      "lat": 43.921691,
+      "lng": -122.842351
+    },
+    {
+      "name": "Diamond",
+      "slug": "diamond",
+      "county": "Harney County",
+      "lat": 43.012222,
+      "lng": -118.665
+    },
+    {
+      "name": "Dillard",
+      "slug": "dillard",
+      "county": "Douglas County",
+      "lat": 43.103056,
+      "lng": -123.426667
+    },
+    {
+      "name": "Donald",
+      "slug": "donald",
+      "county": "Marion County",
+      "lat": 45.2225,
+      "lng": -122.838056
+    },
+    {
+      "name": "Dorena",
+      "slug": "dorena",
+      "county": "Lane County",
+      "lat": 43.758655,
+      "lng": -122.885796
+    },
+    {
+      "name": "Drain",
+      "slug": "drain",
+      "county": "Douglas County",
+      "lat": 43.687659,
+      "lng": -123.292922
+    },
+    {
+      "name": "Drewsey",
+      "slug": "drewsey",
+      "county": "Harney County",
+      "lat": 43.864277,
+      "lng": -118.47066
+    },
+    {
+      "name": "Dufur",
+      "slug": "dufur",
+      "county": "Wasco County",
+      "lat": 45.429099,
+      "lng": -121.146797
+    },
+    {
+      "name": "Dundee",
+      "slug": "dundee",
+      "county": "Yamhill County",
+      "lat": 45.27761,
+      "lng": -123.01523
+    },
+    {
+      "name": "Durkee",
+      "slug": "durkee",
+      "county": "Baker County",
+      "lat": 44.582222,
+      "lng": -117.463611
+    },
+    {
+      "name": "Eagle Creek",
+      "slug": "eagle-creek",
+      "county": "Clackamas County",
+      "lat": 45.358205,
+      "lng": -122.338053
+    },
+    {
+      "name": "Eagle Point",
+      "slug": "eagle-point",
+      "county": "Jackson County",
+      "lat": 42.493467,
+      "lng": -122.808802
+    },
+    {
+      "name": "Echo",
+      "slug": "echo",
+      "county": "Umatilla County",
+      "lat": 45.74109,
+      "lng": -119.194904
+    },
+    {
+      "name": "Eddyville",
+      "slug": "eddyville",
+      "county": "Lincoln County",
+      "lat": 44.637139,
+      "lng": -123.753096
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Union County",
+      "lat": 45.594101,
+      "lng": -117.91119
+    },
+    {
+      "name": "Elkton",
+      "slug": "elkton",
+      "county": "Douglas County",
+      "lat": 43.637761,
+      "lng": -123.590014
+    },
+    {
+      "name": "Elmira",
+      "slug": "elmira",
+      "county": "Lane County",
+      "lat": 44.08726,
+      "lng": -123.367051
+    },
+    {
+      "name": "Enterprise",
+      "slug": "enterprise",
+      "county": "Wallowa County",
+      "lat": 45.437037,
+      "lng": -117.288808
+    },
+    {
+      "name": "Estacada",
+      "slug": "estacada",
+      "county": "Clackamas County",
+      "lat": 45.287177,
+      "lng": -122.325858
+    },
+    {
+      "name": "Eugene",
+      "slug": "eugene",
+      "county": "Lane County",
+      "lat": 44.073677,
+      "lng": -123.078757
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Multnomah County",
+      "lat": 45.538611,
+      "lng": -122.432778
+    },
+    {
+      "name": "Fall Creek",
+      "slug": "fall-creek",
+      "county": "Lane County",
+      "lat": 43.95616,
+      "lng": -122.785904
+    },
+    {
+      "name": "Falls City",
+      "slug": "falls-city",
+      "county": "Polk County",
+      "lat": 44.870597,
+      "lng": -123.446149
+    },
+    {
+      "name": "Fields",
+      "slug": "fields",
+      "county": "Harney County",
+      "lat": 42.264444,
+      "lng": -118.674167
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Lane County",
+      "lat": 43.988099,
+      "lng": -124.099303
+    },
+    {
+      "name": "Forest Grove",
+      "slug": "forest-grove",
+      "county": "Washington County",
+      "lat": 45.532835,
+      "lng": -123.115152
+    },
+    {
+      "name": "Fort Klamath",
+      "slug": "fort-klamath",
+      "county": "Klamath County",
+      "lat": 42.704722,
+      "lng": -121.994722
+    },
+    {
+      "name": "Fort Rock",
+      "slug": "fort-rock",
+      "county": "Lake County",
+      "lat": 43.44615,
+      "lng": -121.08243
+    },
+    {
+      "name": "Fossil",
+      "slug": "fossil",
+      "county": "Wheeler County",
+      "lat": 44.985289,
+      "lng": -120.206699
+    },
+    {
+      "name": "Foster",
+      "slug": "foster",
+      "county": "Linn County",
+      "lat": 44.383556,
+      "lng": -122.544898
+    },
+    {
+      "name": "Frenchglen",
+      "slug": "frenchglen",
+      "county": "Harney County",
+      "lat": 42.826944,
+      "lng": -118.914444
+    },
+    {
+      "name": "Gales Creek",
+      "slug": "gales-creek",
+      "county": "Washington County",
+      "lat": 45.595747,
+      "lng": -123.233967
+    },
+    {
+      "name": "Gardiner",
+      "slug": "gardiner",
+      "county": "Douglas County",
+      "lat": 43.785736,
+      "lng": -124.143695
+    },
+    {
+      "name": "Garibaldi",
+      "slug": "garibaldi",
+      "county": "Tillamook County",
+      "lat": 45.56,
+      "lng": -123.911667
+    },
+    {
+      "name": "Gaston",
+      "slug": "gaston",
+      "county": "Washington County",
+      "lat": 45.442738,
+      "lng": -123.16657
+    },
+    {
+      "name": "Gates",
+      "slug": "gates",
+      "county": "Marion County",
+      "lat": 44.752716,
+      "lng": -122.399498
+    },
+    {
+      "name": "Gervais",
+      "slug": "gervais",
+      "county": "Marion County",
+      "lat": 45.108645,
+      "lng": -122.896185
+    },
+    {
+      "name": "Gilchrist",
+      "slug": "gilchrist",
+      "county": "Klamath County",
+      "lat": 43.30759,
+      "lng": -121.886596
+    },
+    {
+      "name": "Gladstone",
+      "slug": "gladstone",
+      "county": "Clackamas County",
+      "lat": 45.389882,
+      "lng": -122.590197
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Douglas County",
+      "lat": 42.751751,
+      "lng": -123.394302
+    },
+    {
+      "name": "Gleneden Beach",
+      "slug": "gleneden-beach",
+      "county": "Lincoln County",
+      "lat": 44.881389,
+      "lng": -124.033056
+    },
+    {
+      "name": "Glide",
+      "slug": "glide",
+      "county": "Douglas County",
+      "lat": 43.277395,
+      "lng": -122.963846
+    },
+    {
+      "name": "Gold Beach",
+      "slug": "gold-beach",
+      "county": "Curry County",
+      "lat": 42.434818,
+      "lng": -124.396072
+    },
+    {
+      "name": "Gold Hill",
+      "slug": "gold-hill",
+      "county": "Jackson County",
+      "lat": 42.424436,
+      "lng": -123.08543
+    },
+    {
+      "name": "Government Camp",
+      "slug": "government-camp",
+      "county": "Clackamas County",
+      "lat": 45.318366,
+      "lng": -121.785426
+    },
+    {
+      "name": "Grand Ronde",
+      "slug": "grand-ronde",
+      "county": "Polk County",
+      "lat": 45.074973,
+      "lng": -123.633518
+    },
+    {
+      "name": "Grants Pass",
+      "slug": "grants-pass",
+      "county": "Josephine County",
+      "lat": 42.463758,
+      "lng": -123.345727
+    },
+    {
+      "name": "Grass Valley",
+      "slug": "grass-valley",
+      "county": "Sherman County",
+      "lat": 45.301333,
+      "lng": -120.747795
+    },
+    {
+      "name": "Gresham",
+      "slug": "gresham",
+      "county": "Multnomah County",
+      "lat": 45.515397,
+      "lng": -122.420258
+    },
+    {
+      "name": "Haines",
+      "slug": "haines",
+      "county": "Baker County",
+      "lat": 44.877622,
+      "lng": -117.97556
+    },
+    {
+      "name": "Halfway",
+      "slug": "halfway",
+      "county": "Baker County",
+      "lat": 44.895272,
+      "lng": -117.113152
+    },
+    {
+      "name": "Halsey",
+      "slug": "halsey",
+      "county": "Linn County",
+      "lat": 44.386151,
+      "lng": -123.125103
+    },
+    {
+      "name": "Hammond",
+      "slug": "hammond",
+      "county": "Clatsop County",
+      "lat": 46.198028,
+      "lng": -123.952726
+    },
+    {
+      "name": "Happy Valley",
+      "slug": "happy-valley",
+      "county": "Clackamas County",
+      "lat": 45.444996,
+      "lng": -122.534135
+    },
+    {
+      "name": "Harper",
+      "slug": "harper",
+      "county": "Malheur County",
+      "lat": 43.873363,
+      "lng": -117.528433
+    },
+    {
+      "name": "Harrisburg",
+      "slug": "harrisburg",
+      "county": "Linn County",
+      "lat": 44.271656,
+      "lng": -123.143165
+    },
+    {
+      "name": "Hebo",
+      "slug": "hebo",
+      "county": "Tillamook County",
+      "lat": 45.212016,
+      "lng": -123.871433
+    },
+    {
+      "name": "Helix",
+      "slug": "helix",
+      "county": "Umatilla County",
+      "lat": 45.866541,
+      "lng": -118.722219
+    },
+    {
+      "name": "Heppner",
+      "slug": "heppner",
+      "county": "Morrow County",
+      "lat": 45.348577,
+      "lng": -119.536897
+    },
+    {
+      "name": "Hereford",
+      "slug": "hereford",
+      "county": "Baker County",
+      "lat": 44.641048,
+      "lng": -117.98896
+    },
+    {
+      "name": "Hermiston",
+      "slug": "hermiston",
+      "county": "Umatilla County",
+      "lat": 45.844992,
+      "lng": -119.284876
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Washington County",
+      "lat": 45.498401,
+      "lng": -122.956998
+    },
+    {
+      "name": "Hines",
+      "slug": "hines",
+      "county": "Harney County",
+      "lat": 43.564167,
+      "lng": -119.08
+    },
+    {
+      "name": "Hood River",
+      "slug": "hood-river",
+      "county": "Hood River County",
+      "lat": 45.671058,
+      "lng": -121.539104
+    },
+    {
+      "name": "Hubbard",
+      "slug": "hubbard",
+      "county": "Marion County",
+      "lat": 45.160422,
+      "lng": -122.754115
+    },
+    {
+      "name": "Huntington",
+      "slug": "huntington",
+      "county": "Baker County",
+      "lat": 44.381113,
+      "lng": -117.309691
+    },
+    {
+      "name": "Idanha",
+      "slug": "idanha",
+      "county": "Marion County",
+      "lat": 44.701484,
+      "lng": -122.047574
+    },
+    {
+      "name": "Idleyld Park",
+      "slug": "idleyld-park",
+      "county": "Douglas County",
+      "lat": 43.371571,
+      "lng": -122.901789
+    },
+    {
+      "name": "Imbler",
+      "slug": "imbler",
+      "county": "Union County",
+      "lat": 45.459908,
+      "lng": -117.954377
+    },
+    {
+      "name": "Imnaha",
+      "slug": "imnaha",
+      "county": "Wallowa County",
+      "lat": 45.513733,
+      "lng": -116.825741
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Polk County",
+      "lat": 44.848098,
+      "lng": -123.187913
+    },
+    {
+      "name": "Ione",
+      "slug": "ione",
+      "county": "Morrow County",
+      "lat": 45.54033,
+      "lng": -119.769034
+    },
+    {
+      "name": "Ironside",
+      "slug": "ironside",
+      "county": "Malheur County",
+      "lat": 44.300913,
+      "lng": -117.944435
+    },
+    {
+      "name": "Irrigon",
+      "slug": "irrigon",
+      "county": "Morrow County",
+      "lat": 45.88768,
+      "lng": -119.507016
+    },
+    {
+      "name": "Jacksonville",
+      "slug": "jacksonville",
+      "county": "Jackson County",
+      "lat": 42.254894,
+      "lng": -123.028098
+    },
+    {
+      "name": "Jamieson",
+      "slug": "jamieson",
+      "county": "Malheur County",
+      "lat": 44.181873,
+      "lng": -117.437269
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Marion County",
+      "lat": 44.749452,
+      "lng": -123.00596
+    },
+    {
+      "name": "John Day",
+      "slug": "john-day",
+      "county": "Grant County",
+      "lat": 44.409977,
+      "lng": -119.105157
+    },
+    {
+      "name": "Jordan Valley",
+      "slug": "jordan-valley",
+      "county": "Malheur County",
+      "lat": 42.880139,
+      "lng": -117.280984
+    },
+    {
+      "name": "Joseph",
+      "slug": "joseph",
+      "county": "Wallowa County",
+      "lat": 45.349432,
+      "lng": -117.212805
+    },
+    {
+      "name": "Junction City",
+      "slug": "junction-city",
+      "county": "Lane County",
+      "lat": 44.198792,
+      "lng": -123.230014
+    },
+    {
+      "name": "Juntura",
+      "slug": "juntura",
+      "county": "Malheur County",
+      "lat": 43.825277,
+      "lng": -118.092118
+    },
+    {
+      "name": "Keizer",
+      "slug": "keizer",
+      "county": "Marion County",
+      "lat": 44.990278,
+      "lng": -123.025
+    },
+    {
+      "name": "Keno",
+      "slug": "keno",
+      "county": "Klamath County",
+      "lat": 42.175472,
+      "lng": -121.972427
+    },
+    {
+      "name": "Kent",
+      "slug": "kent",
+      "county": "Sherman County",
+      "lat": 45.083789,
+      "lng": -120.664895
+    },
+    {
+      "name": "Kerby",
+      "slug": "kerby",
+      "county": "Josephine County",
+      "lat": 42.209343,
+      "lng": -123.657302
+    },
+    {
+      "name": "Kimberly",
+      "slug": "kimberly",
+      "county": "Grant County",
+      "lat": 44.72263,
+      "lng": -119.596497
+    },
+    {
+      "name": "Klamath Falls",
+      "slug": "klamath-falls",
+      "county": "Klamath County",
+      "lat": 42.229601,
+      "lng": -121.786969
+    },
+    {
+      "name": "La Grande",
+      "slug": "la-grande",
+      "county": "Union County",
+      "lat": 45.330435,
+      "lng": -118.085228
+    },
+    {
+      "name": "La Pine",
+      "slug": "la-pine",
+      "county": "Deschutes County",
+      "lat": 43.709125,
+      "lng": -121.519445
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Yamhill County",
+      "lat": 45.246638,
+      "lng": -123.111362
+    },
+    {
+      "name": "Lake Oswego",
+      "slug": "lake-oswego",
+      "county": "Clackamas County",
+      "lat": 45.409263,
+      "lng": -122.684721
+    },
+    {
+      "name": "Lakeside",
+      "slug": "lakeside",
+      "county": "Coos County",
+      "lat": 43.583306,
+      "lng": -124.162364
+    },
+    {
+      "name": "Lakeview",
+      "slug": "lakeview",
+      "county": "Lake County",
+      "lat": 42.185443,
+      "lng": -120.377533
+    },
+    {
+      "name": "Langlois",
+      "slug": "langlois",
+      "county": "Curry County",
+      "lat": 42.915386,
+      "lng": -124.441322
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Linn County",
+      "lat": 44.531558,
+      "lng": -122.882064
+    },
+    {
+      "name": "Lexington",
+      "slug": "lexington",
+      "county": "Morrow County",
+      "lat": 45.426362,
+      "lng": -119.74636
+    },
+    {
+      "name": "Lincoln City",
+      "slug": "lincoln-city",
+      "county": "Lincoln County",
+      "lat": 44.968139,
+      "lng": -123.99556
+    },
+    {
+      "name": "Logsden",
+      "slug": "logsden",
+      "county": "Lincoln County",
+      "lat": 44.747514,
+      "lng": -123.773645
+    },
+    {
+      "name": "Long Creek",
+      "slug": "long-creek",
+      "county": "Grant County",
+      "lat": 44.755416,
+      "lng": -119.09702
+    },
+    {
+      "name": "Lorane",
+      "slug": "lorane",
+      "county": "Lane County",
+      "lat": 43.829044,
+      "lng": -123.247679
+    },
+    {
+      "name": "Lostine",
+      "slug": "lostine",
+      "county": "Wallowa County",
+      "lat": 45.493861,
+      "lng": -117.435909
+    },
+    {
+      "name": "Lowell",
+      "slug": "lowell",
+      "county": "Lane County",
+      "lat": 43.920993,
+      "lng": -122.780627
+    },
+    {
+      "name": "Lyons",
+      "slug": "lyons",
+      "county": "Linn County",
+      "lat": 44.776792,
+      "lng": -122.820083
+    },
+    {
+      "name": "Madras",
+      "slug": "madras",
+      "county": "Jefferson County",
+      "lat": 44.637579,
+      "lng": -121.134924
+    },
+    {
+      "name": "Malin",
+      "slug": "malin",
+      "county": "Klamath County",
+      "lat": 42.019502,
+      "lng": -121.422121
+    },
+    {
+      "name": "Manning",
+      "slug": "manning",
+      "county": "Washington County",
+      "lat": 45.652468,
+      "lng": -123.186113
+    },
+    {
+      "name": "Manzanita",
+      "slug": "manzanita",
+      "county": "Tillamook County",
+      "lat": 45.718611,
+      "lng": -123.933889
+    },
+    {
+      "name": "Mapleton",
+      "slug": "mapleton",
+      "county": "Lane County",
+      "lat": 44.031189,
+      "lng": -123.865735
+    },
+    {
+      "name": "Marcola",
+      "slug": "marcola",
+      "county": "Lane County",
+      "lat": 44.206439,
+      "lng": -122.82464
+    },
+    {
+      "name": "Marylhurst",
+      "slug": "marylhurst",
+      "county": "Clackamas County",
+      "lat": 45.401389,
+      "lng": -122.65
+    },
+    {
+      "name": "Maupin",
+      "slug": "maupin",
+      "county": "Wasco County",
+      "lat": 45.074247,
+      "lng": -121.228164
+    },
+    {
+      "name": "Mcminnville",
+      "slug": "mcminnville",
+      "county": "Yamhill County",
+      "lat": 45.209677,
+      "lng": -123.204342
+    },
+    {
+      "name": "Meacham",
+      "slug": "meacham",
+      "county": "Umatilla County",
+      "lat": 45.506667,
+      "lng": -118.420278
+    },
+    {
+      "name": "Medford",
+      "slug": "medford",
+      "county": "Jackson County",
+      "lat": 42.319293,
+      "lng": -122.887011
+    },
+    {
+      "name": "Mehama",
+      "slug": "mehama",
+      "county": "Marion County",
+      "lat": 44.790278,
+      "lng": -122.618056
+    },
+    {
+      "name": "Merlin",
+      "slug": "merlin",
+      "county": "Josephine County",
+      "lat": 42.529654,
+      "lng": -123.439256
+    },
+    {
+      "name": "Merrill",
+      "slug": "merrill",
+      "county": "Klamath County",
+      "lat": 42.029516,
+      "lng": -121.598545
+    },
+    {
+      "name": "Midland",
+      "slug": "midland",
+      "county": "Klamath County",
+      "lat": 42.130833,
+      "lng": -121.819167
+    },
+    {
+      "name": "Mikkalo",
+      "slug": "mikkalo",
+      "county": "Gilliam County",
+      "lat": 45.716944,
+      "lng": -120.199722
+    },
+    {
+      "name": "Mill City",
+      "slug": "mill-city",
+      "county": "Linn County",
+      "lat": 44.751566,
+      "lng": -122.476825
+    },
+    {
+      "name": "Milton Freewater",
+      "slug": "milton-freewater",
+      "county": "Umatilla County",
+      "lat": 45.948581,
+      "lng": -118.391172
+    },
+    {
+      "name": "Mitchell",
+      "slug": "mitchell",
+      "county": "Wheeler County",
+      "lat": 44.565734,
+      "lng": -120.145579
+    },
+    {
+      "name": "Molalla",
+      "slug": "molalla",
+      "county": "Clackamas County",
+      "lat": 45.122256,
+      "lng": -122.575574
+    },
+    {
+      "name": "Monmouth",
+      "slug": "monmouth",
+      "county": "Polk County",
+      "lat": 44.837706,
+      "lng": -123.251233
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Benton County",
+      "lat": 44.32446,
+      "lng": -123.32033
+    },
+    {
+      "name": "Monument",
+      "slug": "monument",
+      "county": "Grant County",
+      "lat": 44.818451,
+      "lng": -119.430164
+    },
+    {
+      "name": "Moro",
+      "slug": "moro",
+      "county": "Sherman County",
+      "lat": 45.485332,
+      "lng": -120.695666
+    },
+    {
+      "name": "Mosier",
+      "slug": "mosier",
+      "county": "Wasco County",
+      "lat": 45.66167,
+      "lng": -121.324532
+    },
+    {
+      "name": "Mount Angel",
+      "slug": "mount-angel",
+      "county": "Marion County",
+      "lat": 45.073727,
+      "lng": -122.785611
+    },
+    {
+      "name": "Mount Hood Parkdale",
+      "slug": "mount-hood-parkdale",
+      "county": "Hood River County",
+      "lat": 45.521584,
+      "lng": -121.588485
+    },
+    {
+      "name": "Mount Vernon",
+      "slug": "mount-vernon",
+      "county": "Grant County",
+      "lat": 44.417095,
+      "lng": -119.112142
+    },
+    {
+      "name": "Mulino",
+      "slug": "mulino",
+      "county": "Clackamas County",
+      "lat": 45.212973,
+      "lng": -122.535068
+    },
+    {
+      "name": "Murphy",
+      "slug": "murphy",
+      "county": "Josephine County",
+      "lat": 42.347778,
+      "lng": -123.332222
+    },
+    {
+      "name": "Myrtle Creek",
+      "slug": "myrtle-creek",
+      "county": "Douglas County",
+      "lat": 43.016161,
+      "lng": -123.285054
+    },
+    {
+      "name": "Myrtle Point",
+      "slug": "myrtle-point",
+      "county": "Coos County",
+      "lat": 43.066694,
+      "lng": -124.121327
+    },
+    {
+      "name": "Nehalem",
+      "slug": "nehalem",
+      "county": "Tillamook County",
+      "lat": 45.72159,
+      "lng": -123.904943
+    },
+    {
+      "name": "Neotsu",
+      "slug": "neotsu",
+      "county": "Lincoln County",
+      "lat": 44.998801,
+      "lng": -123.984337
+    },
+    {
+      "name": "Neskowin",
+      "slug": "neskowin",
+      "county": "Tillamook County",
+      "lat": 45.178165,
+      "lng": -123.926344
+    },
+    {
+      "name": "Netarts",
+      "slug": "netarts",
+      "county": "Tillamook County",
+      "lat": 45.435,
+      "lng": -123.944722
+    },
+    {
+      "name": "New Pine Creek",
+      "slug": "new-pine-creek",
+      "county": "Lake County",
+      "lat": 42.027759,
+      "lng": -120.28939
+    },
+    {
+      "name": "Newberg",
+      "slug": "newberg",
+      "county": "Yamhill County",
+      "lat": 45.309901,
+      "lng": -122.968503
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Lincoln County",
+      "lat": 44.648653,
+      "lng": -124.050903
+    },
+    {
+      "name": "North Bend",
+      "slug": "north-bend",
+      "county": "Coos County",
+      "lat": 43.432665,
+      "lng": -124.213103
+    },
+    {
+      "name": "North Plains",
+      "slug": "north-plains",
+      "county": "Washington County",
+      "lat": 45.597222,
+      "lng": -122.992222
+    },
+    {
+      "name": "North Powder",
+      "slug": "north-powder",
+      "county": "Union County",
+      "lat": 45.031667,
+      "lng": -117.933666
+    },
+    {
+      "name": "Noti",
+      "slug": "noti",
+      "county": "Lane County",
+      "lat": 44.119509,
+      "lng": -123.456962
+    },
+    {
+      "name": "Nyssa",
+      "slug": "nyssa",
+      "county": "Malheur County",
+      "lat": 43.860386,
+      "lng": -117.025113
+    },
+    {
+      "name": "O Brien",
+      "slug": "o-brien",
+      "county": "Josephine County",
+      "lat": 42.068816,
+      "lng": -123.720898
+    },
+    {
+      "name": "Oakland",
+      "slug": "oakland",
+      "county": "Douglas County",
+      "lat": 43.452968,
+      "lng": -123.355774
+    },
+    {
+      "name": "Oakridge",
+      "slug": "oakridge",
+      "county": "Lane County",
+      "lat": 43.749767,
+      "lng": -122.457711
+    },
+    {
+      "name": "Oceanside",
+      "slug": "oceanside",
+      "county": "Tillamook County",
+      "lat": 45.461111,
+      "lng": -123.966667
+    },
+    {
+      "name": "Odell",
+      "slug": "odell",
+      "county": "Hood River County",
+      "lat": 45.623245,
+      "lng": -121.440131
+    },
+    {
+      "name": "Ontario",
+      "slug": "ontario",
+      "county": "Malheur County",
+      "lat": 44.04156,
+      "lng": -116.978268
+    },
+    {
+      "name": "Ophir",
+      "slug": "ophir",
+      "county": "Curry County",
+      "lat": 42.563333,
+      "lng": -124.381667
+    },
+    {
+      "name": "Oregon City",
+      "slug": "oregon-city",
+      "county": "Clackamas County",
+      "lat": 45.337718,
+      "lng": -122.569991
+    },
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "county": "Lincoln County",
+      "lat": 45.013755,
+      "lng": -123.933244
+    },
+    {
+      "name": "Otter Rock",
+      "slug": "otter-rock",
+      "county": "Lincoln County",
+      "lat": 44.747222,
+      "lng": -124.060278
+    },
+    {
+      "name": "Oxbow",
+      "slug": "oxbow",
+      "county": "Baker County",
+      "lat": 44.975,
+      "lng": -116.861944
+    },
+    {
+      "name": "Pacific City",
+      "slug": "pacific-city",
+      "county": "Tillamook County",
+      "lat": 45.2025,
+      "lng": -123.961667
+    },
+    {
+      "name": "Paisley",
+      "slug": "paisley",
+      "county": "Lake County",
+      "lat": 42.703089,
+      "lng": -120.553208
+    },
+    {
+      "name": "Paulina",
+      "slug": "paulina",
+      "county": "Crook County",
+      "lat": 44.210243,
+      "lng": -119.782768
+    },
+    {
+      "name": "Pendleton",
+      "slug": "pendleton",
+      "county": "Umatilla County",
+      "lat": 45.660535,
+      "lng": -118.783104
+    },
+    {
+      "name": "Philomath",
+      "slug": "philomath",
+      "county": "Benton County",
+      "lat": 44.548817,
+      "lng": -123.392271
+    },
+    {
+      "name": "Phoenix",
+      "slug": "phoenix",
+      "county": "Jackson County",
+      "lat": 42.276555,
+      "lng": -122.822694
+    },
+    {
+      "name": "Pilot Rock",
+      "slug": "pilot-rock",
+      "county": "Umatilla County",
+      "lat": 45.422724,
+      "lng": -118.848331
+    },
+    {
+      "name": "Pleasant Hill",
+      "slug": "pleasant-hill",
+      "county": "Lane County",
+      "lat": 43.945816,
+      "lng": -122.928487
+    },
+    {
+      "name": "Plush",
+      "slug": "plush",
+      "county": "Lake County",
+      "lat": 42.503493,
+      "lng": -119.894722
+    },
+    {
+      "name": "Port Orford",
+      "slug": "port-orford",
+      "county": "Curry County",
+      "lat": 42.757194,
+      "lng": -124.491283
+    },
+    {
+      "name": "Portland",
+      "slug": "portland",
+      "county": "Clackamas County",
+      "lat": 45.442919,
+      "lng": -122.615092
+    },
+    {
+      "name": "Post",
+      "slug": "post",
+      "county": "Crook County",
+      "lat": 44.079273,
+      "lng": -120.299781
+    },
+    {
+      "name": "Powell Butte",
+      "slug": "powell-butte",
+      "county": "Crook County",
+      "lat": 44.241512,
+      "lng": -121.011326
+    },
+    {
+      "name": "Powers",
+      "slug": "powers",
+      "county": "Coos County",
+      "lat": 42.891006,
+      "lng": -124.066441
+    },
+    {
+      "name": "Prairie City",
+      "slug": "prairie-city",
+      "county": "Grant County",
+      "lat": 44.456977,
+      "lng": -118.695199
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Harney County",
+      "lat": 43.246667,
+      "lng": -118.576667
+    },
+    {
+      "name": "Prineville",
+      "slug": "prineville",
+      "county": "Crook County",
+      "lat": 44.30445,
+      "lng": -120.833616
+    },
+    {
+      "name": "Prospect",
+      "slug": "prospect",
+      "county": "Jackson County",
+      "lat": 42.754394,
+      "lng": -122.50898
+    },
+    {
+      "name": "Rainier",
+      "slug": "rainier",
+      "county": "Columbia County",
+      "lat": 46.064552,
+      "lng": -122.967067
+    },
+    {
+      "name": "Redmond",
+      "slug": "redmond",
+      "county": "Deschutes County",
+      "lat": 44.27669,
+      "lng": -121.189604
+    },
+    {
+      "name": "Reedsport",
+      "slug": "reedsport",
+      "county": "Douglas County",
+      "lat": 43.695701,
+      "lng": -124.105476
+    },
+    {
+      "name": "Rhododendron",
+      "slug": "rhododendron",
+      "county": "Clackamas County",
+      "lat": 45.355201,
+      "lng": -121.953691
+    },
+    {
+      "name": "Richland",
+      "slug": "richland",
+      "county": "Baker County",
+      "lat": 44.797013,
+      "lng": -117.301825
+    },
+    {
+      "name": "Rickreall",
+      "slug": "rickreall",
+      "county": "Polk County",
+      "lat": 45.020032,
+      "lng": -123.206424
+    },
+    {
+      "name": "Riddle",
+      "slug": "riddle",
+      "county": "Douglas County",
+      "lat": 42.938867,
+      "lng": -123.361247
+    },
+    {
+      "name": "Riley",
+      "slug": "riley",
+      "county": "Harney County",
+      "lat": 44.930529,
+      "lng": -116.900621
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Malheur County",
+      "lat": 43.467415,
+      "lng": -118.095769
+    },
+    {
+      "name": "Rockaway Beach",
+      "slug": "rockaway-beach",
+      "county": "Tillamook County",
+      "lat": 45.608511,
+      "lng": -123.907834
+    },
+    {
+      "name": "Rogue River",
+      "slug": "rogue-river",
+      "county": "Jackson County",
+      "lat": 42.488889,
+      "lng": -123.158726
+    },
+    {
+      "name": "Rose Lodge",
+      "slug": "rose-lodge",
+      "county": "Lincoln County",
+      "lat": 45.010556,
+      "lng": -123.879167
+    },
+    {
+      "name": "Roseburg",
+      "slug": "roseburg",
+      "county": "Douglas County",
+      "lat": 43.222726,
+      "lng": -123.366437
+    },
+    {
+      "name": "Rufus",
+      "slug": "rufus",
+      "county": "Sherman County",
+      "lat": 45.68515,
+      "lng": -120.726777
+    },
+    {
+      "name": "Saginaw",
+      "slug": "saginaw",
+      "county": "Lane County",
+      "lat": 43.832778,
+      "lng": -123.044167
+    },
+    {
+      "name": "Saint Benedict",
+      "slug": "saint-benedict",
+      "county": "Marion County",
+      "lat": 45.0575,
+      "lng": -122.776667
+    },
+    {
+      "name": "Saint Helens",
+      "slug": "saint-helens",
+      "county": "Columbia County",
+      "lat": 45.860825,
+      "lng": -122.828177
+    },
+    {
+      "name": "Saint Paul",
+      "slug": "saint-paul",
+      "county": "Marion County",
+      "lat": 45.195996,
+      "lng": -122.96737
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Marion County",
+      "lat": 44.926039,
+      "lng": -122.979692
+    },
+    {
+      "name": "Sandy",
+      "slug": "sandy",
+      "county": "Clackamas County",
+      "lat": 45.378954,
+      "lng": -122.223049
+    },
+    {
+      "name": "Scappoose",
+      "slug": "scappoose",
+      "county": "Columbia County",
+      "lat": 45.765451,
+      "lng": -122.892771
+    },
+    {
+      "name": "Scio",
+      "slug": "scio",
+      "county": "Linn County",
+      "lat": 44.716792,
+      "lng": -122.768356
+    },
+    {
+      "name": "Scotts Mills",
+      "slug": "scotts-mills",
+      "county": "Marion County",
+      "lat": 45.022,
+      "lng": -122.665418
+    },
+    {
+      "name": "Scottsburg",
+      "slug": "scottsburg",
+      "county": "Douglas County",
+      "lat": 43.676481,
+      "lng": -123.804065
+    },
+    {
+      "name": "Seal Rock",
+      "slug": "seal-rock",
+      "county": "Lincoln County",
+      "lat": 44.477749,
+      "lng": -124.060708
+    },
+    {
+      "name": "Seaside",
+      "slug": "seaside",
+      "county": "Clatsop County",
+      "lat": 45.969506,
+      "lng": -123.878837
+    },
+    {
+      "name": "Selma",
+      "slug": "selma",
+      "county": "Josephine County",
+      "lat": 42.296358,
+      "lng": -123.568394
+    },
+    {
+      "name": "Seneca",
+      "slug": "seneca",
+      "county": "Grant County",
+      "lat": 44.127704,
+      "lng": -119.057797
+    },
+    {
+      "name": "Shady Cove",
+      "slug": "shady-cove",
+      "county": "Jackson County",
+      "lat": 42.607575,
+      "lng": -122.812191
+    },
+    {
+      "name": "Shaniko",
+      "slug": "shaniko",
+      "county": "Wasco County",
+      "lat": 45.047231,
+      "lng": -120.806953
+    },
+    {
+      "name": "Shedd",
+      "slug": "shedd",
+      "county": "Linn County",
+      "lat": 44.452951,
+      "lng": -123.106462
+    },
+    {
+      "name": "Sheridan",
+      "slug": "sheridan",
+      "county": "Yamhill County",
+      "lat": 45.089703,
+      "lng": -123.400335
+    },
+    {
+      "name": "Sherwood",
+      "slug": "sherwood",
+      "county": "Washington County",
+      "lat": 45.351419,
+      "lng": -122.856724
+    },
+    {
+      "name": "Siletz",
+      "slug": "siletz",
+      "county": "Lincoln County",
+      "lat": 44.731333,
+      "lng": -123.906239
+    },
+    {
+      "name": "Silver Lake",
+      "slug": "silver-lake",
+      "county": "Lake County",
+      "lat": 43.258164,
+      "lng": -120.780109
+    },
+    {
+      "name": "Silverton",
+      "slug": "silverton",
+      "county": "Marion County",
+      "lat": 44.991041,
+      "lng": -122.762724
+    },
+    {
+      "name": "Sisters",
+      "slug": "sisters",
+      "county": "Deschutes County",
+      "lat": 44.307329,
+      "lng": -121.524133
+    },
+    {
+      "name": "Sixes",
+      "slug": "sixes",
+      "county": "Curry County",
+      "lat": 42.824984,
+      "lng": -124.44093
+    },
+    {
+      "name": "South Beach",
+      "slug": "south-beach",
+      "county": "Lincoln County",
+      "lat": 44.57122,
+      "lng": -124.059968
+    },
+    {
+      "name": "Sprague River",
+      "slug": "sprague-river",
+      "county": "Klamath County",
+      "lat": 42.455556,
+      "lng": -121.503056
+    },
+    {
+      "name": "Spray",
+      "slug": "spray",
+      "county": "Wheeler County",
+      "lat": 44.824186,
+      "lng": -119.830318
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Lane County",
+      "lat": 44.06106,
+      "lng": -123.015259
+    },
+    {
+      "name": "Stanfield",
+      "slug": "stanfield",
+      "county": "Umatilla County",
+      "lat": 45.785988,
+      "lng": -119.211602
+    },
+    {
+      "name": "Stayton",
+      "slug": "stayton",
+      "county": "Marion County",
+      "lat": 44.80211,
+      "lng": -122.76241
+    },
+    {
+      "name": "Sublimity",
+      "slug": "sublimity",
+      "county": "Marion County",
+      "lat": 44.842523,
+      "lng": -122.800718
+    },
+    {
+      "name": "Summer Lake",
+      "slug": "summer-lake",
+      "county": "Lake County",
+      "lat": 42.831302,
+      "lng": -121.063254
+    },
+    {
+      "name": "Summerville",
+      "slug": "summerville",
+      "county": "Union County",
+      "lat": 45.507687,
+      "lng": -118.026978
+    },
+    {
+      "name": "Sumpter",
+      "slug": "sumpter",
+      "county": "Baker County",
+      "lat": 44.73164,
+      "lng": -118.190604
+    },
+    {
+      "name": "Sutherlin",
+      "slug": "sutherlin",
+      "county": "Douglas County",
+      "lat": 43.390404,
+      "lng": -123.297425
+    },
+    {
+      "name": "Sweet Home",
+      "slug": "sweet-home",
+      "county": "Linn County",
+      "lat": 44.398111,
+      "lng": -122.728561
+    },
+    {
+      "name": "Swisshome",
+      "slug": "swisshome",
+      "county": "Lane County",
+      "lat": 44.089903,
+      "lng": -123.827899
+    },
+    {
+      "name": "Talent",
+      "slug": "talent",
+      "county": "Jackson County",
+      "lat": 42.236252,
+      "lng": -122.78605
+    },
+    {
+      "name": "Tangent",
+      "slug": "tangent",
+      "county": "Linn County",
+      "lat": 44.54973,
+      "lng": -123.110815
+    },
+    {
+      "name": "Tenmile",
+      "slug": "tenmile",
+      "county": "Douglas County",
+      "lat": 43.137116,
+      "lng": -123.530104
+    },
+    {
+      "name": "Terrebonne",
+      "slug": "terrebonne",
+      "county": "Jefferson County",
+      "lat": 44.355505,
+      "lng": -121.167565
+    },
+    {
+      "name": "The Dalles",
+      "slug": "the-dalles",
+      "county": "Wasco County",
+      "lat": 45.599504,
+      "lng": -121.190493
+    },
+    {
+      "name": "Thurston",
+      "slug": "thurston",
+      "county": "Lane County",
+      "lat": 44.046389,
+      "lng": -123.020833
+    },
+    {
+      "name": "Tidewater",
+      "slug": "tidewater",
+      "county": "Lincoln County",
+      "lat": 44.405538,
+      "lng": -123.914861
+    },
+    {
+      "name": "Tillamook",
+      "slug": "tillamook",
+      "county": "Tillamook County",
+      "lat": 45.449185,
+      "lng": -123.818851
+    },
+    {
+      "name": "Tiller",
+      "slug": "tiller",
+      "county": "Douglas County",
+      "lat": 42.985896,
+      "lng": -122.908088
+    },
+    {
+      "name": "Timber",
+      "slug": "timber",
+      "county": "Washington County",
+      "lat": 45.727033,
+      "lng": -123.311852
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "county": "Lincoln County",
+      "lat": 44.627082,
+      "lng": -123.930119
+    },
+    {
+      "name": "Tolovana Park",
+      "slug": "tolovana-park",
+      "county": "Clatsop County",
+      "lat": 45.886172,
+      "lng": -123.95887
+    },
+    {
+      "name": "Trail",
+      "slug": "trail",
+      "county": "Jackson County",
+      "lat": 42.686358,
+      "lng": -122.816029
+    },
+    {
+      "name": "Troutdale",
+      "slug": "troutdale",
+      "county": "Multnomah County",
+      "lat": 45.525398,
+      "lng": -122.373866
+    },
+    {
+      "name": "Tualatin",
+      "slug": "tualatin",
+      "county": "Washington County",
+      "lat": 45.372688,
+      "lng": -122.763132
+    },
+    {
+      "name": "Turner",
+      "slug": "turner",
+      "county": "Marion County",
+      "lat": 44.847607,
+      "lng": -122.950117
+    },
+    {
+      "name": "Tygh Valley",
+      "slug": "tygh-valley",
+      "county": "Wasco County",
+      "lat": 45.231789,
+      "lng": -121.296517
+    },
+    {
+      "name": "Ukiah",
+      "slug": "ukiah",
+      "county": "Umatilla County",
+      "lat": 45.134167,
+      "lng": -118.931389
+    },
+    {
+      "name": "Umatilla",
+      "slug": "umatilla",
+      "county": "Umatilla County",
+      "lat": 45.915725,
+      "lng": -119.313715
+    },
+    {
+      "name": "Umpqua",
+      "slug": "umpqua",
+      "county": "Douglas County",
+      "lat": 43.374537,
+      "lng": -123.535771
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Union County",
+      "lat": 45.201939,
+      "lng": -117.853554
+    },
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "county": "Baker County",
+      "lat": 44.449063,
+      "lng": -118.16273
+    },
+    {
+      "name": "Vale",
+      "slug": "vale",
+      "county": "Malheur County",
+      "lat": 44.003902,
+      "lng": -117.267412
+    },
+    {
+      "name": "Veneta",
+      "slug": "veneta",
+      "county": "Lane County",
+      "lat": 44.038235,
+      "lng": -123.35159
+    },
+    {
+      "name": "Vernonia",
+      "slug": "vernonia",
+      "county": "Columbia County",
+      "lat": 45.857298,
+      "lng": -123.196662
+    },
+    {
+      "name": "Vida",
+      "slug": "vida",
+      "county": "Lane County",
+      "lat": 44.130041,
+      "lng": -122.504429
+    },
+    {
+      "name": "Waldport",
+      "slug": "waldport",
+      "county": "Lincoln County",
+      "lat": 44.408497,
+      "lng": -124.035053
+    },
+    {
+      "name": "Wallowa",
+      "slug": "wallowa",
+      "county": "Wallowa County",
+      "lat": 45.571722,
+      "lng": -117.535727
+    },
+    {
+      "name": "Walterville",
+      "slug": "walterville",
+      "county": "Lane County",
+      "lat": 44.135163,
+      "lng": -122.629064
+    },
+    {
+      "name": "Walton",
+      "slug": "walton",
+      "county": "Lane County",
+      "lat": 44.028194,
+      "lng": -123.589304
+    },
+    {
+      "name": "Warm Springs",
+      "slug": "warm-springs",
+      "county": "Jefferson County",
+      "lat": 44.746826,
+      "lng": -121.290941
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Columbia County",
+      "lat": 45.826043,
+      "lng": -122.863445
+    },
+    {
+      "name": "Warrenton",
+      "slug": "warrenton",
+      "county": "Clatsop County",
+      "lat": 46.145017,
+      "lng": -123.925366
+    },
+    {
+      "name": "Wasco",
+      "slug": "wasco",
+      "county": "Sherman County",
+      "lat": 45.597447,
+      "lng": -120.730356
+    },
+    {
+      "name": "Wedderburn",
+      "slug": "wedderburn",
+      "county": "Curry County",
+      "lat": 42.429722,
+      "lng": -124.413889
+    },
+    {
+      "name": "Welches",
+      "slug": "welches",
+      "county": "Clackamas County",
+      "lat": 45.339862,
+      "lng": -121.959826
+    },
+    {
+      "name": "West Linn",
+      "slug": "west-linn",
+      "county": "Clackamas County",
+      "lat": 45.366874,
+      "lng": -122.647952
+    },
+    {
+      "name": "Westfall",
+      "slug": "westfall",
+      "county": "Malheur County",
+      "lat": 43.992246,
+      "lng": -117.687673
+    },
+    {
+      "name": "Westfir",
+      "slug": "westfir",
+      "county": "Lane County",
+      "lat": 43.756636,
+      "lng": -122.514095
+    },
+    {
+      "name": "Westlake",
+      "slug": "westlake",
+      "county": "Lane County",
+      "lat": 43.914017,
+      "lng": -124.033364
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Umatilla County",
+      "lat": 45.807365,
+      "lng": -118.373279
+    },
+    {
+      "name": "Wheeler",
+      "slug": "wheeler",
+      "county": "Tillamook County",
+      "lat": 45.689167,
+      "lng": -123.879444
+    },
+    {
+      "name": "White City",
+      "slug": "white-city",
+      "county": "Jackson County",
+      "lat": 42.431919,
+      "lng": -122.82962
+    },
+    {
+      "name": "Wilbur",
+      "slug": "wilbur",
+      "county": "Douglas County",
+      "lat": 43.321111,
+      "lng": -123.339444
+    },
+    {
+      "name": "Wilderville",
+      "slug": "wilderville",
+      "county": "Josephine County",
+      "lat": 42.392483,
+      "lng": -123.513861
+    },
+    {
+      "name": "Willamina",
+      "slug": "willamina",
+      "county": "Yamhill County",
+      "lat": 45.082605,
+      "lng": -123.504708
+    },
+    {
+      "name": "Williams",
+      "slug": "williams",
+      "county": "Josephine County",
+      "lat": 42.223049,
+      "lng": -123.282877
+    },
+    {
+      "name": "Wilsonville",
+      "slug": "wilsonville",
+      "county": "Clackamas County",
+      "lat": 45.298646,
+      "lng": -122.769886
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Douglas County",
+      "lat": 43.280278,
+      "lng": -123.3525
+    },
+    {
+      "name": "Winston",
+      "slug": "winston",
+      "county": "Douglas County",
+      "lat": 43.104855,
+      "lng": -123.432481
+    },
+    {
+      "name": "Wolf Creek",
+      "slug": "wolf-creek",
+      "county": "Josephine County",
+      "lat": 42.655128,
+      "lng": -123.351538
+    },
+    {
+      "name": "Woodburn",
+      "slug": "woodburn",
+      "county": "Marion County",
+      "lat": 45.144617,
+      "lng": -122.858342
+    },
+    {
+      "name": "Yachats",
+      "slug": "yachats",
+      "county": "Lincoln County",
+      "lat": 44.325563,
+      "lng": -124.086262
+    },
+    {
+      "name": "Yamhill",
+      "slug": "yamhill",
+      "county": "Yamhill County",
+      "lat": 45.335049,
+      "lng": -123.203639
+    },
+    {
+      "name": "Yoncalla",
+      "slug": "yoncalla",
+      "county": "Douglas County",
+      "lat": 43.60434,
+      "lng": -123.292562
+    }
+  ]
+}

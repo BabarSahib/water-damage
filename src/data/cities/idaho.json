@@ -1,0 +1,1869 @@
+{
+  "stateName": "Idaho",
+  "stateCode": "ID",
+  "stateSlug": "idaho",
+  "cities": [
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "county": "Bingham County",
+      "lat": 42.976717,
+      "lng": -112.818124
+    },
+    {
+      "name": "Ahsahka",
+      "slug": "ahsahka",
+      "county": "Clearwater County",
+      "lat": 46.510318,
+      "lng": -116.371537
+    },
+    {
+      "name": "Albion",
+      "slug": "albion",
+      "county": "Cassia County",
+      "lat": 42.412778,
+      "lng": -113.577222
+    },
+    {
+      "name": "Almo",
+      "slug": "almo",
+      "county": "Cassia County",
+      "lat": 42.100278,
+      "lng": -113.632778
+    },
+    {
+      "name": "American Falls",
+      "slug": "american-falls",
+      "county": "Power County",
+      "lat": 42.789876,
+      "lng": -112.870714
+    },
+    {
+      "name": "Arbon",
+      "slug": "arbon",
+      "county": "Power County",
+      "lat": 42.502634,
+      "lng": -112.558481
+    },
+    {
+      "name": "Arco",
+      "slug": "arco",
+      "county": "Butte County",
+      "lat": 43.635521,
+      "lng": -113.317559
+    },
+    {
+      "name": "Arimo",
+      "slug": "arimo",
+      "county": "Bannock County",
+      "lat": 42.559953,
+      "lng": -112.174649
+    },
+    {
+      "name": "Ashton",
+      "slug": "ashton",
+      "county": "Fremont County",
+      "lat": 43.988078,
+      "lng": -111.619526
+    },
+    {
+      "name": "Athol",
+      "slug": "athol",
+      "county": "Kootenai County",
+      "lat": 47.92674,
+      "lng": -116.731821
+    },
+    {
+      "name": "Atlanta",
+      "slug": "atlanta",
+      "county": "Elmore County",
+      "lat": 43.567436,
+      "lng": -115.357042
+    },
+    {
+      "name": "Atomic City",
+      "slug": "atomic-city",
+      "county": "Bingham County",
+      "lat": 43.445,
+      "lng": -112.811944
+    },
+    {
+      "name": "Avery",
+      "slug": "avery",
+      "county": "Shoshone County",
+      "lat": 47.271431,
+      "lng": -115.866012
+    },
+    {
+      "name": "Bancroft",
+      "slug": "bancroft",
+      "county": "Caribou County",
+      "lat": 42.720463,
+      "lng": -111.842944
+    },
+    {
+      "name": "Banks",
+      "slug": "banks",
+      "county": "Boise County",
+      "lat": 44.149152,
+      "lng": -115.983737
+    },
+    {
+      "name": "Basalt",
+      "slug": "basalt",
+      "county": "Bingham County",
+      "lat": 43.315556,
+      "lng": -112.163611
+    },
+    {
+      "name": "Bayview",
+      "slug": "bayview",
+      "county": "Kootenai County",
+      "lat": 47.96535,
+      "lng": -116.568745
+    },
+    {
+      "name": "Bellevue",
+      "slug": "bellevue",
+      "county": "Blaine County",
+      "lat": 43.439694,
+      "lng": -114.249804
+    },
+    {
+      "name": "Bern",
+      "slug": "bern",
+      "county": "Bear Lake County",
+      "lat": 42.319144,
+      "lng": -111.392595
+    },
+    {
+      "name": "Blackfoot",
+      "slug": "blackfoot",
+      "county": "Bingham County",
+      "lat": 43.194327,
+      "lng": -112.361545
+    },
+    {
+      "name": "Blanchard",
+      "slug": "blanchard",
+      "county": "Bonner County",
+      "lat": 48.022344,
+      "lng": -116.990865
+    },
+    {
+      "name": "Bliss",
+      "slug": "bliss",
+      "county": "Gooding County",
+      "lat": 42.944859,
+      "lng": -114.910387
+    },
+    {
+      "name": "Bloomington",
+      "slug": "bloomington",
+      "county": "Bear Lake County",
+      "lat": 42.191944,
+      "lng": -111.400556
+    },
+    {
+      "name": "Boise",
+      "slug": "boise",
+      "county": "",
+      "lat": 43.6136,
+      "lng": -116.2025
+    },
+    {
+      "name": "Bonners Ferry",
+      "slug": "bonners-ferry",
+      "county": "Boundary County",
+      "lat": 48.730642,
+      "lng": -116.332178
+    },
+    {
+      "name": "Bovill",
+      "slug": "bovill",
+      "county": "Latah County",
+      "lat": 46.858889,
+      "lng": -116.3925
+    },
+    {
+      "name": "Bruneau",
+      "slug": "bruneau",
+      "county": "Owyhee County",
+      "lat": 42.76006,
+      "lng": -115.677259
+    },
+    {
+      "name": "Buhl",
+      "slug": "buhl",
+      "county": "Twin Falls County",
+      "lat": 42.600763,
+      "lng": -114.782545
+    },
+    {
+      "name": "Burley",
+      "slug": "burley",
+      "county": "Cassia County",
+      "lat": 42.524442,
+      "lng": -113.793081
+    },
+    {
+      "name": "Calder",
+      "slug": "calder",
+      "county": "Shoshone County",
+      "lat": 47.274135,
+      "lng": -116.222793
+    },
+    {
+      "name": "Caldwell",
+      "slug": "caldwell",
+      "county": "Canyon County",
+      "lat": 43.662719,
+      "lng": -116.700038
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge",
+      "county": "Washington County",
+      "lat": 44.59216,
+      "lng": -116.675717
+    },
+    {
+      "name": "Carey",
+      "slug": "carey",
+      "county": "Blaine County",
+      "lat": 43.274443,
+      "lng": -113.892567
+    },
+    {
+      "name": "Careywood",
+      "slug": "careywood",
+      "county": "Bonner County",
+      "lat": 48.062494,
+      "lng": -116.598761
+    },
+    {
+      "name": "Carmen",
+      "slug": "carmen",
+      "county": "Lemhi County",
+      "lat": 45.255016,
+      "lng": -113.857267
+    },
+    {
+      "name": "Cascade",
+      "slug": "cascade",
+      "county": "Valley County",
+      "lat": 44.493273,
+      "lng": -116.027676
+    },
+    {
+      "name": "Castleford",
+      "slug": "castleford",
+      "county": "Twin Falls County",
+      "lat": 42.521015,
+      "lng": -114.873433
+    },
+    {
+      "name": "Cataldo",
+      "slug": "cataldo",
+      "county": "Kootenai County",
+      "lat": 47.552169,
+      "lng": -116.443138
+    },
+    {
+      "name": "Challis",
+      "slug": "challis",
+      "county": "Custer County",
+      "lat": 44.496912,
+      "lng": -114.19463
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Fremont County",
+      "lat": 43.999444,
+      "lng": -111.569167
+    },
+    {
+      "name": "Clark Fork",
+      "slug": "clark-fork",
+      "county": "Bonner County",
+      "lat": 48.140457,
+      "lng": -116.169865
+    },
+    {
+      "name": "Clarkia",
+      "slug": "clarkia",
+      "county": "Shoshone County",
+      "lat": 47.044477,
+      "lng": -116.277408
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Custer County",
+      "lat": 44.273289,
+      "lng": -114.410189
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Franklin County",
+      "lat": 42.215972,
+      "lng": -111.995737
+    },
+    {
+      "name": "Cobalt",
+      "slug": "cobalt",
+      "county": "Lemhi County",
+      "lat": 45.004167,
+      "lng": -114.333333
+    },
+    {
+      "name": "Cocolalla",
+      "slug": "cocolalla",
+      "county": "Bonner County",
+      "lat": 48.124828,
+      "lng": -116.657051
+    },
+    {
+      "name": "Coeur D Alene",
+      "slug": "coeur-d-alene",
+      "county": "Kootenai County",
+      "lat": 47.692841,
+      "lng": -116.784976
+    },
+    {
+      "name": "Colburn",
+      "slug": "colburn",
+      "county": "Bonner County",
+      "lat": 48.397222,
+      "lng": -116.534167
+    },
+    {
+      "name": "Conda",
+      "slug": "conda",
+      "county": "Caribou County",
+      "lat": 42.717126,
+      "lng": -111.54023
+    },
+    {
+      "name": "Coolin",
+      "slug": "coolin",
+      "county": "Bonner County",
+      "lat": 48.522754,
+      "lng": -116.840823
+    },
+    {
+      "name": "Corral",
+      "slug": "corral",
+      "county": "Camas County",
+      "lat": 43.307127,
+      "lng": -115.00871
+    },
+    {
+      "name": "Cottonwood",
+      "slug": "cottonwood",
+      "county": "Idaho County",
+      "lat": 46.044789,
+      "lng": -116.373306
+    },
+    {
+      "name": "Council",
+      "slug": "council",
+      "county": "Adams County",
+      "lat": 44.762754,
+      "lng": -116.451833
+    },
+    {
+      "name": "Craigmont",
+      "slug": "craigmont",
+      "county": "Lewis County",
+      "lat": 46.245292,
+      "lng": -116.467655
+    },
+    {
+      "name": "Culdesac",
+      "slug": "culdesac",
+      "county": "Nez Perce County",
+      "lat": 46.378012,
+      "lng": -116.653579
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Franklin County",
+      "lat": 42.11836,
+      "lng": -111.985836
+    },
+    {
+      "name": "Deary",
+      "slug": "deary",
+      "county": "Latah County",
+      "lat": 46.806062,
+      "lng": -116.523782
+    },
+    {
+      "name": "Declo",
+      "slug": "declo",
+      "county": "Cassia County",
+      "lat": 42.524005,
+      "lng": -113.644794
+    },
+    {
+      "name": "Desmet",
+      "slug": "desmet",
+      "county": "Benewah County",
+      "lat": 47.125954,
+      "lng": -116.893746
+    },
+    {
+      "name": "Dietrich",
+      "slug": "dietrich",
+      "county": "Lincoln County",
+      "lat": 42.91254,
+      "lng": -114.266408
+    },
+    {
+      "name": "Dingle",
+      "slug": "dingle",
+      "county": "Bear Lake County",
+      "lat": 42.219444,
+      "lng": -111.267222
+    },
+    {
+      "name": "Donnelly",
+      "slug": "donnelly",
+      "county": "Valley County",
+      "lat": 44.74937,
+      "lng": -116.08578
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Bonner County",
+      "lat": 48.251667,
+      "lng": -116.61
+    },
+    {
+      "name": "Downey",
+      "slug": "downey",
+      "county": "Bannock County",
+      "lat": 42.418127,
+      "lng": -112.109019
+    },
+    {
+      "name": "Driggs",
+      "slug": "driggs",
+      "county": "Teton County",
+      "lat": 43.726291,
+      "lng": -111.119896
+    },
+    {
+      "name": "Dubois",
+      "slug": "dubois",
+      "county": "Clark County",
+      "lat": 44.185769,
+      "lng": -112.325852
+    },
+    {
+      "name": "Eagle",
+      "slug": "eagle",
+      "county": "Ada County",
+      "lat": 43.706879,
+      "lng": -116.361966
+    },
+    {
+      "name": "Eastport",
+      "slug": "eastport",
+      "county": "Boundary County",
+      "lat": 48.999444,
+      "lng": -116.180278
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "county": "Jerome County",
+      "lat": 42.580374,
+      "lng": -114.162762
+    },
+    {
+      "name": "Elk City",
+      "slug": "elk-city",
+      "county": "Idaho County",
+      "lat": 45.888897,
+      "lng": -115.359158
+    },
+    {
+      "name": "Elk River",
+      "slug": "elk-river",
+      "county": "Clearwater County",
+      "lat": 46.782972,
+      "lng": -116.179943
+    },
+    {
+      "name": "Ellis",
+      "slug": "ellis",
+      "county": "Custer County",
+      "lat": 44.878829,
+      "lng": -114.001594
+    },
+    {
+      "name": "Emmett",
+      "slug": "emmett",
+      "county": "Gem County",
+      "lat": 43.879152,
+      "lng": -116.511459
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Camas County",
+      "lat": 43.367504,
+      "lng": -114.790845
+    },
+    {
+      "name": "Felt",
+      "slug": "felt",
+      "county": "Teton County",
+      "lat": 43.872407,
+      "lng": -111.189496
+    },
+    {
+      "name": "Fenn",
+      "slug": "fenn",
+      "county": "Idaho County",
+      "lat": 45.926667,
+      "lng": -116.121389
+    },
+    {
+      "name": "Ferdinand",
+      "slug": "ferdinand",
+      "county": "Idaho County",
+      "lat": 46.134877,
+      "lng": -116.39817
+    },
+    {
+      "name": "Fernwood",
+      "slug": "fernwood",
+      "county": "Benewah County",
+      "lat": 47.116027,
+      "lng": -116.383126
+    },
+    {
+      "name": "Filer",
+      "slug": "filer",
+      "county": "Twin Falls County",
+      "lat": 42.565269,
+      "lng": -114.614047
+    },
+    {
+      "name": "Firth",
+      "slug": "firth",
+      "county": "Bingham County",
+      "lat": 43.302066,
+      "lng": -112.158819
+    },
+    {
+      "name": "Fish Haven",
+      "slug": "fish-haven",
+      "county": "Bear Lake County",
+      "lat": 42.045926,
+      "lng": -111.463323
+    },
+    {
+      "name": "Fort Hall",
+      "slug": "fort-hall",
+      "county": "Bingham County",
+      "lat": 42.988717,
+      "lng": -112.459854
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Franklin County",
+      "lat": 42.030389,
+      "lng": -111.822862
+    },
+    {
+      "name": "Fruitland",
+      "slug": "fruitland",
+      "county": "Payette County",
+      "lat": 44.002658,
+      "lng": -116.914259
+    },
+    {
+      "name": "Garden City",
+      "slug": "garden-city",
+      "county": "Ada County",
+      "lat": 43.643036,
+      "lng": -116.265751
+    },
+    {
+      "name": "Garden Valley",
+      "slug": "garden-valley",
+      "county": "Boise County",
+      "lat": 44.090932,
+      "lng": -115.824311
+    },
+    {
+      "name": "Genesee",
+      "slug": "genesee",
+      "county": "Latah County",
+      "lat": 46.571394,
+      "lng": -116.928991
+    },
+    {
+      "name": "Geneva",
+      "slug": "geneva",
+      "county": "Bear Lake County",
+      "lat": 42.313585,
+      "lng": -111.072185
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Bear Lake County",
+      "lat": 42.473333,
+      "lng": -111.396944
+    },
+    {
+      "name": "Gibbonsville",
+      "slug": "gibbonsville",
+      "county": "Lemhi County",
+      "lat": 45.484608,
+      "lng": -113.956466
+    },
+    {
+      "name": "Glenns Ferry",
+      "slug": "glenns-ferry",
+      "county": "Elmore County",
+      "lat": 42.962202,
+      "lng": -115.315973
+    },
+    {
+      "name": "Gooding",
+      "slug": "gooding",
+      "county": "Gooding County",
+      "lat": 42.937345,
+      "lng": -114.711966
+    },
+    {
+      "name": "Grace",
+      "slug": "grace",
+      "county": "Caribou County",
+      "lat": 42.549978,
+      "lng": -111.739981
+    },
+    {
+      "name": "Grand View",
+      "slug": "grand-view",
+      "county": "Owyhee County",
+      "lat": 42.810101,
+      "lng": -116.08187
+    },
+    {
+      "name": "Grangeville",
+      "slug": "grangeville",
+      "county": "Idaho County",
+      "lat": 45.927239,
+      "lng": -116.107639
+    },
+    {
+      "name": "Greencreek",
+      "slug": "greencreek",
+      "county": "Idaho County",
+      "lat": 46.115523,
+      "lng": -116.27239
+    },
+    {
+      "name": "Greenleaf",
+      "slug": "greenleaf",
+      "county": "Canyon County",
+      "lat": 43.671389,
+      "lng": -116.815278
+    },
+    {
+      "name": "Hagerman",
+      "slug": "hagerman",
+      "county": "Gooding County",
+      "lat": 42.814205,
+      "lng": -114.88697
+    },
+    {
+      "name": "Hailey",
+      "slug": "hailey",
+      "county": "Blaine County",
+      "lat": 43.523861,
+      "lng": -114.306398
+    },
+    {
+      "name": "Hamer",
+      "slug": "hamer",
+      "county": "Jefferson County",
+      "lat": 43.930751,
+      "lng": -112.187189
+    },
+    {
+      "name": "Hammett",
+      "slug": "hammett",
+      "county": "Elmore County",
+      "lat": 42.981755,
+      "lng": -115.565839
+    },
+    {
+      "name": "Hansen",
+      "slug": "hansen",
+      "county": "Twin Falls County",
+      "lat": 42.524895,
+      "lng": -114.299364
+    },
+    {
+      "name": "Harrison",
+      "slug": "harrison",
+      "county": "Kootenai County",
+      "lat": 47.501692,
+      "lng": -116.744607
+    },
+    {
+      "name": "Harvard",
+      "slug": "harvard",
+      "county": "Latah County",
+      "lat": 46.937647,
+      "lng": -116.702524
+    },
+    {
+      "name": "Hayden",
+      "slug": "hayden",
+      "county": "Kootenai County",
+      "lat": 47.773853,
+      "lng": -116.776821
+    },
+    {
+      "name": "Hazelton",
+      "slug": "hazelton",
+      "county": "Jerome County",
+      "lat": 42.595462,
+      "lng": -114.134984
+    },
+    {
+      "name": "Heyburn",
+      "slug": "heyburn",
+      "county": "Minidoka County",
+      "lat": 42.559922,
+      "lng": -113.770885
+    },
+    {
+      "name": "Hill City",
+      "slug": "hill-city",
+      "county": "Camas County",
+      "lat": 43.300556,
+      "lng": -115.050278
+    },
+    {
+      "name": "Holbrook",
+      "slug": "holbrook",
+      "county": "Oneida County",
+      "lat": 42.222148,
+      "lng": -112.693404
+    },
+    {
+      "name": "Homedale",
+      "slug": "homedale",
+      "county": "Owyhee County",
+      "lat": 43.613844,
+      "lng": -116.947228
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Bonner County",
+      "lat": 48.244402,
+      "lng": -116.279504
+    },
+    {
+      "name": "Horseshoe Bend",
+      "slug": "horseshoe-bend",
+      "county": "Boise County",
+      "lat": 43.922882,
+      "lng": -116.180898
+    },
+    {
+      "name": "Howe",
+      "slug": "howe",
+      "county": "Butte County",
+      "lat": 43.783611,
+      "lng": -113.003889
+    },
+    {
+      "name": "Huston",
+      "slug": "huston",
+      "county": "Canyon County",
+      "lat": 43.610278,
+      "lng": -116.782222
+    },
+    {
+      "name": "Idaho City",
+      "slug": "idaho-city",
+      "county": "Boise County",
+      "lat": 43.758601,
+      "lng": -115.918436
+    },
+    {
+      "name": "Idaho Falls",
+      "slug": "idaho-falls",
+      "county": "Bonneville County",
+      "lat": 43.517679,
+      "lng": -111.990626
+    },
+    {
+      "name": "Indian Valley",
+      "slug": "indian-valley",
+      "county": "Adams County",
+      "lat": 44.549134,
+      "lng": -116.442969
+    },
+    {
+      "name": "Inkom",
+      "slug": "inkom",
+      "county": "Bannock County",
+      "lat": 42.796379,
+      "lng": -112.246474
+    },
+    {
+      "name": "Iona",
+      "slug": "iona",
+      "county": "Bonneville County",
+      "lat": 43.525946,
+      "lng": -111.928356
+    },
+    {
+      "name": "Irwin",
+      "slug": "irwin",
+      "county": "Bonneville County",
+      "lat": 43.408611,
+      "lng": -111.298611
+    },
+    {
+      "name": "Island Park",
+      "slug": "island-park",
+      "county": "Fremont County",
+      "lat": 44.446606,
+      "lng": -111.367914
+    },
+    {
+      "name": "Jerome",
+      "slug": "jerome",
+      "county": "Jerome County",
+      "lat": 42.71784,
+      "lng": -114.501244
+    },
+    {
+      "name": "Juliaetta",
+      "slug": "juliaetta",
+      "county": "Latah County",
+      "lat": 46.575376,
+      "lng": -116.718849
+    },
+    {
+      "name": "Kamiah",
+      "slug": "kamiah",
+      "county": "Lewis County",
+      "lat": 46.21856,
+      "lng": -116.034742
+    },
+    {
+      "name": "Kellogg",
+      "slug": "kellogg",
+      "county": "Shoshone County",
+      "lat": 47.543069,
+      "lng": -116.125281
+    },
+    {
+      "name": "Kendrick",
+      "slug": "kendrick",
+      "county": "Latah County",
+      "lat": 46.628628,
+      "lng": -116.604895
+    },
+    {
+      "name": "Ketchum",
+      "slug": "ketchum",
+      "county": "Blaine County",
+      "lat": 43.675459,
+      "lng": -114.373664
+    },
+    {
+      "name": "Kimberly",
+      "slug": "kimberly",
+      "county": "Twin Falls County",
+      "lat": 42.528656,
+      "lng": -114.365725
+    },
+    {
+      "name": "King Hill",
+      "slug": "king-hill",
+      "county": "Elmore County",
+      "lat": 42.936104,
+      "lng": -115.269098
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Shoshone County",
+      "lat": 47.550881,
+      "lng": -116.288722
+    },
+    {
+      "name": "Kooskia",
+      "slug": "kooskia",
+      "county": "Idaho County",
+      "lat": 46.125859,
+      "lng": -115.92396
+    },
+    {
+      "name": "Kootenai",
+      "slug": "kootenai",
+      "county": "Bonner County",
+      "lat": 48.310278,
+      "lng": -116.5125
+    },
+    {
+      "name": "Kuna",
+      "slug": "kuna",
+      "county": "Ada County",
+      "lat": 43.487034,
+      "lng": -116.381859
+    },
+    {
+      "name": "Laclede",
+      "slug": "laclede",
+      "county": "Bonner County",
+      "lat": 48.170278,
+      "lng": -116.755
+    },
+    {
+      "name": "Lake Fork",
+      "slug": "lake-fork",
+      "county": "Valley County",
+      "lat": 44.891667,
+      "lng": -116.078611
+    },
+    {
+      "name": "Lapwai",
+      "slug": "lapwai",
+      "county": "Nez Perce County",
+      "lat": 46.412403,
+      "lng": -116.790225
+    },
+    {
+      "name": "Lava Hot Springs",
+      "slug": "lava-hot-springs",
+      "county": "Bannock County",
+      "lat": 42.618474,
+      "lng": -112.017644
+    },
+    {
+      "name": "Leadore",
+      "slug": "leadore",
+      "county": "Lemhi County",
+      "lat": 44.738909,
+      "lng": -113.492586
+    },
+    {
+      "name": "Lemhi",
+      "slug": "lemhi",
+      "county": "Lemhi County",
+      "lat": 44.851667,
+      "lng": -113.618889
+    },
+    {
+      "name": "Lenore",
+      "slug": "lenore",
+      "county": "Clearwater County",
+      "lat": 46.535408,
+      "lng": -116.513015
+    },
+    {
+      "name": "Letha",
+      "slug": "letha",
+      "county": "Gem County",
+      "lat": 43.840306,
+      "lng": -116.585004
+    },
+    {
+      "name": "Lewiston",
+      "slug": "lewiston",
+      "county": "Nez Perce County",
+      "lat": 46.389457,
+      "lng": -116.987714
+    },
+    {
+      "name": "Lewisville",
+      "slug": "lewisville",
+      "county": "Jefferson County",
+      "lat": 43.672476,
+      "lng": -112.018884
+    },
+    {
+      "name": "Lowman",
+      "slug": "lowman",
+      "county": "Boise County",
+      "lat": 44.110616,
+      "lng": -115.528488
+    },
+    {
+      "name": "Lucile",
+      "slug": "lucile",
+      "county": "Idaho County",
+      "lat": 45.556963,
+      "lng": -116.266899
+    },
+    {
+      "name": "Mackay",
+      "slug": "mackay",
+      "county": "Custer County",
+      "lat": 43.91106,
+      "lng": -113.611984
+    },
+    {
+      "name": "Macks Inn",
+      "slug": "macks-inn",
+      "county": "Fremont County",
+      "lat": 44.424444,
+      "lng": -111.370278
+    },
+    {
+      "name": "Malad City",
+      "slug": "malad-city",
+      "county": "Oneida County",
+      "lat": 42.180783,
+      "lng": -112.262045
+    },
+    {
+      "name": "Malta",
+      "slug": "malta",
+      "county": "Cassia County",
+      "lat": 42.364652,
+      "lng": -113.448656
+    },
+    {
+      "name": "Marsing",
+      "slug": "marsing",
+      "county": "Owyhee County",
+      "lat": 43.539866,
+      "lng": -116.823968
+    },
+    {
+      "name": "May",
+      "slug": "may",
+      "county": "Lemhi County",
+      "lat": 44.701745,
+      "lng": -113.916039
+    },
+    {
+      "name": "Mccall",
+      "slug": "mccall",
+      "county": "Valley County",
+      "lat": 44.891784,
+      "lng": -116.078873
+    },
+    {
+      "name": "Mccammon",
+      "slug": "mccammon",
+      "county": "Bannock County",
+      "lat": 42.63362,
+      "lng": -112.175758
+    },
+    {
+      "name": "Medimont",
+      "slug": "medimont",
+      "county": "Kootenai County",
+      "lat": 47.462482,
+      "lng": -116.568291
+    },
+    {
+      "name": "Melba",
+      "slug": "melba",
+      "county": "Canyon County",
+      "lat": 43.37842,
+      "lng": -116.548875
+    },
+    {
+      "name": "Menan",
+      "slug": "menan",
+      "county": "Jefferson County",
+      "lat": 43.726576,
+      "lng": -111.983702
+    },
+    {
+      "name": "Meridian",
+      "slug": "meridian",
+      "county": "Ada County",
+      "lat": 43.614963,
+      "lng": -116.397538
+    },
+    {
+      "name": "Mesa",
+      "slug": "mesa",
+      "county": "Adams County",
+      "lat": 44.657747,
+      "lng": -116.42113
+    },
+    {
+      "name": "Middleton",
+      "slug": "middleton",
+      "county": "Canyon County",
+      "lat": 43.719052,
+      "lng": -116.61122
+    },
+    {
+      "name": "Midvale",
+      "slug": "midvale",
+      "county": "Washington County",
+      "lat": 44.441979,
+      "lng": -116.703838
+    },
+    {
+      "name": "Minidoka",
+      "slug": "minidoka",
+      "county": "Minidoka County",
+      "lat": 42.759784,
+      "lng": -113.620033
+    },
+    {
+      "name": "Monteview",
+      "slug": "monteview",
+      "county": "Jefferson County",
+      "lat": 43.986242,
+      "lng": -112.578321
+    },
+    {
+      "name": "Montpelier",
+      "slug": "montpelier",
+      "county": "Bear Lake County",
+      "lat": 42.35199,
+      "lng": -111.31946
+    },
+    {
+      "name": "Moore",
+      "slug": "moore",
+      "county": "Butte County",
+      "lat": 43.782094,
+      "lng": -113.260349
+    },
+    {
+      "name": "Moreland",
+      "slug": "moreland",
+      "county": "Bingham County",
+      "lat": 43.222778,
+      "lng": -112.441667
+    },
+    {
+      "name": "Moscow",
+      "slug": "moscow",
+      "county": "Latah County",
+      "lat": 46.730921,
+      "lng": -116.989683
+    },
+    {
+      "name": "Mountain Home",
+      "slug": "mountain-home",
+      "county": "Elmore County",
+      "lat": 43.139223,
+      "lng": -115.696334
+    },
+    {
+      "name": "Mountain Home A F B",
+      "slug": "mountain-home-a-f-b",
+      "county": "Elmore County",
+      "lat": 43.049315,
+      "lng": -115.873609
+    },
+    {
+      "name": "Moyie Springs",
+      "slug": "moyie-springs",
+      "county": "Boundary County",
+      "lat": 48.746434,
+      "lng": -116.179603
+    },
+    {
+      "name": "Mullan",
+      "slug": "mullan",
+      "county": "Shoshone County",
+      "lat": 47.470906,
+      "lng": -115.792603
+    },
+    {
+      "name": "Murphy",
+      "slug": "murphy",
+      "county": "Owyhee County",
+      "lat": 43.207296,
+      "lng": -116.605379
+    },
+    {
+      "name": "Murray",
+      "slug": "murray",
+      "county": "Shoshone County",
+      "lat": 47.627222,
+      "lng": -115.8575
+    },
+    {
+      "name": "Murtaugh",
+      "slug": "murtaugh",
+      "county": "Twin Falls County",
+      "lat": 42.477597,
+      "lng": -114.160641
+    },
+    {
+      "name": "Nampa",
+      "slug": "nampa",
+      "county": "Canyon County",
+      "lat": 43.58342,
+      "lng": -116.584818
+    },
+    {
+      "name": "Naples",
+      "slug": "naples",
+      "county": "Boundary County",
+      "lat": 48.60491,
+      "lng": -116.319636
+    },
+    {
+      "name": "New Meadows",
+      "slug": "new-meadows",
+      "county": "Adams County",
+      "lat": 44.993969,
+      "lng": -116.287438
+    },
+    {
+      "name": "New Plymouth",
+      "slug": "new-plymouth",
+      "county": "Payette County",
+      "lat": 43.959021,
+      "lng": -116.804818
+    },
+    {
+      "name": "Newdale",
+      "slug": "newdale",
+      "county": "Fremont County",
+      "lat": 43.888078,
+      "lng": -111.604192
+    },
+    {
+      "name": "Nezperce",
+      "slug": "nezperce",
+      "county": "Lewis County",
+      "lat": 46.247533,
+      "lng": -116.239281
+    },
+    {
+      "name": "Nordman",
+      "slug": "nordman",
+      "county": "Bonner County",
+      "lat": 48.566944,
+      "lng": -116.92126
+    },
+    {
+      "name": "North Fork",
+      "slug": "north-fork",
+      "county": "Lemhi County",
+      "lat": 45.377605,
+      "lng": -113.857287
+    },
+    {
+      "name": "Notus",
+      "slug": "notus",
+      "county": "Canyon County",
+      "lat": 43.725556,
+      "lng": -116.800278
+    },
+    {
+      "name": "Oakley",
+      "slug": "oakley",
+      "county": "Cassia County",
+      "lat": 42.347561,
+      "lng": -113.906945
+    },
+    {
+      "name": "Ola",
+      "slug": "ola",
+      "county": "Gem County",
+      "lat": 44.235026,
+      "lng": -116.290915
+    },
+    {
+      "name": "Oldtown",
+      "slug": "oldtown",
+      "county": "Bonner County",
+      "lat": 48.187988,
+      "lng": -116.927382
+    },
+    {
+      "name": "Orofino",
+      "slug": "orofino",
+      "county": "Clearwater County",
+      "lat": 46.495197,
+      "lng": -116.240417
+    },
+    {
+      "name": "Osburn",
+      "slug": "osburn",
+      "county": "Shoshone County",
+      "lat": 47.506111,
+      "lng": -115.998333
+    },
+    {
+      "name": "Paris",
+      "slug": "paris",
+      "county": "Bear Lake County",
+      "lat": 42.207065,
+      "lng": -111.402938
+    },
+    {
+      "name": "Parker",
+      "slug": "parker",
+      "county": "Fremont County",
+      "lat": 43.959444,
+      "lng": -111.756944
+    },
+    {
+      "name": "Parma",
+      "slug": "parma",
+      "county": "Canyon County",
+      "lat": 43.789576,
+      "lng": -116.940066
+    },
+    {
+      "name": "Paul",
+      "slug": "paul",
+      "county": "Minidoka County",
+      "lat": 42.623999,
+      "lng": -113.797125
+    },
+    {
+      "name": "Payette",
+      "slug": "payette",
+      "county": "Payette County",
+      "lat": 44.07818,
+      "lng": -116.920277
+    },
+    {
+      "name": "Peck",
+      "slug": "peck",
+      "county": "Nez Perce County",
+      "lat": 46.480661,
+      "lng": -116.411394
+    },
+    {
+      "name": "Picabo",
+      "slug": "picabo",
+      "county": "Blaine County",
+      "lat": 43.310149,
+      "lng": -114.086065
+    },
+    {
+      "name": "Pierce",
+      "slug": "pierce",
+      "county": "Clearwater County",
+      "lat": 46.492424,
+      "lng": -115.807071
+    },
+    {
+      "name": "Pinehurst",
+      "slug": "pinehurst",
+      "county": "Shoshone County",
+      "lat": 47.501823,
+      "lng": -116.264679
+    },
+    {
+      "name": "Pingree",
+      "slug": "pingree",
+      "county": "Bingham County",
+      "lat": 43.195618,
+      "lng": -112.449035
+    },
+    {
+      "name": "Placerville",
+      "slug": "placerville",
+      "county": "Boise County",
+      "lat": 43.943333,
+      "lng": -115.946111
+    },
+    {
+      "name": "Plummer",
+      "slug": "plummer",
+      "county": "Benewah County",
+      "lat": 47.327782,
+      "lng": -116.866161
+    },
+    {
+      "name": "Pocatello",
+      "slug": "pocatello",
+      "county": "Bannock County",
+      "lat": 42.887592,
+      "lng": -112.438142
+    },
+    {
+      "name": "Pollock",
+      "slug": "pollock",
+      "county": "Idaho County",
+      "lat": 45.306754,
+      "lng": -116.351742
+    },
+    {
+      "name": "Ponderay",
+      "slug": "ponderay",
+      "county": "Bonner County",
+      "lat": 48.305556,
+      "lng": -116.532778
+    },
+    {
+      "name": "Porthill",
+      "slug": "porthill",
+      "county": "Boundary County",
+      "lat": 48.992037,
+      "lng": -116.477517
+    },
+    {
+      "name": "Post Falls",
+      "slug": "post-falls",
+      "county": "Kootenai County",
+      "lat": 47.720475,
+      "lng": -116.935349
+    },
+    {
+      "name": "Potlatch",
+      "slug": "potlatch",
+      "county": "Latah County",
+      "lat": 46.944833,
+      "lng": -116.914101
+    },
+    {
+      "name": "Preston",
+      "slug": "preston",
+      "county": "Franklin County",
+      "lat": 42.110917,
+      "lng": -111.856516
+    },
+    {
+      "name": "Priest River",
+      "slug": "priest-river",
+      "county": "Bonner County",
+      "lat": 48.16637,
+      "lng": -116.906617
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Latah County",
+      "lat": 46.899556,
+      "lng": -116.828728
+    },
+    {
+      "name": "Rathdrum",
+      "slug": "rathdrum",
+      "county": "Kootenai County",
+      "lat": 47.824107,
+      "lng": -116.887294
+    },
+    {
+      "name": "Reubens",
+      "slug": "reubens",
+      "county": "Lewis County",
+      "lat": 46.336112,
+      "lng": -116.533334
+    },
+    {
+      "name": "Rexburg",
+      "slug": "rexburg",
+      "county": "Madison County",
+      "lat": 43.809968,
+      "lng": -111.789022
+    },
+    {
+      "name": "Richfield",
+      "slug": "richfield",
+      "county": "Lincoln County",
+      "lat": 43.058839,
+      "lng": -114.15079
+    },
+    {
+      "name": "Rigby",
+      "slug": "rigby",
+      "county": "Jefferson County",
+      "lat": 43.671462,
+      "lng": -111.900481
+    },
+    {
+      "name": "Riggins",
+      "slug": "riggins",
+      "county": "Idaho County",
+      "lat": 45.397006,
+      "lng": -116.300553
+    },
+    {
+      "name": "Ririe",
+      "slug": "ririe",
+      "county": "Jefferson County",
+      "lat": 43.631961,
+      "lng": -111.760692
+    },
+    {
+      "name": "Roberts",
+      "slug": "roberts",
+      "county": "Jefferson County",
+      "lat": 43.7116,
+      "lng": -112.119591
+    },
+    {
+      "name": "Rockland",
+      "slug": "rockland",
+      "county": "Power County",
+      "lat": 42.555582,
+      "lng": -112.853982
+    },
+    {
+      "name": "Rogerson",
+      "slug": "rogerson",
+      "county": "Twin Falls County",
+      "lat": 42.219567,
+      "lng": -114.603794
+    },
+    {
+      "name": "Rupert",
+      "slug": "rupert",
+      "county": "Minidoka County",
+      "lat": 42.621467,
+      "lng": -113.66699
+    },
+    {
+      "name": "Sagle",
+      "slug": "sagle",
+      "county": "Bonner County",
+      "lat": 48.2035,
+      "lng": -116.5455
+    },
+    {
+      "name": "Saint Anthony",
+      "slug": "saint-anthony",
+      "county": "Fremont County",
+      "lat": 44.274499,
+      "lng": -111.523156
+    },
+    {
+      "name": "Saint Charles",
+      "slug": "saint-charles",
+      "county": "Bear Lake County",
+      "lat": 42.112812,
+      "lng": -111.389744
+    },
+    {
+      "name": "Saint Maries",
+      "slug": "saint-maries",
+      "county": "Benewah County",
+      "lat": 47.297727,
+      "lng": -116.568107
+    },
+    {
+      "name": "Salmon",
+      "slug": "salmon",
+      "county": "Lemhi County",
+      "lat": 45.157142,
+      "lng": -113.878356
+    },
+    {
+      "name": "Sandpoint",
+      "slug": "sandpoint",
+      "county": "Bonner County",
+      "lat": 48.311989,
+      "lng": -116.533249
+    },
+    {
+      "name": "Santa",
+      "slug": "santa",
+      "county": "Benewah County",
+      "lat": 47.150278,
+      "lng": -116.448056
+    },
+    {
+      "name": "Shelley",
+      "slug": "shelley",
+      "county": "Bingham County",
+      "lat": 43.376901,
+      "lng": -112.107549
+    },
+    {
+      "name": "Shoshone",
+      "slug": "shoshone",
+      "county": "Lincoln County",
+      "lat": 42.947353,
+      "lng": -114.382176
+    },
+    {
+      "name": "Shoup",
+      "slug": "shoup",
+      "county": "Lemhi County",
+      "lat": 45.18514,
+      "lng": -114.405987
+    },
+    {
+      "name": "Silverton",
+      "slug": "silverton",
+      "county": "Shoshone County",
+      "lat": 47.493056,
+      "lng": -115.954444
+    },
+    {
+      "name": "Smelterville",
+      "slug": "smelterville",
+      "county": "Shoshone County",
+      "lat": 47.537096,
+      "lng": -116.240113
+    },
+    {
+      "name": "Soda Springs",
+      "slug": "soda-springs",
+      "county": "Caribou County",
+      "lat": 42.671819,
+      "lng": -111.569896
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Clark County",
+      "lat": 44.281444,
+      "lng": -112.098821
+    },
+    {
+      "name": "Spirit Lake",
+      "slug": "spirit-lake",
+      "county": "Kootenai County",
+      "lat": 47.965652,
+      "lng": -116.868046
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Bingham County",
+      "lat": 43.081667,
+      "lng": -112.681111
+    },
+    {
+      "name": "Stanley",
+      "slug": "stanley",
+      "county": "Custer County",
+      "lat": 44.22908,
+      "lng": -114.725414
+    },
+    {
+      "name": "Star",
+      "slug": "star",
+      "county": "Ada County",
+      "lat": 43.701296,
+      "lng": -116.496735
+    },
+    {
+      "name": "Stites",
+      "slug": "stites",
+      "county": "Idaho County",
+      "lat": 46.091667,
+      "lng": -115.975278
+    },
+    {
+      "name": "Sugar City",
+      "slug": "sugar-city",
+      "county": "Madison County",
+      "lat": 43.866852,
+      "lng": -111.79004
+    },
+    {
+      "name": "Sun Valley",
+      "slug": "sun-valley",
+      "county": "Blaine County",
+      "lat": 43.6955,
+      "lng": -114.3557
+    },
+    {
+      "name": "Swan Valley",
+      "slug": "swan-valley",
+      "county": "Bonneville County",
+      "lat": 43.405826,
+      "lng": -111.279358
+    },
+    {
+      "name": "Swanlake",
+      "slug": "swanlake",
+      "county": "Bannock County",
+      "lat": 42.307778,
+      "lng": -111.998056
+    },
+    {
+      "name": "Sweet",
+      "slug": "sweet",
+      "county": "Gem County",
+      "lat": 43.99475,
+      "lng": -116.323215
+    },
+    {
+      "name": "Tendoy",
+      "slug": "tendoy",
+      "county": "Lemhi County",
+      "lat": 44.959444,
+      "lng": -113.643889
+    },
+    {
+      "name": "Tensed",
+      "slug": "tensed",
+      "county": "Benewah County",
+      "lat": 47.170735,
+      "lng": -116.902716
+    },
+    {
+      "name": "Terreton",
+      "slug": "terreton",
+      "county": "Jefferson County",
+      "lat": 43.858635,
+      "lng": -112.420041
+    },
+    {
+      "name": "Teton",
+      "slug": "teton",
+      "county": "Fremont County",
+      "lat": 43.898751,
+      "lng": -111.668145
+    },
+    {
+      "name": "Tetonia",
+      "slug": "tetonia",
+      "county": "Teton County",
+      "lat": 43.843713,
+      "lng": -111.186997
+    },
+    {
+      "name": "Thatcher",
+      "slug": "thatcher",
+      "county": "Franklin County",
+      "lat": 42.331959,
+      "lng": -111.78899
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Latah County",
+      "lat": 46.742648,
+      "lng": -116.768105
+    },
+    {
+      "name": "Twin Falls",
+      "slug": "twin-falls",
+      "county": "Twin Falls County",
+      "lat": 42.556495,
+      "lng": -114.469265
+    },
+    {
+      "name": "Ucon",
+      "slug": "ucon",
+      "county": "Bonneville County",
+      "lat": 43.596389,
+      "lng": -111.963056
+    },
+    {
+      "name": "Victor",
+      "slug": "victor",
+      "county": "Teton County",
+      "lat": 43.614827,
+      "lng": -111.125934
+    },
+    {
+      "name": "Viola",
+      "slug": "viola",
+      "county": "Latah County",
+      "lat": 46.858293,
+      "lng": -116.97319
+    },
+    {
+      "name": "Wallace",
+      "slug": "wallace",
+      "county": "Shoshone County",
+      "lat": 47.490842,
+      "lng": -115.962001
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Idaho County",
+      "lat": 45.264167,
+      "lng": -115.675556
+    },
+    {
+      "name": "Wayan",
+      "slug": "wayan",
+      "county": "Caribou County",
+      "lat": 43.02691,
+      "lng": -111.254056
+    },
+    {
+      "name": "Weippe",
+      "slug": "weippe",
+      "county": "Clearwater County",
+      "lat": 46.38069,
+      "lng": -115.938593
+    },
+    {
+      "name": "Weiser",
+      "slug": "weiser",
+      "county": "Washington County",
+      "lat": 44.25222,
+      "lng": -116.96507
+    },
+    {
+      "name": "Wendell",
+      "slug": "wendell",
+      "county": "Gooding County",
+      "lat": 42.757868,
+      "lng": -114.715391
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Franklin County",
+      "lat": 42.044621,
+      "lng": -111.97154
+    },
+    {
+      "name": "White Bird",
+      "slug": "white-bird",
+      "county": "Idaho County",
+      "lat": 45.752096,
+      "lng": -116.2889
+    },
+    {
+      "name": "Wilder",
+      "slug": "wilder",
+      "county": "Canyon County",
+      "lat": 43.657851,
+      "lng": -116.912199
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Lewis County",
+      "lat": 46.238334,
+      "lng": -116.620382
+    },
+    {
+      "name": "Worley",
+      "slug": "worley",
+      "county": "Kootenai County",
+      "lat": 47.429213,
+      "lng": -116.905634
+    },
+    {
+      "name": "Yellow Pine",
+      "slug": "yellow-pine",
+      "county": "Valley County",
+      "lat": 44.969809,
+      "lng": -115.49634
+    }
+  ]
+}

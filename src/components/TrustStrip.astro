@@ -1,0 +1,21 @@
+---
+import { TRUST_POINTS } from '../data/siteData';
+---
+
+<section class="trust-strip">
+  <div class="container">
+    <div class="trust-grid">
+      {TRUST_POINTS.map((tp) => (
+        <div class="trust-item">
+          <div class="trust-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+          </div>
+          <div>
+            <div class="trust-title">{tp.title}</div>
+            <div class="trust-desc">{tp.desc}</div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

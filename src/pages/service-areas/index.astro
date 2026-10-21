@@ -1,0 +1,194 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import TrustStrip from '../../components/TrustStrip.astro';
+import { BUSINESS_INFO, ALL_STATES, SERVICES } from '../../data/siteData';
+
+const pageTitle = "Water Damage Restoration Service Areas | All 50 States & 29,738+ Cities";
+const pageDesc = "Explore Rapid Water Rescue Pros emergency water extraction & flood damage restoration coverage across all 50 US states and 29,738+ cities. 24/7 under 60-min dispatch. Call (866) 751-9896.";
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDesc}
+  canonicalPath="/service-areas/"
+>
+  <!-- 2-Level Breadcrumb (Home > Service Areas) -->
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Service Areas", url: "/service-areas/" }
+  ]} />
+
+  <!-- Hero Section (Original Signature Dark Blue Theme) -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
+          24/7 Nationwide Water Damage Response Fleet · 50 States + DC
+        </div>
+
+        <h1>Water Damage Restoration Service Areas</h1>
+        
+        <p class="hero-subtitle">
+          Rapid Water Rescue Pros provides immediate 24/7 emergency water extraction, flood damage mitigation, and commercial structural drying across all 50 states and Washington, D.C. Select your state below to find local certified technicians stationed near you.
+        </p>
+
+        <div class="hero-actions">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span>Call National Dispatch: {BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-outline-white">
+            <span>Request Fast Assessment</span>
+          </a>
+        </div>
+
+        <div class="hero-highlights">
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>50 States + DC Coast-to-Coast Coverage</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Under 60-Minute Response Guarantee</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Direct Home Insurance Billing</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <h3>National Emergency Desk</h3>
+        <p>Live coordinators standing by 24 hours a day to dispatch heavy-duty extraction vehicles across 29,738+ US cities.</p>
+        <div style="background:var(--bg-light);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:1.5rem;border-left:4px solid var(--cta-red)">
+          <div style="font-size:0.85rem;color:var(--text-muted);font-weight:600">DIRECT DISPATCH PHONE</div>
+          <a href={BUSINESS_INFO.phoneTel} style="font-size:1.5rem;font-weight:800;color:var(--cta-red);text-decoration:none">
+            {BUSINESS_INFO.phoneFormatted}
+          </a>
+          <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.25rem">Serving all 50 states · 24/7/365 Service</div>
+        </div>
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="width:100%;text-align:center">
+          Speak with a Dispatch Coordinator
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Strip -->
+  <TrustStrip />
+
+  <!-- Main Content Layout -->
+  <div class="ref-page-wrap">
+    <div class="container ref-main-content">
+
+      <!-- 1. Community Profile (Dark Card) -->
+      <section class="ref-community-card">
+        <h2 class="ref-community-h2">Nationwide Emergency Restoration Coverage</h2>
+        <p class="ref-community-p">
+          With mobile rapid response vehicles strategically positioned near major highway arteries across the United States, our certified disaster recovery teams deliver on-site water extraction in under 60 minutes. From historic residential estates to commercial high-rise buildings, our technicians deploy industrial vacuum extraction, antimicrobial treatments, and LGR dehumidifiers to stop water damage fast.
+        </p>
+
+        <div class="ref-stats-grid">
+          <div class="ref-stat-box">
+            <div class="ref-stat-title">States Covered</div>
+            <div class="ref-stat-number">50 States + DC</div>
+            <div class="ref-stat-note">Complete Coast-to-Coast</div>
+          </div>
+          <div class="ref-stat-box">
+            <div class="ref-stat-title">Cities Covered</div>
+            <div class="ref-stat-number" style="color:#60a5fa">29,738+</div>
+            <div class="ref-stat-note">U.S. Municipalities</div>
+          </div>
+          <div class="ref-stat-box">
+            <div class="ref-stat-title">Average Dispatch</div>
+            <div class="ref-stat-number">Under 60 Min</div>
+            <div class="ref-stat-note">Emergency Priority</div>
+          </div>
+          <div class="ref-stat-box">
+            <div class="ref-stat-title">Service Desk</div>
+            <div class="ref-stat-number" style="font-size:1.15rem">24/7/365</div>
+            <div class="ref-stat-note">Toll-Free Direct Hotline</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. All 50 States Grid -->
+      <section class="ref-issues-card" style="gap:1.5rem">
+        <div class="ref-card-header">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="10" r="3"></circle>
+            <path d="M12 2a8 8 0 0 0-8 8c0 5.25 8 12 8 12s8-6.75 8-12a8 8 0 0 0-8-8z"></path>
+          </svg>
+          <h2>Browse Water Damage Restoration by State</h2>
+        </div>
+        <p style="font-size:0.88rem;color:#475569;margin:0">
+          Click any state below to view county directories, local emergency arrival times, and regional water damage restoration services:
+        </p>
+
+        <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(220px, 1fr));gap:1rem;margin-top:0.5rem">
+          {ALL_STATES.map((st) => (
+            <a
+              href={`/water-damage/${st.slug}/`}
+              class="ref-service-box"
+              style="padding:1.15rem;text-decoration:none;border-radius:0.75rem"
+            >
+              <div style="display:flex;justify-content:space-between;align-items:center">
+                <span style="font-weight:700;color:#0f172a;font-size:0.95rem">{st.name}</span>
+                <span style="font-size:0.75rem;font-weight:800;color:#2563eb;background:#eff6ff;padding:0.2rem 0.5rem;border-radius:4px">{st.abbr}</span>
+              </div>
+              <div style="font-size:0.75rem;color:#64748b;margin-top:0.4rem;display:flex;align-items:center;gap:0.3rem">
+                <span>View Cities</span>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- 3. Bottom High-Impact Callout Banner -->
+      <section class="ref-bottom-banner">
+        <div class="ref-banner-glow"></div>
+        <div style="position:relative;z-index:2;max-width:680px">
+          <div class="ref-banner-badge">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path>
+            </svg>
+            <span>Coast-to-Coast Emergency Network</span>
+          </div>
+          <h3 class="ref-banner-h3">Need Immediate Emergency Water Mitigation?</h3>
+          <p class="ref-banner-p">
+            Call (866) 751-9896 to reach our 24/7 central dispatch desk and be connected with certified restoration teams in your area.
+          </p>
+          <div class="ref-banner-tags">
+            <div class="ref-banner-tag">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              <span>Prompt 45-60 Min Response</span>
+            </div>
+            <div class="ref-banner-tag">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg>
+              <span>No Obligation Inquiries</span>
+            </div>
+            <div class="ref-banner-tag">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+              <span>Direct Insurance Billing</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="ref-banner-cta" style="position:relative;z-index:2">
+          <a href={BUSINESS_INFO.phoneTel} class="ref-call-btn" style="padding:1rem 2.2rem;font-size:1.15rem" aria-label="Call (866) 751-9896 for emergency water mitigation">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+            </svg>
+            <span>{BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <span style="font-size:0.75rem;color:#94a3b8;margin-top:0.4rem">Toll-free customer line</span>
+        </div>
+      </section>
+
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const pageTitle = "Terms of Service | Rapid Water Rescue Pros";
+const pageDesc = "Read our terms of service regarding emergency water extraction dispatch, insurance billing, and customer obligations.";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/terms-of-service/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Terms of Service", url: "/terms-of-service/" }
+  ]} />
+
+  <section class="section">
+    <div class="container container-narrow">
+      <h1 style="margin-bottom:1.5rem">Terms of Service</h1>
+      <p style="color:var(--text-muted);font-size:0.9rem;margin-bottom:2rem">Last Updated: January 1, 2026</p>
+
+      <div style="font-size:1rem;line-height:1.8;color:var(--text-body);display:flex;flex-direction:column;gap:1.5rem">
+        <p>
+          By accessing the Rapid Water Rescue Pros website or scheduling services through our dispatch center, you agree to comply with and be bound by the following Terms of Service.
+        </p>
+
+        <h3>1. Emergency Dispatch Services</h3>
+        <p>
+          Rapid Water Rescue Pros operates an emergency response network connecting residential and commercial property owners with licensed, certified, and insured restoration and plumbing contractors. Arrival times are estimates subject to regional traffic, severe weather events, and active dispatch volume.
+        </p>
+
+        <h3>2. Work Authorizations and Approvals</h3>
+        <p>
+          Prior to performing emergency water extraction, demolition, or equipment deployment, our field technicians provide written upfront scopes of work and pricing for homeowner or property manager authorization.
+        </p>
+
+        <h3>3. Insurance Billing and Deductibles</h3>
+        <p>
+          While we assist with insurance claim documentation, psychrometric moisture logs, and direct insurance billing, property owners remain responsible for applicable insurance deductibles and any non-covered peril exclusions under their individual insurance policy.
+        </p>
+
+        <h3>4. Limitation of Liability</h3>
+        <p>
+          Services are conducted in accordance with IICRC S500 standards for professional water damage restoration. Property owners must ensure utility access and declare any pre-existing structural damage or environmental hazards (such as asbestos or lead paint) prior to work commencement.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

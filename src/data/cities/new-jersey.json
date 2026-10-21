@@ -1,0 +1,4060 @@
+{
+  "stateName": "New Jersey",
+  "stateCode": "NJ",
+  "stateSlug": "new-jersey",
+  "cities": [
+    {
+      "name": "Absecon",
+      "slug": "absecon",
+      "county": "Atlantic County",
+      "lat": 39.462368,
+      "lng": -74.503106
+    },
+    {
+      "name": "Adelphia",
+      "slug": "adelphia",
+      "county": "Monmouth County",
+      "lat": 40.218056,
+      "lng": -74.256667
+    },
+    {
+      "name": "Allamuchy",
+      "slug": "allamuchy",
+      "county": "Warren County",
+      "lat": 40.921667,
+      "lng": -74.810556
+    },
+    {
+      "name": "Allendale",
+      "slug": "allendale",
+      "county": "Bergen County",
+      "lat": 41.032654,
+      "lng": -74.134185
+    },
+    {
+      "name": "Allenhurst",
+      "slug": "allenhurst",
+      "county": "Monmouth County",
+      "lat": 40.236675,
+      "lng": -74.006706
+    },
+    {
+      "name": "Allentown",
+      "slug": "allentown",
+      "county": "Monmouth County",
+      "lat": 40.158922,
+      "lng": -74.59093
+    },
+    {
+      "name": "Allenwood",
+      "slug": "allenwood",
+      "county": "Monmouth County",
+      "lat": 40.141389,
+      "lng": -74.100278
+    },
+    {
+      "name": "Alloway",
+      "slug": "alloway",
+      "county": "Salem County",
+      "lat": 39.560833,
+      "lng": -75.362778
+    },
+    {
+      "name": "Alpine",
+      "slug": "alpine",
+      "county": "Bergen County",
+      "lat": 40.951097,
+      "lng": -73.930842
+    },
+    {
+      "name": "Andover",
+      "slug": "andover",
+      "county": "Sussex County",
+      "lat": 40.961386,
+      "lng": -74.752418
+    },
+    {
+      "name": "Annandale",
+      "slug": "annandale",
+      "county": "Hunterdon County",
+      "lat": 40.628731,
+      "lng": -74.885512
+    },
+    {
+      "name": "Asbury",
+      "slug": "asbury",
+      "county": "Hunterdon County",
+      "lat": 40.650175,
+      "lng": -75.01585
+    },
+    {
+      "name": "Asbury Park",
+      "slug": "asbury-park",
+      "county": "Monmouth County",
+      "lat": 40.235571,
+      "lng": -74.029486
+    },
+    {
+      "name": "Atco",
+      "slug": "atco",
+      "county": "Camden County",
+      "lat": 39.770909,
+      "lng": -74.879368
+    },
+    {
+      "name": "Atlantic City",
+      "slug": "atlantic-city",
+      "county": "Atlantic County",
+      "lat": 39.366411,
+      "lng": -74.431727
+    },
+    {
+      "name": "Atlantic Highlands",
+      "slug": "atlantic-highlands",
+      "county": "Monmouth County",
+      "lat": 40.40772,
+      "lng": -74.032411
+    },
+    {
+      "name": "Audubon",
+      "slug": "audubon",
+      "county": "Camden County",
+      "lat": 39.891035,
+      "lng": -75.072425
+    },
+    {
+      "name": "Augusta",
+      "slug": "augusta",
+      "county": "Sussex County",
+      "lat": 41.145086,
+      "lng": -74.684753
+    },
+    {
+      "name": "Avalon",
+      "slug": "avalon",
+      "county": "Cape May County",
+      "lat": 39.095095,
+      "lng": -74.726177
+    },
+    {
+      "name": "Avenel",
+      "slug": "avenel",
+      "county": "Middlesex County",
+      "lat": 40.582568,
+      "lng": -74.278522
+    },
+    {
+      "name": "Avon By The Sea",
+      "slug": "avon-by-the-sea",
+      "county": "Monmouth County",
+      "lat": 40.191796,
+      "lng": -74.016737
+    },
+    {
+      "name": "Baptistown",
+      "slug": "baptistown",
+      "county": "Hunterdon County",
+      "lat": 40.521667,
+      "lng": -75.006389
+    },
+    {
+      "name": "Barnegat",
+      "slug": "barnegat",
+      "county": "Ocean County",
+      "lat": 39.755248,
+      "lng": -74.246988
+    },
+    {
+      "name": "Barnegat Light",
+      "slug": "barnegat-light",
+      "county": "Ocean County",
+      "lat": 39.7575,
+      "lng": -74.106667
+    },
+    {
+      "name": "Barrington",
+      "slug": "barrington",
+      "county": "Camden County",
+      "lat": 39.865062,
+      "lng": -75.056361
+    },
+    {
+      "name": "Basking Ridge",
+      "slug": "basking-ridge",
+      "county": "Somerset County",
+      "lat": 40.678937,
+      "lng": -74.560463
+    },
+    {
+      "name": "Bayonne",
+      "slug": "bayonne",
+      "county": "Hudson County",
+      "lat": 40.666399,
+      "lng": -74.119169
+    },
+    {
+      "name": "Bayville",
+      "slug": "bayville",
+      "county": "Ocean County",
+      "lat": 39.914708,
+      "lng": -74.190529
+    },
+    {
+      "name": "Beach Haven",
+      "slug": "beach-haven",
+      "county": "Ocean County",
+      "lat": 39.636347,
+      "lng": -74.189033
+    },
+    {
+      "name": "Beachwood",
+      "slug": "beachwood",
+      "county": "Ocean County",
+      "lat": 39.930246,
+      "lng": -74.196145
+    },
+    {
+      "name": "Bedminster",
+      "slug": "bedminster",
+      "county": "Somerset County",
+      "lat": 40.657109,
+      "lng": -74.643236
+    },
+    {
+      "name": "Belford",
+      "slug": "belford",
+      "county": "Monmouth County",
+      "lat": 40.417281,
+      "lng": -74.088887
+    },
+    {
+      "name": "Belle Mead",
+      "slug": "belle-mead",
+      "county": "Somerset County",
+      "lat": 40.467732,
+      "lng": -74.628993
+    },
+    {
+      "name": "Belleville",
+      "slug": "belleville",
+      "county": "Essex County",
+      "lat": 40.79458,
+      "lng": -74.163119
+    },
+    {
+      "name": "Bellmawr",
+      "slug": "bellmawr",
+      "county": "Camden County",
+      "lat": 39.868878,
+      "lng": -75.094368
+    },
+    {
+      "name": "Belmar",
+      "slug": "belmar",
+      "county": "Monmouth County",
+      "lat": 40.178333,
+      "lng": -74.022222
+    },
+    {
+      "name": "Belvidere",
+      "slug": "belvidere",
+      "county": "Warren County",
+      "lat": 40.830819,
+      "lng": -75.050261
+    },
+    {
+      "name": "Bergenfield",
+      "slug": "bergenfield",
+      "county": "Bergen County",
+      "lat": 40.923837,
+      "lng": -73.998918
+    },
+    {
+      "name": "Berkeley Heights",
+      "slug": "berkeley-heights",
+      "county": "Union County",
+      "lat": 40.67522,
+      "lng": -74.434599
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Camden County",
+      "lat": 39.778839,
+      "lng": -74.930808
+    },
+    {
+      "name": "Bernardsville",
+      "slug": "bernardsville",
+      "county": "Somerset County",
+      "lat": 40.72251,
+      "lng": -74.577812
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly",
+      "county": "Burlington County",
+      "lat": 40.056452,
+      "lng": -74.911363
+    },
+    {
+      "name": "Birmingham",
+      "slug": "birmingham",
+      "county": "Burlington County",
+      "lat": 39.975833,
+      "lng": -74.710556
+    },
+    {
+      "name": "Blackwood",
+      "slug": "blackwood",
+      "county": "Camden County",
+      "lat": 39.774104,
+      "lng": -75.058747
+    },
+    {
+      "name": "Blairstown",
+      "slug": "blairstown",
+      "county": "Warren County",
+      "lat": 40.967386,
+      "lng": -74.965097
+    },
+    {
+      "name": "Blawenburg",
+      "slug": "blawenburg",
+      "county": "Somerset County",
+      "lat": 40.4075,
+      "lng": -74.703056
+    },
+    {
+      "name": "Bloomfield",
+      "slug": "bloomfield",
+      "county": "Essex County",
+      "lat": 40.803456,
+      "lng": -74.189074
+    },
+    {
+      "name": "Bloomingdale",
+      "slug": "bloomingdale",
+      "county": "Passaic County",
+      "lat": 41.012845,
+      "lng": -74.333756
+    },
+    {
+      "name": "Bloomsbury",
+      "slug": "bloomsbury",
+      "county": "Hunterdon County",
+      "lat": 40.64366,
+      "lng": -75.09664
+    },
+    {
+      "name": "Bogota",
+      "slug": "bogota",
+      "county": "Bergen County",
+      "lat": 40.874441,
+      "lng": -74.028122
+    },
+    {
+      "name": "Boonton",
+      "slug": "boonton",
+      "county": "Morris County",
+      "lat": 40.911528,
+      "lng": -74.414035
+    },
+    {
+      "name": "Bordentown",
+      "slug": "bordentown",
+      "county": "Burlington County",
+      "lat": 40.143141,
+      "lng": -74.703249
+    },
+    {
+      "name": "Bound Brook",
+      "slug": "bound-brook",
+      "county": "Somerset County",
+      "lat": 40.568115,
+      "lng": -74.539735
+    },
+    {
+      "name": "Bradley Beach",
+      "slug": "bradley-beach",
+      "county": "Monmouth County",
+      "lat": 40.202308,
+      "lng": -74.013166
+    },
+    {
+      "name": "Branchville",
+      "slug": "branchville",
+      "county": "Sussex County",
+      "lat": 41.170512,
+      "lng": -74.750025
+    },
+    {
+      "name": "Brick",
+      "slug": "brick",
+      "county": "Ocean County",
+      "lat": 40.040817,
+      "lng": -74.12686
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Gloucester County",
+      "lat": 39.801616,
+      "lng": -75.34782
+    },
+    {
+      "name": "Bridgeton",
+      "slug": "bridgeton",
+      "county": "Cumberland County",
+      "lat": 39.445294,
+      "lng": -75.226728
+    },
+    {
+      "name": "Bridgewater",
+      "slug": "bridgewater",
+      "county": "Somerset County",
+      "lat": 40.590388,
+      "lng": -74.626741
+    },
+    {
+      "name": "Brielle",
+      "slug": "brielle",
+      "county": "Monmouth County",
+      "lat": 40.107727,
+      "lng": -74.063511
+    },
+    {
+      "name": "Brigantine",
+      "slug": "brigantine",
+      "county": "Atlantic County",
+      "lat": 39.403709,
+      "lng": -74.377644
+    },
+    {
+      "name": "Broadway",
+      "slug": "broadway",
+      "county": "Warren County",
+      "lat": 40.731944,
+      "lng": -75.051944
+    },
+    {
+      "name": "Brookside",
+      "slug": "brookside",
+      "county": "Morris County",
+      "lat": 40.794167,
+      "lng": -74.568333
+    },
+    {
+      "name": "Browns Mills",
+      "slug": "browns-mills",
+      "county": "Burlington County",
+      "lat": 39.95974,
+      "lng": -74.565549
+    },
+    {
+      "name": "Budd Lake",
+      "slug": "budd-lake",
+      "county": "Morris County",
+      "lat": 40.873108,
+      "lng": -74.742552
+    },
+    {
+      "name": "Buena",
+      "slug": "buena",
+      "county": "Atlantic County",
+      "lat": 39.536988,
+      "lng": -74.889495
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Burlington County",
+      "lat": 40.068015,
+      "lng": -74.845353
+    },
+    {
+      "name": "Butler",
+      "slug": "butler",
+      "county": "Morris County",
+      "lat": 40.992118,
+      "lng": -74.364065
+    },
+    {
+      "name": "Buttzville",
+      "slug": "buttzville",
+      "county": "Warren County",
+      "lat": 40.832222,
+      "lng": -75.006667
+    },
+    {
+      "name": "Caldwell",
+      "slug": "caldwell",
+      "county": "Essex County",
+      "lat": 40.849059,
+      "lng": -74.276771
+    },
+    {
+      "name": "Califon",
+      "slug": "califon",
+      "county": "Hunterdon County",
+      "lat": 40.716209,
+      "lng": -74.815218
+    },
+    {
+      "name": "Camden",
+      "slug": "camden",
+      "county": "Camden County",
+      "lat": 39.925833,
+      "lng": -75.12
+    },
+    {
+      "name": "Cape May",
+      "slug": "cape-may",
+      "county": "Cape May County",
+      "lat": 38.969208,
+      "lng": -74.92624
+    },
+    {
+      "name": "Cape May Court House",
+      "slug": "cape-may-court-house",
+      "county": "Cape May County",
+      "lat": 39.101434,
+      "lng": -74.826846
+    },
+    {
+      "name": "Cape May Point",
+      "slug": "cape-may-point",
+      "county": "Cape May County",
+      "lat": 38.937222,
+      "lng": -74.969722
+    },
+    {
+      "name": "Carlstadt",
+      "slug": "carlstadt",
+      "county": "Bergen County",
+      "lat": 40.840298,
+      "lng": -74.092498
+    },
+    {
+      "name": "Carteret",
+      "slug": "carteret",
+      "county": "Middlesex County",
+      "lat": 40.582278,
+      "lng": -74.231345
+    },
+    {
+      "name": "Cedar Brook",
+      "slug": "cedar-brook",
+      "county": "Camden County",
+      "lat": 39.715278,
+      "lng": -74.901111
+    },
+    {
+      "name": "Cedar Grove",
+      "slug": "cedar-grove",
+      "county": "Essex County",
+      "lat": 40.85344,
+      "lng": -74.229672
+    },
+    {
+      "name": "Cedar Knolls",
+      "slug": "cedar-knolls",
+      "county": "Morris County",
+      "lat": 40.822335,
+      "lng": -74.456861
+    },
+    {
+      "name": "Cedarville",
+      "slug": "cedarville",
+      "county": "Cumberland County",
+      "lat": 39.337028,
+      "lng": -75.199362
+    },
+    {
+      "name": "Changewater",
+      "slug": "changewater",
+      "county": "Warren County",
+      "lat": 40.738056,
+      "lng": -74.944444
+    },
+    {
+      "name": "Chatham",
+      "slug": "chatham",
+      "county": "Morris County",
+      "lat": 40.730526,
+      "lng": -74.401701
+    },
+    {
+      "name": "Chatsworth",
+      "slug": "chatsworth",
+      "county": "Burlington County",
+      "lat": 39.801945,
+      "lng": -74.525619
+    },
+    {
+      "name": "Cherry Hill",
+      "slug": "cherry-hill",
+      "county": "Camden County",
+      "lat": 39.930808,
+      "lng": -75.017538
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Morris County",
+      "lat": 40.789193,
+      "lng": -74.677649
+    },
+    {
+      "name": "Chesterfield",
+      "slug": "chesterfield",
+      "county": "Burlington County",
+      "lat": 40.158353,
+      "lng": -74.666838
+    },
+    {
+      "name": "Clark",
+      "slug": "clark",
+      "county": "Union County",
+      "lat": 40.620256,
+      "lng": -74.310581
+    },
+    {
+      "name": "Clarksboro",
+      "slug": "clarksboro",
+      "county": "Gloucester County",
+      "lat": 39.799228,
+      "lng": -75.223655
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Gloucester County",
+      "lat": 39.658969,
+      "lng": -75.094188
+    },
+    {
+      "name": "Clementon",
+      "slug": "clementon",
+      "county": "Camden County",
+      "lat": 39.80703,
+      "lng": -75.003997
+    },
+    {
+      "name": "Cliffside Park",
+      "slug": "cliffside-park",
+      "county": "Bergen County",
+      "lat": 40.822168,
+      "lng": -73.987982
+    },
+    {
+      "name": "Cliffwood",
+      "slug": "cliffwood",
+      "county": "Monmouth County",
+      "lat": 40.435281,
+      "lng": -74.235759
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Passaic County",
+      "lat": 40.878876,
+      "lng": -74.142459
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Hunterdon County",
+      "lat": 40.641194,
+      "lng": -74.908846
+    },
+    {
+      "name": "Closter",
+      "slug": "closter",
+      "county": "Bergen County",
+      "lat": 40.972051,
+      "lng": -73.958985
+    },
+    {
+      "name": "Cologne",
+      "slug": "cologne",
+      "county": "Atlantic County",
+      "lat": 39.504722,
+      "lng": -74.613611
+    },
+    {
+      "name": "Colonia",
+      "slug": "colonia",
+      "county": "Middlesex County",
+      "lat": 40.593743,
+      "lng": -74.316368
+    },
+    {
+      "name": "Colts Neck",
+      "slug": "colts-neck",
+      "county": "Monmouth County",
+      "lat": 40.301225,
+      "lng": -74.177988
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "county": "Warren County",
+      "lat": 40.938805,
+      "lng": -75.054983
+    },
+    {
+      "name": "Columbus",
+      "slug": "columbus",
+      "county": "Burlington County",
+      "lat": 40.064238,
+      "lng": -74.68988
+    },
+    {
+      "name": "Cookstown",
+      "slug": "cookstown",
+      "county": "Burlington County",
+      "lat": 40.048109,
+      "lng": -74.559524
+    },
+    {
+      "name": "Cranbury",
+      "slug": "cranbury",
+      "county": "Middlesex County",
+      "lat": 40.303868,
+      "lng": -74.506531
+    },
+    {
+      "name": "Cranford",
+      "slug": "cranford",
+      "county": "Union County",
+      "lat": 40.655357,
+      "lng": -74.305685
+    },
+    {
+      "name": "Cream Ridge",
+      "slug": "cream-ridge",
+      "county": "Monmouth County",
+      "lat": 40.127907,
+      "lng": -74.499425
+    },
+    {
+      "name": "Cresskill",
+      "slug": "cresskill",
+      "county": "Bergen County",
+      "lat": 40.941847,
+      "lng": -73.965206
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Middlesex County",
+      "lat": 40.38249,
+      "lng": -74.511102
+    },
+    {
+      "name": "Deal",
+      "slug": "deal",
+      "county": "Monmouth County",
+      "lat": 40.250568,
+      "lng": -74.001998
+    },
+    {
+      "name": "Deepwater",
+      "slug": "deepwater",
+      "county": "Salem County",
+      "lat": 39.683333,
+      "lng": -75.490833
+    },
+    {
+      "name": "Deerfield Street",
+      "slug": "deerfield-street",
+      "county": "Cumberland County",
+      "lat": 39.493056,
+      "lng": -75.217222
+    },
+    {
+      "name": "Delaware",
+      "slug": "delaware",
+      "county": "Warren County",
+      "lat": 40.892778,
+      "lng": -75.065
+    },
+    {
+      "name": "Delmont",
+      "slug": "delmont",
+      "county": "Cumberland County",
+      "lat": 39.202258,
+      "lng": -74.970505
+    },
+    {
+      "name": "Delran",
+      "slug": "delran",
+      "county": "Burlington County",
+      "lat": 40.024684,
+      "lng": -74.956128
+    },
+    {
+      "name": "Demarest",
+      "slug": "demarest",
+      "county": "Bergen County",
+      "lat": 40.954775,
+      "lng": -73.960221
+    },
+    {
+      "name": "Dennisville",
+      "slug": "dennisville",
+      "county": "Cape May County",
+      "lat": 39.193056,
+      "lng": -74.825556
+    },
+    {
+      "name": "Denville",
+      "slug": "denville",
+      "county": "Morris County",
+      "lat": 40.889735,
+      "lng": -74.484379
+    },
+    {
+      "name": "Dividing Creek",
+      "slug": "dividing-creek",
+      "county": "Cumberland County",
+      "lat": 39.270278,
+      "lng": -75.101389
+    },
+    {
+      "name": "Dorchester",
+      "slug": "dorchester",
+      "county": "Cumberland County",
+      "lat": 39.272778,
+      "lng": -74.977222
+    },
+    {
+      "name": "Dorothy",
+      "slug": "dorothy",
+      "county": "Atlantic County",
+      "lat": 39.40313,
+      "lng": -74.831577
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Morris County",
+      "lat": 40.887218,
+      "lng": -74.559702
+    },
+    {
+      "name": "Dumont",
+      "slug": "dumont",
+      "county": "Bergen County",
+      "lat": 40.944692,
+      "lng": -73.992139
+    },
+    {
+      "name": "Dunellen",
+      "slug": "dunellen",
+      "county": "Middlesex County",
+      "lat": 40.594237,
+      "lng": -74.47187
+    },
+    {
+      "name": "East Brunswick",
+      "slug": "east-brunswick",
+      "county": "Middlesex County",
+      "lat": 40.428395,
+      "lng": -74.406381
+    },
+    {
+      "name": "East Hanover",
+      "slug": "east-hanover",
+      "county": "Morris County",
+      "lat": 40.819165,
+      "lng": -74.36357
+    },
+    {
+      "name": "East Orange",
+      "slug": "east-orange",
+      "county": "Essex County",
+      "lat": 40.769614,
+      "lng": -74.207723
+    },
+    {
+      "name": "East Rutherford",
+      "slug": "east-rutherford",
+      "county": "Bergen County",
+      "lat": 40.838527,
+      "lng": -74.104069
+    },
+    {
+      "name": "Eatontown",
+      "slug": "eatontown",
+      "county": "Monmouth County",
+      "lat": 40.302815,
+      "lng": -74.06978
+    },
+    {
+      "name": "Edgewater",
+      "slug": "edgewater",
+      "county": "Bergen County",
+      "lat": 40.831654,
+      "lng": -73.973821
+    },
+    {
+      "name": "Edison",
+      "slug": "edison",
+      "county": "Middlesex County",
+      "lat": 40.517079,
+      "lng": -74.397286
+    },
+    {
+      "name": "Egg Harbor City",
+      "slug": "egg-harbor-city",
+      "county": "Atlantic County",
+      "lat": 39.533123,
+      "lng": -74.617709
+    },
+    {
+      "name": "Egg Harbor Township",
+      "slug": "egg-harbor-township",
+      "county": "Atlantic County",
+      "lat": 39.413611,
+      "lng": -74.588889
+    },
+    {
+      "name": "Elizabeth",
+      "slug": "elizabeth",
+      "county": "Union County",
+      "lat": 40.67169,
+      "lng": -74.204335
+    },
+    {
+      "name": "Elmer",
+      "slug": "elmer",
+      "county": "Salem County",
+      "lat": 39.569146,
+      "lng": -75.163023
+    },
+    {
+      "name": "Elmwood Park",
+      "slug": "elmwood-park",
+      "county": "Bergen County",
+      "lat": 40.906896,
+      "lng": -74.120896
+    },
+    {
+      "name": "Elwood",
+      "slug": "elwood",
+      "county": "Atlantic County",
+      "lat": 39.576389,
+      "lng": -74.717222
+    },
+    {
+      "name": "Emerson",
+      "slug": "emerson",
+      "county": "Bergen County",
+      "lat": 40.975459,
+      "lng": -74.028515
+    },
+    {
+      "name": "Englewood",
+      "slug": "englewood",
+      "county": "Bergen County",
+      "lat": 40.894251,
+      "lng": -73.977182
+    },
+    {
+      "name": "Englewood Cliffs",
+      "slug": "englewood-cliffs",
+      "county": "Bergen County",
+      "lat": 40.882043,
+      "lng": -73.954449
+    },
+    {
+      "name": "Englishtown",
+      "slug": "englishtown",
+      "county": "Monmouth County",
+      "lat": 40.306274,
+      "lng": -74.330613
+    },
+    {
+      "name": "Essex Fells",
+      "slug": "essex-fells",
+      "county": "Essex County",
+      "lat": 40.827924,
+      "lng": -74.279705
+    },
+    {
+      "name": "Estell Manor",
+      "slug": "estell-manor",
+      "county": "Atlantic County",
+      "lat": 39.37825,
+      "lng": -74.816512
+    },
+    {
+      "name": "Ewan",
+      "slug": "ewan",
+      "county": "Gloucester County",
+      "lat": 39.698611,
+      "lng": -75.186389
+    },
+    {
+      "name": "Ewing",
+      "slug": "ewing",
+      "county": "Mercer County",
+      "lat": 40.237687,
+      "lng": -74.782062
+    },
+    {
+      "name": "Fair Haven",
+      "slug": "fair-haven",
+      "county": "Monmouth County",
+      "lat": 40.359873,
+      "lng": -74.038891
+    },
+    {
+      "name": "Fair Lawn",
+      "slug": "fair-lawn",
+      "county": "Bergen County",
+      "lat": 40.934297,
+      "lng": -74.1166
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Essex County",
+      "lat": 40.882178,
+      "lng": -74.296027
+    },
+    {
+      "name": "Fairton",
+      "slug": "fairton",
+      "county": "Cumberland County",
+      "lat": 39.381667,
+      "lng": -75.220278
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Bergen County",
+      "lat": 40.816985,
+      "lng": -73.999967
+    },
+    {
+      "name": "Fanwood",
+      "slug": "fanwood",
+      "county": "Union County",
+      "lat": 40.641856,
+      "lng": -74.386762
+    },
+    {
+      "name": "Far Hills",
+      "slug": "far-hills",
+      "county": "Somerset County",
+      "lat": 40.704035,
+      "lng": -74.653959
+    },
+    {
+      "name": "Farmingdale",
+      "slug": "farmingdale",
+      "county": "Monmouth County",
+      "lat": 40.204312,
+      "lng": -74.177864
+    },
+    {
+      "name": "Flagtown",
+      "slug": "flagtown",
+      "county": "Somerset County",
+      "lat": 40.516944,
+      "lng": -74.684722
+    },
+    {
+      "name": "Flanders",
+      "slug": "flanders",
+      "county": "Morris County",
+      "lat": 40.845316,
+      "lng": -74.70188
+    },
+    {
+      "name": "Flemington",
+      "slug": "flemington",
+      "county": "Hunterdon County",
+      "lat": 40.517976,
+      "lng": -74.845316
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Burlington County",
+      "lat": 40.118025,
+      "lng": -74.805515
+    },
+    {
+      "name": "Florham Park",
+      "slug": "florham-park",
+      "county": "Morris County",
+      "lat": 40.775701,
+      "lng": -74.392819
+    },
+    {
+      "name": "Fords",
+      "slug": "fords",
+      "county": "Middlesex County",
+      "lat": 40.53925,
+      "lng": -74.311707
+    },
+    {
+      "name": "Forked River",
+      "slug": "forked-river",
+      "county": "Ocean County",
+      "lat": 39.844425,
+      "lng": -74.197301
+    },
+    {
+      "name": "Fort Dix",
+      "slug": "fort-dix",
+      "county": "Burlington County",
+      "lat": 40.009946,
+      "lng": -74.618296
+    },
+    {
+      "name": "Fort Lee",
+      "slug": "fort-lee",
+      "county": "Bergen County",
+      "lat": 40.850312,
+      "lng": -73.974455
+    },
+    {
+      "name": "Fort Monmouth",
+      "slug": "fort-monmouth",
+      "county": "Monmouth County",
+      "lat": 40.317667,
+      "lng": -74.039001
+    },
+    {
+      "name": "Fortescue",
+      "slug": "fortescue",
+      "county": "Cumberland County",
+      "lat": 39.2375,
+      "lng": -75.171944
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Sussex County",
+      "lat": 41.116355,
+      "lng": -74.58649
+    },
+    {
+      "name": "Franklin Lakes",
+      "slug": "franklin-lakes",
+      "county": "Bergen County",
+      "lat": 41.008095,
+      "lng": -74.211347
+    },
+    {
+      "name": "Franklin Park",
+      "slug": "franklin-park",
+      "county": "Somerset County",
+      "lat": 40.442097,
+      "lng": -74.536908
+    },
+    {
+      "name": "Franklinville",
+      "slug": "franklinville",
+      "county": "Gloucester County",
+      "lat": 39.615557,
+      "lng": -75.04088
+    },
+    {
+      "name": "Freehold",
+      "slug": "freehold",
+      "county": "Monmouth County",
+      "lat": 40.245776,
+      "lng": -74.276822
+    },
+    {
+      "name": "Frenchtown",
+      "slug": "frenchtown",
+      "county": "Hunterdon County",
+      "lat": 40.520795,
+      "lng": -75.032468
+    },
+    {
+      "name": "Garfield",
+      "slug": "garfield",
+      "county": "Bergen County",
+      "lat": 40.878886,
+      "lng": -74.108141
+    },
+    {
+      "name": "Garwood",
+      "slug": "garwood",
+      "county": "Union County",
+      "lat": 40.65121,
+      "lng": -74.323864
+    },
+    {
+      "name": "Gibbsboro",
+      "slug": "gibbsboro",
+      "county": "Camden County",
+      "lat": 39.836532,
+      "lng": -74.970996
+    },
+    {
+      "name": "Gibbstown",
+      "slug": "gibbstown",
+      "county": "Gloucester County",
+      "lat": 39.82314,
+      "lng": -75.275128
+    },
+    {
+      "name": "Gillette",
+      "slug": "gillette",
+      "county": "Morris County",
+      "lat": 40.687678,
+      "lng": -74.468134
+    },
+    {
+      "name": "Gladstone",
+      "slug": "gladstone",
+      "county": "Somerset County",
+      "lat": 40.721948,
+      "lng": -74.670656
+    },
+    {
+      "name": "Glassboro",
+      "slug": "glassboro",
+      "county": "Gloucester County",
+      "lat": 39.706823,
+      "lng": -75.117247
+    },
+    {
+      "name": "Glasser",
+      "slug": "glasser",
+      "county": "Sussex County",
+      "lat": 40.986389,
+      "lng": -74.633889
+    },
+    {
+      "name": "Glen Gardner",
+      "slug": "glen-gardner",
+      "county": "Hunterdon County",
+      "lat": 40.713437,
+      "lng": -74.916207
+    },
+    {
+      "name": "Glen Ridge",
+      "slug": "glen-ridge",
+      "county": "Essex County",
+      "lat": 40.804015,
+      "lng": -74.205477
+    },
+    {
+      "name": "Glen Rock",
+      "slug": "glen-rock",
+      "county": "Bergen County",
+      "lat": 40.960183,
+      "lng": -74.125367
+    },
+    {
+      "name": "Glendora",
+      "slug": "glendora",
+      "county": "Camden County",
+      "lat": 39.840376,
+      "lng": -75.069744
+    },
+    {
+      "name": "Glenwood",
+      "slug": "glenwood",
+      "county": "Sussex County",
+      "lat": 41.235618,
+      "lng": -74.488481
+    },
+    {
+      "name": "Gloucester City",
+      "slug": "gloucester-city",
+      "county": "Camden County",
+      "lat": 39.891105,
+      "lng": -75.116962
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Cape May County",
+      "lat": 39.141389,
+      "lng": -74.853333
+    },
+    {
+      "name": "Great Meadows",
+      "slug": "great-meadows",
+      "county": "Warren County",
+      "lat": 40.85196,
+      "lng": -74.941806
+    },
+    {
+      "name": "Green Creek",
+      "slug": "green-creek",
+      "county": "Cape May County",
+      "lat": 39.046111,
+      "lng": -74.901667
+    },
+    {
+      "name": "Green Village",
+      "slug": "green-village",
+      "county": "Morris County",
+      "lat": 40.741618,
+      "lng": -74.451685
+    },
+    {
+      "name": "Greendell",
+      "slug": "greendell",
+      "county": "Sussex County",
+      "lat": 40.973889,
+      "lng": -74.821389
+    },
+    {
+      "name": "Greenwich",
+      "slug": "greenwich",
+      "county": "Cumberland County",
+      "lat": 39.389722,
+      "lng": -75.338889
+    },
+    {
+      "name": "Grenloch",
+      "slug": "grenloch",
+      "county": "Gloucester County",
+      "lat": 39.425833,
+      "lng": -75.225278
+    },
+    {
+      "name": "Greystone Park",
+      "slug": "greystone-park",
+      "county": "Morris County",
+      "lat": 40.843982,
+      "lng": -74.479645
+    },
+    {
+      "name": "Hackensack",
+      "slug": "hackensack",
+      "county": "Bergen County",
+      "lat": 40.888191,
+      "lng": -74.050301
+    },
+    {
+      "name": "Hackettstown",
+      "slug": "hackettstown",
+      "county": "Warren County",
+      "lat": 40.852891,
+      "lng": -74.834315
+    },
+    {
+      "name": "Haddon Heights",
+      "slug": "haddon-heights",
+      "county": "Camden County",
+      "lat": 39.878832,
+      "lng": -75.06639
+    },
+    {
+      "name": "Haddon Township",
+      "slug": "haddon-township",
+      "county": "Camden County",
+      "lat": 39.918575,
+      "lng": -75.107835
+    },
+    {
+      "name": "Haddonfield",
+      "slug": "haddonfield",
+      "county": "Camden County",
+      "lat": 39.895449,
+      "lng": -75.041726
+    },
+    {
+      "name": "Hainesport",
+      "slug": "hainesport",
+      "county": "Burlington County",
+      "lat": 39.983889,
+      "lng": -74.8275
+    },
+    {
+      "name": "Haledon",
+      "slug": "haledon",
+      "county": "Passaic County",
+      "lat": 40.945689,
+      "lng": -74.182599
+    },
+    {
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "county": "Sussex County",
+      "lat": 41.146714,
+      "lng": -74.587379
+    },
+    {
+      "name": "Hammonton",
+      "slug": "hammonton",
+      "county": "Atlantic County",
+      "lat": 39.638878,
+      "lng": -74.790735
+    },
+    {
+      "name": "Hampton",
+      "slug": "hampton",
+      "county": "Hunterdon County",
+      "lat": 40.677351,
+      "lng": -74.962221
+    },
+    {
+      "name": "Hancocks Bridge",
+      "slug": "hancocks-bridge",
+      "county": "Salem County",
+      "lat": 39.505278,
+      "lng": -75.462222
+    },
+    {
+      "name": "Harrington Park",
+      "slug": "harrington-park",
+      "county": "Bergen County",
+      "lat": 40.991791,
+      "lng": -73.980017
+    },
+    {
+      "name": "Harrison",
+      "slug": "harrison",
+      "county": "Hudson County",
+      "lat": 40.74754,
+      "lng": -74.155871
+    },
+    {
+      "name": "Harrisonville",
+      "slug": "harrisonville",
+      "county": "Gloucester County",
+      "lat": 39.685,
+      "lng": -75.266389
+    },
+    {
+      "name": "Hasbrouck Heights",
+      "slug": "hasbrouck-heights",
+      "county": "Bergen County",
+      "lat": 40.862241,
+      "lng": -74.075971
+    },
+    {
+      "name": "Haskell",
+      "slug": "haskell",
+      "county": "Passaic County",
+      "lat": 41.030111,
+      "lng": -74.296542
+    },
+    {
+      "name": "Haworth",
+      "slug": "haworth",
+      "county": "Bergen County",
+      "lat": 40.960808,
+      "lng": -73.987376
+    },
+    {
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "county": "Passaic County",
+      "lat": 40.956355,
+      "lng": -74.156897
+    },
+    {
+      "name": "Hazlet",
+      "slug": "hazlet",
+      "county": "Monmouth County",
+      "lat": 40.422554,
+      "lng": -74.179896
+    },
+    {
+      "name": "Heislerville",
+      "slug": "heislerville",
+      "county": "Cumberland County",
+      "lat": 39.245013,
+      "lng": -74.993942
+    },
+    {
+      "name": "Helmetta",
+      "slug": "helmetta",
+      "county": "Middlesex County",
+      "lat": 40.377742,
+      "lng": -74.420393
+    },
+    {
+      "name": "Hewitt",
+      "slug": "hewitt",
+      "county": "Passaic County",
+      "lat": 41.170867,
+      "lng": -74.368566
+    },
+    {
+      "name": "Hibernia",
+      "slug": "hibernia",
+      "county": "Morris County",
+      "lat": 40.943889,
+      "lng": -74.493056
+    },
+    {
+      "name": "High Bridge",
+      "slug": "high-bridge",
+      "county": "Hunterdon County",
+      "lat": 40.668438,
+      "lng": -74.893667
+    },
+    {
+      "name": "Highland Lakes",
+      "slug": "highland-lakes",
+      "county": "Sussex County",
+      "lat": 41.182622,
+      "lng": -74.456442
+    },
+    {
+      "name": "Highland Park",
+      "slug": "highland-park",
+      "county": "Middlesex County",
+      "lat": 40.499141,
+      "lng": -74.426602
+    },
+    {
+      "name": "Highlands",
+      "slug": "highlands",
+      "county": "Monmouth County",
+      "lat": 40.402377,
+      "lng": -73.990912
+    },
+    {
+      "name": "Hightstown",
+      "slug": "hightstown",
+      "county": "Mercer County",
+      "lat": 40.266885,
+      "lng": -74.524993
+    },
+    {
+      "name": "Hillsborough",
+      "slug": "hillsborough",
+      "county": "Somerset County",
+      "lat": 40.4775,
+      "lng": -74.627222
+    },
+    {
+      "name": "Hillsdale",
+      "slug": "hillsdale",
+      "county": "Bergen County",
+      "lat": 41.006945,
+      "lng": -74.042625
+    },
+    {
+      "name": "Hillside",
+      "slug": "hillside",
+      "county": "Union County",
+      "lat": 40.696811,
+      "lng": -74.228065
+    },
+    {
+      "name": "Ho Ho Kus",
+      "slug": "ho-ho-kus",
+      "county": "Bergen County",
+      "lat": 41.000412,
+      "lng": -74.102532
+    },
+    {
+      "name": "Hoboken",
+      "slug": "hoboken",
+      "county": "Hudson County",
+      "lat": 40.7445,
+      "lng": -74.032863
+    },
+    {
+      "name": "Holmdel",
+      "slug": "holmdel",
+      "county": "",
+      "lat": 40.345,
+      "lng": -74.184444
+    },
+    {
+      "name": "Hopatcong",
+      "slug": "hopatcong",
+      "county": "Sussex County",
+      "lat": 40.938983,
+      "lng": -74.66163
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Warren County",
+      "lat": 40.911111,
+      "lng": -74.967778
+    },
+    {
+      "name": "Hopewell",
+      "slug": "hopewell",
+      "county": "Mercer County",
+      "lat": 40.390224,
+      "lng": -74.770963
+    },
+    {
+      "name": "Howell",
+      "slug": "howell",
+      "county": "Monmouth County",
+      "lat": 40.148096,
+      "lng": -74.213683
+    },
+    {
+      "name": "Imlaystown",
+      "slug": "imlaystown",
+      "county": "Monmouth County",
+      "lat": 40.166215,
+      "lng": -74.510939
+    },
+    {
+      "name": "Ironia",
+      "slug": "ironia",
+      "county": "Morris County",
+      "lat": 40.822778,
+      "lng": -74.626111
+    },
+    {
+      "name": "Irvington",
+      "slug": "irvington",
+      "county": "Essex County",
+      "lat": 40.7261,
+      "lng": -74.231271
+    },
+    {
+      "name": "Iselin",
+      "slug": "iselin",
+      "county": "Middlesex County",
+      "lat": 40.571593,
+      "lng": -74.316677
+    },
+    {
+      "name": "Island Heights",
+      "slug": "island-heights",
+      "county": "Ocean County",
+      "lat": 39.943197,
+      "lng": -74.146787
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Ocean County",
+      "lat": 40.120964,
+      "lng": -74.301709
+    },
+    {
+      "name": "Jersey City",
+      "slug": "jersey-city",
+      "county": "Hudson County",
+      "lat": 40.7164,
+      "lng": -74.038
+    },
+    {
+      "name": "Jobstown",
+      "slug": "jobstown",
+      "county": "Burlington County",
+      "lat": 40.038698,
+      "lng": -74.687305
+    },
+    {
+      "name": "Johnsonburg",
+      "slug": "johnsonburg",
+      "county": "Warren County",
+      "lat": 40.964444,
+      "lng": -74.878889
+    },
+    {
+      "name": "Juliustown",
+      "slug": "juliustown",
+      "county": "Burlington County",
+      "lat": 40.013333,
+      "lng": -74.669167
+    },
+    {
+      "name": "Keansburg",
+      "slug": "keansburg",
+      "county": "Monmouth County",
+      "lat": 40.441363,
+      "lng": -74.130633
+    },
+    {
+      "name": "Kearny",
+      "slug": "kearny",
+      "county": "Hudson County",
+      "lat": 40.76466,
+      "lng": -74.147108
+    },
+    {
+      "name": "Keasbey",
+      "slug": "keasbey",
+      "county": "Middlesex County",
+      "lat": 40.519171,
+      "lng": -74.302119
+    },
+    {
+      "name": "Kendall Park",
+      "slug": "kendall-park",
+      "county": "Middlesex County",
+      "lat": 40.4208,
+      "lng": -74.552921
+    },
+    {
+      "name": "Kenilworth",
+      "slug": "kenilworth",
+      "county": "Union County",
+      "lat": 40.675869,
+      "lng": -74.294419
+    },
+    {
+      "name": "Kenvil",
+      "slug": "kenvil",
+      "county": "Morris County",
+      "lat": 40.881901,
+      "lng": -74.620984
+    },
+    {
+      "name": "Keyport",
+      "slug": "keyport",
+      "county": "Monmouth County",
+      "lat": 40.439862,
+      "lng": -74.199563
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Somerset County",
+      "lat": 40.380465,
+      "lng": -74.616071
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Sussex County",
+      "lat": 41.076099,
+      "lng": -74.691223
+    },
+    {
+      "name": "Lake Hiawatha",
+      "slug": "lake-hiawatha",
+      "county": "Morris County",
+      "lat": 40.88252,
+      "lng": -74.383013
+    },
+    {
+      "name": "Lake Hopatcong",
+      "slug": "lake-hopatcong",
+      "county": "Morris County",
+      "lat": 40.965882,
+      "lng": -74.614438
+    },
+    {
+      "name": "Lakehurst",
+      "slug": "lakehurst",
+      "county": "Ocean County",
+      "lat": 40.020054,
+      "lng": -74.290901
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Ocean County",
+      "lat": 40.085043,
+      "lng": -74.204199
+    },
+    {
+      "name": "Lambertville",
+      "slug": "lambertville",
+      "county": "Hunterdon County",
+      "lat": 40.373122,
+      "lng": -74.926605
+    },
+    {
+      "name": "Landing",
+      "slug": "landing",
+      "county": "Morris County",
+      "lat": 40.908684,
+      "lng": -74.655425
+    },
+    {
+      "name": "Landisville",
+      "slug": "landisville",
+      "county": "Atlantic County",
+      "lat": 39.523942,
+      "lng": -74.937688
+    },
+    {
+      "name": "Lanoka Harbor",
+      "slug": "lanoka-harbor",
+      "county": "Ocean County",
+      "lat": 39.861993,
+      "lng": -74.166765
+    },
+    {
+      "name": "Lavallette",
+      "slug": "lavallette",
+      "county": "Ocean County",
+      "lat": 39.977486,
+      "lng": -74.070424
+    },
+    {
+      "name": "Lawnside",
+      "slug": "lawnside",
+      "county": "Camden County",
+      "lat": 39.867601,
+      "lng": -75.031681
+    },
+    {
+      "name": "Layton",
+      "slug": "layton",
+      "county": "Sussex County",
+      "lat": 41.205913,
+      "lng": -74.817219
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Hunterdon County",
+      "lat": 40.646623,
+      "lng": -74.829035
+    },
+    {
+      "name": "Ledgewood",
+      "slug": "ledgewood",
+      "county": "Morris County",
+      "lat": 40.878028,
+      "lng": -74.655405
+    },
+    {
+      "name": "Leeds Point",
+      "slug": "leeds-point",
+      "county": "Atlantic County",
+      "lat": 39.491944,
+      "lng": -74.429444
+    },
+    {
+      "name": "Leesburg",
+      "slug": "leesburg",
+      "county": "Cumberland County",
+      "lat": 39.238724,
+      "lng": -75.001211
+    },
+    {
+      "name": "Leonardo",
+      "slug": "leonardo",
+      "county": "Monmouth County",
+      "lat": 40.417704,
+      "lng": -74.062265
+    },
+    {
+      "name": "Leonia",
+      "slug": "leonia",
+      "county": "Bergen County",
+      "lat": 40.862929,
+      "lng": -73.987873
+    },
+    {
+      "name": "Liberty Corner",
+      "slug": "liberty-corner",
+      "county": "Somerset County",
+      "lat": 40.664722,
+      "lng": -74.577778
+    },
+    {
+      "name": "Lincoln Park",
+      "slug": "lincoln-park",
+      "county": "Morris County",
+      "lat": 40.920769,
+      "lng": -74.299512
+    },
+    {
+      "name": "Lincroft",
+      "slug": "lincroft",
+      "county": "Monmouth County",
+      "lat": 40.33689,
+      "lng": -74.120469
+    },
+    {
+      "name": "Linden",
+      "slug": "linden",
+      "county": "Union County",
+      "lat": 40.635366,
+      "lng": -74.255567
+    },
+    {
+      "name": "Linwood",
+      "slug": "linwood",
+      "county": "Atlantic County",
+      "lat": 39.346883,
+      "lng": -74.580744
+    },
+    {
+      "name": "Little Egg Harbor Twp",
+      "slug": "little-egg-harbor-twp",
+      "county": "Ocean County",
+      "lat": 39.588149,
+      "lng": -74.364586
+    },
+    {
+      "name": "Little Falls",
+      "slug": "little-falls",
+      "county": "Passaic County",
+      "lat": 40.885353,
+      "lng": -74.21145
+    },
+    {
+      "name": "Little Ferry",
+      "slug": "little-ferry",
+      "county": "Bergen County",
+      "lat": 40.849319,
+      "lng": -74.040502
+    },
+    {
+      "name": "Little Silver",
+      "slug": "little-silver",
+      "county": "Monmouth County",
+      "lat": 40.335393,
+      "lng": -74.041319
+    },
+    {
+      "name": "Little York",
+      "slug": "little-york",
+      "county": "Hunterdon County",
+      "lat": 40.611111,
+      "lng": -75.076389
+    },
+    {
+      "name": "Livingston",
+      "slug": "livingston",
+      "county": "Essex County",
+      "lat": 40.789633,
+      "lng": -74.3202
+    },
+    {
+      "name": "Lodi",
+      "slug": "lodi",
+      "county": "Bergen County",
+      "lat": 40.876363,
+      "lng": -74.083827
+    },
+    {
+      "name": "Long Branch",
+      "slug": "long-branch",
+      "county": "Monmouth County",
+      "lat": 40.299204,
+      "lng": -73.991176
+    },
+    {
+      "name": "Long Valley",
+      "slug": "long-valley",
+      "county": "Morris County",
+      "lat": 40.787817,
+      "lng": -74.78698
+    },
+    {
+      "name": "Longport",
+      "slug": "longport",
+      "county": "Atlantic County",
+      "lat": 39.309712,
+      "lng": -74.542143
+    },
+    {
+      "name": "Lumberton",
+      "slug": "lumberton",
+      "county": "Burlington County",
+      "lat": 39.96512,
+      "lng": -74.806736
+    },
+    {
+      "name": "Lyndhurst",
+      "slug": "lyndhurst",
+      "county": "Bergen County",
+      "lat": 40.809433,
+      "lng": -74.12453
+    },
+    {
+      "name": "Lyons",
+      "slug": "lyons",
+      "county": "Somerset County",
+      "lat": 40.685278,
+      "lng": -74.5475
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Morris County",
+      "lat": 40.759939,
+      "lng": -74.417868
+    },
+    {
+      "name": "Magnolia",
+      "slug": "magnolia",
+      "county": "Camden County",
+      "lat": 39.853807,
+      "lng": -75.039254
+    },
+    {
+      "name": "Mahwah",
+      "slug": "mahwah",
+      "county": "Bergen County",
+      "lat": 41.074473,
+      "lng": -74.155974
+    },
+    {
+      "name": "Malaga",
+      "slug": "malaga",
+      "county": "Gloucester County",
+      "lat": 39.575495,
+      "lng": -75.058155
+    },
+    {
+      "name": "Manahawkin",
+      "slug": "manahawkin",
+      "county": "Ocean County",
+      "lat": 39.705017,
+      "lng": -74.260391
+    },
+    {
+      "name": "Manasquan",
+      "slug": "manasquan",
+      "county": "Monmouth County",
+      "lat": 40.121693,
+      "lng": -74.061055
+    },
+    {
+      "name": "Manchester Township",
+      "slug": "manchester-township",
+      "county": "Ocean County",
+      "lat": 39.950983,
+      "lng": -74.360713
+    },
+    {
+      "name": "Mantoloking",
+      "slug": "mantoloking",
+      "county": "Ocean County",
+      "lat": 40.026125,
+      "lng": -74.056188
+    },
+    {
+      "name": "Mantua",
+      "slug": "mantua",
+      "county": "Gloucester County",
+      "lat": 39.786983,
+      "lng": -75.178531
+    },
+    {
+      "name": "Manville",
+      "slug": "manville",
+      "county": "Somerset County",
+      "lat": 40.539871,
+      "lng": -74.593377
+    },
+    {
+      "name": "Maple Shade",
+      "slug": "maple-shade",
+      "county": "Burlington County",
+      "lat": 39.951085,
+      "lng": -74.994644
+    },
+    {
+      "name": "Maplewood",
+      "slug": "maplewood",
+      "county": "Essex County",
+      "lat": 40.727906,
+      "lng": -74.265573
+    },
+    {
+      "name": "Margate City",
+      "slug": "margate-city",
+      "county": "Atlantic County",
+      "lat": 39.328621,
+      "lng": -74.509038
+    },
+    {
+      "name": "Marlboro",
+      "slug": "marlboro",
+      "county": "Monmouth County",
+      "lat": 40.31825,
+      "lng": -74.263871
+    },
+    {
+      "name": "Marlton",
+      "slug": "marlton",
+      "county": "Burlington County",
+      "lat": 39.884517,
+      "lng": -74.90674
+    },
+    {
+      "name": "Marmora",
+      "slug": "marmora",
+      "county": "Cape May County",
+      "lat": 39.258562,
+      "lng": -74.659297
+    },
+    {
+      "name": "Martinsville",
+      "slug": "martinsville",
+      "county": "Somerset County",
+      "lat": 40.599962,
+      "lng": -74.557191
+    },
+    {
+      "name": "Matawan",
+      "slug": "matawan",
+      "county": "Monmouth County",
+      "lat": 40.410876,
+      "lng": -74.237955
+    },
+    {
+      "name": "Mauricetown",
+      "slug": "mauricetown",
+      "county": "Cumberland County",
+      "lat": 39.285833,
+      "lng": -74.993611
+    },
+    {
+      "name": "Mays Landing",
+      "slug": "mays-landing",
+      "county": "Atlantic County",
+      "lat": 39.432011,
+      "lng": -74.69619
+    },
+    {
+      "name": "Maywood",
+      "slug": "maywood",
+      "county": "Bergen County",
+      "lat": 40.902412,
+      "lng": -74.062916
+    },
+    {
+      "name": "Mc Afee",
+      "slug": "mc-afee",
+      "county": "Sussex County",
+      "lat": 41.201667,
+      "lng": -74.550833
+    },
+    {
+      "name": "Medford",
+      "slug": "medford",
+      "county": "Burlington County",
+      "lat": 39.868099,
+      "lng": -74.823384
+    },
+    {
+      "name": "Mendham",
+      "slug": "mendham",
+      "county": "Morris County",
+      "lat": 40.778919,
+      "lng": -74.600035
+    },
+    {
+      "name": "Merchantville",
+      "slug": "merchantville",
+      "county": "Camden County",
+      "lat": 39.95193,
+      "lng": -75.048204
+    },
+    {
+      "name": "Metuchen",
+      "slug": "metuchen",
+      "county": "Middlesex County",
+      "lat": 40.54493,
+      "lng": -74.351721
+    },
+    {
+      "name": "Mickleton",
+      "slug": "mickleton",
+      "county": "Gloucester County",
+      "lat": 39.785653,
+      "lng": -75.249777
+    },
+    {
+      "name": "Middlesex",
+      "slug": "middlesex",
+      "county": "Middlesex County",
+      "lat": 40.575882,
+      "lng": -74.500835
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "Monmouth County",
+      "lat": 40.396018,
+      "lng": -74.113908
+    },
+    {
+      "name": "Middleville",
+      "slug": "middleville",
+      "county": "Sussex County",
+      "lat": 41.055833,
+      "lng": -74.863333
+    },
+    {
+      "name": "Midland Park",
+      "slug": "midland-park",
+      "county": "Bergen County",
+      "lat": 40.995668,
+      "lng": -74.140904
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Hunterdon County",
+      "lat": 40.592942,
+      "lng": -75.102519
+    },
+    {
+      "name": "Millburn",
+      "slug": "millburn",
+      "county": "Essex County",
+      "lat": 40.722798,
+      "lng": -74.301469
+    },
+    {
+      "name": "Millington",
+      "slug": "millington",
+      "county": "Morris County",
+      "lat": 40.672716,
+      "lng": -74.518292
+    },
+    {
+      "name": "Millstone Township",
+      "slug": "millstone-township",
+      "county": "Monmouth County",
+      "lat": 40.199751,
+      "lng": -74.434387
+    },
+    {
+      "name": "Milltown",
+      "slug": "milltown",
+      "county": "Middlesex County",
+      "lat": 40.449346,
+      "lng": -74.439046
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Cumberland County",
+      "lat": 39.367313,
+      "lng": -75.029311
+    },
+    {
+      "name": "Milmay",
+      "slug": "milmay",
+      "county": "Atlantic County",
+      "lat": 39.445078,
+      "lng": -74.866671
+    },
+    {
+      "name": "Mine Hill",
+      "slug": "mine-hill",
+      "county": "Morris County",
+      "lat": 40.8782,
+      "lng": -74.5978
+    },
+    {
+      "name": "Minotola",
+      "slug": "minotola",
+      "county": "Atlantic County",
+      "lat": 39.515512,
+      "lng": -74.946685
+    },
+    {
+      "name": "Mizpah",
+      "slug": "mizpah",
+      "county": "Atlantic County",
+      "lat": 39.486667,
+      "lng": -74.836111
+    },
+    {
+      "name": "Monmouth Beach",
+      "slug": "monmouth-beach",
+      "county": "Monmouth County",
+      "lat": 40.333032,
+      "lng": -73.98089
+    },
+    {
+      "name": "Monmouth Junction",
+      "slug": "monmouth-junction",
+      "county": "Middlesex County",
+      "lat": 40.394391,
+      "lng": -74.547021
+    },
+    {
+      "name": "Monroe Township",
+      "slug": "monroe-township",
+      "county": "Middlesex County",
+      "lat": 40.342475,
+      "lng": -74.433568
+    },
+    {
+      "name": "Monroeville",
+      "slug": "monroeville",
+      "county": "Salem County",
+      "lat": 39.644224,
+      "lng": -75.156848
+    },
+    {
+      "name": "Montague",
+      "slug": "montague",
+      "county": "Sussex County",
+      "lat": 41.302259,
+      "lng": -74.753956
+    },
+    {
+      "name": "Montclair",
+      "slug": "montclair",
+      "county": "Essex County",
+      "lat": 40.81307,
+      "lng": -74.216467
+    },
+    {
+      "name": "Montvale",
+      "slug": "montvale",
+      "county": "Bergen County",
+      "lat": 41.049458,
+      "lng": -74.038362
+    },
+    {
+      "name": "Montville",
+      "slug": "montville",
+      "county": "Morris County",
+      "lat": 40.904914,
+      "lng": -74.36456
+    },
+    {
+      "name": "Moonachie",
+      "slug": "moonachie",
+      "county": "Bergen County",
+      "lat": 40.839352,
+      "lng": -74.056646
+    },
+    {
+      "name": "Moorestown",
+      "slug": "moorestown",
+      "county": "Burlington County",
+      "lat": 39.9683,
+      "lng": -74.953323
+    },
+    {
+      "name": "Morganville",
+      "slug": "morganville",
+      "county": "Monmouth County",
+      "lat": 40.352917,
+      "lng": -74.277863
+    },
+    {
+      "name": "Morristown",
+      "slug": "morristown",
+      "county": "Morris County",
+      "lat": 40.795236,
+      "lng": -74.487288
+    },
+    {
+      "name": "Mount Arlington",
+      "slug": "mount-arlington",
+      "county": "Morris County",
+      "lat": 40.928267,
+      "lng": -74.636331
+    },
+    {
+      "name": "Mount Ephraim",
+      "slug": "mount-ephraim",
+      "county": "Camden County",
+      "lat": 39.882749,
+      "lng": -75.09289
+    },
+    {
+      "name": "Mount Freedom",
+      "slug": "mount-freedom",
+      "county": "Morris County",
+      "lat": 40.826111,
+      "lng": -74.570556
+    },
+    {
+      "name": "Mount Holly",
+      "slug": "mount-holly",
+      "county": "Burlington County",
+      "lat": 39.993028,
+      "lng": -74.795522
+    },
+    {
+      "name": "Mount Laurel",
+      "slug": "mount-laurel",
+      "county": "Burlington County",
+      "lat": 39.947808,
+      "lng": -74.903588
+    },
+    {
+      "name": "Mount Royal",
+      "slug": "mount-royal",
+      "county": "Gloucester County",
+      "lat": 39.809741,
+      "lng": -75.208153
+    },
+    {
+      "name": "Mount Tabor",
+      "slug": "mount-tabor",
+      "county": "Morris County",
+      "lat": 40.873611,
+      "lng": -74.479167
+    },
+    {
+      "name": "Mountain Lakes",
+      "slug": "mountain-lakes",
+      "county": "Morris County",
+      "lat": 40.890447,
+      "lng": -74.441487
+    },
+    {
+      "name": "Mountainside",
+      "slug": "mountainside",
+      "county": "Union County",
+      "lat": 40.678461,
+      "lng": -74.358785
+    },
+    {
+      "name": "Mullica Hill",
+      "slug": "mullica-hill",
+      "county": "Gloucester County",
+      "lat": 39.725228,
+      "lng": -75.20654
+    },
+    {
+      "name": "National Park",
+      "slug": "national-park",
+      "county": "Gloucester County",
+      "lat": 39.866412,
+      "lng": -75.179397
+    },
+    {
+      "name": "Navesink",
+      "slug": "navesink",
+      "county": "Monmouth County",
+      "lat": 40.399444,
+      "lng": -74.035833
+    },
+    {
+      "name": "Neptune",
+      "slug": "neptune",
+      "county": "Monmouth County",
+      "lat": 40.211153,
+      "lng": -74.054045
+    },
+    {
+      "name": "Neshanic Station",
+      "slug": "neshanic-station",
+      "county": "Somerset County",
+      "lat": 40.509551,
+      "lng": -74.71434
+    },
+    {
+      "name": "Netcong",
+      "slug": "netcong",
+      "county": "Morris County",
+      "lat": 40.898497,
+      "lng": -74.698454
+    },
+    {
+      "name": "New Brunswick",
+      "slug": "new-brunswick",
+      "county": "Middlesex County",
+      "lat": 40.489073,
+      "lng": -74.448193
+    },
+    {
+      "name": "New Egypt",
+      "slug": "new-egypt",
+      "county": "Ocean County",
+      "lat": 40.071343,
+      "lng": -74.506721
+    },
+    {
+      "name": "New Gretna",
+      "slug": "new-gretna",
+      "county": "Burlington County",
+      "lat": 39.592222,
+      "lng": -74.451389
+    },
+    {
+      "name": "New Lisbon",
+      "slug": "new-lisbon",
+      "county": "Burlington County",
+      "lat": 39.958056,
+      "lng": -74.628333
+    },
+    {
+      "name": "New Milford",
+      "slug": "new-milford",
+      "county": "Bergen County",
+      "lat": 40.933115,
+      "lng": -74.019517
+    },
+    {
+      "name": "New Providence",
+      "slug": "new-providence",
+      "county": "Union County",
+      "lat": 40.700403,
+      "lng": -74.402291
+    },
+    {
+      "name": "New Vernon",
+      "slug": "new-vernon",
+      "county": "Morris County",
+      "lat": 40.734685,
+      "lng": -74.484471
+    },
+    {
+      "name": "Newark",
+      "slug": "newark",
+      "county": "Essex County",
+      "lat": 40.7308,
+      "lng": -74.1744
+    },
+    {
+      "name": "Newfield",
+      "slug": "newfield",
+      "county": "Gloucester County",
+      "lat": 39.555257,
+      "lng": -75.027558
+    },
+    {
+      "name": "Newfoundland",
+      "slug": "newfoundland",
+      "county": "Passaic County",
+      "lat": 41.064691,
+      "lng": -74.435857
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Cumberland County",
+      "lat": 39.283205,
+      "lng": -75.171647
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Sussex County",
+      "lat": 41.058275,
+      "lng": -74.780191
+    },
+    {
+      "name": "Newtonville",
+      "slug": "newtonville",
+      "county": "Atlantic County",
+      "lat": 39.564477,
+      "lng": -74.859049
+    },
+    {
+      "name": "Norma",
+      "slug": "norma",
+      "county": "Salem County",
+      "lat": 39.496111,
+      "lng": -75.088333
+    },
+    {
+      "name": "Normandy Beach",
+      "slug": "normandy-beach",
+      "county": "Ocean County",
+      "lat": 40.0025,
+      "lng": -74.060833
+    },
+    {
+      "name": "North Arlington",
+      "slug": "north-arlington",
+      "county": "Bergen County",
+      "lat": 40.78977,
+      "lng": -74.134288
+    },
+    {
+      "name": "North Bergen",
+      "slug": "north-bergen",
+      "county": "Hudson County",
+      "lat": 40.793019,
+      "lng": -74.017715
+    },
+    {
+      "name": "North Brunswick",
+      "slug": "north-brunswick",
+      "county": "Middlesex County",
+      "lat": 40.453767,
+      "lng": -74.482285
+    },
+    {
+      "name": "Northfield",
+      "slug": "northfield",
+      "county": "Atlantic County",
+      "lat": 39.370256,
+      "lng": -74.555237
+    },
+    {
+      "name": "Northvale",
+      "slug": "northvale",
+      "county": "Bergen County",
+      "lat": 41.011196,
+      "lng": -73.952375
+    },
+    {
+      "name": "Norwood",
+      "slug": "norwood",
+      "county": "Bergen County",
+      "lat": 40.995231,
+      "lng": -73.95817
+    },
+    {
+      "name": "Nutley",
+      "slug": "nutley",
+      "county": "Essex County",
+      "lat": 40.818548,
+      "lng": -74.158934
+    },
+    {
+      "name": "Oak Ridge",
+      "slug": "oak-ridge",
+      "county": "Passaic County",
+      "lat": 41.028401,
+      "lng": -74.508801
+    },
+    {
+      "name": "Oakhurst",
+      "slug": "oakhurst",
+      "county": "Monmouth County",
+      "lat": 40.26479,
+      "lng": -74.018413
+    },
+    {
+      "name": "Oakland",
+      "slug": "oakland",
+      "county": "Bergen County",
+      "lat": 41.029436,
+      "lng": -74.233754
+    },
+    {
+      "name": "Ocean City",
+      "slug": "ocean-city",
+      "county": "Cape May County",
+      "lat": 39.270894,
+      "lng": -74.587514
+    },
+    {
+      "name": "Ocean Gate",
+      "slug": "ocean-gate",
+      "county": "Ocean County",
+      "lat": 39.925975,
+      "lng": -74.135128
+    },
+    {
+      "name": "Ocean Grove",
+      "slug": "ocean-grove",
+      "county": "Monmouth County",
+      "lat": 40.211606,
+      "lng": -74.009306
+    },
+    {
+      "name": "Ocean View",
+      "slug": "ocean-view",
+      "county": "Cape May County",
+      "lat": 39.215425,
+      "lng": -74.707548
+    },
+    {
+      "name": "Oceanport",
+      "slug": "oceanport",
+      "county": "Monmouth County",
+      "lat": 40.31573,
+      "lng": -74.016372
+    },
+    {
+      "name": "Oceanville",
+      "slug": "oceanville",
+      "county": "Atlantic County",
+      "lat": 39.471111,
+      "lng": -74.460833
+    },
+    {
+      "name": "Ogdensburg",
+      "slug": "ogdensburg",
+      "county": "Sussex County",
+      "lat": 41.076707,
+      "lng": -74.598188
+    },
+    {
+      "name": "Old Bridge",
+      "slug": "old-bridge",
+      "county": "Middlesex County",
+      "lat": 40.398045,
+      "lng": -74.323553
+    },
+    {
+      "name": "Oldwick",
+      "slug": "oldwick",
+      "county": "Hunterdon County",
+      "lat": 40.6725,
+      "lng": -74.747778
+    },
+    {
+      "name": "Oradell",
+      "slug": "oradell",
+      "county": "Bergen County",
+      "lat": 40.953456,
+      "lng": -74.033525
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "county": "Essex County",
+      "lat": 40.769223,
+      "lng": -74.2355
+    },
+    {
+      "name": "Oxford",
+      "slug": "oxford",
+      "county": "Warren County",
+      "lat": 40.810537,
+      "lng": -75.00194
+    },
+    {
+      "name": "Palisades Park",
+      "slug": "palisades-park",
+      "county": "Bergen County",
+      "lat": 40.846238,
+      "lng": -73.995436
+    },
+    {
+      "name": "Palmyra",
+      "slug": "palmyra",
+      "county": "Burlington County",
+      "lat": 40.003654,
+      "lng": -75.025685
+    },
+    {
+      "name": "Paramus",
+      "slug": "paramus",
+      "county": "Bergen County",
+      "lat": 40.947683,
+      "lng": -74.06724
+    },
+    {
+      "name": "Park Ridge",
+      "slug": "park-ridge",
+      "county": "Bergen County",
+      "lat": 41.034349,
+      "lng": -74.039574
+    },
+    {
+      "name": "Parlin",
+      "slug": "parlin",
+      "county": "Middlesex County",
+      "lat": 40.458701,
+      "lng": -74.304981
+    },
+    {
+      "name": "Parsippany",
+      "slug": "parsippany",
+      "county": "Morris County",
+      "lat": 40.862106,
+      "lng": -74.411663
+    },
+    {
+      "name": "Passaic",
+      "slug": "passaic",
+      "county": "Passaic County",
+      "lat": 40.860132,
+      "lng": -74.128348
+    },
+    {
+      "name": "Paterson",
+      "slug": "paterson",
+      "county": "Passaic County",
+      "lat": 40.914273,
+      "lng": -74.167141
+    },
+    {
+      "name": "Paulsboro",
+      "slug": "paulsboro",
+      "county": "Gloucester County",
+      "lat": 39.831157,
+      "lng": -75.224233
+    },
+    {
+      "name": "Peapack",
+      "slug": "peapack",
+      "county": "Somerset County",
+      "lat": 40.716667,
+      "lng": -74.656944
+    },
+    {
+      "name": "Pedricktown",
+      "slug": "pedricktown",
+      "county": "Salem County",
+      "lat": 39.743451,
+      "lng": -75.412046
+    },
+    {
+      "name": "Pemberton",
+      "slug": "pemberton",
+      "county": "Burlington County",
+      "lat": 39.971206,
+      "lng": -74.667629
+    },
+    {
+      "name": "Pennington",
+      "slug": "pennington",
+      "county": "Mercer County",
+      "lat": 40.333858,
+      "lng": -74.794352
+    },
+    {
+      "name": "Penns Grove",
+      "slug": "penns-grove",
+      "county": "Salem County",
+      "lat": 39.717938,
+      "lng": -75.465623
+    },
+    {
+      "name": "Pennsauken",
+      "slug": "pennsauken",
+      "county": "Camden County",
+      "lat": 39.962742,
+      "lng": -75.063446
+    },
+    {
+      "name": "Pennsville",
+      "slug": "pennsville",
+      "county": "Salem County",
+      "lat": 39.649107,
+      "lng": -75.51553
+    },
+    {
+      "name": "Pequannock",
+      "slug": "pequannock",
+      "county": "Morris County",
+      "lat": 40.947308,
+      "lng": -74.29601
+    },
+    {
+      "name": "Perth Amboy",
+      "slug": "perth-amboy",
+      "county": "Middlesex County",
+      "lat": 40.517551,
+      "lng": -74.275427
+    },
+    {
+      "name": "Phillipsburg",
+      "slug": "phillipsburg",
+      "county": "Warren County",
+      "lat": 40.692819,
+      "lng": -75.1741
+    },
+    {
+      "name": "Picatinny Arsenal",
+      "slug": "picatinny-arsenal",
+      "county": "Morris County",
+      "lat": 40.8866,
+      "lng": -74.5809
+    },
+    {
+      "name": "Pine Beach",
+      "slug": "pine-beach",
+      "county": "Ocean County",
+      "lat": 39.934746,
+      "lng": -74.167992
+    },
+    {
+      "name": "Pine Brook",
+      "slug": "pine-brook",
+      "county": "Morris County",
+      "lat": 40.874207,
+      "lng": -74.350009
+    },
+    {
+      "name": "Piscataway",
+      "slug": "piscataway",
+      "county": "Middlesex County",
+      "lat": 40.55152,
+      "lng": -74.458996
+    },
+    {
+      "name": "Pitman",
+      "slug": "pitman",
+      "county": "Gloucester County",
+      "lat": 39.731162,
+      "lng": -75.129679
+    },
+    {
+      "name": "Pittstown",
+      "slug": "pittstown",
+      "county": "Hunterdon County",
+      "lat": 40.599169,
+      "lng": -74.957587
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Union County",
+      "lat": 40.61978,
+      "lng": -74.425298
+    },
+    {
+      "name": "Plainsboro",
+      "slug": "plainsboro",
+      "county": "Middlesex County",
+      "lat": 40.332432,
+      "lng": -74.568836
+    },
+    {
+      "name": "Pleasantville",
+      "slug": "pleasantville",
+      "county": "Atlantic County",
+      "lat": 39.401518,
+      "lng": -74.552365
+    },
+    {
+      "name": "Pluckemin",
+      "slug": "pluckemin",
+      "county": "Somerset County",
+      "lat": 40.645556,
+      "lng": -74.639444
+    },
+    {
+      "name": "Point Pleasant Beach",
+      "slug": "point-pleasant-beach",
+      "county": "Ocean County",
+      "lat": 40.080226,
+      "lng": -74.065719
+    },
+    {
+      "name": "Pomona",
+      "slug": "pomona",
+      "county": "Atlantic County",
+      "lat": 39.478333,
+      "lng": -74.575556
+    },
+    {
+      "name": "Pompton Lakes",
+      "slug": "pompton-lakes",
+      "county": "Passaic County",
+      "lat": 40.999284,
+      "lng": -74.287566
+    },
+    {
+      "name": "Pompton Plains",
+      "slug": "pompton-plains",
+      "county": "Morris County",
+      "lat": 40.965515,
+      "lng": -74.301602
+    },
+    {
+      "name": "Port Elizabeth",
+      "slug": "port-elizabeth",
+      "county": "Cumberland County",
+      "lat": 39.313333,
+      "lng": -74.981389
+    },
+    {
+      "name": "Port Monmouth",
+      "slug": "port-monmouth",
+      "county": "Monmouth County",
+      "lat": 40.428886,
+      "lng": -74.108259
+    },
+    {
+      "name": "Port Murray",
+      "slug": "port-murray",
+      "county": "Warren County",
+      "lat": 40.790615,
+      "lng": -74.91675
+    },
+    {
+      "name": "Port Norris",
+      "slug": "port-norris",
+      "county": "Cumberland County",
+      "lat": 39.256263,
+      "lng": -75.050608
+    },
+    {
+      "name": "Port Reading",
+      "slug": "port-reading",
+      "county": "Middlesex County",
+      "lat": 40.570935,
+      "lng": -74.246643
+    },
+    {
+      "name": "Port Republic",
+      "slug": "port-republic",
+      "county": "Atlantic County",
+      "lat": 39.527196,
+      "lng": -74.490263
+    },
+    {
+      "name": "Pottersville",
+      "slug": "pottersville",
+      "county": "Hunterdon County",
+      "lat": 40.661111,
+      "lng": -74.821389
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Mercer County",
+      "lat": 40.366633,
+      "lng": -74.640832
+    },
+    {
+      "name": "Quakertown",
+      "slug": "quakertown",
+      "county": "Hunterdon County",
+      "lat": 40.565556,
+      "lng": -74.941944
+    },
+    {
+      "name": "Quinton",
+      "slug": "quinton",
+      "county": "Salem County",
+      "lat": 39.545833,
+      "lng": -75.412778
+    },
+    {
+      "name": "Rahway",
+      "slug": "rahway",
+      "county": "Union County",
+      "lat": 40.608668,
+      "lng": -74.281881
+    },
+    {
+      "name": "Ramsey",
+      "slug": "ramsey",
+      "county": "Bergen County",
+      "lat": 41.057743,
+      "lng": -74.144467
+    },
+    {
+      "name": "Rancocas",
+      "slug": "rancocas",
+      "county": "Burlington County",
+      "lat": 40.010556,
+      "lng": -74.867222
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Morris County",
+      "lat": 40.845557,
+      "lng": -74.572519
+    },
+    {
+      "name": "Raritan",
+      "slug": "raritan",
+      "county": "Somerset County",
+      "lat": 40.57109,
+      "lng": -74.637691
+    },
+    {
+      "name": "Readington",
+      "slug": "readington",
+      "county": "Hunterdon County",
+      "lat": 40.568611,
+      "lng": -74.738056
+    },
+    {
+      "name": "Red Bank",
+      "slug": "red-bank",
+      "county": "Monmouth County",
+      "lat": 40.354083,
+      "lng": -74.080003
+    },
+    {
+      "name": "Richland",
+      "slug": "richland",
+      "county": "Atlantic County",
+      "lat": 39.485048,
+      "lng": -74.877615
+    },
+    {
+      "name": "Richwood",
+      "slug": "richwood",
+      "county": "Gloucester County",
+      "lat": 39.7225,
+      "lng": -75.165833
+    },
+    {
+      "name": "Ridgefield",
+      "slug": "ridgefield",
+      "county": "Bergen County",
+      "lat": 40.832568,
+      "lng": -74.001531
+    },
+    {
+      "name": "Ridgefield Park",
+      "slug": "ridgefield-park",
+      "county": "Bergen County",
+      "lat": 40.856218,
+      "lng": -74.022962
+    },
+    {
+      "name": "Ridgewood",
+      "slug": "ridgewood",
+      "county": "Bergen County",
+      "lat": 40.982023,
+      "lng": -74.113134
+    },
+    {
+      "name": "Ringoes",
+      "slug": "ringoes",
+      "county": "Hunterdon County",
+      "lat": 40.44587,
+      "lng": -74.828839
+    },
+    {
+      "name": "Ringwood",
+      "slug": "ringwood",
+      "county": "Passaic County",
+      "lat": 41.092816,
+      "lng": -74.265872
+    },
+    {
+      "name": "Rio Grande",
+      "slug": "rio-grande",
+      "county": "Cape May County",
+      "lat": 39.019583,
+      "lng": -74.875642
+    },
+    {
+      "name": "River Edge",
+      "slug": "river-edge",
+      "county": "Bergen County",
+      "lat": 40.926476,
+      "lng": -74.03924
+    },
+    {
+      "name": "Riverdale",
+      "slug": "riverdale",
+      "county": "Morris County",
+      "lat": 40.993109,
+      "lng": -74.308756
+    },
+    {
+      "name": "Riverton",
+      "slug": "riverton",
+      "county": "Burlington County",
+      "lat": 40.011389,
+      "lng": -75.015278
+    },
+    {
+      "name": "Rochelle Park",
+      "slug": "rochelle-park",
+      "county": "Bergen County",
+      "lat": 40.904928,
+      "lng": -74.091296
+    },
+    {
+      "name": "Rockaway",
+      "slug": "rockaway",
+      "county": "Morris County",
+      "lat": 40.922916,
+      "lng": -74.50937
+    },
+    {
+      "name": "Rocky Hill",
+      "slug": "rocky-hill",
+      "county": "Somerset County",
+      "lat": 40.400985,
+      "lng": -74.640042
+    },
+    {
+      "name": "Roebling",
+      "slug": "roebling",
+      "county": "Burlington County",
+      "lat": 40.115352,
+      "lng": -74.777224
+    },
+    {
+      "name": "Roosevelt",
+      "slug": "roosevelt",
+      "county": "Monmouth County",
+      "lat": 40.22,
+      "lng": -74.473611
+    },
+    {
+      "name": "Roseland",
+      "slug": "roseland",
+      "county": "Essex County",
+      "lat": 40.82034,
+      "lng": -74.304688
+    },
+    {
+      "name": "Roselle",
+      "slug": "roselle",
+      "county": "Union County",
+      "lat": 40.652972,
+      "lng": -74.261044
+    },
+    {
+      "name": "Roselle Park",
+      "slug": "roselle-park",
+      "county": "Union County",
+      "lat": 40.665134,
+      "lng": -74.267003
+    },
+    {
+      "name": "Rosemont",
+      "slug": "rosemont",
+      "county": "Hunterdon County",
+      "lat": 40.422005,
+      "lng": -74.991928
+    },
+    {
+      "name": "Rosenhayn",
+      "slug": "rosenhayn",
+      "county": "Cumberland County",
+      "lat": 39.478056,
+      "lng": -75.131667
+    },
+    {
+      "name": "Rumson",
+      "slug": "rumson",
+      "county": "Monmouth County",
+      "lat": 40.371829,
+      "lng": -74.000618
+    },
+    {
+      "name": "Runnemede",
+      "slug": "runnemede",
+      "county": "Camden County",
+      "lat": 39.850825,
+      "lng": -75.074224
+    },
+    {
+      "name": "Rutherford",
+      "slug": "rutherford",
+      "county": "Bergen County",
+      "lat": 40.829245,
+      "lng": -74.112146
+    },
+    {
+      "name": "Saddle Brook",
+      "slug": "saddle-brook",
+      "county": "Bergen County",
+      "lat": 40.898889,
+      "lng": -74.093056
+    },
+    {
+      "name": "Saddle River",
+      "slug": "saddle-river",
+      "county": "Bergen County",
+      "lat": 41.053083,
+      "lng": -74.096775
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Salem County",
+      "lat": 39.559124,
+      "lng": -75.452096
+    },
+    {
+      "name": "Sayreville",
+      "slug": "sayreville",
+      "county": "Middlesex County",
+      "lat": 40.459167,
+      "lng": -74.361389
+    },
+    {
+      "name": "Schooleys Mountain",
+      "slug": "schooleys-mountain",
+      "county": "Morris County",
+      "lat": 40.799167,
+      "lng": -74.814167
+    },
+    {
+      "name": "Scotch Plains",
+      "slug": "scotch-plains",
+      "county": "Union County",
+      "lat": 40.642162,
+      "lng": -74.381663
+    },
+    {
+      "name": "Sea Girt",
+      "slug": "sea-girt",
+      "county": "Monmouth County",
+      "lat": 40.134522,
+      "lng": -74.043604
+    },
+    {
+      "name": "Sea Isle City",
+      "slug": "sea-isle-city",
+      "county": "Cape May County",
+      "lat": 39.144929,
+      "lng": -74.701432
+    },
+    {
+      "name": "Seaside Heights",
+      "slug": "seaside-heights",
+      "county": "Ocean County",
+      "lat": 39.946639,
+      "lng": -74.076479
+    },
+    {
+      "name": "Seaside Park",
+      "slug": "seaside-park",
+      "county": "Ocean County",
+      "lat": 39.922175,
+      "lng": -74.079521
+    },
+    {
+      "name": "Secaucus",
+      "slug": "secaucus",
+      "county": "Hudson County",
+      "lat": 40.79101,
+      "lng": -74.063416
+    },
+    {
+      "name": "Sergeantsville",
+      "slug": "sergeantsville",
+      "county": "Hunterdon County",
+      "lat": 40.445833,
+      "lng": -74.943889
+    },
+    {
+      "name": "Sewaren",
+      "slug": "sewaren",
+      "county": "Middlesex County",
+      "lat": 40.554181,
+      "lng": -74.260736
+    },
+    {
+      "name": "Sewell",
+      "slug": "sewell",
+      "county": "Gloucester County",
+      "lat": 39.747345,
+      "lng": -75.089852
+    },
+    {
+      "name": "Shiloh",
+      "slug": "shiloh",
+      "county": "Cumberland County",
+      "lat": 39.458889,
+      "lng": -75.299444
+    },
+    {
+      "name": "Short Hills",
+      "slug": "short-hills",
+      "county": "Essex County",
+      "lat": 40.73678,
+      "lng": -74.327085
+    },
+    {
+      "name": "Shrewsbury",
+      "slug": "shrewsbury",
+      "county": "Monmouth County",
+      "lat": 40.328198,
+      "lng": -74.058892
+    },
+    {
+      "name": "Sicklerville",
+      "slug": "sicklerville",
+      "county": "Camden County",
+      "lat": 39.735385,
+      "lng": -74.986385
+    },
+    {
+      "name": "Skillman",
+      "slug": "skillman",
+      "county": "Somerset County",
+      "lat": 40.417312,
+      "lng": -74.693828
+    },
+    {
+      "name": "Somerdale",
+      "slug": "somerdale",
+      "county": "Camden County",
+      "lat": 39.839988,
+      "lng": -75.030913
+    },
+    {
+      "name": "Somers Point",
+      "slug": "somers-point",
+      "county": "Atlantic County",
+      "lat": 39.322308,
+      "lng": -74.600796
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "Somerset County",
+      "lat": 40.500743,
+      "lng": -74.50126
+    },
+    {
+      "name": "Somerville",
+      "slug": "somerville",
+      "county": "Somerset County",
+      "lat": 40.549393,
+      "lng": -74.645926
+    },
+    {
+      "name": "South Amboy",
+      "slug": "south-amboy",
+      "county": "Middlesex County",
+      "lat": 40.464733,
+      "lng": -74.278635
+    },
+    {
+      "name": "South Bound Brook",
+      "slug": "south-bound-brook",
+      "county": "Somerset County",
+      "lat": 40.552804,
+      "lng": -74.529078
+    },
+    {
+      "name": "South Dennis",
+      "slug": "south-dennis",
+      "county": "Cape May County",
+      "lat": 39.178333,
+      "lng": -74.820278
+    },
+    {
+      "name": "South Hackensack",
+      "slug": "south-hackensack",
+      "county": "Bergen County",
+      "lat": 40.863391,
+      "lng": -74.045601
+    },
+    {
+      "name": "South Orange",
+      "slug": "south-orange",
+      "county": "Essex County",
+      "lat": 40.746453,
+      "lng": -74.257532
+    },
+    {
+      "name": "South Plainfield",
+      "slug": "south-plainfield",
+      "county": "Middlesex County",
+      "lat": 40.583884,
+      "lng": -74.414695
+    },
+    {
+      "name": "South River",
+      "slug": "south-river",
+      "county": "Middlesex County",
+      "lat": 40.444363,
+      "lng": -74.380099
+    },
+    {
+      "name": "South Seaville",
+      "slug": "south-seaville",
+      "county": "Cape May County",
+      "lat": 39.178889,
+      "lng": -74.760278
+    },
+    {
+      "name": "Sparta",
+      "slug": "sparta",
+      "county": "Sussex County",
+      "lat": 41.027697,
+      "lng": -74.640701
+    },
+    {
+      "name": "Spotswood",
+      "slug": "spotswood",
+      "county": "Middlesex County",
+      "lat": 40.384679,
+      "lng": -74.389377
+    },
+    {
+      "name": "Spring Lake",
+      "slug": "spring-lake",
+      "county": "Monmouth County",
+      "lat": 40.154198,
+      "lng": -74.037885
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Union County",
+      "lat": 40.701461,
+      "lng": -74.322705
+    },
+    {
+      "name": "Stanhope",
+      "slug": "stanhope",
+      "county": "Sussex County",
+      "lat": 40.921743,
+      "lng": -74.70044
+    },
+    {
+      "name": "Stanton",
+      "slug": "stanton",
+      "county": "Hunterdon County",
+      "lat": 40.575,
+      "lng": -74.838056
+    },
+    {
+      "name": "Stewartsville",
+      "slug": "stewartsville",
+      "county": "Warren County",
+      "lat": 40.695703,
+      "lng": -75.082517
+    },
+    {
+      "name": "Stillwater",
+      "slug": "stillwater",
+      "county": "Sussex County",
+      "lat": 41.035833,
+      "lng": -74.878611
+    },
+    {
+      "name": "Stirling",
+      "slug": "stirling",
+      "county": "Morris County",
+      "lat": 40.677366,
+      "lng": -74.49683
+    },
+    {
+      "name": "Stockholm",
+      "slug": "stockholm",
+      "county": "Sussex County",
+      "lat": 41.099204,
+      "lng": -74.528256
+    },
+    {
+      "name": "Stockton",
+      "slug": "stockton",
+      "county": "Hunterdon County",
+      "lat": 40.43974,
+      "lng": -74.955419
+    },
+    {
+      "name": "Stone Harbor",
+      "slug": "stone-harbor",
+      "county": "Cape May County",
+      "lat": 39.053338,
+      "lng": -74.762049
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Camden County",
+      "lat": 39.828798,
+      "lng": -75.014707
+    },
+    {
+      "name": "Strathmere",
+      "slug": "strathmere",
+      "county": "Cape May County",
+      "lat": 39.199246,
+      "lng": -74.655446
+    },
+    {
+      "name": "Succasunna",
+      "slug": "succasunna",
+      "county": "Morris County",
+      "lat": 40.85385,
+      "lng": -74.653601
+    },
+    {
+      "name": "Summit",
+      "slug": "summit",
+      "county": "Union County",
+      "lat": 40.71494,
+      "lng": -74.364159
+    },
+    {
+      "name": "Sussex",
+      "slug": "sussex",
+      "county": "Sussex County",
+      "lat": 41.229211,
+      "lng": -74.599156
+    },
+    {
+      "name": "Swartswood",
+      "slug": "swartswood",
+      "county": "Sussex County",
+      "lat": 41.086944,
+      "lng": -74.8275
+    },
+    {
+      "name": "Swedesboro",
+      "slug": "swedesboro",
+      "county": "Gloucester County",
+      "lat": 39.752853,
+      "lng": -75.336202
+    },
+    {
+      "name": "Tabernacle",
+      "slug": "tabernacle",
+      "county": "Burlington County",
+      "lat": 39.867631,
+      "lng": -74.711025
+    },
+    {
+      "name": "Teaneck",
+      "slug": "teaneck",
+      "county": "Bergen County",
+      "lat": 40.89148,
+      "lng": -74.011928
+    },
+    {
+      "name": "Tenafly",
+      "slug": "tenafly",
+      "county": "Bergen County",
+      "lat": 40.921596,
+      "lng": -73.965906
+    },
+    {
+      "name": "Tennent",
+      "slug": "tennent",
+      "county": "Monmouth County",
+      "lat": 40.279444,
+      "lng": -74.334722
+    },
+    {
+      "name": "Teterboro",
+      "slug": "teterboro",
+      "county": "Bergen County",
+      "lat": 40.86175,
+      "lng": -74.054204
+    },
+    {
+      "name": "Thorofare",
+      "slug": "thorofare",
+      "county": "Gloucester County",
+      "lat": 39.859178,
+      "lng": -75.176698
+    },
+    {
+      "name": "Three Bridges",
+      "slug": "three-bridges",
+      "county": "Hunterdon County",
+      "lat": 40.52156,
+      "lng": -74.799805
+    },
+    {
+      "name": "Titusville",
+      "slug": "titusville",
+      "county": "Mercer County",
+      "lat": 40.307728,
+      "lng": -74.865469
+    },
+    {
+      "name": "Toms River",
+      "slug": "toms-river",
+      "county": "Ocean County",
+      "lat": 39.977083,
+      "lng": -74.156508
+    },
+    {
+      "name": "Totowa",
+      "slug": "totowa",
+      "county": "Passaic County",
+      "lat": 40.905,
+      "lng": -74.210278
+    },
+    {
+      "name": "Towaco",
+      "slug": "towaco",
+      "county": "Morris County",
+      "lat": 40.927691,
+      "lng": -74.342807
+    },
+    {
+      "name": "Township Of Washington",
+      "slug": "township-of-washington",
+      "county": "Bergen County",
+      "lat": 41.002778,
+      "lng": -74.018889
+    },
+    {
+      "name": "Tranquility",
+      "slug": "tranquility",
+      "county": "Sussex County",
+      "lat": 40.956111,
+      "lng": -74.808889
+    },
+    {
+      "name": "Trenton",
+      "slug": "trenton",
+      "county": "",
+      "lat": 40.2169,
+      "lng": -74.7433
+    },
+    {
+      "name": "Tuckahoe",
+      "slug": "tuckahoe",
+      "county": "Cape May County",
+      "lat": 39.29,
+      "lng": -74.754167
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Union County",
+      "lat": 40.695184,
+      "lng": -74.267653
+    },
+    {
+      "name": "Union City",
+      "slug": "union-city",
+      "county": "Hudson County",
+      "lat": 40.768153,
+      "lng": -74.030558
+    },
+    {
+      "name": "Vauxhall",
+      "slug": "vauxhall",
+      "county": "Union County",
+      "lat": 40.717927,
+      "lng": -74.282874
+    },
+    {
+      "name": "Ventnor City",
+      "slug": "ventnor-city",
+      "county": "Atlantic County",
+      "lat": 39.345992,
+      "lng": -74.472343
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "county": "Sussex County",
+      "lat": 41.184981,
+      "lng": -74.533196
+    },
+    {
+      "name": "Verona",
+      "slug": "verona",
+      "county": "Essex County",
+      "lat": 40.831928,
+      "lng": -74.242847
+    },
+    {
+      "name": "Vienna",
+      "slug": "vienna",
+      "county": "Warren County",
+      "lat": 40.868611,
+      "lng": -74.889444
+    },
+    {
+      "name": "Villas",
+      "slug": "villas",
+      "county": "Cape May County",
+      "lat": 39.021943,
+      "lng": -74.935396
+    },
+    {
+      "name": "Vineland",
+      "slug": "vineland",
+      "county": "Cumberland County",
+      "lat": 39.48177,
+      "lng": -75.009087
+    },
+    {
+      "name": "Voorhees",
+      "slug": "voorhees",
+      "county": "Camden County",
+      "lat": 39.850422,
+      "lng": -74.964614
+    },
+    {
+      "name": "Waldwick",
+      "slug": "waldwick",
+      "county": "Bergen County",
+      "lat": 41.012968,
+      "lng": -74.124259
+    },
+    {
+      "name": "Wallington",
+      "slug": "wallington",
+      "county": "Bergen County",
+      "lat": 40.85356,
+      "lng": -74.107937
+    },
+    {
+      "name": "Wallpack Center",
+      "slug": "wallpack-center",
+      "county": "Sussex County",
+      "lat": 41.134332,
+      "lng": -74.917595
+    },
+    {
+      "name": "Wanaque",
+      "slug": "wanaque",
+      "county": "Passaic County",
+      "lat": 41.054447,
+      "lng": -74.278968
+    },
+    {
+      "name": "Waretown",
+      "slug": "waretown",
+      "county": "Ocean County",
+      "lat": 39.789646,
+      "lng": -74.195376
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Somerset County",
+      "lat": 40.631787,
+      "lng": -74.510456
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Warren County",
+      "lat": 40.75818,
+      "lng": -74.991361
+    },
+    {
+      "name": "Watchung",
+      "slug": "watchung",
+      "county": "Somerset County",
+      "lat": 40.637778,
+      "lng": -74.451389
+    },
+    {
+      "name": "Waterford Works",
+      "slug": "waterford-works",
+      "county": "Camden County",
+      "lat": 39.721512,
+      "lng": -74.860933
+    },
+    {
+      "name": "Wayne",
+      "slug": "wayne",
+      "county": "Passaic County",
+      "lat": 40.947112,
+      "lng": -74.246565
+    },
+    {
+      "name": "Weehawken",
+      "slug": "weehawken",
+      "county": "Hudson County",
+      "lat": 40.769444,
+      "lng": -74.020833
+    },
+    {
+      "name": "Wenonah",
+      "slug": "wenonah",
+      "county": "Gloucester County",
+      "lat": 39.799283,
+      "lng": -75.153644
+    },
+    {
+      "name": "West Berlin",
+      "slug": "west-berlin",
+      "county": "Camden County",
+      "lat": 39.81959,
+      "lng": -74.941678
+    },
+    {
+      "name": "West Creek",
+      "slug": "west-creek",
+      "county": "Ocean County",
+      "lat": 39.662665,
+      "lng": -74.288508
+    },
+    {
+      "name": "West Long Branch",
+      "slug": "west-long-branch",
+      "county": "Monmouth County",
+      "lat": 40.287811,
+      "lng": -74.016221
+    },
+    {
+      "name": "West Milford",
+      "slug": "west-milford",
+      "county": "Passaic County",
+      "lat": 41.091513,
+      "lng": -74.374996
+    },
+    {
+      "name": "West New York",
+      "slug": "west-new-york",
+      "county": "Hudson County",
+      "lat": 40.788192,
+      "lng": -74.012859
+    },
+    {
+      "name": "West Orange",
+      "slug": "west-orange",
+      "county": "Essex County",
+      "lat": 40.785926,
+      "lng": -74.256765
+    },
+    {
+      "name": "West Windsor",
+      "slug": "west-windsor",
+      "county": "Mercer County",
+      "lat": 40.297684,
+      "lng": -74.614596
+    },
+    {
+      "name": "Westfield",
+      "slug": "westfield",
+      "county": "Union County",
+      "lat": 40.647851,
+      "lng": -74.345056
+    },
+    {
+      "name": "Westville",
+      "slug": "westville",
+      "county": "Gloucester County",
+      "lat": 39.860494,
+      "lng": -75.132278
+    },
+    {
+      "name": "Westwood",
+      "slug": "westwood",
+      "county": "Bergen County",
+      "lat": 41.001696,
+      "lng": -74.032586
+    },
+    {
+      "name": "Wharton",
+      "slug": "wharton",
+      "county": "Morris County",
+      "lat": 40.913883,
+      "lng": -74.58634
+    },
+    {
+      "name": "Whippany",
+      "slug": "whippany",
+      "county": "Morris County",
+      "lat": 40.821862,
+      "lng": -74.419971
+    },
+    {
+      "name": "Whitehouse",
+      "slug": "whitehouse",
+      "county": "Hunterdon County",
+      "lat": 40.618333,
+      "lng": -74.744722
+    },
+    {
+      "name": "Whitehouse Station",
+      "slug": "whitehouse-station",
+      "county": "Hunterdon County",
+      "lat": 40.599872,
+      "lng": -74.764129
+    },
+    {
+      "name": "Whitesboro",
+      "slug": "whitesboro",
+      "county": "Cape May County",
+      "lat": 39.038889,
+      "lng": -74.857222
+    },
+    {
+      "name": "Wickatunk",
+      "slug": "wickatunk",
+      "county": "Monmouth County",
+      "lat": 40.35,
+      "lng": -74.248333
+    },
+    {
+      "name": "Wildwood",
+      "slug": "wildwood",
+      "county": "Cape May County",
+      "lat": 38.989901,
+      "lng": -74.819096
+    },
+    {
+      "name": "Williamstown",
+      "slug": "williamstown",
+      "county": "Gloucester County",
+      "lat": 39.665006,
+      "lng": -74.971027
+    },
+    {
+      "name": "Willingboro",
+      "slug": "willingboro",
+      "county": "Burlington County",
+      "lat": 40.028959,
+      "lng": -74.883482
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Mercer County",
+      "lat": 40.242222,
+      "lng": -74.581667
+    },
+    {
+      "name": "Winslow",
+      "slug": "winslow",
+      "county": "Camden County",
+      "lat": 39.657222,
+      "lng": -74.862778
+    },
+    {
+      "name": "Wood Ridge",
+      "slug": "wood-ridge",
+      "county": "Bergen County",
+      "lat": 40.849348,
+      "lng": -74.087845
+    },
+    {
+      "name": "Woodbine",
+      "slug": "woodbine",
+      "county": "Cape May County",
+      "lat": 39.248915,
+      "lng": -74.802628
+    },
+    {
+      "name": "Woodbridge",
+      "slug": "woodbridge",
+      "county": "Middlesex County",
+      "lat": 40.555973,
+      "lng": -74.284542
+    },
+    {
+      "name": "Woodbury",
+      "slug": "woodbury",
+      "county": "Gloucester County",
+      "lat": 39.829477,
+      "lng": -75.137966
+    },
+    {
+      "name": "Woodbury Heights",
+      "slug": "woodbury-heights",
+      "county": "Gloucester County",
+      "lat": 39.814162,
+      "lng": -75.152972
+    },
+    {
+      "name": "Woodcliff Lake",
+      "slug": "woodcliff-lake",
+      "county": "Bergen County",
+      "lat": 40.991111,
+      "lng": -74.033056
+    },
+    {
+      "name": "Woodstown",
+      "slug": "woodstown",
+      "county": "Salem County",
+      "lat": 39.645663,
+      "lng": -75.324806
+    },
+    {
+      "name": "Wrightstown",
+      "slug": "wrightstown",
+      "county": "Burlington County",
+      "lat": 40.071953,
+      "lng": -74.573098
+    },
+    {
+      "name": "Wyckoff",
+      "slug": "wyckoff",
+      "county": "Bergen County",
+      "lat": 40.997834,
+      "lng": -74.166009
+    },
+    {
+      "name": "Zarephath",
+      "slug": "zarephath",
+      "county": "Somerset County",
+      "lat": 40.536389,
+      "lng": -74.575
+    }
+  ]
+}

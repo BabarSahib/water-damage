@@ -1,0 +1,5278 @@
+{
+  "stateName": "West Virginia",
+  "stateCode": "WV",
+  "stateSlug": "west-virginia",
+  "cities": [
+    {
+      "name": "Accoville",
+      "slug": "accoville",
+      "county": "Logan County",
+      "lat": 37.768611,
+      "lng": -81.837222
+    },
+    {
+      "name": "Adrian",
+      "slug": "adrian",
+      "county": "Upshur County",
+      "lat": 38.913422,
+      "lng": -80.288663
+    },
+    {
+      "name": "Advent",
+      "slug": "advent",
+      "county": "Jackson County",
+      "lat": 38.623595,
+      "lng": -81.572063
+    },
+    {
+      "name": "Albright",
+      "slug": "albright",
+      "county": "Preston County",
+      "lat": 39.570116,
+      "lng": -79.635811
+    },
+    {
+      "name": "Alderson",
+      "slug": "alderson",
+      "county": "Monroe County",
+      "lat": 37.730148,
+      "lng": -80.671306
+    },
+    {
+      "name": "Alkol",
+      "slug": "alkol",
+      "county": "Lincoln County",
+      "lat": 38.160884,
+      "lng": -81.983972
+    },
+    {
+      "name": "Allen Junction",
+      "slug": "allen-junction",
+      "county": "Wyoming County",
+      "lat": 37.589167,
+      "lng": -81.350833
+    },
+    {
+      "name": "Alloy",
+      "slug": "alloy",
+      "county": "Fayette County",
+      "lat": 38.1375,
+      "lng": -81.274444
+    },
+    {
+      "name": "Alma",
+      "slug": "alma",
+      "county": "Tyler County",
+      "lat": 39.429757,
+      "lng": -80.817157
+    },
+    {
+      "name": "Alum Bridge",
+      "slug": "alum-bridge",
+      "county": "Lewis County",
+      "lat": 39.042474,
+      "lng": -80.688196
+    },
+    {
+      "name": "Alum Creek",
+      "slug": "alum-creek",
+      "county": "Kanawha County",
+      "lat": 38.285814,
+      "lng": -81.786258
+    },
+    {
+      "name": "Amherstdale",
+      "slug": "amherstdale",
+      "county": "Logan County",
+      "lat": 37.795586,
+      "lng": -81.758912
+    },
+    {
+      "name": "Amigo",
+      "slug": "amigo",
+      "county": "Wyoming County",
+      "lat": 37.59211,
+      "lng": -81.349145
+    },
+    {
+      "name": "Amma",
+      "slug": "amma",
+      "county": "Roane County",
+      "lat": 38.545518,
+      "lng": -81.253182
+    },
+    {
+      "name": "Anawalt",
+      "slug": "anawalt",
+      "county": "Mcdowell County",
+      "lat": 37.335833,
+      "lng": -81.436667
+    },
+    {
+      "name": "Anmoore",
+      "slug": "anmoore",
+      "county": "Harrison County",
+      "lat": 39.256667,
+      "lng": -80.2925
+    },
+    {
+      "name": "Ansted",
+      "slug": "ansted",
+      "county": "Fayette County",
+      "lat": 38.13686,
+      "lng": -81.095487
+    },
+    {
+      "name": "Apple Grove",
+      "slug": "apple-grove",
+      "county": "Mason County",
+      "lat": 38.713066,
+      "lng": -82.172556
+    },
+    {
+      "name": "Arbovale",
+      "slug": "arbovale",
+      "county": "Pocahontas County",
+      "lat": 38.454575,
+      "lng": -79.793403
+    },
+    {
+      "name": "Arnett",
+      "slug": "arnett",
+      "county": "Raleigh County",
+      "lat": 37.850214,
+      "lng": -81.435484
+    },
+    {
+      "name": "Arnoldsburg",
+      "slug": "arnoldsburg",
+      "county": "Calhoun County",
+      "lat": 38.822704,
+      "lng": -81.155135
+    },
+    {
+      "name": "Arthurdale",
+      "slug": "arthurdale",
+      "county": "Preston County",
+      "lat": 39.495,
+      "lng": -79.815278
+    },
+    {
+      "name": "Artie",
+      "slug": "artie",
+      "county": "Raleigh County",
+      "lat": 37.918139,
+      "lng": -81.378772
+    },
+    {
+      "name": "Asbury",
+      "slug": "asbury",
+      "county": "Greenbrier County",
+      "lat": 37.848766,
+      "lng": -80.565319
+    },
+    {
+      "name": "Ashford",
+      "slug": "ashford",
+      "county": "Boone County",
+      "lat": 38.182291,
+      "lng": -81.711324
+    },
+    {
+      "name": "Ashton",
+      "slug": "ashton",
+      "county": "Mason County",
+      "lat": 38.657102,
+      "lng": -82.108907
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "county": "Mercer County",
+      "lat": 37.432298,
+      "lng": -80.997362
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "Ritchie County",
+      "lat": 39.086382,
+      "lng": -80.883656
+    },
+    {
+      "name": "Augusta",
+      "slug": "augusta",
+      "county": "Hampshire County",
+      "lat": 39.299821,
+      "lng": -78.593089
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "county": "Preston County",
+      "lat": 39.304719,
+      "lng": -79.571088
+    },
+    {
+      "name": "Avondale",
+      "slug": "avondale",
+      "county": "Mcdowell County",
+      "lat": 37.4125,
+      "lng": -81.784444
+    },
+    {
+      "name": "Baisden",
+      "slug": "baisden",
+      "county": "Mingo County",
+      "lat": 37.571492,
+      "lng": -81.932758
+    },
+    {
+      "name": "Baker",
+      "slug": "baker",
+      "county": "Hardy County",
+      "lat": 39.065588,
+      "lng": -78.774826
+    },
+    {
+      "name": "Bakerton",
+      "slug": "bakerton",
+      "county": "Jefferson County",
+      "lat": 39.362778,
+      "lng": -77.763333
+    },
+    {
+      "name": "Ballard",
+      "slug": "ballard",
+      "county": "Monroe County",
+      "lat": 37.49803,
+      "lng": -80.76139
+    },
+    {
+      "name": "Bancroft",
+      "slug": "bancroft",
+      "county": "Putnam County",
+      "lat": 38.509444,
+      "lng": -81.84
+    },
+    {
+      "name": "Barboursville",
+      "slug": "barboursville",
+      "county": "Cabell County",
+      "lat": 38.389272,
+      "lng": -82.295973
+    },
+    {
+      "name": "Barrackville",
+      "slug": "barrackville",
+      "county": "Marion County",
+      "lat": 39.503611,
+      "lng": -80.166944
+    },
+    {
+      "name": "Bartley",
+      "slug": "bartley",
+      "county": "Mcdowell County",
+      "lat": 37.340556,
+      "lng": -81.737778
+    },
+    {
+      "name": "Bartow",
+      "slug": "bartow",
+      "county": "Pocahontas County",
+      "lat": 38.551266,
+      "lng": -79.795242
+    },
+    {
+      "name": "Baxter",
+      "slug": "baxter",
+      "county": "Marion County",
+      "lat": 39.536056,
+      "lng": -80.141691
+    },
+    {
+      "name": "Bayard",
+      "slug": "bayard",
+      "county": "Grant County",
+      "lat": 39.254167,
+      "lng": -79.398056
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Raleigh County",
+      "lat": 37.751581,
+      "lng": -81.073104
+    },
+    {
+      "name": "Beckley",
+      "slug": "beckley",
+      "county": "Raleigh County",
+      "lat": 37.793214,
+      "lng": -81.206084
+    },
+    {
+      "name": "Beech Bottom",
+      "slug": "beech-bottom",
+      "county": "Brooke County",
+      "lat": 40.226389,
+      "lng": -80.651667
+    },
+    {
+      "name": "Beeson",
+      "slug": "beeson",
+      "county": "Mercer County",
+      "lat": 37.490894,
+      "lng": -81.206215
+    },
+    {
+      "name": "Belington",
+      "slug": "belington",
+      "county": "Barbour County",
+      "lat": 39.024439,
+      "lng": -79.949508
+    },
+    {
+      "name": "Belle",
+      "slug": "belle",
+      "county": "Kanawha County",
+      "lat": 38.225381,
+      "lng": -81.505812
+    },
+    {
+      "name": "Belleville",
+      "slug": "belleville",
+      "county": "Wood County",
+      "lat": 39.131417,
+      "lng": -81.692316
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Pleasants County",
+      "lat": 39.367927,
+      "lng": -81.27881
+    },
+    {
+      "name": "Belva",
+      "slug": "belva",
+      "county": "Nicholas County",
+      "lat": 38.249105,
+      "lng": -81.156572
+    },
+    {
+      "name": "Benwood",
+      "slug": "benwood",
+      "county": "Marshall County",
+      "lat": 40.013299,
+      "lng": -80.71603
+    },
+    {
+      "name": "Berea",
+      "slug": "berea",
+      "county": "Ritchie County",
+      "lat": 39.130452,
+      "lng": -80.922322
+    },
+    {
+      "name": "Bergoo",
+      "slug": "bergoo",
+      "county": "Webster County",
+      "lat": 38.486389,
+      "lng": -80.300833
+    },
+    {
+      "name": "Berkeley Springs",
+      "slug": "berkeley-springs",
+      "county": "Morgan County",
+      "lat": 39.58736,
+      "lng": -78.219217
+    },
+    {
+      "name": "Berwind",
+      "slug": "berwind",
+      "county": "Mcdowell County",
+      "lat": 37.2475,
+      "lng": -81.641111
+    },
+    {
+      "name": "Bethany",
+      "slug": "bethany",
+      "county": "Brooke County",
+      "lat": 40.202,
+      "lng": -80.55463
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly",
+      "county": "Randolph County",
+      "lat": 38.828021,
+      "lng": -79.865121
+    },
+    {
+      "name": "Bickmore",
+      "slug": "bickmore",
+      "county": "Clay County",
+      "lat": 38.365947,
+      "lng": -81.106838
+    },
+    {
+      "name": "Big Bend",
+      "slug": "big-bend",
+      "county": "Calhoun County",
+      "lat": 38.971941,
+      "lng": -81.13603
+    },
+    {
+      "name": "Big Creek",
+      "slug": "big-creek",
+      "county": "Logan County",
+      "lat": 38.004555,
+      "lng": -82.016056
+    },
+    {
+      "name": "Big Run",
+      "slug": "big-run",
+      "county": "Wetzel County",
+      "lat": 39.59414,
+      "lng": -80.583717
+    },
+    {
+      "name": "Big Sandy",
+      "slug": "big-sandy",
+      "county": "Mcdowell County",
+      "lat": 37.464167,
+      "lng": -81.698333
+    },
+    {
+      "name": "Big Springs",
+      "slug": "big-springs",
+      "county": "Calhoun County",
+      "lat": 38.996306,
+      "lng": -81.069813
+    },
+    {
+      "name": "Bim",
+      "slug": "bim",
+      "county": "Boone County",
+      "lat": 37.893437,
+      "lng": -81.688047
+    },
+    {
+      "name": "Birch River",
+      "slug": "birch-river",
+      "county": "Nicholas County",
+      "lat": 38.491424,
+      "lng": -80.745873
+    },
+    {
+      "name": "Blacksville",
+      "slug": "blacksville",
+      "county": "Monongalia County",
+      "lat": 39.695821,
+      "lng": -80.232646
+    },
+    {
+      "name": "Blair",
+      "slug": "blair",
+      "county": "Logan County",
+      "lat": 37.878333,
+      "lng": -81.828056
+    },
+    {
+      "name": "Bloomery",
+      "slug": "bloomery",
+      "county": "Hampshire County",
+      "lat": 39.328606,
+      "lng": -78.381561
+    },
+    {
+      "name": "Bloomingrose",
+      "slug": "bloomingrose",
+      "county": "Boone County",
+      "lat": 38.141189,
+      "lng": -81.636737
+    },
+    {
+      "name": "Blount",
+      "slug": "blount",
+      "county": "Kanawha County",
+      "lat": 38.312116,
+      "lng": -81.405194
+    },
+    {
+      "name": "Blue Creek",
+      "slug": "blue-creek",
+      "county": "Kanawha County",
+      "lat": 38.450556,
+      "lng": -81.4575
+    },
+    {
+      "name": "Blue Jay",
+      "slug": "blue-jay",
+      "county": "",
+      "lat": 37.736944,
+      "lng": -81.138056
+    },
+    {
+      "name": "Bluefield",
+      "slug": "bluefield",
+      "county": "Mercer County",
+      "lat": 37.279788,
+      "lng": -81.229023
+    },
+    {
+      "name": "Bob White",
+      "slug": "bob-white",
+      "county": "Boone County",
+      "lat": 37.958711,
+      "lng": -81.720884
+    },
+    {
+      "name": "Bolt",
+      "slug": "bolt",
+      "county": "Raleigh County",
+      "lat": 37.767303,
+      "lng": -81.415612
+    },
+    {
+      "name": "Bomont",
+      "slug": "bomont",
+      "county": "Clay County",
+      "lat": 38.407295,
+      "lng": -81.21999
+    },
+    {
+      "name": "Boomer",
+      "slug": "boomer",
+      "county": "Fayette County",
+      "lat": 38.150556,
+      "lng": -81.2875
+    },
+    {
+      "name": "Borderland",
+      "slug": "borderland",
+      "county": "Mingo County",
+      "lat": 37.713889,
+      "lng": -82.309167
+    },
+    {
+      "name": "Bowden",
+      "slug": "bowden",
+      "county": "Tucker County",
+      "lat": 38.934863,
+      "lng": -79.619347
+    },
+    {
+      "name": "Bradley",
+      "slug": "bradley",
+      "county": "Raleigh County",
+      "lat": 37.865278,
+      "lng": -81.194167
+    },
+    {
+      "name": "Bradshaw",
+      "slug": "bradshaw",
+      "county": "Mcdowell County",
+      "lat": 37.35,
+      "lng": -81.801667
+    },
+    {
+      "name": "Bramwell",
+      "slug": "bramwell",
+      "county": "Mercer County",
+      "lat": 37.332114,
+      "lng": -81.32556
+    },
+    {
+      "name": "Branchland",
+      "slug": "branchland",
+      "county": "Lincoln County",
+      "lat": 38.269444,
+      "lng": -82.268367
+    },
+    {
+      "name": "Brandywine",
+      "slug": "brandywine",
+      "county": "Pendleton County",
+      "lat": 38.635701,
+      "lng": -79.209629
+    },
+    {
+      "name": "Breeden",
+      "slug": "breeden",
+      "county": "Mingo County",
+      "lat": 37.919751,
+      "lng": -82.254748
+    },
+    {
+      "name": "Brenton",
+      "slug": "brenton",
+      "county": "Wyoming County",
+      "lat": 37.584362,
+      "lng": -81.649502
+    },
+    {
+      "name": "Bretz",
+      "slug": "bretz",
+      "county": "Preston County",
+      "lat": 39.542222,
+      "lng": -79.800833
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Harrison County",
+      "lat": 39.29537,
+      "lng": -80.242692
+    },
+    {
+      "name": "Brohard",
+      "slug": "brohard",
+      "county": "Wirt County",
+      "lat": 39.033756,
+      "lng": -81.177528
+    },
+    {
+      "name": "Bruceton Mills",
+      "slug": "bruceton-mills",
+      "county": "Preston County",
+      "lat": 39.645394,
+      "lng": -79.615941
+    },
+    {
+      "name": "Bruno",
+      "slug": "bruno",
+      "county": "Logan County",
+      "lat": 37.690556,
+      "lng": -81.869167
+    },
+    {
+      "name": "Buckeye",
+      "slug": "buckeye",
+      "county": "Pocahontas County",
+      "lat": 38.181506,
+      "lng": -80.139342
+    },
+    {
+      "name": "Buckhannon",
+      "slug": "buckhannon",
+      "county": "Upshur County",
+      "lat": 38.98407,
+      "lng": -80.217824
+    },
+    {
+      "name": "Bud",
+      "slug": "bud",
+      "county": "Wyoming County",
+      "lat": 37.5375,
+      "lng": -81.379444
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Putnam County",
+      "lat": 38.60924,
+      "lng": -81.949971
+    },
+    {
+      "name": "Bunker Hill",
+      "slug": "bunker-hill",
+      "county": "Berkeley County",
+      "lat": 39.327554,
+      "lng": -78.048718
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Mineral County",
+      "lat": 39.388709,
+      "lng": -78.912278
+    },
+    {
+      "name": "Burnsville",
+      "slug": "burnsville",
+      "county": "Braxton County",
+      "lat": 38.850391,
+      "lng": -80.658989
+    },
+    {
+      "name": "Burton",
+      "slug": "burton",
+      "county": "Wetzel County",
+      "lat": 39.667984,
+      "lng": -80.405931
+    },
+    {
+      "name": "Cabin Creek",
+      "slug": "cabin-creek",
+      "county": "Kanawha County",
+      "lat": 38.185795,
+      "lng": -81.515258
+    },
+    {
+      "name": "Cabins",
+      "slug": "cabins",
+      "county": "Grant County",
+      "lat": 38.951199,
+      "lng": -79.278332
+    },
+    {
+      "name": "Cairo",
+      "slug": "cairo",
+      "county": "Ritchie County",
+      "lat": 39.23249,
+      "lng": -81.155427
+    },
+    {
+      "name": "Caldwell",
+      "slug": "caldwell",
+      "county": "Greenbrier County",
+      "lat": 37.773488,
+      "lng": -80.377298
+    },
+    {
+      "name": "Calvin",
+      "slug": "calvin",
+      "county": "Nicholas County",
+      "lat": 38.327679,
+      "lng": -80.70163
+    },
+    {
+      "name": "Camden",
+      "slug": "camden",
+      "county": "Lewis County",
+      "lat": 39.089268,
+      "lng": -80.591531
+    },
+    {
+      "name": "Camden On Gauley",
+      "slug": "camden-on-gauley",
+      "county": "Webster County",
+      "lat": 38.379246,
+      "lng": -80.591408
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Marshall County",
+      "lat": 39.82272,
+      "lng": -80.566876
+    },
+    {
+      "name": "Camp Creek",
+      "slug": "camp-creek",
+      "county": "Mercer County",
+      "lat": 37.484053,
+      "lng": -81.111073
+    },
+    {
+      "name": "Cannelton",
+      "slug": "cannelton",
+      "county": "Fayette County",
+      "lat": 38.194167,
+      "lng": -81.296111
+    },
+    {
+      "name": "Canvas",
+      "slug": "canvas",
+      "county": "Nicholas County",
+      "lat": 38.262445,
+      "lng": -80.744637
+    },
+    {
+      "name": "Capon Bridge",
+      "slug": "capon-bridge",
+      "county": "Hampshire County",
+      "lat": 39.280198,
+      "lng": -78.464413
+    },
+    {
+      "name": "Capon Springs",
+      "slug": "capon-springs",
+      "county": "Hampshire County",
+      "lat": 39.136111,
+      "lng": -78.484722
+    },
+    {
+      "name": "Carolina",
+      "slug": "carolina",
+      "county": "Marion County",
+      "lat": 39.480278,
+      "lng": -80.273611
+    },
+    {
+      "name": "Cass",
+      "slug": "cass",
+      "county": "Pocahontas County",
+      "lat": 38.433659,
+      "lng": -79.885278
+    },
+    {
+      "name": "Cassville",
+      "slug": "cassville",
+      "county": "Monongalia County",
+      "lat": 39.665556,
+      "lng": -80.063889
+    },
+    {
+      "name": "Cedar Grove",
+      "slug": "cedar-grove",
+      "county": "Kanawha County",
+      "lat": 38.213286,
+      "lng": -81.406711
+    },
+    {
+      "name": "Cedarville",
+      "slug": "cedarville",
+      "county": "Gilmer County",
+      "lat": 38.839711,
+      "lng": -80.840342
+    },
+    {
+      "name": "Center Point",
+      "slug": "center-point",
+      "county": "Doddridge County",
+      "lat": 39.412472,
+      "lng": -80.635227
+    },
+    {
+      "name": "Ceredo",
+      "slug": "ceredo",
+      "county": "Wayne County",
+      "lat": 38.396389,
+      "lng": -82.558889
+    },
+    {
+      "name": "Chapmanville",
+      "slug": "chapmanville",
+      "county": "Logan County",
+      "lat": 37.938535,
+      "lng": -82.051241
+    },
+    {
+      "name": "Charles Town",
+      "slug": "charles-town",
+      "county": "Jefferson County",
+      "lat": 39.277085,
+      "lng": -77.856254
+    },
+    {
+      "name": "Charleston",
+      "slug": "charleston",
+      "county": "Kanawha County",
+      "lat": 38.349,
+      "lng": -81.630606
+    },
+    {
+      "name": "Charlton Heights",
+      "slug": "charlton-heights",
+      "county": "Fayette County",
+      "lat": 38.123611,
+      "lng": -81.234167
+    },
+    {
+      "name": "Charmco",
+      "slug": "charmco",
+      "county": "Greenbrier County",
+      "lat": 37.98948,
+      "lng": -80.707745
+    },
+    {
+      "name": "Chattaroy",
+      "slug": "chattaroy",
+      "county": "Mingo County",
+      "lat": 37.703333,
+      "lng": -82.281111
+    },
+    {
+      "name": "Chauncey",
+      "slug": "chauncey",
+      "county": "Logan County",
+      "lat": 37.766111,
+      "lng": -81.987778
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Hancock County",
+      "lat": 40.598109,
+      "lng": -80.558439
+    },
+    {
+      "name": "Chloe",
+      "slug": "chloe",
+      "county": "Calhoun County",
+      "lat": 38.671201,
+      "lng": -81.090126
+    },
+    {
+      "name": "Circleville",
+      "slug": "circleville",
+      "county": "Pendleton County",
+      "lat": 38.623039,
+      "lng": -79.53672
+    },
+    {
+      "name": "Clarksburg",
+      "slug": "clarksburg",
+      "county": "Harrison County",
+      "lat": 39.278422,
+      "lng": -80.348683
+    },
+    {
+      "name": "Clay",
+      "slug": "clay",
+      "county": "Clay County",
+      "lat": 38.476354,
+      "lng": -81.069588
+    },
+    {
+      "name": "Clear Creek",
+      "slug": "clear-creek",
+      "county": "Raleigh County",
+      "lat": 37.89158,
+      "lng": -81.320866
+    },
+    {
+      "name": "Clear Fork",
+      "slug": "clear-fork",
+      "county": "Wyoming County",
+      "lat": 37.646301,
+      "lng": -81.689268
+    },
+    {
+      "name": "Clendenin",
+      "slug": "clendenin",
+      "county": "Kanawha County",
+      "lat": 38.477687,
+      "lng": -81.356039
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Upshur County",
+      "lat": 38.839225,
+      "lng": -80.342849
+    },
+    {
+      "name": "Clothier",
+      "slug": "clothier",
+      "county": "Logan County",
+      "lat": 37.79333,
+      "lng": -81.988142
+    },
+    {
+      "name": "Coal City",
+      "slug": "coal-city",
+      "county": "Raleigh County",
+      "lat": 37.666111,
+      "lng": -81.184444
+    },
+    {
+      "name": "Coal Mountain",
+      "slug": "coal-mountain",
+      "county": "Wyoming County",
+      "lat": 37.688486,
+      "lng": -81.707862
+    },
+    {
+      "name": "Coalton",
+      "slug": "coalton",
+      "county": "Randolph County",
+      "lat": 38.91438,
+      "lng": -79.976724
+    },
+    {
+      "name": "Coalwood",
+      "slug": "coalwood",
+      "county": "",
+      "lat": 37.387222,
+      "lng": -81.652778
+    },
+    {
+      "name": "Colcord",
+      "slug": "colcord",
+      "county": "Raleigh County",
+      "lat": 37.949166,
+      "lng": -81.443699
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Marion County",
+      "lat": 39.434722,
+      "lng": -80.131944
+    },
+    {
+      "name": "Colliers",
+      "slug": "colliers",
+      "county": "Brooke County",
+      "lat": 40.348391,
+      "lng": -80.549341
+    },
+    {
+      "name": "Comfort",
+      "slug": "comfort",
+      "county": "Boone County",
+      "lat": 38.137191,
+      "lng": -81.596177
+    },
+    {
+      "name": "Cool Ridge",
+      "slug": "cool-ridge",
+      "county": "Raleigh County",
+      "lat": 37.65735,
+      "lng": -81.10528
+    },
+    {
+      "name": "Copen",
+      "slug": "copen",
+      "county": "Braxton County",
+      "lat": 38.830556,
+      "lng": -80.728481
+    },
+    {
+      "name": "Cora",
+      "slug": "cora",
+      "county": "Logan County",
+      "lat": 37.834167,
+      "lng": -82.026667
+    },
+    {
+      "name": "Corinne",
+      "slug": "corinne",
+      "county": "Wyoming County",
+      "lat": 37.572778,
+      "lng": -81.356667
+    },
+    {
+      "name": "Costa",
+      "slug": "costa",
+      "county": "Boone County",
+      "lat": 38.164693,
+      "lng": -81.708015
+    },
+    {
+      "name": "Cottageville",
+      "slug": "cottageville",
+      "county": "Jackson County",
+      "lat": 38.863285,
+      "lng": -81.818609
+    },
+    {
+      "name": "Covel",
+      "slug": "covel",
+      "county": "Wyoming County",
+      "lat": 37.490833,
+      "lng": -81.322778
+    },
+    {
+      "name": "Cowen",
+      "slug": "cowen",
+      "county": "Webster County",
+      "lat": 38.413273,
+      "lng": -80.535807
+    },
+    {
+      "name": "Coxs Mills",
+      "slug": "coxs-mills",
+      "county": "Gilmer County",
+      "lat": 39.002102,
+      "lng": -80.874592
+    },
+    {
+      "name": "Crab Orchard",
+      "slug": "crab-orchard",
+      "county": "Raleigh County",
+      "lat": 37.720515,
+      "lng": -81.249098
+    },
+    {
+      "name": "Craigsville",
+      "slug": "craigsville",
+      "county": "Nicholas County",
+      "lat": 38.325389,
+      "lng": -80.64438
+    },
+    {
+      "name": "Crawford",
+      "slug": "crawford",
+      "county": "Lewis County",
+      "lat": 38.840065,
+      "lng": -80.400749
+    },
+    {
+      "name": "Crawley",
+      "slug": "crawley",
+      "county": "Greenbrier County",
+      "lat": 37.939676,
+      "lng": -80.6309
+    },
+    {
+      "name": "Creston",
+      "slug": "creston",
+      "county": "Wirt County",
+      "lat": 38.937805,
+      "lng": -81.236905
+    },
+    {
+      "name": "Crum",
+      "slug": "crum",
+      "county": "Wayne County",
+      "lat": 37.938879,
+      "lng": -82.462359
+    },
+    {
+      "name": "Cucumber",
+      "slug": "cucumber",
+      "county": "Mcdowell County",
+      "lat": 37.277778,
+      "lng": -81.626944
+    },
+    {
+      "name": "Culloden",
+      "slug": "culloden",
+      "county": "Cabell County",
+      "lat": 38.419831,
+      "lng": -82.068963
+    },
+    {
+      "name": "Cyclone",
+      "slug": "cyclone",
+      "county": "Wyoming County",
+      "lat": 37.74466,
+      "lng": -81.650458
+    },
+    {
+      "name": "Dailey",
+      "slug": "dailey",
+      "county": "Randolph County",
+      "lat": 38.798611,
+      "lng": -79.896389
+    },
+    {
+      "name": "Dallas",
+      "slug": "dallas",
+      "county": "Marshall County",
+      "lat": 39.978343,
+      "lng": -80.550804
+    },
+    {
+      "name": "Danese",
+      "slug": "danese",
+      "county": "Fayette County",
+      "lat": 37.903615,
+      "lng": -80.947114
+    },
+    {
+      "name": "Daniels",
+      "slug": "daniels",
+      "county": "Raleigh County",
+      "lat": 37.732247,
+      "lng": -81.139108
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Boone County",
+      "lat": 38.03356,
+      "lng": -81.854227
+    },
+    {
+      "name": "Davin",
+      "slug": "davin",
+      "county": "Logan County",
+      "lat": 37.726499,
+      "lng": -81.805706
+    },
+    {
+      "name": "Davis",
+      "slug": "davis",
+      "county": "Tucker County",
+      "lat": 39.088227,
+      "lng": -79.456278
+    },
+    {
+      "name": "Davisville",
+      "slug": "davisville",
+      "county": "Wood County",
+      "lat": 39.212635,
+      "lng": -81.479863
+    },
+    {
+      "name": "Davy",
+      "slug": "davy",
+      "county": "Mcdowell County",
+      "lat": 37.468339,
+      "lng": -81.667889
+    },
+    {
+      "name": "Dawes",
+      "slug": "dawes",
+      "county": "Kanawha County",
+      "lat": 38.142778,
+      "lng": -81.452222
+    },
+    {
+      "name": "Deep Water",
+      "slug": "deep-water",
+      "county": "Fayette County",
+      "lat": 38.126667,
+      "lng": -81.263889
+    },
+    {
+      "name": "Delbarton",
+      "slug": "delbarton",
+      "county": "Mingo County",
+      "lat": 37.703833,
+      "lng": -82.131922
+    },
+    {
+      "name": "Dellslow",
+      "slug": "dellslow",
+      "county": "Monongalia County",
+      "lat": 39.606944,
+      "lng": -79.892222
+    },
+    {
+      "name": "Delray",
+      "slug": "delray",
+      "county": "Hampshire County",
+      "lat": 39.179564,
+      "lng": -78.639427
+    },
+    {
+      "name": "Diana",
+      "slug": "diana",
+      "county": "Webster County",
+      "lat": 38.575471,
+      "lng": -80.431962
+    },
+    {
+      "name": "Dille",
+      "slug": "dille",
+      "county": "Clay County",
+      "lat": 38.474704,
+      "lng": -80.853784
+    },
+    {
+      "name": "Dingess",
+      "slug": "dingess",
+      "county": "Mingo County",
+      "lat": 37.870336,
+      "lng": -82.195108
+    },
+    {
+      "name": "Dixie",
+      "slug": "dixie",
+      "county": "Nicholas County",
+      "lat": 38.26631,
+      "lng": -81.186249
+    },
+    {
+      "name": "Dorothy",
+      "slug": "dorothy",
+      "county": "Raleigh County",
+      "lat": 37.96219,
+      "lng": -81.496842
+    },
+    {
+      "name": "Dothan",
+      "slug": "dothan",
+      "county": "Fayette County",
+      "lat": 37.967222,
+      "lng": -81.222222
+    },
+    {
+      "name": "Drennen",
+      "slug": "drennen",
+      "county": "Nicholas County",
+      "lat": 38.258729,
+      "lng": -81.008868
+    },
+    {
+      "name": "Dry Creek",
+      "slug": "dry-creek",
+      "county": "Raleigh County",
+      "lat": 37.860686,
+      "lng": -81.481398
+    },
+    {
+      "name": "Drybranch",
+      "slug": "drybranch",
+      "county": "Kanawha County",
+      "lat": 38.18,
+      "lng": -81.466944
+    },
+    {
+      "name": "Dryfork",
+      "slug": "dryfork",
+      "county": "Randolph County",
+      "lat": 38.957616,
+      "lng": -79.453403
+    },
+    {
+      "name": "Duck",
+      "slug": "duck",
+      "county": "Clay County",
+      "lat": 38.564652,
+      "lng": -80.976416
+    },
+    {
+      "name": "Dunbar",
+      "slug": "dunbar",
+      "county": "Kanawha County",
+      "lat": 38.368271,
+      "lng": -81.742467
+    },
+    {
+      "name": "Dunlow",
+      "slug": "dunlow",
+      "county": "Wayne County",
+      "lat": 38.02829,
+      "lng": -82.38266
+    },
+    {
+      "name": "Dunmore",
+      "slug": "dunmore",
+      "county": "Pocahontas County",
+      "lat": 38.363605,
+      "lng": -79.855557
+    },
+    {
+      "name": "Durbin",
+      "slug": "durbin",
+      "county": "Pocahontas County",
+      "lat": 38.616313,
+      "lng": -79.793464
+    },
+    {
+      "name": "East Bank",
+      "slug": "east-bank",
+      "county": "Kanawha County",
+      "lat": 38.218056,
+      "lng": -81.443056
+    },
+    {
+      "name": "East Lynn",
+      "slug": "east-lynn",
+      "county": "Wayne County",
+      "lat": 38.199474,
+      "lng": -82.327931
+    },
+    {
+      "name": "Eccles",
+      "slug": "eccles",
+      "county": "Raleigh County",
+      "lat": 37.783056,
+      "lng": -81.266111
+    },
+    {
+      "name": "Eckman",
+      "slug": "eckman",
+      "county": "Mcdowell County",
+      "lat": 37.404444,
+      "lng": -81.464444
+    },
+    {
+      "name": "Edgarton",
+      "slug": "edgarton",
+      "county": "Mingo County",
+      "lat": 37.580278,
+      "lng": -82.104722
+    },
+    {
+      "name": "Edmond",
+      "slug": "edmond",
+      "county": "Fayette County",
+      "lat": 38.054441,
+      "lng": -81.032634
+    },
+    {
+      "name": "Eglon",
+      "slug": "eglon",
+      "county": "Preston County",
+      "lat": 39.292514,
+      "lng": -79.510919
+    },
+    {
+      "name": "Elbert",
+      "slug": "elbert",
+      "county": "Mcdowell County",
+      "lat": 37.318056,
+      "lng": -81.544167
+    },
+    {
+      "name": "Eleanor",
+      "slug": "eleanor",
+      "county": "Putnam County",
+      "lat": 38.536667,
+      "lng": -81.931667
+    },
+    {
+      "name": "Elizabeth",
+      "slug": "elizabeth",
+      "county": "Wirt County",
+      "lat": 39.056618,
+      "lng": -81.398889
+    },
+    {
+      "name": "Elk Garden",
+      "slug": "elk-garden",
+      "county": "Mineral County",
+      "lat": 39.363088,
+      "lng": -79.153871
+    },
+    {
+      "name": "Elkhorn",
+      "slug": "elkhorn",
+      "county": "Mcdowell County",
+      "lat": 37.385556,
+      "lng": -81.411111
+    },
+    {
+      "name": "Elkins",
+      "slug": "elkins",
+      "county": "Randolph County",
+      "lat": 38.925304,
+      "lng": -79.847115
+    },
+    {
+      "name": "Elkview",
+      "slug": "elkview",
+      "county": "Kanawha County",
+      "lat": 38.432317,
+      "lng": -81.481739
+    },
+    {
+      "name": "Ellamore",
+      "slug": "ellamore",
+      "county": "Randolph County",
+      "lat": 38.933966,
+      "lng": -80.092611
+    },
+    {
+      "name": "Ellenboro",
+      "slug": "ellenboro",
+      "county": "Ritchie County",
+      "lat": 39.282364,
+      "lng": -81.060382
+    },
+    {
+      "name": "Elton",
+      "slug": "elton",
+      "county": "Summers County",
+      "lat": 37.846825,
+      "lng": -80.825207
+    },
+    {
+      "name": "Enterprise",
+      "slug": "enterprise",
+      "county": "Harrison County",
+      "lat": 39.425998,
+      "lng": -80.316704
+    },
+    {
+      "name": "Erbacon",
+      "slug": "erbacon",
+      "county": "Webster County",
+      "lat": 38.541864,
+      "lng": -80.574232
+    },
+    {
+      "name": "Eskdale",
+      "slug": "eskdale",
+      "county": "Kanawha County",
+      "lat": 38.106944,
+      "lng": -81.449167
+    },
+    {
+      "name": "Ethel",
+      "slug": "ethel",
+      "county": "Logan County",
+      "lat": 37.866389,
+      "lng": -81.9125
+    },
+    {
+      "name": "Evans",
+      "slug": "evans",
+      "county": "Jackson County",
+      "lat": 38.811281,
+      "lng": -81.790858
+    },
+    {
+      "name": "Exchange",
+      "slug": "exchange",
+      "county": "Braxton County",
+      "lat": 38.806866,
+      "lng": -80.768123
+    },
+    {
+      "name": "Fairdale",
+      "slug": "fairdale",
+      "county": "Raleigh County",
+      "lat": 37.786578,
+      "lng": -81.401758
+    },
+    {
+      "name": "Fairlea",
+      "slug": "fairlea",
+      "county": "Greenbrier County",
+      "lat": 37.780556,
+      "lng": -80.457222
+    },
+    {
+      "name": "Fairmont",
+      "slug": "fairmont",
+      "county": "Marion County",
+      "lat": 39.472677,
+      "lng": -80.146041
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Marion County",
+      "lat": 39.610335,
+      "lng": -80.252918
+    },
+    {
+      "name": "Falling Rock",
+      "slug": "falling-rock",
+      "county": "Kanawha County",
+      "lat": 38.475579,
+      "lng": -81.380874
+    },
+    {
+      "name": "Falling Waters",
+      "slug": "falling-waters",
+      "county": "Berkeley County",
+      "lat": 39.586473,
+      "lng": -77.885152
+    },
+    {
+      "name": "Fanrock",
+      "slug": "fanrock",
+      "county": "Wyoming County",
+      "lat": 37.562721,
+      "lng": -81.623631
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "Marion County",
+      "lat": 39.50287,
+      "lng": -80.256643
+    },
+    {
+      "name": "Fayetteville",
+      "slug": "fayetteville",
+      "county": "Fayette County",
+      "lat": 38.062774,
+      "lng": -81.080969
+    },
+    {
+      "name": "Fenwick",
+      "slug": "fenwick",
+      "county": "Nicholas County",
+      "lat": 38.244657,
+      "lng": -80.634972
+    },
+    {
+      "name": "Fisher",
+      "slug": "fisher",
+      "county": "Hardy County",
+      "lat": 39.04796,
+      "lng": -78.988756
+    },
+    {
+      "name": "Flat Top",
+      "slug": "flat-top",
+      "county": "Mercer County",
+      "lat": 37.550028,
+      "lng": -81.127976
+    },
+    {
+      "name": "Flatwoods",
+      "slug": "flatwoods",
+      "county": "Braxton County",
+      "lat": 38.724475,
+      "lng": -80.638478
+    },
+    {
+      "name": "Flemington",
+      "slug": "flemington",
+      "county": "Taylor County",
+      "lat": 39.271069,
+      "lng": -80.128179
+    },
+    {
+      "name": "Follansbee",
+      "slug": "follansbee",
+      "county": "Brooke County",
+      "lat": 40.329552,
+      "lng": -80.584954
+    },
+    {
+      "name": "Folsom",
+      "slug": "folsom",
+      "county": "Wetzel County",
+      "lat": 39.469345,
+      "lng": -80.525806
+    },
+    {
+      "name": "Forest Hill",
+      "slug": "forest-hill",
+      "county": "Summers County",
+      "lat": 37.56005,
+      "lng": -80.814923
+    },
+    {
+      "name": "Fort Ashby",
+      "slug": "fort-ashby",
+      "county": "Mineral County",
+      "lat": 39.497045,
+      "lng": -78.774296
+    },
+    {
+      "name": "Fort Gay",
+      "slug": "fort-gay",
+      "county": "Wayne County",
+      "lat": 38.133496,
+      "lng": -82.554124
+    },
+    {
+      "name": "Foster",
+      "slug": "foster",
+      "county": "Boone County",
+      "lat": 38.090819,
+      "lng": -81.765876
+    },
+    {
+      "name": "Four States",
+      "slug": "four-states",
+      "county": "Marion County",
+      "lat": 39.479722,
+      "lng": -80.31
+    },
+    {
+      "name": "Frametown",
+      "slug": "frametown",
+      "county": "Braxton County",
+      "lat": 38.636828,
+      "lng": -80.877416
+    },
+    {
+      "name": "Frankford",
+      "slug": "frankford",
+      "county": "Greenbrier County",
+      "lat": 37.90361,
+      "lng": -80.364692
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Pendleton County",
+      "lat": 38.639985,
+      "lng": -79.353776
+    },
+    {
+      "name": "Fraziers Bottom",
+      "slug": "fraziers-bottom",
+      "county": "Putnam County",
+      "lat": 38.551678,
+      "lng": -82.011068
+    },
+    {
+      "name": "Freeman",
+      "slug": "freeman",
+      "county": "Mercer County",
+      "lat": 37.33,
+      "lng": -81.308056
+    },
+    {
+      "name": "French Creek",
+      "slug": "french-creek",
+      "county": "Upshur County",
+      "lat": 38.851145,
+      "lng": -80.274339
+    },
+    {
+      "name": "Frenchton",
+      "slug": "frenchton",
+      "county": "Upshur County",
+      "lat": 38.872778,
+      "lng": -80.356667
+    },
+    {
+      "name": "Friendly",
+      "slug": "friendly",
+      "county": "Tyler County",
+      "lat": 39.502444,
+      "lng": -81.034544
+    },
+    {
+      "name": "Gallagher",
+      "slug": "gallagher",
+      "county": "Kanawha County",
+      "lat": 38.189406,
+      "lng": -81.386231
+    },
+    {
+      "name": "Gallipolis Ferry",
+      "slug": "gallipolis-ferry",
+      "county": "Mason County",
+      "lat": 38.765028,
+      "lng": -82.153496
+    },
+    {
+      "name": "Galloway",
+      "slug": "galloway",
+      "county": "Barbour County",
+      "lat": 39.231667,
+      "lng": -80.122222
+    },
+    {
+      "name": "Gandeeville",
+      "slug": "gandeeville",
+      "county": "Roane County",
+      "lat": 38.703382,
+      "lng": -81.424329
+    },
+    {
+      "name": "Gap Mills",
+      "slug": "gap-mills",
+      "county": "Monroe County",
+      "lat": 37.527978,
+      "lng": -80.390497
+    },
+    {
+      "name": "Gary",
+      "slug": "gary",
+      "county": "Mcdowell County",
+      "lat": 37.363611,
+      "lng": -81.550278
+    },
+    {
+      "name": "Gassaway",
+      "slug": "gassaway",
+      "county": "Braxton County",
+      "lat": 38.686193,
+      "lng": -80.786339
+    },
+    {
+      "name": "Gauley Bridge",
+      "slug": "gauley-bridge",
+      "county": "Fayette County",
+      "lat": 38.168899,
+      "lng": -81.19596
+    },
+    {
+      "name": "Gay",
+      "slug": "gay",
+      "county": "Jackson County",
+      "lat": 38.797842,
+      "lng": -81.570301
+    },
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "county": "Wayne County",
+      "lat": 38.088908,
+      "lng": -82.46692
+    },
+    {
+      "name": "Gerrardstown",
+      "slug": "gerrardstown",
+      "county": "Berkeley County",
+      "lat": 39.378039,
+      "lng": -78.114119
+    },
+    {
+      "name": "Ghent",
+      "slug": "ghent",
+      "county": "Raleigh County",
+      "lat": 37.62079,
+      "lng": -81.101921
+    },
+    {
+      "name": "Gilbert",
+      "slug": "gilbert",
+      "county": "Mingo County",
+      "lat": 37.594153,
+      "lng": -81.866468
+    },
+    {
+      "name": "Gilboa",
+      "slug": "gilboa",
+      "county": "Nicholas County",
+      "lat": 38.298304,
+      "lng": -80.952232
+    },
+    {
+      "name": "Given",
+      "slug": "given",
+      "county": "Jackson County",
+      "lat": 38.713046,
+      "lng": -81.682542
+    },
+    {
+      "name": "Glady",
+      "slug": "glady",
+      "county": "Randolph County",
+      "lat": 38.866925,
+      "lng": -79.734202
+    },
+    {
+      "name": "Glasgow",
+      "slug": "glasgow",
+      "county": "Kanawha County",
+      "lat": 38.215278,
+      "lng": -81.424722
+    },
+    {
+      "name": "Glen",
+      "slug": "glen",
+      "county": "Clay County",
+      "lat": 38.368989,
+      "lng": -81.223401
+    },
+    {
+      "name": "Glen Dale",
+      "slug": "glen-dale",
+      "county": "Marshall County",
+      "lat": 39.959732,
+      "lng": -80.732263
+    },
+    {
+      "name": "Glen Daniel",
+      "slug": "glen-daniel",
+      "county": "Raleigh County",
+      "lat": 37.754698,
+      "lng": -81.403294
+    },
+    {
+      "name": "Glen Easton",
+      "slug": "glen-easton",
+      "county": "Marshall County",
+      "lat": 39.853121,
+      "lng": -80.666069
+    },
+    {
+      "name": "Glen Ferris",
+      "slug": "glen-ferris",
+      "county": "Fayette County",
+      "lat": 38.153056,
+      "lng": -81.215
+    },
+    {
+      "name": "Glen Fork",
+      "slug": "glen-fork",
+      "county": "Wyoming County",
+      "lat": 37.644691,
+      "lng": -81.540209
+    },
+    {
+      "name": "Glen Jean",
+      "slug": "glen-jean",
+      "county": "Fayette County",
+      "lat": 37.926389,
+      "lng": -81.150278
+    },
+    {
+      "name": "Glen Rogers",
+      "slug": "glen-rogers",
+      "county": "Wyoming County",
+      "lat": 37.721685,
+      "lng": -81.428989
+    },
+    {
+      "name": "Glen White",
+      "slug": "glen-white",
+      "county": "Raleigh County",
+      "lat": 37.730278,
+      "lng": -81.28
+    },
+    {
+      "name": "Glengary",
+      "slug": "glengary",
+      "county": "Berkeley County",
+      "lat": 39.383889,
+      "lng": -78.155833
+    },
+    {
+      "name": "Glenville",
+      "slug": "glenville",
+      "county": "Gilmer County",
+      "lat": 38.933619,
+      "lng": -80.82783
+    },
+    {
+      "name": "Glenwood",
+      "slug": "glenwood",
+      "county": "Mason County",
+      "lat": 38.544936,
+      "lng": -82.143431
+    },
+    {
+      "name": "Gordon",
+      "slug": "gordon",
+      "county": "Boone County",
+      "lat": 37.978191,
+      "lng": -81.67132
+    },
+    {
+      "name": "Gormania",
+      "slug": "gormania",
+      "county": "Grant County",
+      "lat": 39.271499,
+      "lng": -79.340136
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Taylor County",
+      "lat": 39.341386,
+      "lng": -80.028509
+    },
+    {
+      "name": "Grant Town",
+      "slug": "grant-town",
+      "county": "Marion County",
+      "lat": 39.558056,
+      "lng": -80.181944
+    },
+    {
+      "name": "Grantsville",
+      "slug": "grantsville",
+      "county": "Calhoun County",
+      "lat": 38.932436,
+      "lng": -81.076294
+    },
+    {
+      "name": "Granville",
+      "slug": "granville",
+      "county": "Monongalia County",
+      "lat": 39.645833,
+      "lng": -79.9875
+    },
+    {
+      "name": "Grassy Meadows",
+      "slug": "grassy-meadows",
+      "county": "Greenbrier County",
+      "lat": 37.842757,
+      "lng": -80.73024
+    },
+    {
+      "name": "Great Cacapon",
+      "slug": "great-cacapon",
+      "county": "Morgan County",
+      "lat": 39.583557,
+      "lng": -78.33312
+    },
+    {
+      "name": "Green Bank",
+      "slug": "green-bank",
+      "county": "Pocahontas County",
+      "lat": 38.409664,
+      "lng": -79.801535
+    },
+    {
+      "name": "Green Spring",
+      "slug": "green-spring",
+      "county": "Hampshire County",
+      "lat": 39.502931,
+      "lng": -78.627191
+    },
+    {
+      "name": "Green Sulphur Springs",
+      "slug": "green-sulphur-springs",
+      "county": "Summers County",
+      "lat": 37.808553,
+      "lng": -80.839922
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Monroe County",
+      "lat": 37.521184,
+      "lng": -80.676128
+    },
+    {
+      "name": "Griffithsville",
+      "slug": "griffithsville",
+      "county": "Lincoln County",
+      "lat": 38.246985,
+      "lng": -81.982028
+    },
+    {
+      "name": "Gypsy",
+      "slug": "gypsy",
+      "county": "Harrison County",
+      "lat": 39.368611,
+      "lng": -80.318056
+    },
+    {
+      "name": "Hacker Valley",
+      "slug": "hacker-valley",
+      "county": "Webster County",
+      "lat": 38.679583,
+      "lng": -80.402345
+    },
+    {
+      "name": "Halltown",
+      "slug": "halltown",
+      "county": "Jefferson County",
+      "lat": 39.313889,
+      "lng": -77.798056
+    },
+    {
+      "name": "Hambleton",
+      "slug": "hambleton",
+      "county": "Tucker County",
+      "lat": 39.116836,
+      "lng": -79.641565
+    },
+    {
+      "name": "Hamlin",
+      "slug": "hamlin",
+      "county": "Lincoln County",
+      "lat": 38.289556,
+      "lng": -82.104695
+    },
+    {
+      "name": "Handley",
+      "slug": "handley",
+      "county": "Kanawha County",
+      "lat": 38.186944,
+      "lng": -81.365556
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "Wyoming County",
+      "lat": 37.563029,
+      "lng": -81.813617
+    },
+    {
+      "name": "Hansford",
+      "slug": "hansford",
+      "county": "Kanawha County",
+      "lat": 38.127158,
+      "lng": -81.395026
+    },
+    {
+      "name": "Harman",
+      "slug": "harman",
+      "county": "Randolph County",
+      "lat": 38.923369,
+      "lng": -79.524599
+    },
+    {
+      "name": "Harper",
+      "slug": "harper",
+      "county": "Raleigh County",
+      "lat": 37.798611,
+      "lng": -81.261667
+    },
+    {
+      "name": "Harpers Ferry",
+      "slug": "harpers-ferry",
+      "county": "Jefferson County",
+      "lat": 39.315283,
+      "lng": -77.769449
+    },
+    {
+      "name": "Harrisville",
+      "slug": "harrisville",
+      "county": "Ritchie County",
+      "lat": 39.199608,
+      "lng": -81.045967
+    },
+    {
+      "name": "Hartford",
+      "slug": "hartford",
+      "county": "Mason County",
+      "lat": 38.986111,
+      "lng": -81.992222
+    },
+    {
+      "name": "Harts",
+      "slug": "harts",
+      "county": "Lincoln County",
+      "lat": 38.008878,
+      "lng": -82.155358
+    },
+    {
+      "name": "Haywood",
+      "slug": "haywood",
+      "county": "Harrison County",
+      "lat": 39.381111,
+      "lng": -80.336111
+    },
+    {
+      "name": "Heaters",
+      "slug": "heaters",
+      "county": "Braxton County",
+      "lat": 38.755807,
+      "lng": -80.642884
+    },
+    {
+      "name": "Hedgesville",
+      "slug": "hedgesville",
+      "county": "Berkeley County",
+      "lat": 39.547034,
+      "lng": -78.056016
+    },
+    {
+      "name": "Helen",
+      "slug": "helen",
+      "county": "Raleigh County",
+      "lat": 37.634722,
+      "lng": -81.314167
+    },
+    {
+      "name": "Helvetia",
+      "slug": "helvetia",
+      "county": "Randolph County",
+      "lat": 38.771258,
+      "lng": -80.138167
+    },
+    {
+      "name": "Hemphill",
+      "slug": "hemphill",
+      "county": "Mcdowell County",
+      "lat": 37.444722,
+      "lng": -81.595556
+    },
+    {
+      "name": "Henderson",
+      "slug": "henderson",
+      "county": "Mason County",
+      "lat": 38.826512,
+      "lng": -82.136381
+    },
+    {
+      "name": "Hendricks",
+      "slug": "hendricks",
+      "county": "Tucker County",
+      "lat": 39.074814,
+      "lng": -79.630302
+    },
+    {
+      "name": "Henlawson",
+      "slug": "henlawson",
+      "county": "Logan County",
+      "lat": 37.902222,
+      "lng": -81.988333
+    },
+    {
+      "name": "Hensley",
+      "slug": "hensley",
+      "county": "Mcdowell County",
+      "lat": 37.473889,
+      "lng": -81.7
+    },
+    {
+      "name": "Hepzibah",
+      "slug": "hepzibah",
+      "county": "Harrison County",
+      "lat": 39.3325,
+      "lng": -80.335556
+    },
+    {
+      "name": "Herndon",
+      "slug": "herndon",
+      "county": "Wyoming County",
+      "lat": 37.526431,
+      "lng": -81.346777
+    },
+    {
+      "name": "Hernshaw",
+      "slug": "hernshaw",
+      "county": "Kanawha County",
+      "lat": 38.194212,
+      "lng": -81.612986
+    },
+    {
+      "name": "Hewett",
+      "slug": "hewett",
+      "county": "Boone County",
+      "lat": 37.958097,
+      "lng": -81.850919
+    },
+    {
+      "name": "Hiawatha",
+      "slug": "hiawatha",
+      "county": "Mercer County",
+      "lat": 37.44,
+      "lng": -81.244167
+    },
+    {
+      "name": "Hico",
+      "slug": "hico",
+      "county": "Fayette County",
+      "lat": 38.109373,
+      "lng": -80.963763
+    },
+    {
+      "name": "High View",
+      "slug": "high-view",
+      "county": "Hampshire County",
+      "lat": 39.222497,
+      "lng": -78.442548
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Pocahontas County",
+      "lat": 38.125942,
+      "lng": -80.244578
+    },
+    {
+      "name": "Hilltop",
+      "slug": "hilltop",
+      "county": "Fayette County",
+      "lat": 37.942778,
+      "lng": -81.151111
+    },
+    {
+      "name": "Hinton",
+      "slug": "hinton",
+      "county": "Summers County",
+      "lat": 37.663983,
+      "lng": -80.867779
+    },
+    {
+      "name": "Holden",
+      "slug": "holden",
+      "county": "Logan County",
+      "lat": 37.824167,
+      "lng": -82.059722
+    },
+    {
+      "name": "Hometown",
+      "slug": "hometown",
+      "county": "Putnam County",
+      "lat": 38.532778,
+      "lng": -81.861389
+    },
+    {
+      "name": "Horner",
+      "slug": "horner",
+      "county": "Lewis County",
+      "lat": 38.972628,
+      "lng": -80.365576
+    },
+    {
+      "name": "Hugheston",
+      "slug": "hugheston",
+      "county": "Kanawha County",
+      "lat": 38.209444,
+      "lng": -81.372778
+    },
+    {
+      "name": "Hundred",
+      "slug": "hundred",
+      "county": "Wetzel County",
+      "lat": 39.691744,
+      "lng": -80.474552
+    },
+    {
+      "name": "Huntington",
+      "slug": "huntington",
+      "county": "Cabell County",
+      "lat": 38.409726,
+      "lng": -82.442348
+    },
+    {
+      "name": "Hurricane",
+      "slug": "hurricane",
+      "county": "Putnam County",
+      "lat": 38.425741,
+      "lng": -81.994329
+    },
+    {
+      "name": "Huttonsville",
+      "slug": "huttonsville",
+      "county": "Randolph County",
+      "lat": 38.678433,
+      "lng": -79.977544
+    },
+    {
+      "name": "Iaeger",
+      "slug": "iaeger",
+      "county": "Mcdowell County",
+      "lat": 37.449878,
+      "lng": -81.811992
+    },
+    {
+      "name": "Idamay",
+      "slug": "idamay",
+      "county": "Marion County",
+      "lat": 39.496944,
+      "lng": -80.257222
+    },
+    {
+      "name": "Ikes Fork",
+      "slug": "ikes-fork",
+      "county": "Wyoming County",
+      "lat": 37.521944,
+      "lng": -81.804444
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Preston County",
+      "lat": 39.446372,
+      "lng": -79.882161
+    },
+    {
+      "name": "Indore",
+      "slug": "indore",
+      "county": "Clay County",
+      "lat": 38.339672,
+      "lng": -81.157495
+    },
+    {
+      "name": "Institute",
+      "slug": "institute",
+      "county": "Kanawha County",
+      "lat": 38.383611,
+      "lng": -81.765556
+    },
+    {
+      "name": "Inwood",
+      "slug": "inwood",
+      "county": "Berkeley County",
+      "lat": 39.370093,
+      "lng": -78.024189
+    },
+    {
+      "name": "Ireland",
+      "slug": "ireland",
+      "county": "Lewis County",
+      "lat": 38.767689,
+      "lng": -80.477002
+    },
+    {
+      "name": "Isaban",
+      "slug": "isaban",
+      "county": "Mcdowell County",
+      "lat": 37.53,
+      "lng": -81.888333
+    },
+    {
+      "name": "Itmann",
+      "slug": "itmann",
+      "county": "Wyoming County",
+      "lat": 37.573333,
+      "lng": -81.418333
+    },
+    {
+      "name": "Ivydale",
+      "slug": "ivydale",
+      "county": "Clay County",
+      "lat": 38.530476,
+      "lng": -81.033506
+    },
+    {
+      "name": "Jacksonburg",
+      "slug": "jacksonburg",
+      "county": "Wetzel County",
+      "lat": 39.541553,
+      "lng": -80.643697
+    },
+    {
+      "name": "Jane Lew",
+      "slug": "jane-lew",
+      "county": "Lewis County",
+      "lat": 39.109989,
+      "lng": -80.431059
+    },
+    {
+      "name": "Jeffrey",
+      "slug": "jeffrey",
+      "county": "Boone County",
+      "lat": 37.957023,
+      "lng": -81.800305
+    },
+    {
+      "name": "Jenkinjones",
+      "slug": "jenkinjones",
+      "county": "Mcdowell County",
+      "lat": 37.293333,
+      "lng": -81.423333
+    },
+    {
+      "name": "Jesse",
+      "slug": "jesse",
+      "county": "Wyoming County",
+      "lat": 37.660844,
+      "lng": -81.562831
+    },
+    {
+      "name": "Jolo",
+      "slug": "jolo",
+      "county": "Mcdowell County",
+      "lat": 37.332431,
+      "lng": -81.831602
+    },
+    {
+      "name": "Josephine",
+      "slug": "josephine",
+      "county": "Raleigh County",
+      "lat": 37.622135,
+      "lng": -81.217584
+    },
+    {
+      "name": "Julian",
+      "slug": "julian",
+      "county": "Boone County",
+      "lat": 38.126437,
+      "lng": -81.864185
+    },
+    {
+      "name": "Jumping Branch",
+      "slug": "jumping-branch",
+      "county": "Summers County",
+      "lat": 37.639732,
+      "lng": -80.995717
+    },
+    {
+      "name": "Junior",
+      "slug": "junior",
+      "county": "Barbour County",
+      "lat": 38.978611,
+      "lng": -79.949722
+    },
+    {
+      "name": "Justice",
+      "slug": "justice",
+      "county": "Mingo County",
+      "lat": 37.588611,
+      "lng": -81.835556
+    },
+    {
+      "name": "Kanawha Falls",
+      "slug": "kanawha-falls",
+      "county": "Fayette County",
+      "lat": 38.107932,
+      "lng": -81.162753
+    },
+    {
+      "name": "Kanawha Head",
+      "slug": "kanawha-head",
+      "county": "Upshur County",
+      "lat": 38.76183,
+      "lng": -80.372734
+    },
+    {
+      "name": "Kearneysville",
+      "slug": "kearneysville",
+      "county": "Jefferson County",
+      "lat": 39.321994,
+      "lng": -77.958762
+    },
+    {
+      "name": "Kegley",
+      "slug": "kegley",
+      "county": "Mercer County",
+      "lat": 37.408384,
+      "lng": -81.140117
+    },
+    {
+      "name": "Kellysville",
+      "slug": "kellysville",
+      "county": "Mercer County",
+      "lat": 37.344722,
+      "lng": -80.928056
+    },
+    {
+      "name": "Kenna",
+      "slug": "kenna",
+      "county": "Jackson County",
+      "lat": 38.623894,
+      "lng": -81.651717
+    },
+    {
+      "name": "Kenova",
+      "slug": "kenova",
+      "county": "Wayne County",
+      "lat": 38.386031,
+      "lng": -82.573649
+    },
+    {
+      "name": "Kerens",
+      "slug": "kerens",
+      "county": "Randolph County",
+      "lat": 39.029854,
+      "lng": -79.775427
+    },
+    {
+      "name": "Kermit",
+      "slug": "kermit",
+      "county": "Mingo County",
+      "lat": 37.864246,
+      "lng": -82.374065
+    },
+    {
+      "name": "Keslers Cross Lanes",
+      "slug": "keslers-cross-lanes",
+      "county": "Nicholas County",
+      "lat": 38.225762,
+      "lng": -80.933365
+    },
+    {
+      "name": "Keyser",
+      "slug": "keyser",
+      "county": "Mineral County",
+      "lat": 39.430406,
+      "lng": -78.988667
+    },
+    {
+      "name": "Kiahsville",
+      "slug": "kiahsville",
+      "county": "Wayne County",
+      "lat": 38.077744,
+      "lng": -82.256206
+    },
+    {
+      "name": "Kimball",
+      "slug": "kimball",
+      "county": "Mcdowell County",
+      "lat": 37.425556,
+      "lng": -81.506944
+    },
+    {
+      "name": "Kimberly",
+      "slug": "kimberly",
+      "county": "Fayette County",
+      "lat": 38.124928,
+      "lng": -81.321721
+    },
+    {
+      "name": "Kincaid",
+      "slug": "kincaid",
+      "county": "Fayette County",
+      "lat": 38.032065,
+      "lng": -81.26897
+    },
+    {
+      "name": "Kingmont",
+      "slug": "kingmont",
+      "county": "Marion County",
+      "lat": 39.446944,
+      "lng": -80.176111
+    },
+    {
+      "name": "Kingwood",
+      "slug": "kingwood",
+      "county": "Preston County",
+      "lat": 39.481912,
+      "lng": -79.70629
+    },
+    {
+      "name": "Kistler",
+      "slug": "kistler",
+      "county": "Logan County",
+      "lat": 37.756111,
+      "lng": -81.860278
+    },
+    {
+      "name": "Kopperston",
+      "slug": "kopperston",
+      "county": "Wyoming County",
+      "lat": 37.748333,
+      "lng": -81.569722
+    },
+    {
+      "name": "Kyle",
+      "slug": "kyle",
+      "county": "Mcdowell County",
+      "lat": 37.408056,
+      "lng": -81.425833
+    },
+    {
+      "name": "Lahmansville",
+      "slug": "lahmansville",
+      "county": "Grant County",
+      "lat": 39.164225,
+      "lng": -79.043319
+    },
+    {
+      "name": "Lake",
+      "slug": "lake",
+      "county": "Logan County",
+      "lat": 37.946191,
+      "lng": -81.951152
+    },
+    {
+      "name": "Lanark",
+      "slug": "lanark",
+      "county": "Raleigh County",
+      "lat": 37.8275,
+      "lng": -81.146389
+    },
+    {
+      "name": "Lansing",
+      "slug": "lansing",
+      "county": "Fayette County",
+      "lat": 38.110793,
+      "lng": -81.02772
+    },
+    {
+      "name": "Lashmeet",
+      "slug": "lashmeet",
+      "county": "Mercer County",
+      "lat": 37.441997,
+      "lng": -81.213845
+    },
+    {
+      "name": "Lavalette",
+      "slug": "lavalette",
+      "county": "Wayne County",
+      "lat": 38.33046,
+      "lng": -82.428707
+    },
+    {
+      "name": "Layland",
+      "slug": "layland",
+      "county": "Fayette County",
+      "lat": 37.865779,
+      "lng": -80.992449
+    },
+    {
+      "name": "Le Roy",
+      "slug": "le-roy",
+      "county": "Jackson County",
+      "lat": 38.957552,
+      "lng": -81.57245
+    },
+    {
+      "name": "Left Hand",
+      "slug": "left-hand",
+      "county": "Roane County",
+      "lat": 38.606288,
+      "lng": -81.246675
+    },
+    {
+      "name": "Leivasy",
+      "slug": "leivasy",
+      "county": "Nicholas County",
+      "lat": 38.135019,
+      "lng": -80.717213
+    },
+    {
+      "name": "Lenore",
+      "slug": "lenore",
+      "county": "Mingo County",
+      "lat": 37.799436,
+      "lng": -82.269336
+    },
+    {
+      "name": "Leon",
+      "slug": "leon",
+      "county": "Mason County",
+      "lat": 38.753046,
+      "lng": -81.909244
+    },
+    {
+      "name": "Lerona",
+      "slug": "lerona",
+      "county": "Mercer County",
+      "lat": 37.492498,
+      "lng": -80.979574
+    },
+    {
+      "name": "Lesage",
+      "slug": "lesage",
+      "county": "Cabell County",
+      "lat": 38.477028,
+      "lng": -82.295667
+    },
+    {
+      "name": "Leslie",
+      "slug": "leslie",
+      "county": "Greenbrier County",
+      "lat": 38.044444,
+      "lng": -80.723056
+    },
+    {
+      "name": "Lester",
+      "slug": "lester",
+      "county": "Raleigh County",
+      "lat": 37.726522,
+      "lng": -81.309542
+    },
+    {
+      "name": "Letart",
+      "slug": "letart",
+      "county": "Mason County",
+      "lat": 38.931079,
+      "lng": -81.975129
+    },
+    {
+      "name": "Levels",
+      "slug": "levels",
+      "county": "Hampshire County",
+      "lat": 39.497637,
+      "lng": -78.55078
+    },
+    {
+      "name": "Lewisburg",
+      "slug": "lewisburg",
+      "county": "Greenbrier County",
+      "lat": 37.808253,
+      "lng": -80.440669
+    },
+    {
+      "name": "Liberty",
+      "slug": "liberty",
+      "county": "Putnam County",
+      "lat": 38.619978,
+      "lng": -81.767813
+    },
+    {
+      "name": "Lindside",
+      "slug": "lindside",
+      "county": "Monroe County",
+      "lat": 37.481651,
+      "lng": -80.62028
+    },
+    {
+      "name": "Linn",
+      "slug": "linn",
+      "county": "Gilmer County",
+      "lat": 38.957294,
+      "lng": -80.730046
+    },
+    {
+      "name": "Little Birch",
+      "slug": "little-birch",
+      "county": "Braxton County",
+      "lat": 38.581046,
+      "lng": -80.706293
+    },
+    {
+      "name": "Littleton",
+      "slug": "littleton",
+      "county": "Wetzel County",
+      "lat": 39.659205,
+      "lng": -80.569478
+    },
+    {
+      "name": "Lizemores",
+      "slug": "lizemores",
+      "county": "Clay County",
+      "lat": 38.336609,
+      "lng": -81.163255
+    },
+    {
+      "name": "Lochgelly",
+      "slug": "lochgelly",
+      "county": "Fayette County",
+      "lat": 38.010556,
+      "lng": -81.145278
+    },
+    {
+      "name": "Logan",
+      "slug": "logan",
+      "county": "Logan County",
+      "lat": 37.847488,
+      "lng": -82.002092
+    },
+    {
+      "name": "London",
+      "slug": "london",
+      "county": "Kanawha County",
+      "lat": 38.194444,
+      "lng": -81.368889
+    },
+    {
+      "name": "Lookout",
+      "slug": "lookout",
+      "county": "Fayette County",
+      "lat": 38.052822,
+      "lng": -80.92006
+    },
+    {
+      "name": "Looneyville",
+      "slug": "looneyville",
+      "county": "Roane County",
+      "lat": 38.664113,
+      "lng": -81.28219
+    },
+    {
+      "name": "Lorado",
+      "slug": "lorado",
+      "county": "Logan County",
+      "lat": 37.801111,
+      "lng": -81.744444
+    },
+    {
+      "name": "Lorentz",
+      "slug": "lorentz",
+      "county": "Upshur County",
+      "lat": 39.01,
+      "lng": -80.301667
+    },
+    {
+      "name": "Lost City",
+      "slug": "lost-city",
+      "county": "Hardy County",
+      "lat": 38.895361,
+      "lng": -78.822684
+    },
+    {
+      "name": "Lost Creek",
+      "slug": "lost-creek",
+      "county": "Harrison County",
+      "lat": 39.172528,
+      "lng": -80.377674
+    },
+    {
+      "name": "Lumberport",
+      "slug": "lumberport",
+      "county": "Harrison County",
+      "lat": 39.378108,
+      "lng": -80.367635
+    },
+    {
+      "name": "Lyburn",
+      "slug": "lyburn",
+      "county": "Logan County",
+      "lat": 37.774266,
+      "lng": -81.929291
+    },
+    {
+      "name": "Lynco",
+      "slug": "lynco",
+      "county": "Wyoming County",
+      "lat": 37.698056,
+      "lng": -81.677222
+    },
+    {
+      "name": "Maben",
+      "slug": "maben",
+      "county": "Wyoming County",
+      "lat": 37.654294,
+      "lng": -81.391371
+    },
+    {
+      "name": "Mabie",
+      "slug": "mabie",
+      "county": "Randolph County",
+      "lat": 38.822158,
+      "lng": -80.013061
+    },
+    {
+      "name": "Mabscott",
+      "slug": "mabscott",
+      "county": "Raleigh County",
+      "lat": 37.770833,
+      "lng": -81.208611
+    },
+    {
+      "name": "Mac Arthur",
+      "slug": "mac-arthur",
+      "county": "Raleigh County",
+      "lat": 37.751667,
+      "lng": -81.218333
+    },
+    {
+      "name": "Macfarlan",
+      "slug": "macfarlan",
+      "county": "Ritchie County",
+      "lat": 39.08058,
+      "lng": -81.177627
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Boone County",
+      "lat": 38.044426,
+      "lng": -81.793757
+    },
+    {
+      "name": "Maidsville",
+      "slug": "maidsville",
+      "county": "Monongalia County",
+      "lat": 39.709308,
+      "lng": -80.083193
+    },
+    {
+      "name": "Mallory",
+      "slug": "mallory",
+      "county": "Logan County",
+      "lat": 37.730556,
+      "lng": -81.838056
+    },
+    {
+      "name": "Mammoth",
+      "slug": "mammoth",
+      "county": "Kanawha County",
+      "lat": 38.258319,
+      "lng": -81.350893
+    },
+    {
+      "name": "Man",
+      "slug": "man",
+      "county": "Logan County",
+      "lat": 37.729525,
+      "lng": -81.865228
+    },
+    {
+      "name": "Mannington",
+      "slug": "mannington",
+      "county": "Marion County",
+      "lat": 39.522031,
+      "lng": -80.355243
+    },
+    {
+      "name": "Marianna",
+      "slug": "marianna",
+      "county": "Wyoming County",
+      "lat": 37.611425,
+      "lng": -81.576052
+    },
+    {
+      "name": "Marlinton",
+      "slug": "marlinton",
+      "county": "Pocahontas County",
+      "lat": 38.229303,
+      "lng": -80.060884
+    },
+    {
+      "name": "Martinsburg",
+      "slug": "martinsburg",
+      "county": "Berkeley County",
+      "lat": 39.459959,
+      "lng": -77.958915
+    },
+    {
+      "name": "Mason",
+      "slug": "mason",
+      "county": "Mason County",
+      "lat": 39.006442,
+      "lng": -82.028215
+    },
+    {
+      "name": "Masontown",
+      "slug": "masontown",
+      "county": "Preston County",
+      "lat": 39.576413,
+      "lng": -79.800993
+    },
+    {
+      "name": "Matewan",
+      "slug": "matewan",
+      "county": "Mingo County",
+      "lat": 37.649539,
+      "lng": -82.145694
+    },
+    {
+      "name": "Matheny",
+      "slug": "matheny",
+      "county": "Wyoming County",
+      "lat": 37.661956,
+      "lng": -81.595711
+    },
+    {
+      "name": "Mathias",
+      "slug": "mathias",
+      "county": "Hardy County",
+      "lat": 38.874443,
+      "lng": -78.881413
+    },
+    {
+      "name": "Matoaka",
+      "slug": "matoaka",
+      "county": "Mercer County",
+      "lat": 37.441778,
+      "lng": -81.268017
+    },
+    {
+      "name": "Maxwelton",
+      "slug": "maxwelton",
+      "county": "Greenbrier County",
+      "lat": 37.900465,
+      "lng": -80.427492
+    },
+    {
+      "name": "Maybeury",
+      "slug": "maybeury",
+      "county": "Mcdowell County",
+      "lat": 37.368333,
+      "lng": -81.366667
+    },
+    {
+      "name": "Maysel",
+      "slug": "maysel",
+      "county": "Clay County",
+      "lat": 38.493924,
+      "lng": -81.122653
+    },
+    {
+      "name": "Maysville",
+      "slug": "maysville",
+      "county": "Grant County",
+      "lat": 39.071174,
+      "lng": -79.1937
+    },
+    {
+      "name": "Mc Graws",
+      "slug": "mc-graws",
+      "county": "Wyoming County",
+      "lat": 37.676389,
+      "lng": -81.440556
+    },
+    {
+      "name": "Mcmechen",
+      "slug": "mcmechen",
+      "county": "Marshall County",
+      "lat": 39.987793,
+      "lng": -80.73082
+    },
+    {
+      "name": "Meadow Bridge",
+      "slug": "meadow-bridge",
+      "county": "Fayette County",
+      "lat": 37.878048,
+      "lng": -80.852144
+    },
+    {
+      "name": "Meadow Creek",
+      "slug": "meadow-creek",
+      "county": "Summers County",
+      "lat": 37.804824,
+      "lng": -80.91742
+    },
+    {
+      "name": "Meadowbrook",
+      "slug": "meadowbrook",
+      "county": "Harrison County",
+      "lat": 39.335367,
+      "lng": -80.325668
+    },
+    {
+      "name": "Metz",
+      "slug": "metz",
+      "county": "Marion County",
+      "lat": 39.607762,
+      "lng": -80.416815
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "county": "Kanawha County",
+      "lat": 38.152222,
+      "lng": -81.448056
+    },
+    {
+      "name": "Middlebourne",
+      "slug": "middlebourne",
+      "county": "Tyler County",
+      "lat": 39.50537,
+      "lng": -80.886067
+    },
+    {
+      "name": "Midkiff",
+      "slug": "midkiff",
+      "county": "Lincoln County",
+      "lat": 38.143908,
+      "lng": -82.154227
+    },
+    {
+      "name": "Midway",
+      "slug": "midway",
+      "county": "Raleigh County",
+      "lat": 37.717778,
+      "lng": -81.219167
+    },
+    {
+      "name": "Milam",
+      "slug": "milam",
+      "county": "Hardy County",
+      "lat": 38.812526,
+      "lng": -79.072936
+    },
+    {
+      "name": "Mill Creek",
+      "slug": "mill-creek",
+      "county": "Randolph County",
+      "lat": 38.732493,
+      "lng": -79.978569
+    },
+    {
+      "name": "Millstone",
+      "slug": "millstone",
+      "county": "Calhoun County",
+      "lat": 38.86029,
+      "lng": -81.086352
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Jefferson County",
+      "lat": 39.293889,
+      "lng": -77.786111
+    },
+    {
+      "name": "Millwood",
+      "slug": "millwood",
+      "county": "Jackson County",
+      "lat": 38.896206,
+      "lng": -81.824832
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Cabell County",
+      "lat": 38.413981,
+      "lng": -82.145784
+    },
+    {
+      "name": "Minden",
+      "slug": "minden",
+      "county": "Fayette County",
+      "lat": 37.975833,
+      "lng": -81.119722
+    },
+    {
+      "name": "Mineral Wells",
+      "slug": "mineral-wells",
+      "county": "Wood County",
+      "lat": 39.21,
+      "lng": -81.5305
+    },
+    {
+      "name": "Moatsville",
+      "slug": "moatsville",
+      "county": "Barbour County",
+      "lat": 39.212271,
+      "lng": -79.921574
+    },
+    {
+      "name": "Mohawk",
+      "slug": "mohawk",
+      "county": "Mcdowell County",
+      "lat": 37.487926,
+      "lng": -81.914174
+    },
+    {
+      "name": "Montana Mines",
+      "slug": "montana-mines",
+      "county": "Marion County",
+      "lat": 39.518611,
+      "lng": -80.108611
+    },
+    {
+      "name": "Montcalm",
+      "slug": "montcalm",
+      "county": "Mercer County",
+      "lat": 37.351667,
+      "lng": -81.251667
+    },
+    {
+      "name": "Monterville",
+      "slug": "monterville",
+      "county": "Randolph County",
+      "lat": 38.551707,
+      "lng": -80.122391
+    },
+    {
+      "name": "Montgomery",
+      "slug": "montgomery",
+      "county": "Fayette County",
+      "lat": 38.141232,
+      "lng": -81.281354
+    },
+    {
+      "name": "Montrose",
+      "slug": "montrose",
+      "county": "Randolph County",
+      "lat": 39.096357,
+      "lng": -79.789577
+    },
+    {
+      "name": "Moorefield",
+      "slug": "moorefield",
+      "county": "Hardy County",
+      "lat": 39.056812,
+      "lng": -78.97793
+    },
+    {
+      "name": "Morgantown",
+      "slug": "morgantown",
+      "county": "Monongalia County",
+      "lat": 39.6368,
+      "lng": -80.018
+    },
+    {
+      "name": "Moundsville",
+      "slug": "moundsville",
+      "county": "Marshall County",
+      "lat": 39.914819,
+      "lng": -80.730971
+    },
+    {
+      "name": "Mount Alto",
+      "slug": "mount-alto",
+      "county": "Mason County",
+      "lat": 38.863937,
+      "lng": -81.878374
+    },
+    {
+      "name": "Mount Carbon",
+      "slug": "mount-carbon",
+      "county": "Fayette County",
+      "lat": 38.160097,
+      "lng": -81.333373
+    },
+    {
+      "name": "Mount Clare",
+      "slug": "mount-clare",
+      "county": "Harrison County",
+      "lat": 39.210708,
+      "lng": -80.289948
+    },
+    {
+      "name": "Mount Gay",
+      "slug": "mount-gay",
+      "county": "Logan County",
+      "lat": 37.841389,
+      "lng": -82.008889
+    },
+    {
+      "name": "Mount Hope",
+      "slug": "mount-hope",
+      "county": "Fayette County",
+      "lat": 37.911048,
+      "lng": -81.170419
+    },
+    {
+      "name": "Mount Lookout",
+      "slug": "mount-lookout",
+      "county": "Nicholas County",
+      "lat": 38.182109,
+      "lng": -80.91077
+    },
+    {
+      "name": "Mount Nebo",
+      "slug": "mount-nebo",
+      "county": "Nicholas County",
+      "lat": 38.197064,
+      "lng": -80.820204
+    },
+    {
+      "name": "Mount Olive",
+      "slug": "mount-olive",
+      "county": "Fayette County",
+      "lat": 38.237778,
+      "lng": -81.233611
+    },
+    {
+      "name": "Mount Storm",
+      "slug": "mount-storm",
+      "county": "Grant County",
+      "lat": 39.265224,
+      "lng": -79.225454
+    },
+    {
+      "name": "Mount Zion",
+      "slug": "mount-zion",
+      "county": "Calhoun County",
+      "lat": 38.877455,
+      "lng": -81.119473
+    },
+    {
+      "name": "Mullens",
+      "slug": "mullens",
+      "county": "Wyoming County",
+      "lat": 37.584172,
+      "lng": -81.389015
+    },
+    {
+      "name": "Munday",
+      "slug": "munday",
+      "county": "Calhoun County",
+      "lat": 39.021423,
+      "lng": -81.204048
+    },
+    {
+      "name": "Myra",
+      "slug": "myra",
+      "county": "Lincoln County",
+      "lat": 38.21978,
+      "lng": -82.135097
+    },
+    {
+      "name": "Nallen",
+      "slug": "nallen",
+      "county": "Fayette County",
+      "lat": 38.10829,
+      "lng": -80.885777
+    },
+    {
+      "name": "Naoma",
+      "slug": "naoma",
+      "county": "Raleigh County",
+      "lat": 37.915381,
+      "lng": -81.521372
+    },
+    {
+      "name": "Napier",
+      "slug": "napier",
+      "county": "Braxton County",
+      "lat": 38.77462,
+      "lng": -80.584104
+    },
+    {
+      "name": "Naugatuck",
+      "slug": "naugatuck",
+      "county": "Mingo County",
+      "lat": 37.789722,
+      "lng": -82.349167
+    },
+    {
+      "name": "Nebo",
+      "slug": "nebo",
+      "county": "Clay County",
+      "lat": 38.627069,
+      "lng": -81.025657
+    },
+    {
+      "name": "Nellis",
+      "slug": "nellis",
+      "county": "Boone County",
+      "lat": 38.152066,
+      "lng": -81.739905
+    },
+    {
+      "name": "Nemours",
+      "slug": "nemours",
+      "county": "Mercer County",
+      "lat": 37.301389,
+      "lng": -81.304444
+    },
+    {
+      "name": "Neola",
+      "slug": "neola",
+      "county": "",
+      "lat": 37.965833,
+      "lng": -80.130278
+    },
+    {
+      "name": "Nettie",
+      "slug": "nettie",
+      "county": "Nicholas County",
+      "lat": 38.209042,
+      "lng": -80.695271
+    },
+    {
+      "name": "New Creek",
+      "slug": "new-creek",
+      "county": "Mineral County",
+      "lat": 39.361155,
+      "lng": -79.045212
+    },
+    {
+      "name": "New Cumberland",
+      "slug": "new-cumberland",
+      "county": "Hancock County",
+      "lat": 40.522777,
+      "lng": -80.590108
+    },
+    {
+      "name": "New Haven",
+      "slug": "new-haven",
+      "county": "Mason County",
+      "lat": 38.985,
+      "lng": -81.973333
+    },
+    {
+      "name": "New Manchester",
+      "slug": "new-manchester",
+      "county": "Hancock County",
+      "lat": 40.531389,
+      "lng": -80.580278
+    },
+    {
+      "name": "New Martinsville",
+      "slug": "new-martinsville",
+      "county": "Wetzel County",
+      "lat": 39.658798,
+      "lng": -80.856541
+    },
+    {
+      "name": "New Milton",
+      "slug": "new-milton",
+      "county": "Doddridge County",
+      "lat": 39.189917,
+      "lng": -80.707617
+    },
+    {
+      "name": "New Richmond",
+      "slug": "new-richmond",
+      "county": "Wyoming County",
+      "lat": 37.57,
+      "lng": -81.488889
+    },
+    {
+      "name": "Newburg",
+      "slug": "newburg",
+      "county": "Preston County",
+      "lat": 39.402722,
+      "lng": -79.828036
+    },
+    {
+      "name": "Newell",
+      "slug": "newell",
+      "county": "Hancock County",
+      "lat": 40.613971,
+      "lng": -80.601126
+    },
+    {
+      "name": "Newhall",
+      "slug": "newhall",
+      "county": "Mcdowell County",
+      "lat": 37.263611,
+      "lng": -81.618889
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Roane County",
+      "lat": 38.605219,
+      "lng": -81.167579
+    },
+    {
+      "name": "Newtown",
+      "slug": "newtown",
+      "county": "Mingo County",
+      "lat": 37.627778,
+      "lng": -82.085833
+    },
+    {
+      "name": "Nimitz",
+      "slug": "nimitz",
+      "county": "Summers County",
+      "lat": 37.628584,
+      "lng": -80.94462
+    },
+    {
+      "name": "Nitro",
+      "slug": "nitro",
+      "county": "Kanawha County",
+      "lat": 38.419323,
+      "lng": -81.829311
+    },
+    {
+      "name": "Normantown",
+      "slug": "normantown",
+      "county": "Gilmer County",
+      "lat": 38.880173,
+      "lng": -80.941936
+    },
+    {
+      "name": "North Matewan",
+      "slug": "north-matewan",
+      "county": "Mingo County",
+      "lat": 37.626389,
+      "lng": -82.148333
+    },
+    {
+      "name": "North Spring",
+      "slug": "north-spring",
+      "county": "Wyoming County",
+      "lat": 37.517954,
+      "lng": -81.797276
+    },
+    {
+      "name": "Northfork",
+      "slug": "northfork",
+      "county": "Mcdowell County",
+      "lat": 37.395262,
+      "lng": -81.415839
+    },
+    {
+      "name": "Norton",
+      "slug": "norton",
+      "county": "Randolph County",
+      "lat": 38.931667,
+      "lng": -79.965833
+    },
+    {
+      "name": "Oakvale",
+      "slug": "oakvale",
+      "county": "Mercer County",
+      "lat": 37.334167,
+      "lng": -80.962778
+    },
+    {
+      "name": "Oceana",
+      "slug": "oceana",
+      "county": "Wyoming County",
+      "lat": 37.703874,
+      "lng": -81.621564
+    },
+    {
+      "name": "Odd",
+      "slug": "odd",
+      "county": "Raleigh County",
+      "lat": 37.592997,
+      "lng": -81.187183
+    },
+    {
+      "name": "Old Fields",
+      "slug": "old-fields",
+      "county": "Hardy County",
+      "lat": 39.150245,
+      "lng": -78.950944
+    },
+    {
+      "name": "Omar",
+      "slug": "omar",
+      "county": "Logan County",
+      "lat": 37.722368,
+      "lng": -82.004931
+    },
+    {
+      "name": "Ona",
+      "slug": "ona",
+      "county": "Cabell County",
+      "lat": 38.452851,
+      "lng": -82.218093
+    },
+    {
+      "name": "Onego",
+      "slug": "onego",
+      "county": "Pendleton County",
+      "lat": 38.801718,
+      "lng": -79.450702
+    },
+    {
+      "name": "Orgas",
+      "slug": "orgas",
+      "county": "Boone County",
+      "lat": 38.073646,
+      "lng": -81.57383
+    },
+    {
+      "name": "Orlando",
+      "slug": "orlando",
+      "county": "Lewis County",
+      "lat": 38.885349,
+      "lng": -80.560122
+    },
+    {
+      "name": "Orma",
+      "slug": "orma",
+      "county": "Calhoun County",
+      "lat": 38.735979,
+      "lng": -81.09614
+    },
+    {
+      "name": "Osage",
+      "slug": "osage",
+      "county": "Monongalia County",
+      "lat": 39.656667,
+      "lng": -80.011667
+    },
+    {
+      "name": "Ottawa",
+      "slug": "ottawa",
+      "county": "Boone County",
+      "lat": 37.958611,
+      "lng": -81.816667
+    },
+    {
+      "name": "Paden City",
+      "slug": "paden-city",
+      "county": "Wetzel County",
+      "lat": 39.604408,
+      "lng": -80.926482
+    },
+    {
+      "name": "Page",
+      "slug": "page",
+      "county": "Fayette County",
+      "lat": 38.052778,
+      "lng": -81.27
+    },
+    {
+      "name": "Pageton",
+      "slug": "pageton",
+      "county": "Mcdowell County",
+      "lat": 37.349167,
+      "lng": -81.465556
+    },
+    {
+      "name": "Palestine",
+      "slug": "palestine",
+      "county": "Wirt County",
+      "lat": 38.974141,
+      "lng": -81.42803
+    },
+    {
+      "name": "Panther",
+      "slug": "panther",
+      "county": "Mcdowell County",
+      "lat": 37.483333,
+      "lng": -81.896111
+    },
+    {
+      "name": "Parkersburg",
+      "slug": "parkersburg",
+      "county": "Wood County",
+      "lat": 39.264433,
+      "lng": -81.535412
+    },
+    {
+      "name": "Parsons",
+      "slug": "parsons",
+      "county": "Tucker County",
+      "lat": 39.105857,
+      "lng": -79.673448
+    },
+    {
+      "name": "Paw Paw",
+      "slug": "paw-paw",
+      "county": "Morgan County",
+      "lat": 39.492297,
+      "lng": -78.458573
+    },
+    {
+      "name": "Pax",
+      "slug": "pax",
+      "county": "Fayette County",
+      "lat": 37.909722,
+      "lng": -81.264444
+    },
+    {
+      "name": "Paynesville",
+      "slug": "paynesville",
+      "county": "Mcdowell County",
+      "lat": 37.365273,
+      "lng": -81.68449
+    },
+    {
+      "name": "Peach Creek",
+      "slug": "peach-creek",
+      "county": "Logan County",
+      "lat": 37.874444,
+      "lng": -81.985
+    },
+    {
+      "name": "Pecks Mill",
+      "slug": "pecks-mill",
+      "county": "Logan County",
+      "lat": 37.929784,
+      "lng": -81.965382
+    },
+    {
+      "name": "Pence Springs",
+      "slug": "pence-springs",
+      "county": "Summers County",
+      "lat": 37.676694,
+      "lng": -80.709234
+    },
+    {
+      "name": "Pennsboro",
+      "slug": "pennsboro",
+      "county": "Ritchie County",
+      "lat": 39.292064,
+      "lng": -80.958482
+    },
+    {
+      "name": "Pentress",
+      "slug": "pentress",
+      "county": "Monongalia County",
+      "lat": 39.710278,
+      "lng": -80.160556
+    },
+    {
+      "name": "Petersburg",
+      "slug": "petersburg",
+      "county": "Grant County",
+      "lat": 38.976602,
+      "lng": -79.130701
+    },
+    {
+      "name": "Peterstown",
+      "slug": "peterstown",
+      "county": "Monroe County",
+      "lat": 37.414709,
+      "lng": -80.768605
+    },
+    {
+      "name": "Petroleum",
+      "slug": "petroleum",
+      "county": "Ritchie County",
+      "lat": 39.174139,
+      "lng": -81.240607
+    },
+    {
+      "name": "Peytona",
+      "slug": "peytona",
+      "county": "Boone County",
+      "lat": 38.124952,
+      "lng": -81.701836
+    },
+    {
+      "name": "Philippi",
+      "slug": "philippi",
+      "county": "Barbour County",
+      "lat": 39.150789,
+      "lng": -80.038531
+    },
+    {
+      "name": "Pickens",
+      "slug": "pickens",
+      "county": "Randolph County",
+      "lat": 38.684242,
+      "lng": -80.209784
+    },
+    {
+      "name": "Piedmont",
+      "slug": "piedmont",
+      "county": "Mineral County",
+      "lat": 39.479901,
+      "lng": -79.048862
+    },
+    {
+      "name": "Pinch",
+      "slug": "pinch",
+      "county": "Kanawha County",
+      "lat": 38.408611,
+      "lng": -81.481944
+    },
+    {
+      "name": "Pine Grove",
+      "slug": "pine-grove",
+      "county": "Wetzel County",
+      "lat": 39.565069,
+      "lng": -80.677213
+    },
+    {
+      "name": "Pineville",
+      "slug": "pineville",
+      "county": "Wyoming County",
+      "lat": 37.584022,
+      "lng": -81.533642
+    },
+    {
+      "name": "Piney View",
+      "slug": "piney-view",
+      "county": "Raleigh County",
+      "lat": 37.836111,
+      "lng": -81.135
+    },
+    {
+      "name": "Pipestem",
+      "slug": "pipestem",
+      "county": "Summers County",
+      "lat": 37.530345,
+      "lng": -80.946345
+    },
+    {
+      "name": "Poca",
+      "slug": "poca",
+      "county": "Putnam County",
+      "lat": 38.488297,
+      "lng": -81.80511
+    },
+    {
+      "name": "Point Pleasant",
+      "slug": "point-pleasant",
+      "county": "Mason County",
+      "lat": 38.863249,
+      "lng": -82.113247
+    },
+    {
+      "name": "Points",
+      "slug": "points",
+      "county": "Hampshire County",
+      "lat": 39.457208,
+      "lng": -78.564148
+    },
+    {
+      "name": "Pond Gap",
+      "slug": "pond-gap",
+      "county": "Kanawha County",
+      "lat": 38.290434,
+      "lng": -81.28658
+    },
+    {
+      "name": "Pool",
+      "slug": "pool",
+      "county": "Nicholas County",
+      "lat": 38.146004,
+      "lng": -80.885907
+    },
+    {
+      "name": "Porters Falls",
+      "slug": "porters-falls",
+      "county": "Wetzel County",
+      "lat": 39.579722,
+      "lng": -80.776389
+    },
+    {
+      "name": "Powellton",
+      "slug": "powellton",
+      "county": "Fayette County",
+      "lat": 38.099172,
+      "lng": -81.317923
+    },
+    {
+      "name": "Pratt",
+      "slug": "pratt",
+      "county": "Kanawha County",
+      "lat": 38.21,
+      "lng": -81.384167
+    },
+    {
+      "name": "Premier",
+      "slug": "premier",
+      "county": "Mcdowell County",
+      "lat": 37.422222,
+      "lng": -81.643889
+    },
+    {
+      "name": "Prichard",
+      "slug": "prichard",
+      "county": "Wayne County",
+      "lat": 38.230009,
+      "lng": -82.575297
+    },
+    {
+      "name": "Prince",
+      "slug": "prince",
+      "county": "Fayette County",
+      "lat": 37.858889,
+      "lng": -81.053889
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Mercer County",
+      "lat": 37.366817,
+      "lng": -81.086386
+    },
+    {
+      "name": "Princewick",
+      "slug": "princewick",
+      "county": "Raleigh County",
+      "lat": 37.643456,
+      "lng": -81.231022
+    },
+    {
+      "name": "Procious",
+      "slug": "procious",
+      "county": "Clay County",
+      "lat": 38.472167,
+      "lng": -81.226286
+    },
+    {
+      "name": "Proctor",
+      "slug": "proctor",
+      "county": "Marshall County",
+      "lat": 39.720683,
+      "lng": -80.761779
+    },
+    {
+      "name": "Prosperity",
+      "slug": "prosperity",
+      "county": "Raleigh County",
+      "lat": 37.836389,
+      "lng": -81.201944
+    },
+    {
+      "name": "Pullman",
+      "slug": "pullman",
+      "county": "Ritchie County",
+      "lat": 39.190013,
+      "lng": -80.934685
+    },
+    {
+      "name": "Purgitsville",
+      "slug": "purgitsville",
+      "county": "Hampshire County",
+      "lat": 39.268065,
+      "lng": -78.905951
+    },
+    {
+      "name": "Pursglove",
+      "slug": "pursglove",
+      "county": "Monongalia County",
+      "lat": 39.699543,
+      "lng": -80.061798
+    },
+    {
+      "name": "Quinwood",
+      "slug": "quinwood",
+      "county": "Greenbrier County",
+      "lat": 38.051937,
+      "lng": -80.717286
+    },
+    {
+      "name": "Rachel",
+      "slug": "rachel",
+      "county": "Marion County",
+      "lat": 39.52254,
+      "lng": -80.295694
+    },
+    {
+      "name": "Racine",
+      "slug": "racine",
+      "county": "Boone County",
+      "lat": 38.149524,
+      "lng": -81.655742
+    },
+    {
+      "name": "Ragland",
+      "slug": "ragland",
+      "county": "Mingo County",
+      "lat": 37.7025,
+      "lng": -82.1275
+    },
+    {
+      "name": "Rainelle",
+      "slug": "rainelle",
+      "county": "Greenbrier County",
+      "lat": 37.966112,
+      "lng": -80.782064
+    },
+    {
+      "name": "Raleigh",
+      "slug": "raleigh",
+      "county": "Raleigh County",
+      "lat": 37.756667,
+      "lng": -81.174444
+    },
+    {
+      "name": "Ranger",
+      "slug": "ranger",
+      "county": "Lincoln County",
+      "lat": 38.155608,
+      "lng": -82.19078
+    },
+    {
+      "name": "Ranson",
+      "slug": "ranson",
+      "county": "Jefferson County",
+      "lat": 39.299531,
+      "lng": -77.860572
+    },
+    {
+      "name": "Ravencliff",
+      "slug": "ravencliff",
+      "county": "Wyoming County",
+      "lat": 37.697961,
+      "lng": -81.496736
+    },
+    {
+      "name": "Ravenswood",
+      "slug": "ravenswood",
+      "county": "Jackson County",
+      "lat": 38.94675,
+      "lng": -81.752377
+    },
+    {
+      "name": "Rawl",
+      "slug": "rawl",
+      "county": "Mingo County",
+      "lat": 37.649722,
+      "lng": -82.219722
+    },
+    {
+      "name": "Raysal",
+      "slug": "raysal",
+      "county": "Mcdowell County",
+      "lat": 37.343056,
+      "lng": -81.7825
+    },
+    {
+      "name": "Reader",
+      "slug": "reader",
+      "county": "Wetzel County",
+      "lat": 39.583595,
+      "lng": -80.751583
+    },
+    {
+      "name": "Red Creek",
+      "slug": "red-creek",
+      "county": "Tucker County",
+      "lat": 39.019628,
+      "lng": -79.53009
+    },
+    {
+      "name": "Red House",
+      "slug": "red-house",
+      "county": "Putnam County",
+      "lat": 38.546298,
+      "lng": -81.904474
+    },
+    {
+      "name": "Red Jacket",
+      "slug": "red-jacket",
+      "county": "Mingo County",
+      "lat": 37.648333,
+      "lng": -82.140278
+    },
+    {
+      "name": "Redstar",
+      "slug": "redstar",
+      "county": "Fayette County",
+      "lat": 37.984874,
+      "lng": -81.134425
+    },
+    {
+      "name": "Reedsville",
+      "slug": "reedsville",
+      "county": "Preston County",
+      "lat": 39.51823,
+      "lng": -79.810061
+    },
+    {
+      "name": "Reedy",
+      "slug": "reedy",
+      "county": "Roane County",
+      "lat": 38.837119,
+      "lng": -81.419785
+    },
+    {
+      "name": "Renick",
+      "slug": "renick",
+      "county": "Greenbrier County",
+      "lat": 37.992168,
+      "lng": -80.365294
+    },
+    {
+      "name": "Reynoldsville",
+      "slug": "reynoldsville",
+      "county": "Harrison County",
+      "lat": 39.288333,
+      "lng": -80.435
+    },
+    {
+      "name": "Rhodell",
+      "slug": "rhodell",
+      "county": "Raleigh County",
+      "lat": 37.628587,
+      "lng": -81.294753
+    },
+    {
+      "name": "Richwood",
+      "slug": "richwood",
+      "county": "Nicholas County",
+      "lat": 38.222988,
+      "lng": -80.544481
+    },
+    {
+      "name": "Ridgeley",
+      "slug": "ridgeley",
+      "county": "Mineral County",
+      "lat": 39.581796,
+      "lng": -78.792006
+    },
+    {
+      "name": "Ridgeview",
+      "slug": "ridgeview",
+      "county": "Boone County",
+      "lat": 38.148576,
+      "lng": -81.772548
+    },
+    {
+      "name": "Ridgeway",
+      "slug": "ridgeway",
+      "county": "Berkeley County",
+      "lat": 39.297222,
+      "lng": -78.071944
+    },
+    {
+      "name": "Rio",
+      "slug": "rio",
+      "county": "Hampshire County",
+      "lat": 39.180663,
+      "lng": -78.693548
+    },
+    {
+      "name": "Ripley",
+      "slug": "ripley",
+      "county": "Jackson County",
+      "lat": 38.809042,
+      "lng": -81.701987
+    },
+    {
+      "name": "Rippon",
+      "slug": "rippon",
+      "county": "Jefferson County",
+      "lat": 39.216667,
+      "lng": -77.905
+    },
+    {
+      "name": "Riverton",
+      "slug": "riverton",
+      "county": "Pendleton County",
+      "lat": 38.697871,
+      "lng": -79.465531
+    },
+    {
+      "name": "Rivesville",
+      "slug": "rivesville",
+      "county": "Marion County",
+      "lat": 39.556839,
+      "lng": -80.141744
+    },
+    {
+      "name": "Robson",
+      "slug": "robson",
+      "county": "Fayette County",
+      "lat": 38.097263,
+      "lng": -81.248758
+    },
+    {
+      "name": "Rock",
+      "slug": "rock",
+      "county": "Mercer County",
+      "lat": 37.38889,
+      "lng": -81.218766
+    },
+    {
+      "name": "Rock Cave",
+      "slug": "rock-cave",
+      "county": "Upshur County",
+      "lat": 38.781128,
+      "lng": -80.316276
+    },
+    {
+      "name": "Rock Creek",
+      "slug": "rock-creek",
+      "county": "Raleigh County",
+      "lat": 37.836673,
+      "lng": -81.483674
+    },
+    {
+      "name": "Rock View",
+      "slug": "rock-view",
+      "county": "Wyoming County",
+      "lat": 37.617778,
+      "lng": -81.539167
+    },
+    {
+      "name": "Rockport",
+      "slug": "rockport",
+      "county": "Wood County",
+      "lat": 39.079774,
+      "lng": -81.571333
+    },
+    {
+      "name": "Roderfield",
+      "slug": "roderfield",
+      "county": "Mcdowell County",
+      "lat": 37.450278,
+      "lng": -81.705833
+    },
+    {
+      "name": "Romney",
+      "slug": "romney",
+      "county": "Hampshire County",
+      "lat": 39.342369,
+      "lng": -78.748075
+    },
+    {
+      "name": "Ronceverte",
+      "slug": "ronceverte",
+      "county": "Greenbrier County",
+      "lat": 37.741758,
+      "lng": -80.462583
+    },
+    {
+      "name": "Rosedale",
+      "slug": "rosedale",
+      "county": "Gilmer County",
+      "lat": 38.770103,
+      "lng": -80.906127
+    },
+    {
+      "name": "Rosemont",
+      "slug": "rosemont",
+      "county": "Taylor County",
+      "lat": 39.268611,
+      "lng": -80.163056
+    },
+    {
+      "name": "Rowlesburg",
+      "slug": "rowlesburg",
+      "county": "Preston County",
+      "lat": 39.221575,
+      "lng": -79.642977
+    },
+    {
+      "name": "Rupert",
+      "slug": "rupert",
+      "county": "Greenbrier County",
+      "lat": 37.963882,
+      "lng": -80.689971
+    },
+    {
+      "name": "Sabine",
+      "slug": "sabine",
+      "county": "Wyoming County",
+      "lat": 37.678611,
+      "lng": -81.501667
+    },
+    {
+      "name": "Saint Albans",
+      "slug": "saint-albans",
+      "county": "Kanawha County",
+      "lat": 38.37743,
+      "lng": -81.830463
+    },
+    {
+      "name": "Saint Marys",
+      "slug": "saint-marys",
+      "county": "Pleasants County",
+      "lat": 39.38597,
+      "lng": -81.172499
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Harrison County",
+      "lat": 39.294761,
+      "lng": -80.589792
+    },
+    {
+      "name": "Salt Rock",
+      "slug": "salt-rock",
+      "county": "Cabell County",
+      "lat": 38.326542,
+      "lng": -82.247041
+    },
+    {
+      "name": "Sand Fork",
+      "slug": "sand-fork",
+      "county": "Gilmer County",
+      "lat": 38.895,
+      "lng": -80.730556
+    },
+    {
+      "name": "Sandstone",
+      "slug": "sandstone",
+      "county": "Summers County",
+      "lat": 37.759879,
+      "lng": -80.871564
+    },
+    {
+      "name": "Sandyville",
+      "slug": "sandyville",
+      "county": "Jackson County",
+      "lat": 38.909282,
+      "lng": -81.654315
+    },
+    {
+      "name": "Sarah Ann",
+      "slug": "sarah-ann",
+      "county": "Logan County",
+      "lat": 37.711111,
+      "lng": -81.9875
+    },
+    {
+      "name": "Saulsville",
+      "slug": "saulsville",
+      "county": "Wyoming County",
+      "lat": 37.655573,
+      "lng": -81.457706
+    },
+    {
+      "name": "Saxon",
+      "slug": "saxon",
+      "county": "Boone County",
+      "lat": 37.786108,
+      "lng": -81.432279
+    },
+    {
+      "name": "Scarbro",
+      "slug": "scarbro",
+      "county": "Fayette County",
+      "lat": 37.947073,
+      "lng": -81.245731
+    },
+    {
+      "name": "Scott Depot",
+      "slug": "scott-depot",
+      "county": "Putnam County",
+      "lat": 38.450063,
+      "lng": -81.900481
+    },
+    {
+      "name": "Secondcreek",
+      "slug": "secondcreek",
+      "county": "Monroe County",
+      "lat": 37.660246,
+      "lng": -80.418079
+    },
+    {
+      "name": "Selbyville",
+      "slug": "selbyville",
+      "county": "Upshur County",
+      "lat": 38.719393,
+      "lng": -80.312955
+    },
+    {
+      "name": "Seneca Rocks",
+      "slug": "seneca-rocks",
+      "county": "Pendleton County",
+      "lat": 38.829615,
+      "lng": -79.386577
+    },
+    {
+      "name": "Seth",
+      "slug": "seth",
+      "county": "Boone County",
+      "lat": 38.097057,
+      "lng": -81.639258
+    },
+    {
+      "name": "Shady Spring",
+      "slug": "shady-spring",
+      "county": "Raleigh County",
+      "lat": 37.697802,
+      "lng": -81.1023
+    },
+    {
+      "name": "Shanks",
+      "slug": "shanks",
+      "county": "Hampshire County",
+      "lat": 39.284859,
+      "lng": -78.699531
+    },
+    {
+      "name": "Sharples",
+      "slug": "sharples",
+      "county": "Logan County",
+      "lat": 37.920278,
+      "lng": -81.829444
+    },
+    {
+      "name": "Shenandoah Junction",
+      "slug": "shenandoah-junction",
+      "county": "Jefferson County",
+      "lat": 39.371084,
+      "lng": -77.88924
+    },
+    {
+      "name": "Shepherdstown",
+      "slug": "shepherdstown",
+      "county": "Jefferson County",
+      "lat": 39.431124,
+      "lng": -77.815819
+    },
+    {
+      "name": "Shinnston",
+      "slug": "shinnston",
+      "county": "Harrison County",
+      "lat": 39.388809,
+      "lng": -80.283399
+    },
+    {
+      "name": "Shirley",
+      "slug": "shirley",
+      "county": "Tyler County",
+      "lat": 39.398056,
+      "lng": -80.765278
+    },
+    {
+      "name": "Shoals",
+      "slug": "shoals",
+      "county": "Wayne County",
+      "lat": 38.326944,
+      "lng": -82.475278
+    },
+    {
+      "name": "Shock",
+      "slug": "shock",
+      "county": "Gilmer County",
+      "lat": 38.757527,
+      "lng": -80.968663
+    },
+    {
+      "name": "Short Creek",
+      "slug": "short-creek",
+      "county": "Brooke County",
+      "lat": 40.185556,
+      "lng": -80.674722
+    },
+    {
+      "name": "Simon",
+      "slug": "simon",
+      "county": "Wyoming County",
+      "lat": 37.619708,
+      "lng": -81.758566
+    },
+    {
+      "name": "Simpson",
+      "slug": "simpson",
+      "county": "Taylor County",
+      "lat": 39.266667,
+      "lng": -80.093611
+    },
+    {
+      "name": "Sinks Grove",
+      "slug": "sinks-grove",
+      "county": "Monroe County",
+      "lat": 37.662078,
+      "lng": -80.516905
+    },
+    {
+      "name": "Sistersville",
+      "slug": "sistersville",
+      "county": "Tyler County",
+      "lat": 39.558365,
+      "lng": -80.981828
+    },
+    {
+      "name": "Skelton",
+      "slug": "skelton",
+      "county": "Raleigh County",
+      "lat": 37.810556,
+      "lng": -81.1875
+    },
+    {
+      "name": "Slab Fork",
+      "slug": "slab-fork",
+      "county": "Raleigh County",
+      "lat": 37.679605,
+      "lng": -81.227928
+    },
+    {
+      "name": "Slanesville",
+      "slug": "slanesville",
+      "county": "Hampshire County",
+      "lat": 39.402631,
+      "lng": -78.505971
+    },
+    {
+      "name": "Slatyfork",
+      "slug": "slatyfork",
+      "county": "Pocahontas County",
+      "lat": 38.381207,
+      "lng": -80.040353
+    },
+    {
+      "name": "Smithburg",
+      "slug": "smithburg",
+      "county": "Doddridge County",
+      "lat": 39.288333,
+      "lng": -80.731667
+    },
+    {
+      "name": "Smithers",
+      "slug": "smithers",
+      "county": "Fayette County",
+      "lat": 38.181111,
+      "lng": -81.307222
+    },
+    {
+      "name": "Smithfield",
+      "slug": "smithfield",
+      "county": "Wetzel County",
+      "lat": 39.5134,
+      "lng": -80.558245
+    },
+    {
+      "name": "Smithville",
+      "slug": "smithville",
+      "county": "Ritchie County",
+      "lat": 39.067078,
+      "lng": -81.061953
+    },
+    {
+      "name": "Smoot",
+      "slug": "smoot",
+      "county": "Greenbrier County",
+      "lat": 37.877166,
+      "lng": -80.668038
+    },
+    {
+      "name": "Snowshoe",
+      "slug": "snowshoe",
+      "county": "Pocahontas County",
+      "lat": 38.397222,
+      "lng": -80.141667
+    },
+    {
+      "name": "Sod",
+      "slug": "sod",
+      "county": "Lincoln County",
+      "lat": 38.262967,
+      "lng": -81.86814
+    },
+    {
+      "name": "Sophia",
+      "slug": "sophia",
+      "county": "Raleigh County",
+      "lat": 37.7075,
+      "lng": -81.250833
+    },
+    {
+      "name": "Southside",
+      "slug": "southside",
+      "county": "Mason County",
+      "lat": 38.711994,
+      "lng": -81.996596
+    },
+    {
+      "name": "Spanishburg",
+      "slug": "spanishburg",
+      "county": "Mercer County",
+      "lat": 37.46314,
+      "lng": -81.106941
+    },
+    {
+      "name": "Spelter",
+      "slug": "spelter",
+      "county": "Harrison County",
+      "lat": 39.345,
+      "lng": -80.318056
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Roane County",
+      "lat": 38.789696,
+      "lng": -81.33026
+    },
+    {
+      "name": "Sprague",
+      "slug": "sprague",
+      "county": "Raleigh County",
+      "lat": 37.793,
+      "lng": -81.1841
+    },
+    {
+      "name": "Spring Dale",
+      "slug": "spring-dale",
+      "county": "Fayette County",
+      "lat": 37.86947,
+      "lng": -80.814996
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Hampshire County",
+      "lat": 39.462996,
+      "lng": -78.695019
+    },
+    {
+      "name": "Spurlockville",
+      "slug": "spurlockville",
+      "county": "Lincoln County",
+      "lat": 38.077015,
+      "lng": -81.991778
+    },
+    {
+      "name": "Squire",
+      "slug": "squire",
+      "county": "Mcdowell County",
+      "lat": 37.237019,
+      "lng": -81.580478
+    },
+    {
+      "name": "Stanaford",
+      "slug": "stanaford",
+      "county": "Raleigh County",
+      "lat": 37.815833,
+      "lng": -81.1525
+    },
+    {
+      "name": "Stephenson",
+      "slug": "stephenson",
+      "county": "Wyoming County",
+      "lat": 37.579847,
+      "lng": -81.333914
+    },
+    {
+      "name": "Stollings",
+      "slug": "stollings",
+      "county": "Logan County",
+      "lat": 37.841944,
+      "lng": -81.933333
+    },
+    {
+      "name": "Sugar Grove",
+      "slug": "sugar-grove",
+      "county": "Pendleton County",
+      "lat": 38.52011,
+      "lng": -79.290329
+    },
+    {
+      "name": "Sumerco",
+      "slug": "sumerco",
+      "county": "Lincoln County",
+      "lat": 38.205292,
+      "lng": -81.894317
+    },
+    {
+      "name": "Summersville",
+      "slug": "summersville",
+      "county": "Nicholas County",
+      "lat": 38.30089,
+      "lng": -80.835278
+    },
+    {
+      "name": "Summit Point",
+      "slug": "summit-point",
+      "county": "Jefferson County",
+      "lat": 39.233753,
+      "lng": -77.958552
+    },
+    {
+      "name": "Surveyor",
+      "slug": "surveyor",
+      "county": "Raleigh County",
+      "lat": 37.748,
+      "lng": -81.33919
+    },
+    {
+      "name": "Sutton",
+      "slug": "sutton",
+      "county": "Braxton County",
+      "lat": 38.673855,
+      "lng": -80.681072
+    },
+    {
+      "name": "Swiss",
+      "slug": "swiss",
+      "county": "Nicholas County",
+      "lat": 38.279058,
+      "lng": -81.080703
+    },
+    {
+      "name": "Switchback",
+      "slug": "switchback",
+      "county": "Mcdowell County",
+      "lat": 37.371111,
+      "lng": -81.385833
+    },
+    {
+      "name": "Switzer",
+      "slug": "switzer",
+      "county": "Logan County",
+      "lat": 37.793056,
+      "lng": -81.987778
+    },
+    {
+      "name": "Sylvester",
+      "slug": "sylvester",
+      "county": "Boone County",
+      "lat": 38.009075,
+      "lng": -81.549151
+    },
+    {
+      "name": "Tad",
+      "slug": "tad",
+      "county": "Kanawha County",
+      "lat": 38.333333,
+      "lng": -81.494444
+    },
+    {
+      "name": "Talcott",
+      "slug": "talcott",
+      "county": "Summers County",
+      "lat": 37.649079,
+      "lng": -80.746143
+    },
+    {
+      "name": "Tallmansville",
+      "slug": "tallmansville",
+      "county": "Upshur County",
+      "lat": 38.856405,
+      "lng": -80.15799
+    },
+    {
+      "name": "Teays",
+      "slug": "teays",
+      "county": "Putnam County",
+      "lat": 38.441667,
+      "lng": -81.953056
+    },
+    {
+      "name": "Terra Alta",
+      "slug": "terra-alta",
+      "county": "Preston County",
+      "lat": 39.441575,
+      "lng": -79.557234
+    },
+    {
+      "name": "Thomas",
+      "slug": "thomas",
+      "county": "Tucker County",
+      "lat": 39.150517,
+      "lng": -79.503
+    },
+    {
+      "name": "Thornton",
+      "slug": "thornton",
+      "county": "Taylor County",
+      "lat": 39.332879,
+      "lng": -79.909645
+    },
+    {
+      "name": "Thorpe",
+      "slug": "thorpe",
+      "county": "Mcdowell County",
+      "lat": 37.368611,
+      "lng": -81.516667
+    },
+    {
+      "name": "Thurmond",
+      "slug": "thurmond",
+      "county": "Fayette County",
+      "lat": 37.955437,
+      "lng": -81.071428
+    },
+    {
+      "name": "Tioga",
+      "slug": "tioga",
+      "county": "Nicholas County",
+      "lat": 38.375989,
+      "lng": -80.661663
+    },
+    {
+      "name": "Tornado",
+      "slug": "tornado",
+      "county": "Kanawha County",
+      "lat": 38.335697,
+      "lng": -81.847555
+    },
+    {
+      "name": "Triadelphia",
+      "slug": "triadelphia",
+      "county": "Ohio County",
+      "lat": 40.069945,
+      "lng": -80.59529
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Gilmer County",
+      "lat": 39.083881,
+      "lng": -80.754921
+    },
+    {
+      "name": "Tunnelton",
+      "slug": "tunnelton",
+      "county": "Preston County",
+      "lat": 39.362502,
+      "lng": -79.747818
+    },
+    {
+      "name": "Turtle Creek",
+      "slug": "turtle-creek",
+      "county": "Boone County",
+      "lat": 38.042715,
+      "lng": -81.853499
+    },
+    {
+      "name": "Twilight",
+      "slug": "twilight",
+      "county": "Boone County",
+      "lat": 37.921015,
+      "lng": -81.635204
+    },
+    {
+      "name": "Uneeda",
+      "slug": "uneeda",
+      "county": "Boone County",
+      "lat": 38.035556,
+      "lng": -81.780833
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Monroe County",
+      "lat": 37.580175,
+      "lng": -80.524767
+    },
+    {
+      "name": "Upper Tract",
+      "slug": "upper-tract",
+      "county": "Pendleton County",
+      "lat": 38.794952,
+      "lng": -79.258589
+    },
+    {
+      "name": "Upperglade",
+      "slug": "upperglade",
+      "county": "Webster County",
+      "lat": 38.418528,
+      "lng": -80.496464
+    },
+    {
+      "name": "Valley Bend",
+      "slug": "valley-bend",
+      "county": "Randolph County",
+      "lat": 38.784903,
+      "lng": -79.916037
+    },
+    {
+      "name": "Valley Grove",
+      "slug": "valley-grove",
+      "county": "Ohio County",
+      "lat": 40.094649,
+      "lng": -80.555059
+    },
+    {
+      "name": "Valley Head",
+      "slug": "valley-head",
+      "county": "Randolph County",
+      "lat": 38.536637,
+      "lng": -80.044911
+    },
+    {
+      "name": "Van",
+      "slug": "van",
+      "county": "Boone County",
+      "lat": 37.971152,
+      "lng": -81.702175
+    },
+    {
+      "name": "Varney",
+      "slug": "varney",
+      "county": "Mingo County",
+      "lat": 37.669167,
+      "lng": -82.122222
+    },
+    {
+      "name": "Verdunville",
+      "slug": "verdunville",
+      "county": "Logan County",
+      "lat": 37.844444,
+      "lng": -82.055278
+    },
+    {
+      "name": "Verner",
+      "slug": "verner",
+      "county": "Mingo County",
+      "lat": 37.64554,
+      "lng": -81.864801
+    },
+    {
+      "name": "Victor",
+      "slug": "victor",
+      "county": "Fayette County",
+      "lat": 38.140194,
+      "lng": -81.032223
+    },
+    {
+      "name": "Vienna",
+      "slug": "vienna",
+      "county": "Wood County",
+      "lat": 39.325089,
+      "lng": -81.541143
+    },
+    {
+      "name": "Volga",
+      "slug": "volga",
+      "county": "Barbour County",
+      "lat": 39.068445,
+      "lng": -80.143209
+    },
+    {
+      "name": "Waiteville",
+      "slug": "waiteville",
+      "county": "Monroe County",
+      "lat": 37.464514,
+      "lng": -80.463447
+    },
+    {
+      "name": "Walker",
+      "slug": "walker",
+      "county": "Wood County",
+      "lat": 39.182082,
+      "lng": -81.386577
+    },
+    {
+      "name": "Walkersville",
+      "slug": "walkersville",
+      "county": "Lewis County",
+      "lat": 38.850738,
+      "lng": -80.480221
+    },
+    {
+      "name": "Wallace",
+      "slug": "wallace",
+      "county": "Harrison County",
+      "lat": 39.411667,
+      "lng": -80.486468
+    },
+    {
+      "name": "Wallback",
+      "slug": "wallback",
+      "county": "Clay County",
+      "lat": 38.57254,
+      "lng": -81.093535
+    },
+    {
+      "name": "Walton",
+      "slug": "walton",
+      "county": "Roane County",
+      "lat": 38.602264,
+      "lng": -81.395757
+    },
+    {
+      "name": "Wana",
+      "slug": "wana",
+      "county": "Monongalia County",
+      "lat": 39.702072,
+      "lng": -80.305106
+    },
+    {
+      "name": "War",
+      "slug": "war",
+      "county": "Mcdowell County",
+      "lat": 37.337778,
+      "lng": -81.715278
+    },
+    {
+      "name": "Wardensville",
+      "slug": "wardensville",
+      "county": "Hardy County",
+      "lat": 39.056238,
+      "lng": -78.617457
+    },
+    {
+      "name": "Warriormine",
+      "slug": "warriormine",
+      "county": "Mcdowell County",
+      "lat": 37.292778,
+      "lng": -81.697222
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Wood County",
+      "lat": 39.233911,
+      "lng": -81.640719
+    },
+    {
+      "name": "Waverly",
+      "slug": "waverly",
+      "county": "Wood County",
+      "lat": 39.315681,
+      "lng": -81.381938
+    },
+    {
+      "name": "Wayne",
+      "slug": "wayne",
+      "county": "Wayne County",
+      "lat": 38.225814,
+      "lng": -82.433926
+    },
+    {
+      "name": "Wayside",
+      "slug": "wayside",
+      "county": "Monroe County",
+      "lat": 37.593657,
+      "lng": -80.745806
+    },
+    {
+      "name": "Webster Springs",
+      "slug": "webster-springs",
+      "county": "Webster County",
+      "lat": 38.476362,
+      "lng": -80.399798
+    },
+    {
+      "name": "Weirton",
+      "slug": "weirton",
+      "county": "Hancock County",
+      "lat": 40.413673,
+      "lng": -80.568307
+    },
+    {
+      "name": "Welch",
+      "slug": "welch",
+      "county": "Mcdowell County",
+      "lat": 37.400032,
+      "lng": -81.534412
+    },
+    {
+      "name": "Wellsburg",
+      "slug": "wellsburg",
+      "county": "Brooke County",
+      "lat": 40.254792,
+      "lng": -80.596061
+    },
+    {
+      "name": "West Columbia",
+      "slug": "west-columbia",
+      "county": "Mason County",
+      "lat": 38.926169,
+      "lng": -82.090529
+    },
+    {
+      "name": "West Hamlin",
+      "slug": "west-hamlin",
+      "county": "Lincoln County",
+      "lat": 38.288571,
+      "lng": -82.184348
+    },
+    {
+      "name": "West Liberty",
+      "slug": "west-liberty",
+      "county": "Ohio County",
+      "lat": 40.169722,
+      "lng": -80.593889
+    },
+    {
+      "name": "West Milford",
+      "slug": "west-milford",
+      "county": "Harrison County",
+      "lat": 39.203906,
+      "lng": -80.363049
+    },
+    {
+      "name": "West Union",
+      "slug": "west-union",
+      "county": "Doddridge County",
+      "lat": 39.276185,
+      "lng": -80.791057
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Lewis County",
+      "lat": 39.041104,
+      "lng": -80.473656
+    },
+    {
+      "name": "Wharncliffe",
+      "slug": "wharncliffe",
+      "county": "Mingo County",
+      "lat": 37.545161,
+      "lng": -81.956604
+    },
+    {
+      "name": "Wharton",
+      "slug": "wharton",
+      "county": "Boone County",
+      "lat": 37.887222,
+      "lng": -81.670278
+    },
+    {
+      "name": "Wheeling",
+      "slug": "wheeling",
+      "county": "Ohio County",
+      "lat": 40.072736,
+      "lng": -80.685126
+    },
+    {
+      "name": "White Oak",
+      "slug": "white-oak",
+      "county": "Raleigh County",
+      "lat": 37.68008,
+      "lng": -81.058875
+    },
+    {
+      "name": "White Sulphur Springs",
+      "slug": "white-sulphur-springs",
+      "county": "Greenbrier County",
+      "lat": 37.814618,
+      "lng": -80.27464
+    },
+    {
+      "name": "Whitesville",
+      "slug": "whitesville",
+      "county": "Boone County",
+      "lat": 37.978677,
+      "lng": -81.534013
+    },
+    {
+      "name": "Whitman",
+      "slug": "whitman",
+      "county": "Logan County",
+      "lat": 37.813333,
+      "lng": -82.024722
+    },
+    {
+      "name": "Whitmer",
+      "slug": "whitmer",
+      "county": "Randolph County",
+      "lat": 38.808289,
+      "lng": -79.557752
+    },
+    {
+      "name": "Widen",
+      "slug": "widen",
+      "county": "Clay County",
+      "lat": 38.466111,
+      "lng": -80.8575
+    },
+    {
+      "name": "Wilcoe",
+      "slug": "wilcoe",
+      "county": "Mcdowell County",
+      "lat": 37.381111,
+      "lng": -81.564167
+    },
+    {
+      "name": "Wiley Ford",
+      "slug": "wiley-ford",
+      "county": "Mineral County",
+      "lat": 39.613308,
+      "lng": -78.774992
+    },
+    {
+      "name": "Wileyville",
+      "slug": "wileyville",
+      "county": "",
+      "lat": 39.662593,
+      "lng": -80.647251
+    },
+    {
+      "name": "Wilkinson",
+      "slug": "wilkinson",
+      "county": "Logan County",
+      "lat": 37.827778,
+      "lng": -81.997778
+    },
+    {
+      "name": "Williamsburg",
+      "slug": "williamsburg",
+      "county": "Greenbrier County",
+      "lat": 37.94421,
+      "lng": -80.517321
+    },
+    {
+      "name": "Williamson",
+      "slug": "williamson",
+      "county": "Mingo County",
+      "lat": 37.690248,
+      "lng": -82.264163
+    },
+    {
+      "name": "Williamstown",
+      "slug": "williamstown",
+      "county": "Wood County",
+      "lat": 39.38243,
+      "lng": -81.456608
+    },
+    {
+      "name": "Wilsonburg",
+      "slug": "wilsonburg",
+      "county": "Harrison County",
+      "lat": 39.2925,
+      "lng": -80.3963
+    },
+    {
+      "name": "Wilsondale",
+      "slug": "wilsondale",
+      "county": "Wayne County",
+      "lat": 37.951598,
+      "lng": -82.381358
+    },
+    {
+      "name": "Windsor Heights",
+      "slug": "windsor-heights",
+      "county": "Brooke County",
+      "lat": 40.191111,
+      "lng": -80.665556
+    },
+    {
+      "name": "Winfield",
+      "slug": "winfield",
+      "county": "Putnam County",
+      "lat": 38.507178,
+      "lng": -81.889965
+    },
+    {
+      "name": "Winifrede",
+      "slug": "winifrede",
+      "county": "Kanawha County",
+      "lat": 38.185245,
+      "lng": -81.558747
+    },
+    {
+      "name": "Winona",
+      "slug": "winona",
+      "county": "Fayette County",
+      "lat": 38.046389,
+      "lng": -80.9925
+    },
+    {
+      "name": "Wolfcreek",
+      "slug": "wolfcreek",
+      "county": "Monroe County",
+      "lat": 37.618788,
+      "lng": -80.611254
+    },
+    {
+      "name": "Wolfe",
+      "slug": "wolfe",
+      "county": "Mercer County",
+      "lat": 37.307222,
+      "lng": -81.328889
+    },
+    {
+      "name": "Woodville",
+      "slug": "woodville",
+      "county": "Boone County",
+      "lat": 38.157027,
+      "lng": -81.911281
+    },
+    {
+      "name": "Worthington",
+      "slug": "worthington",
+      "county": "Marion County",
+      "lat": 39.452213,
+      "lng": -80.290468
+    },
+    {
+      "name": "Wyatt",
+      "slug": "wyatt",
+      "county": "Harrison County",
+      "lat": 39.435,
+      "lng": -80.353611
+    },
+    {
+      "name": "Wyco",
+      "slug": "wyco",
+      "county": "Wyoming County",
+      "lat": 37.598889,
+      "lng": -81.343056
+    },
+    {
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "county": "Wyoming County",
+      "lat": 37.582222,
+      "lng": -81.601944
+    },
+    {
+      "name": "Yawkey",
+      "slug": "yawkey",
+      "county": "Lincoln County",
+      "lat": 38.219252,
+      "lng": -81.956828
+    },
+    {
+      "name": "Yellow Spring",
+      "slug": "yellow-spring",
+      "county": "Hampshire County",
+      "lat": 39.183038,
+      "lng": -78.494998
+    },
+    {
+      "name": "Yolyn",
+      "slug": "yolyn",
+      "county": "Logan County",
+      "lat": 37.866513,
+      "lng": -81.872699
+    }
+  ]
+}

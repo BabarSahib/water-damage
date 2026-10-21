@@ -1,0 +1,1757 @@
+{
+  "stateName": "Utah",
+  "stateCode": "UT",
+  "stateSlug": "utah",
+  "cities": [
+    {
+      "name": "Alpine",
+      "slug": "alpine",
+      "county": "Utah County",
+      "lat": 40.461591,
+      "lng": -111.768861
+    },
+    {
+      "name": "Altamont",
+      "slug": "altamont",
+      "county": "Duchesne County",
+      "lat": 40.370225,
+      "lng": -110.446356
+    },
+    {
+      "name": "Alton",
+      "slug": "alton",
+      "county": "Kane County",
+      "lat": 37.469905,
+      "lng": -112.548389
+    },
+    {
+      "name": "Altonah",
+      "slug": "altonah",
+      "county": "Duchesne County",
+      "lat": 40.441894,
+      "lng": -110.438499
+    },
+    {
+      "name": "American Fork",
+      "slug": "american-fork",
+      "county": "Utah County",
+      "lat": 40.392784,
+      "lng": -111.794107
+    },
+    {
+      "name": "Aneth",
+      "slug": "aneth",
+      "county": "San Juan County",
+      "lat": 37.214671,
+      "lng": -109.298281
+    },
+    {
+      "name": "Annabella",
+      "slug": "annabella",
+      "county": "Sevier County",
+      "lat": 38.709167,
+      "lng": -112.059167
+    },
+    {
+      "name": "Antimony",
+      "slug": "antimony",
+      "county": "Garfield County",
+      "lat": 38.1015,
+      "lng": -111.993029
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "county": "Sevier County",
+      "lat": 38.922222,
+      "lng": -111.933333
+    },
+    {
+      "name": "Axtell",
+      "slug": "axtell",
+      "county": "Sanpete County",
+      "lat": 39.053248,
+      "lng": -111.824303
+    },
+    {
+      "name": "Bear River City",
+      "slug": "bear-river-city",
+      "county": "Box Elder County",
+      "lat": 41.614722,
+      "lng": -112.125833
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Beaver County",
+      "lat": 38.28071,
+      "lng": -112.629916
+    },
+    {
+      "name": "Beryl",
+      "slug": "beryl",
+      "county": "Iron County",
+      "lat": 37.96005,
+      "lng": -113.619586
+    },
+    {
+      "name": "Bicknell",
+      "slug": "bicknell",
+      "county": "Wayne County",
+      "lat": 38.340833,
+      "lng": -111.543333
+    },
+    {
+      "name": "Bingham Canyon",
+      "slug": "bingham-canyon",
+      "county": "Salt Lake County",
+      "lat": 40.564614,
+      "lng": -112.097718
+    },
+    {
+      "name": "Blanding",
+      "slug": "blanding",
+      "county": "San Juan County",
+      "lat": 37.586342,
+      "lng": -109.486599
+    },
+    {
+      "name": "Bluebell",
+      "slug": "bluebell",
+      "county": "Duchesne County",
+      "lat": 40.351728,
+      "lng": -110.294122
+    },
+    {
+      "name": "Bluff",
+      "slug": "bluff",
+      "county": "San Juan County",
+      "lat": 37.284444,
+      "lng": -109.551111
+    },
+    {
+      "name": "Bonanza",
+      "slug": "bonanza",
+      "county": "Uintah County",
+      "lat": 40.021111,
+      "lng": -109.176667
+    },
+    {
+      "name": "Boulder",
+      "slug": "boulder",
+      "county": "Garfield County",
+      "lat": 37.916606,
+      "lng": -111.426646
+    },
+    {
+      "name": "Bountiful",
+      "slug": "bountiful",
+      "county": "Davis County",
+      "lat": 40.877513,
+      "lng": -111.872658
+    },
+    {
+      "name": "Brian Head",
+      "slug": "brian-head",
+      "county": "Iron County",
+      "lat": 37.698465,
+      "lng": -112.843698
+    },
+    {
+      "name": "Brigham City",
+      "slug": "brigham-city",
+      "county": "Box Elder County",
+      "lat": 41.507921,
+      "lng": -112.015177
+    },
+    {
+      "name": "Bryce",
+      "slug": "bryce",
+      "county": "Garfield County",
+      "lat": 37.57,
+      "lng": -112.295
+    },
+    {
+      "name": "Cache Junction",
+      "slug": "cache-junction",
+      "county": "Cache County",
+      "lat": 41.835556,
+      "lng": -112.001944
+    },
+    {
+      "name": "Cannonville",
+      "slug": "cannonville",
+      "county": "Garfield County",
+      "lat": 37.566944,
+      "lng": -112.053056
+    },
+    {
+      "name": "Castle Dale",
+      "slug": "castle-dale",
+      "county": "Emery County",
+      "lat": 39.212222,
+      "lng": -111.018889
+    },
+    {
+      "name": "Cedar City",
+      "slug": "cedar-city",
+      "county": "Iron County",
+      "lat": 37.689544,
+      "lng": -113.074513
+    },
+    {
+      "name": "Cedar Valley",
+      "slug": "cedar-valley",
+      "county": "Utah County",
+      "lat": 40.142516,
+      "lng": -111.968985
+    },
+    {
+      "name": "Centerfield",
+      "slug": "centerfield",
+      "county": "Sanpete County",
+      "lat": 39.125083,
+      "lng": -111.818516
+    },
+    {
+      "name": "Centerville",
+      "slug": "centerville",
+      "county": "Davis County",
+      "lat": 40.926772,
+      "lng": -111.87701
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "county": "Washington County",
+      "lat": 37.567734,
+      "lng": -113.717199
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Sanpete County",
+      "lat": 39.465278,
+      "lng": -111.571667
+    },
+    {
+      "name": "Circleville",
+      "slug": "circleville",
+      "county": "Piute County",
+      "lat": 38.171667,
+      "lng": -112.269722
+    },
+    {
+      "name": "Cisco",
+      "slug": "cisco",
+      "county": "Grand County",
+      "lat": 38.97,
+      "lng": -109.32
+    },
+    {
+      "name": "Clarkston",
+      "slug": "clarkston",
+      "county": "Cache County",
+      "lat": 41.91877,
+      "lng": -112.04859
+    },
+    {
+      "name": "Clawson",
+      "slug": "clawson",
+      "county": "Emery County",
+      "lat": 39.133056,
+      "lng": -111.096389
+    },
+    {
+      "name": "Clearfield",
+      "slug": "clearfield",
+      "county": "Davis County",
+      "lat": 41.129388,
+      "lng": -112.048224
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Emery County",
+      "lat": 39.348889,
+      "lng": -110.850833
+    },
+    {
+      "name": "Coalville",
+      "slug": "coalville",
+      "county": "Summit County",
+      "lat": 40.924385,
+      "lng": -111.407108
+    },
+    {
+      "name": "Collinston",
+      "slug": "collinston",
+      "county": "Box Elder County",
+      "lat": 41.78777,
+      "lng": -112.124219
+    },
+    {
+      "name": "Corinne",
+      "slug": "corinne",
+      "county": "Box Elder County",
+      "lat": 41.544986,
+      "lng": -112.151388
+    },
+    {
+      "name": "Cornish",
+      "slug": "cornish",
+      "county": "Cache County",
+      "lat": 41.970178,
+      "lng": -111.954241
+    },
+    {
+      "name": "Croydon",
+      "slug": "croydon",
+      "county": "Morgan County",
+      "lat": 41.068915,
+      "lng": -111.523092
+    },
+    {
+      "name": "Dammeron Valley",
+      "slug": "dammeron-valley",
+      "county": "Washington County",
+      "lat": 37.284899,
+      "lng": -113.658553
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "county": "Millard County",
+      "lat": 39.375534,
+      "lng": -112.531892
+    },
+    {
+      "name": "Deweyville",
+      "slug": "deweyville",
+      "county": "Box Elder County",
+      "lat": 41.697226,
+      "lng": -112.094717
+    },
+    {
+      "name": "Draper",
+      "slug": "draper",
+      "county": "Salt Lake County",
+      "lat": 40.504599,
+      "lng": -111.88096
+    },
+    {
+      "name": "Duchesne",
+      "slug": "duchesne",
+      "county": "Duchesne County",
+      "lat": 39.95398,
+      "lng": -110.618094
+    },
+    {
+      "name": "Duck Creek Village",
+      "slug": "duck-creek-village",
+      "county": "Kane County",
+      "lat": 37.523611,
+      "lng": -112.662222
+    },
+    {
+      "name": "Dugway",
+      "slug": "dugway",
+      "county": "Tooele County",
+      "lat": 40.526892,
+      "lng": -112.872905
+    },
+    {
+      "name": "Dutch John",
+      "slug": "dutch-john",
+      "county": "Daggett County",
+      "lat": 40.932244,
+      "lng": -109.354255
+    },
+    {
+      "name": "Eagle Mountain",
+      "slug": "eagle-mountain",
+      "county": "Utah County",
+      "lat": 40.3472,
+      "lng": -111.9888
+    },
+    {
+      "name": "East Carbon",
+      "slug": "east-carbon",
+      "county": "Carbon County",
+      "lat": 39.546088,
+      "lng": -110.411308
+    },
+    {
+      "name": "Echo",
+      "slug": "echo",
+      "county": "Summit County",
+      "lat": 40.977778,
+      "lng": -111.4425
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "county": "Weber County",
+      "lat": 41.330279,
+      "lng": -111.855765
+    },
+    {
+      "name": "Elberta",
+      "slug": "elberta",
+      "county": "Utah County",
+      "lat": 39.952778,
+      "lng": -111.955556
+    },
+    {
+      "name": "Elmo",
+      "slug": "elmo",
+      "county": "Emery County",
+      "lat": 39.389722,
+      "lng": -110.814444
+    },
+    {
+      "name": "Elsinore",
+      "slug": "elsinore",
+      "county": "Sevier County",
+      "lat": 38.682778,
+      "lng": -112.1475
+    },
+    {
+      "name": "Emery",
+      "slug": "emery",
+      "county": "Emery County",
+      "lat": 38.923056,
+      "lng": -111.248056
+    },
+    {
+      "name": "Enterprise",
+      "slug": "enterprise",
+      "county": "Washington County",
+      "lat": 37.573611,
+      "lng": -113.718333
+    },
+    {
+      "name": "Ephraim",
+      "slug": "ephraim",
+      "county": "Sanpete County",
+      "lat": 39.359983,
+      "lng": -111.582301
+    },
+    {
+      "name": "Escalante",
+      "slug": "escalante",
+      "county": "Garfield County",
+      "lat": 37.769839,
+      "lng": -111.603695
+    },
+    {
+      "name": "Eureka",
+      "slug": "eureka",
+      "county": "Juab County",
+      "lat": 39.954094,
+      "lng": -112.117448
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Sanpete County",
+      "lat": 39.645318,
+      "lng": -111.495287
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "Davis County",
+      "lat": 40.988913,
+      "lng": -111.893785
+    },
+    {
+      "name": "Fayette",
+      "slug": "fayette",
+      "county": "Sanpete County",
+      "lat": 39.231533,
+      "lng": -111.849712
+    },
+    {
+      "name": "Ferron",
+      "slug": "ferron",
+      "county": "Emery County",
+      "lat": 39.069196,
+      "lng": -111.146698
+    },
+    {
+      "name": "Fielding",
+      "slug": "fielding",
+      "county": "Box Elder County",
+      "lat": 41.811817,
+      "lng": -112.118978
+    },
+    {
+      "name": "Fillmore",
+      "slug": "fillmore",
+      "county": "Millard County",
+      "lat": 38.980539,
+      "lng": -112.331321
+    },
+    {
+      "name": "Fort Duchesne",
+      "slug": "fort-duchesne",
+      "county": "Uintah County",
+      "lat": 40.301411,
+      "lng": -109.863726
+    },
+    {
+      "name": "Fountain Green",
+      "slug": "fountain-green",
+      "county": "Sanpete County",
+      "lat": 39.63,
+      "lng": -111.634444
+    },
+    {
+      "name": "Fruitland",
+      "slug": "fruitland",
+      "county": "Duchesne County",
+      "lat": 40.212778,
+      "lng": -110.838889
+    },
+    {
+      "name": "Garden City",
+      "slug": "garden-city",
+      "county": "Rich County",
+      "lat": 41.93764,
+      "lng": -111.407033
+    },
+    {
+      "name": "Garland",
+      "slug": "garland",
+      "county": "Box Elder County",
+      "lat": 41.741319,
+      "lng": -112.151635
+    },
+    {
+      "name": "Garrison",
+      "slug": "garrison",
+      "county": "Millard County",
+      "lat": 39.074382,
+      "lng": -113.894858
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Kane County",
+      "lat": 37.321897,
+      "lng": -112.603491
+    },
+    {
+      "name": "Glenwood",
+      "slug": "glenwood",
+      "county": "Sevier County",
+      "lat": 38.763333,
+      "lng": -111.989444
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Utah County",
+      "lat": 39.953056,
+      "lng": -111.9
+    },
+    {
+      "name": "Grantsville",
+      "slug": "grantsville",
+      "county": "Tooele County",
+      "lat": 40.60054,
+      "lng": -112.461766
+    },
+    {
+      "name": "Green River",
+      "slug": "green-river",
+      "county": "Emery County",
+      "lat": 39.000243,
+      "lng": -110.159817
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Beaver County",
+      "lat": 38.263582,
+      "lng": -112.708404
+    },
+    {
+      "name": "Greenwich",
+      "slug": "greenwich",
+      "county": "Piute County",
+      "lat": 38.431111,
+      "lng": -111.922222
+    },
+    {
+      "name": "Grouse Creek",
+      "slug": "grouse-creek",
+      "county": "Box Elder County",
+      "lat": 41.629727,
+      "lng": -113.854043
+    },
+    {
+      "name": "Gunlock",
+      "slug": "gunlock",
+      "county": "Washington County",
+      "lat": 37.286111,
+      "lng": -113.7625
+    },
+    {
+      "name": "Gunnison",
+      "slug": "gunnison",
+      "county": "Sanpete County",
+      "lat": 39.154464,
+      "lng": -111.816701
+    },
+    {
+      "name": "Hanksville",
+      "slug": "hanksville",
+      "county": "Wayne County",
+      "lat": 38.252051,
+      "lng": -110.813744
+    },
+    {
+      "name": "Hanna",
+      "slug": "hanna",
+      "county": "Duchesne County",
+      "lat": 40.450135,
+      "lng": -110.809748
+    },
+    {
+      "name": "Hatch",
+      "slug": "hatch",
+      "county": "Garfield County",
+      "lat": 37.649722,
+      "lng": -112.433611
+    },
+    {
+      "name": "Heber City",
+      "slug": "heber-city",
+      "county": "Wasatch County",
+      "lat": 40.494703,
+      "lng": -111.405088
+    },
+    {
+      "name": "Helper",
+      "slug": "helper",
+      "county": "Carbon County",
+      "lat": 39.673684,
+      "lng": -110.856
+    },
+    {
+      "name": "Henefer",
+      "slug": "henefer",
+      "county": "Summit County",
+      "lat": 41.016667,
+      "lng": -111.4975
+    },
+    {
+      "name": "Henrieville",
+      "slug": "henrieville",
+      "county": "Garfield County",
+      "lat": 37.562778,
+      "lng": -111.993611
+    },
+    {
+      "name": "Herriman",
+      "slug": "herriman",
+      "county": "Salt Lake County",
+      "lat": 40.5032,
+      "lng": -112.034
+    },
+    {
+      "name": "Hildale",
+      "slug": "hildale",
+      "county": "Washington County",
+      "lat": 37.003611,
+      "lng": -112.966111
+    },
+    {
+      "name": "Hill Afb",
+      "slug": "hill-afb",
+      "county": "Davis County",
+      "lat": 41.116962,
+      "lng": -111.995565
+    },
+    {
+      "name": "Hinckley",
+      "slug": "hinckley",
+      "county": "Millard County",
+      "lat": 39.330842,
+      "lng": -112.671577
+    },
+    {
+      "name": "Holden",
+      "slug": "holden",
+      "county": "Millard County",
+      "lat": 39.098889,
+      "lng": -112.27
+    },
+    {
+      "name": "Honeyville",
+      "slug": "honeyville",
+      "county": "Box Elder County",
+      "lat": 41.623754,
+      "lng": -112.097425
+    },
+    {
+      "name": "Hooper",
+      "slug": "hooper",
+      "county": "Weber County",
+      "lat": 41.18267,
+      "lng": -112.090371
+    },
+    {
+      "name": "Howell",
+      "slug": "howell",
+      "county": "Box Elder County",
+      "lat": 41.796111,
+      "lng": -112.443611
+    },
+    {
+      "name": "Huntington",
+      "slug": "huntington",
+      "county": "Emery County",
+      "lat": 39.29202,
+      "lng": -110.974094
+    },
+    {
+      "name": "Huntsville",
+      "slug": "huntsville",
+      "county": "Weber County",
+      "lat": 41.272139,
+      "lng": -111.761821
+    },
+    {
+      "name": "Hurricane",
+      "slug": "hurricane",
+      "county": "Washington County",
+      "lat": 37.169098,
+      "lng": -113.224706
+    },
+    {
+      "name": "Hyde Park",
+      "slug": "hyde-park",
+      "county": "Cache County",
+      "lat": 41.798889,
+      "lng": -111.818333
+    },
+    {
+      "name": "Hyrum",
+      "slug": "hyrum",
+      "county": "Cache County",
+      "lat": 41.631096,
+      "lng": -111.849
+    },
+    {
+      "name": "Ibapah",
+      "slug": "ibapah",
+      "county": "Tooele County",
+      "lat": 40.036667,
+      "lng": -113.984444
+    },
+    {
+      "name": "Ivins",
+      "slug": "ivins",
+      "county": "Washington County",
+      "lat": 37.168611,
+      "lng": -113.678611
+    },
+    {
+      "name": "Jensen",
+      "slug": "jensen",
+      "county": "Uintah County",
+      "lat": 40.378715,
+      "lng": -109.350982
+    },
+    {
+      "name": "Joseph",
+      "slug": "joseph",
+      "county": "Sevier County",
+      "lat": 38.622092,
+      "lng": -112.225119
+    },
+    {
+      "name": "Junction",
+      "slug": "junction",
+      "county": "Piute County",
+      "lat": 38.2375,
+      "lng": -112.219167
+    },
+    {
+      "name": "Kamas",
+      "slug": "kamas",
+      "county": "Summit County",
+      "lat": 40.641432,
+      "lng": -111.261877
+    },
+    {
+      "name": "Kanab",
+      "slug": "kanab",
+      "county": "Kane County",
+      "lat": 37.072085,
+      "lng": -112.345374
+    },
+    {
+      "name": "Kanarraville",
+      "slug": "kanarraville",
+      "county": "Iron County",
+      "lat": 37.538889,
+      "lng": -113.183333
+    },
+    {
+      "name": "Kanosh",
+      "slug": "kanosh",
+      "county": "Millard County",
+      "lat": 38.801389,
+      "lng": -112.436667
+    },
+    {
+      "name": "Kaysville",
+      "slug": "kaysville",
+      "county": "Davis County",
+      "lat": 41.037527,
+      "lng": -111.932607
+    },
+    {
+      "name": "Kenilworth",
+      "slug": "kenilworth",
+      "county": "Carbon County",
+      "lat": 39.688333,
+      "lng": -110.805
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Piute County",
+      "lat": 38.215772,
+      "lng": -112.204864
+    },
+    {
+      "name": "Koosharem",
+      "slug": "koosharem",
+      "county": "Sevier County",
+      "lat": 38.510278,
+      "lng": -111.880556
+    },
+    {
+      "name": "La Sal",
+      "slug": "la-sal",
+      "county": "San Juan County",
+      "lat": 38.312222,
+      "lng": -109.2475
+    },
+    {
+      "name": "La Verkin",
+      "slug": "la-verkin",
+      "county": "Washington County",
+      "lat": 37.201111,
+      "lng": -113.268889
+    },
+    {
+      "name": "Lake Powell",
+      "slug": "lake-powell",
+      "county": "San Juan County",
+      "lat": 37.459898,
+      "lng": -110.506917
+    },
+    {
+      "name": "Laketown",
+      "slug": "laketown",
+      "county": "Rich County",
+      "lat": 41.81068,
+      "lng": -111.268853
+    },
+    {
+      "name": "Lapoint",
+      "slug": "lapoint",
+      "county": "Uintah County",
+      "lat": 40.400285,
+      "lng": -109.804102
+    },
+    {
+      "name": "Layton",
+      "slug": "layton",
+      "county": "Davis County",
+      "lat": 41.084576,
+      "lng": -111.927365
+    },
+    {
+      "name": "Leamington",
+      "slug": "leamington",
+      "county": "Millard County",
+      "lat": 39.534722,
+      "lng": -112.282778
+    },
+    {
+      "name": "Leeds",
+      "slug": "leeds",
+      "county": "Washington County",
+      "lat": 37.238611,
+      "lng": -113.358333
+    },
+    {
+      "name": "Lehi",
+      "slug": "lehi",
+      "county": "Utah County",
+      "lat": 40.395845,
+      "lng": -111.850606
+    },
+    {
+      "name": "Levan",
+      "slug": "levan",
+      "county": "Juab County",
+      "lat": 39.558611,
+      "lng": -111.861111
+    },
+    {
+      "name": "Lewiston",
+      "slug": "lewiston",
+      "county": "Cache County",
+      "lat": 41.970087,
+      "lng": -111.876814
+    },
+    {
+      "name": "Lindon",
+      "slug": "lindon",
+      "county": "Utah County",
+      "lat": 40.34119,
+      "lng": -111.714358
+    },
+    {
+      "name": "Loa",
+      "slug": "loa",
+      "county": "Wayne County",
+      "lat": 38.417266,
+      "lng": -111.629233
+    },
+    {
+      "name": "Logan",
+      "slug": "logan",
+      "county": "Cache County",
+      "lat": 41.747025,
+      "lng": -111.822613
+    },
+    {
+      "name": "Lyman",
+      "slug": "lyman",
+      "county": "Wayne County",
+      "lat": 38.396944,
+      "lng": -111.588889
+    },
+    {
+      "name": "Lynndyl",
+      "slug": "lynndyl",
+      "county": "Millard County",
+      "lat": 39.519167,
+      "lng": -112.375
+    },
+    {
+      "name": "Magna",
+      "slug": "magna",
+      "county": "Salt Lake County",
+      "lat": 40.700879,
+      "lng": -112.080867
+    },
+    {
+      "name": "Manila",
+      "slug": "manila",
+      "county": "Daggett County",
+      "lat": 40.968494,
+      "lng": -109.723503
+    },
+    {
+      "name": "Manti",
+      "slug": "manti",
+      "county": "Sanpete County",
+      "lat": 39.235389,
+      "lng": -111.651372
+    },
+    {
+      "name": "Mantua",
+      "slug": "mantua",
+      "county": "Box Elder County",
+      "lat": 41.497496,
+      "lng": -111.941646
+    },
+    {
+      "name": "Mapleton",
+      "slug": "mapleton",
+      "county": "Utah County",
+      "lat": 40.133711,
+      "lng": -111.580122
+    },
+    {
+      "name": "Marysvale",
+      "slug": "marysvale",
+      "county": "Piute County",
+      "lat": 38.444924,
+      "lng": -112.251848
+    },
+    {
+      "name": "Mayfield",
+      "slug": "mayfield",
+      "county": "Sanpete County",
+      "lat": 39.114167,
+      "lng": -111.71
+    },
+    {
+      "name": "Meadow",
+      "slug": "meadow",
+      "county": "Millard County",
+      "lat": 38.885833,
+      "lng": -112.409722
+    },
+    {
+      "name": "Mendon",
+      "slug": "mendon",
+      "county": "Cache County",
+      "lat": 41.709989,
+      "lng": -111.981692
+    },
+    {
+      "name": "Mexican Hat",
+      "slug": "mexican-hat",
+      "county": "San Juan County",
+      "lat": 37.118429,
+      "lng": -109.991865
+    },
+    {
+      "name": "Midvale",
+      "slug": "midvale",
+      "county": "Salt Lake County",
+      "lat": 40.615178,
+      "lng": -111.885066
+    },
+    {
+      "name": "Midway",
+      "slug": "midway",
+      "county": "Wasatch County",
+      "lat": 40.50934,
+      "lng": -111.477575
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Beaver County",
+      "lat": 38.331071,
+      "lng": -112.993377
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Cache County",
+      "lat": 41.681667,
+      "lng": -111.822222
+    },
+    {
+      "name": "Minersville",
+      "slug": "minersville",
+      "county": "Beaver County",
+      "lat": 38.214167,
+      "lng": -112.922778
+    },
+    {
+      "name": "Moab",
+      "slug": "moab",
+      "county": "Grand County",
+      "lat": 38.567674,
+      "lng": -109.527087
+    },
+    {
+      "name": "Modena",
+      "slug": "modena",
+      "county": "Iron County",
+      "lat": 37.799452,
+      "lng": -113.919282
+    },
+    {
+      "name": "Mona",
+      "slug": "mona",
+      "county": "Juab County",
+      "lat": 39.838165,
+      "lng": -111.848001
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Sevier County",
+      "lat": 38.645305,
+      "lng": -112.132434
+    },
+    {
+      "name": "Montezuma Creek",
+      "slug": "montezuma-creek",
+      "county": "San Juan County",
+      "lat": 37.272778,
+      "lng": -109.337222
+    },
+    {
+      "name": "Monticello",
+      "slug": "monticello",
+      "county": "San Juan County",
+      "lat": 37.921709,
+      "lng": -109.315289
+    },
+    {
+      "name": "Monument Valley",
+      "slug": "monument-valley",
+      "county": "San Juan County",
+      "lat": 37.061425,
+      "lng": -110.427335
+    },
+    {
+      "name": "Morgan",
+      "slug": "morgan",
+      "county": "Morgan County",
+      "lat": 41.067832,
+      "lng": -111.716339
+    },
+    {
+      "name": "Moroni",
+      "slug": "moroni",
+      "county": "Sanpete County",
+      "lat": 39.525,
+      "lng": -111.589722
+    },
+    {
+      "name": "Mount Carmel",
+      "slug": "mount-carmel",
+      "county": "Kane County",
+      "lat": 37.237821,
+      "lng": -112.670034
+    },
+    {
+      "name": "Mount Pleasant",
+      "slug": "mount-pleasant",
+      "county": "Sanpete County",
+      "lat": 39.523227,
+      "lng": -111.503854
+    },
+    {
+      "name": "Mountain Home",
+      "slug": "mountain-home",
+      "county": "Duchesne County",
+      "lat": 40.191999,
+      "lng": -110.767018
+    },
+    {
+      "name": "Myton",
+      "slug": "myton",
+      "county": "Duchesne County",
+      "lat": 40.194049,
+      "lng": -110.048056
+    },
+    {
+      "name": "Neola",
+      "slug": "neola",
+      "county": "Duchesne County",
+      "lat": 40.449149,
+      "lng": -110.037221
+    },
+    {
+      "name": "Nephi",
+      "slug": "nephi",
+      "county": "Juab County",
+      "lat": 39.692275,
+      "lng": -111.8359
+    },
+    {
+      "name": "New Harmony",
+      "slug": "new-harmony",
+      "county": "Washington County",
+      "lat": 37.479444,
+      "lng": -113.308889
+    },
+    {
+      "name": "Newcastle",
+      "slug": "newcastle",
+      "county": "Iron County",
+      "lat": 37.736049,
+      "lng": -113.661479
+    },
+    {
+      "name": "Newton",
+      "slug": "newton",
+      "county": "Cache County",
+      "lat": 41.862778,
+      "lng": -111.99
+    },
+    {
+      "name": "North Salt Lake",
+      "slug": "north-salt-lake",
+      "county": "Davis County",
+      "lat": 40.844064,
+      "lng": -111.904116
+    },
+    {
+      "name": "Oak City",
+      "slug": "oak-city",
+      "county": "Millard County",
+      "lat": 39.375,
+      "lng": -112.334722
+    },
+    {
+      "name": "Oakley",
+      "slug": "oakley",
+      "county": "Summit County",
+      "lat": 40.714722,
+      "lng": -111.3
+    },
+    {
+      "name": "Ogden",
+      "slug": "ogden",
+      "county": "Weber County",
+      "lat": 41.2443,
+      "lng": -112.0072
+    },
+    {
+      "name": "Orangeville",
+      "slug": "orangeville",
+      "county": "Emery County",
+      "lat": 39.227222,
+      "lng": -111.052778
+    },
+    {
+      "name": "Orderville",
+      "slug": "orderville",
+      "county": "Kane County",
+      "lat": 37.274419,
+      "lng": -112.642045
+    },
+    {
+      "name": "Orem",
+      "slug": "orem",
+      "county": "Utah County",
+      "lat": 40.313407,
+      "lng": -111.695293
+    },
+    {
+      "name": "Panguitch",
+      "slug": "panguitch",
+      "county": "Garfield County",
+      "lat": 37.80777,
+      "lng": -112.436886
+    },
+    {
+      "name": "Paradise",
+      "slug": "paradise",
+      "county": "Cache County",
+      "lat": 41.560009,
+      "lng": -111.829665
+    },
+    {
+      "name": "Paragonah",
+      "slug": "paragonah",
+      "county": "Iron County",
+      "lat": 37.89172,
+      "lng": -112.773972
+    },
+    {
+      "name": "Park City",
+      "slug": "park-city",
+      "county": "Summit County",
+      "lat": 40.695724,
+      "lng": -111.528021
+    },
+    {
+      "name": "Park Valley",
+      "slug": "park-valley",
+      "county": "Box Elder County",
+      "lat": 41.855125,
+      "lng": -113.34776
+    },
+    {
+      "name": "Parowan",
+      "slug": "parowan",
+      "county": "Iron County",
+      "lat": 37.844861,
+      "lng": -112.832251
+    },
+    {
+      "name": "Payson",
+      "slug": "payson",
+      "county": "Utah County",
+      "lat": 40.044866,
+      "lng": -111.732138
+    },
+    {
+      "name": "Peoa",
+      "slug": "peoa",
+      "county": "Summit County",
+      "lat": 40.720937,
+      "lng": -111.302467
+    },
+    {
+      "name": "Pine Valley",
+      "slug": "pine-valley",
+      "county": "Washington County",
+      "lat": 37.389772,
+      "lng": -113.517708
+    },
+    {
+      "name": "Pleasant Grove",
+      "slug": "pleasant-grove",
+      "county": "Utah County",
+      "lat": 40.371986,
+      "lng": -111.733284
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Box Elder County",
+      "lat": 41.875556,
+      "lng": -112.143333
+    },
+    {
+      "name": "Portage",
+      "slug": "portage",
+      "county": "Box Elder County",
+      "lat": 41.975833,
+      "lng": -112.238611
+    },
+    {
+      "name": "Price",
+      "slug": "price",
+      "county": "Carbon County",
+      "lat": 39.602013,
+      "lng": -110.808117
+    },
+    {
+      "name": "Providence",
+      "slug": "providence",
+      "county": "Cache County",
+      "lat": 41.69522,
+      "lng": -111.824389
+    },
+    {
+      "name": "Provo",
+      "slug": "provo",
+      "county": "Utah County",
+      "lat": 40.231949,
+      "lng": -111.675504
+    },
+    {
+      "name": "Randlett",
+      "slug": "randlett",
+      "county": "Uintah County",
+      "lat": 40.21865,
+      "lng": -109.730102
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Rich County",
+      "lat": 41.656328,
+      "lng": -111.185578
+    },
+    {
+      "name": "Redmond",
+      "slug": "redmond",
+      "county": "Sevier County",
+      "lat": 39.006111,
+      "lng": -111.861111
+    },
+    {
+      "name": "Richfield",
+      "slug": "richfield",
+      "county": "Sevier County",
+      "lat": 38.757075,
+      "lng": -112.062253
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "county": "Cache County",
+      "lat": 41.928223,
+      "lng": -111.806922
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Box Elder County",
+      "lat": 41.788889,
+      "lng": -112.148056
+    },
+    {
+      "name": "Riverton",
+      "slug": "riverton",
+      "county": "Salt Lake County",
+      "lat": 40.53789,
+      "lng": -111.954661
+    },
+    {
+      "name": "Rockville",
+      "slug": "rockville",
+      "county": "Washington County",
+      "lat": 37.161111,
+      "lng": -113.0375
+    },
+    {
+      "name": "Roosevelt",
+      "slug": "roosevelt",
+      "county": "Duchesne County",
+      "lat": 40.310229,
+      "lng": -110.010782
+    },
+    {
+      "name": "Roy",
+      "slug": "roy",
+      "county": "Weber County",
+      "lat": 41.172365,
+      "lng": -112.038177
+    },
+    {
+      "name": "Rush Valley",
+      "slug": "rush-valley",
+      "county": "Tooele County",
+      "lat": 40.233625,
+      "lng": -112.744033
+    },
+    {
+      "name": "Saint George",
+      "slug": "saint-george",
+      "county": "Washington County",
+      "lat": 37.106651,
+      "lng": -113.595261
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Utah County",
+      "lat": 40.042702,
+      "lng": -111.65906
+    },
+    {
+      "name": "Salina",
+      "slug": "salina",
+      "county": "Sevier County",
+      "lat": 38.956028,
+      "lng": -111.881072
+    },
+    {
+      "name": "Salt Lake City",
+      "slug": "salt-lake-city",
+      "county": "Salt Lake County",
+      "lat": 40.755851,
+      "lng": -111.896657
+    },
+    {
+      "name": "Sandy",
+      "slug": "sandy",
+      "county": "Salt Lake County",
+      "lat": 40.579379,
+      "lng": -111.881625
+    },
+    {
+      "name": "Santa Clara",
+      "slug": "santa-clara",
+      "county": "Washington County",
+      "lat": 37.133056,
+      "lng": -113.653333
+    },
+    {
+      "name": "Santaquin",
+      "slug": "santaquin",
+      "county": "Utah County",
+      "lat": 39.980356,
+      "lng": -111.793819
+    },
+    {
+      "name": "Saratoga Springs",
+      "slug": "saratoga-springs",
+      "county": "Utah County",
+      "lat": 40.3486,
+      "lng": -111.9132
+    },
+    {
+      "name": "Scipio",
+      "slug": "scipio",
+      "county": "Millard County",
+      "lat": 39.245,
+      "lng": -112.103333
+    },
+    {
+      "name": "Sevier",
+      "slug": "sevier",
+      "county": "Sevier County",
+      "lat": 38.590709,
+      "lng": -112.392126
+    },
+    {
+      "name": "Sigurd",
+      "slug": "sigurd",
+      "county": "Sevier County",
+      "lat": 38.840556,
+      "lng": -111.966944
+    },
+    {
+      "name": "Smithfield",
+      "slug": "smithfield",
+      "county": "Cache County",
+      "lat": 41.840328,
+      "lng": -111.852813
+    },
+    {
+      "name": "Snowville",
+      "slug": "snowville",
+      "county": "Box Elder County",
+      "lat": 41.840321,
+      "lng": -112.353391
+    },
+    {
+      "name": "South Jordan",
+      "slug": "south-jordan",
+      "county": "Salt Lake County",
+      "lat": 40.521944,
+      "lng": -111.938333
+    },
+    {
+      "name": "Spanish Fork",
+      "slug": "spanish-fork",
+      "county": "Utah County",
+      "lat": 40.10991,
+      "lng": -111.646246
+    },
+    {
+      "name": "Spring City",
+      "slug": "spring-city",
+      "county": "Sanpete County",
+      "lat": 39.4825,
+      "lng": -111.495278
+    },
+    {
+      "name": "Springdale",
+      "slug": "springdale",
+      "county": "Washington County",
+      "lat": 37.299722,
+      "lng": -113.049722
+    },
+    {
+      "name": "Springville",
+      "slug": "springville",
+      "county": "Utah County",
+      "lat": 40.162528,
+      "lng": -111.598664
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Sanpete County",
+      "lat": 39.193611,
+      "lng": -111.691667
+    },
+    {
+      "name": "Stockton",
+      "slug": "stockton",
+      "county": "Tooele County",
+      "lat": 40.350451,
+      "lng": -112.425214
+    },
+    {
+      "name": "Summit",
+      "slug": "summit",
+      "county": "Iron County",
+      "lat": 37.803397,
+      "lng": -112.913407
+    },
+    {
+      "name": "Sunnyside",
+      "slug": "sunnyside",
+      "county": "Carbon County",
+      "lat": 39.551389,
+      "lng": -110.387222
+    },
+    {
+      "name": "Syracuse",
+      "slug": "syracuse",
+      "county": "Davis County",
+      "lat": 41.086423,
+      "lng": -112.0451
+    },
+    {
+      "name": "Tabiona",
+      "slug": "tabiona",
+      "county": "Duchesne County",
+      "lat": 40.382691,
+      "lng": -110.702108
+    },
+    {
+      "name": "Talmage",
+      "slug": "talmage",
+      "county": "Duchesne County",
+      "lat": 40.174569,
+      "lng": -110.396529
+    },
+    {
+      "name": "Teasdale",
+      "slug": "teasdale",
+      "county": "Wayne County",
+      "lat": 38.285334,
+      "lng": -111.43346
+    },
+    {
+      "name": "Thompson",
+      "slug": "thompson",
+      "county": "Grand County",
+      "lat": 38.988065,
+      "lng": -109.794482
+    },
+    {
+      "name": "Tooele",
+      "slug": "tooele",
+      "county": "Tooele County",
+      "lat": 40.545445,
+      "lng": -112.300214
+    },
+    {
+      "name": "Toquerville",
+      "slug": "toquerville",
+      "county": "Washington County",
+      "lat": 37.253333,
+      "lng": -113.283889
+    },
+    {
+      "name": "Torrey",
+      "slug": "torrey",
+      "county": "Wayne County",
+      "lat": 38.334993,
+      "lng": -111.547439
+    },
+    {
+      "name": "Tremonton",
+      "slug": "tremonton",
+      "county": "Box Elder County",
+      "lat": 41.701564,
+      "lng": -112.181293
+    },
+    {
+      "name": "Trenton",
+      "slug": "trenton",
+      "county": "Cache County",
+      "lat": 41.910453,
+      "lng": -111.934033
+    },
+    {
+      "name": "Tridell",
+      "slug": "tridell",
+      "county": "Uintah County",
+      "lat": 40.443593,
+      "lng": -109.835906
+    },
+    {
+      "name": "Tropic",
+      "slug": "tropic",
+      "county": "Garfield County",
+      "lat": 37.625278,
+      "lng": -112.081389
+    },
+    {
+      "name": "Vernal",
+      "slug": "vernal",
+      "county": "Uintah County",
+      "lat": 40.440613,
+      "lng": -109.546883
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "county": "Tooele County",
+      "lat": 40.082609,
+      "lng": -112.425961
+    },
+    {
+      "name": "Veyo",
+      "slug": "veyo",
+      "county": "Washington County",
+      "lat": 37.35896,
+      "lng": -113.666758
+    },
+    {
+      "name": "Virgin",
+      "slug": "virgin",
+      "county": "Washington County",
+      "lat": 37.188889,
+      "lng": -113
+    },
+    {
+      "name": "Wales",
+      "slug": "wales",
+      "county": "Sanpete County",
+      "lat": 39.486944,
+      "lng": -111.634444
+    },
+    {
+      "name": "Wallsburg",
+      "slug": "wallsburg",
+      "county": "Wasatch County",
+      "lat": 40.365697,
+      "lng": -111.464934
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Washington County",
+      "lat": 37.136379,
+      "lng": -113.505043
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "county": "Carbon County",
+      "lat": 39.537257,
+      "lng": -110.736954
+    },
+    {
+      "name": "Wellsville",
+      "slug": "wellsville",
+      "county": "Cache County",
+      "lat": 41.634302,
+      "lng": -111.931676
+    },
+    {
+      "name": "Wendover",
+      "slug": "wendover",
+      "county": "Tooele County",
+      "lat": 40.597396,
+      "lng": -113.993573
+    },
+    {
+      "name": "West Jordan",
+      "slug": "west-jordan",
+      "county": "Salt Lake County",
+      "lat": 40.625429,
+      "lng": -111.967662
+    },
+    {
+      "name": "Whiterocks",
+      "slug": "whiterocks",
+      "county": "Uintah County",
+      "lat": 40.452771,
+      "lng": -109.917244
+    },
+    {
+      "name": "Willard",
+      "slug": "willard",
+      "county": "Box Elder County",
+      "lat": 41.398944,
+      "lng": -112.031653
+    },
+    {
+      "name": "Woodruff",
+      "slug": "woodruff",
+      "county": "Rich County",
+      "lat": 41.488783,
+      "lng": -111.186848
+    },
+    {
+      "name": "Woods Cross",
+      "slug": "woods-cross",
+      "county": "Davis County",
+      "lat": 40.887447,
+      "lng": -111.902712
+    }
+  ]
+}

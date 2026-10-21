@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import CTABand from '../../components/CTABand.astro';
+import { BLOG_POSTS } from '../../data/blogPosts';
+import { BUSINESS_INFO } from '../../data/siteData';
+
+const pageTitle = "Water Damage Mitigation & Emergency Extraction Blog | Rapid Water Rescue Pros";
+const pageDesc = "Expert homeowner guides, emergency protocols, water heater troubleshooting, and insurance claim tips from certified restoration professionals.";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/blog/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Blog", url: "/blog/" }
+  ]} />
+
+  <!-- Hero Banner -->
+  <section class="hero" style="padding:3.5rem 0">
+    <div class="container text-center">
+      <span class="badge badge-emergency" style="margin-bottom:1rem">Knowledge Hub & Guides</span>
+      <h1>Water Extraction & Mitigation Guides</h1>
+      <p class="hero-subtitle" style="max-width:750px;margin:0 auto 1.5rem">
+        Technical guidance, emergency action plans, insurance advice, and preventative maintenance tips written by licensed master plumbers and certified IICRC mitigation leads.
+      </p>
+      <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency">
+        Call 24/7 Hotline: {BUSINESS_INFO.phoneFormatted}
+      </a>
+    </div>
+  </section>
+
+  <!-- Blog Posts Grid -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">All Articles ({BLOG_POSTS.length})</span>
+        <h2>Latest Guides & Technical Case Studies</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          In-depth educational articles covering water heater failures, subterranean flooding, structural drying standards, and insurance documentation.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {BLOG_POSTS.map((post) => (
+          <article class="service-card" style="padding:0;overflow:hidden">
+            <div style="height:200px;overflow:hidden;position:relative">
+              <img
+                src={post.image}
+                alt={post.title}
+                loading="lazy"
+                style="width:100%;height:100%;object-fit:cover;transition:transform 0.3s ease"
+              />
+              <span style="position:absolute;top:12px;left:12px;background:var(--primary);color:#fff;padding:0.25rem 0.65rem;border-radius:var(--radius-sm);font-size:0.75rem;font-weight:700">
+                {post.category}
+              </span>
+            </div>
+
+            <div style="padding:1.5rem;display:flex;flex-direction:column;flex-grow:1">
+              <div style="font-size:0.8rem;color:var(--text-light);margin-bottom:0.5rem">
+                {post.publishDate} · {post.readTime}
+              </div>
+              <h3 style="font-size:1.2rem;line-height:1.3;margin-bottom:0.75rem">
+                <a href={`/blog/${post.slug}/`} style="color:var(--primary)">{post.title}</a>
+              </h3>
+              <p style="font-size:0.9rem;color:var(--text-muted);margin-bottom:1.25rem;flex-grow:1;line-height:1.5">
+                {post.excerpt}
+              </p>
+              <div style="display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--border-light);padding-top:1rem">
+                <span style="font-size:0.82rem;font-weight:600;color:var(--text-body)">By {post.author.split(',')[0]}</span>
+                <a href={`/blog/${post.slug}/`} class="card-link" style="font-size:0.9rem">
+                  <span>Read Guide →</span>
+                </a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <CTABand headline="Dealing with an Active Water Disaster?" subtext="Don't wait for mold to colonize your building. Call our 24/7 hotline for immediate truck-mounted extraction dispatch." />
+</BaseLayout>

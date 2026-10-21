@@ -1,0 +1,1610 @@
+{
+  "stateName": "Alaska",
+  "stateCode": "AK",
+  "stateSlug": "alaska",
+  "cities": [
+    {
+      "name": "Adak",
+      "slug": "adak",
+      "county": "Aleutians West County",
+      "lat": 55.999722,
+      "lng": -161.207778
+    },
+    {
+      "name": "Akiachak",
+      "slug": "akiachak",
+      "county": "Bethel County",
+      "lat": 60.891854,
+      "lng": -161.39233
+    },
+    {
+      "name": "Akiak",
+      "slug": "akiak",
+      "county": "Bethel County",
+      "lat": 60.890632,
+      "lng": -161.199325
+    },
+    {
+      "name": "Akutan",
+      "slug": "akutan",
+      "county": "Aleutians East County",
+      "lat": 54.143012,
+      "lng": -165.785368
+    },
+    {
+      "name": "Alakanuk",
+      "slug": "alakanuk",
+      "county": "Kusilvak County",
+      "lat": 62.746967,
+      "lng": -164.60228
+    },
+    {
+      "name": "Aleknagik",
+      "slug": "aleknagik",
+      "county": "Dillingham County",
+      "lat": 59.269688,
+      "lng": -158.619882
+    },
+    {
+      "name": "Allakaket",
+      "slug": "allakaket",
+      "county": "Yukon Koyukuk County",
+      "lat": 66.543197,
+      "lng": -152.712155
+    },
+    {
+      "name": "Ambler",
+      "slug": "ambler",
+      "county": "Northwest Arctic County",
+      "lat": 67.46951,
+      "lng": -156.455652
+    },
+    {
+      "name": "Anaktuvuk Pass",
+      "slug": "anaktuvuk-pass",
+      "county": "North Slope County",
+      "lat": 68.11878,
+      "lng": -151.679005
+    },
+    {
+      "name": "Anchor Point",
+      "slug": "anchor-point",
+      "county": "Kenai Peninsula County",
+      "lat": 59.788818,
+      "lng": -151.732933
+    },
+    {
+      "name": "Anchorage",
+      "slug": "anchorage",
+      "county": "Anchorage County",
+      "lat": 61.211571,
+      "lng": -149.876077
+    },
+    {
+      "name": "Anderson",
+      "slug": "anderson",
+      "county": "Denali County",
+      "lat": 64.300693,
+      "lng": -149.1718
+    },
+    {
+      "name": "Angoon",
+      "slug": "angoon",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 57.569832,
+      "lng": -134.371052
+    },
+    {
+      "name": "Aniak",
+      "slug": "aniak",
+      "county": "Bethel County",
+      "lat": 61.691648,
+      "lng": -157.758502
+    },
+    {
+      "name": "Anvik",
+      "slug": "anvik",
+      "county": "Yukon Koyukuk County",
+      "lat": 62.830913,
+      "lng": -160.130441
+    },
+    {
+      "name": "Arctic Village",
+      "slug": "arctic-village",
+      "county": "Yukon Koyukuk County",
+      "lat": 68.077395,
+      "lng": -145.423115
+    },
+    {
+      "name": "Atka",
+      "slug": "atka",
+      "county": "Aleutians West County",
+      "lat": 52.199167,
+      "lng": -174.213333
+    },
+    {
+      "name": "Atqasuk",
+      "slug": "atqasuk",
+      "county": "North Slope County",
+      "lat": 71.290556,
+      "lng": -156.788611
+    },
+    {
+      "name": "Auke Bay",
+      "slug": "auke-bay",
+      "county": "Juneau County",
+      "lat": 58.3833,
+      "lng": -134.6597
+    },
+    {
+      "name": "Barrow",
+      "slug": "barrow",
+      "county": "North Slope County",
+      "lat": 71.234637,
+      "lng": -156.817409
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Yukon Koyukuk County",
+      "lat": 66.33883,
+      "lng": -147.279803
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Bethel County",
+      "lat": 60.832389,
+      "lng": -161.824053
+    },
+    {
+      "name": "Bettles Field",
+      "slug": "bettles-field",
+      "county": "Yukon Koyukuk County",
+      "lat": 67.100495,
+      "lng": -151.062414
+    },
+    {
+      "name": "Big Lake",
+      "slug": "big-lake",
+      "county": "Matanuska Susitna County",
+      "lat": 61.5842,
+      "lng": -149.4401
+    },
+    {
+      "name": "Brevig Mission",
+      "slug": "brevig-mission",
+      "county": "Nome County",
+      "lat": 65.334187,
+      "lng": -166.478578
+    },
+    {
+      "name": "Buckland",
+      "slug": "buckland",
+      "county": "Northwest Arctic County",
+      "lat": 65.981052,
+      "lng": -161.131676
+    },
+    {
+      "name": "Cantwell",
+      "slug": "cantwell",
+      "county": "Denali County",
+      "lat": 63.395458,
+      "lng": -148.89735
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.468058,
+      "lng": -144.74886
+    },
+    {
+      "name": "Chalkyitsik",
+      "slug": "chalkyitsik",
+      "county": "Yukon Koyukuk County",
+      "lat": 66.719,
+      "lng": -143.638121
+    },
+    {
+      "name": "Chefornak",
+      "slug": "chefornak",
+      "county": "Bethel County",
+      "lat": 60.153746,
+      "lng": -164.210294
+    },
+    {
+      "name": "Chevak",
+      "slug": "chevak",
+      "county": "Kusilvak County",
+      "lat": 61.583982,
+      "lng": -164.776457
+    },
+    {
+      "name": "Chicken",
+      "slug": "chicken",
+      "county": "Southeast Fairbanks County",
+      "lat": 64.075,
+      "lng": -141.933333
+    },
+    {
+      "name": "Chignik",
+      "slug": "chignik",
+      "county": "Lake And Peninsula County",
+      "lat": 56.301639,
+      "lng": -158.415696
+    },
+    {
+      "name": "Chignik Lagoon",
+      "slug": "chignik-lagoon",
+      "county": "Lake And Peninsula County",
+      "lat": 56.251277,
+      "lng": -158.673528
+    },
+    {
+      "name": "Chignik Lake",
+      "slug": "chignik-lake",
+      "county": "Lake And Peninsula County",
+      "lat": 56.255556,
+      "lng": -158.7625
+    },
+    {
+      "name": "Chitina",
+      "slug": "chitina",
+      "county": "Valdez Cordova County",
+      "lat": 61.516667,
+      "lng": -144.436667
+    },
+    {
+      "name": "Chugiak",
+      "slug": "chugiak",
+      "county": "Anchorage County",
+      "lat": 61.409802,
+      "lng": -149.453736
+    },
+    {
+      "name": "Circle",
+      "slug": "circle",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.824542,
+      "lng": -144.08262
+    },
+    {
+      "name": "Clam Gulch",
+      "slug": "clam-gulch",
+      "county": "Kenai Peninsula County",
+      "lat": 60.201603,
+      "lng": -151.422628
+    },
+    {
+      "name": "Clarks Point",
+      "slug": "clarks-point",
+      "county": "Dillingham County",
+      "lat": 58.84921,
+      "lng": -158.451241
+    },
+    {
+      "name": "Clear",
+      "slug": "clear",
+      "county": "Denali County",
+      "lat": 64.418121,
+      "lng": -149.139885
+    },
+    {
+      "name": "Coffman Cove",
+      "slug": "coffman-cove",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.342222,
+      "lng": -131.646111
+    },
+    {
+      "name": "Cold Bay",
+      "slug": "cold-bay",
+      "county": "Aleutians East County",
+      "lat": 55.610952,
+      "lng": -161.942941
+    },
+    {
+      "name": "Cooper Landing",
+      "slug": "cooper-landing",
+      "county": "Kenai Peninsula County",
+      "lat": 60.476692,
+      "lng": -149.823514
+    },
+    {
+      "name": "Copper Center",
+      "slug": "copper-center",
+      "county": "Valdez Cordova County",
+      "lat": 61.91581,
+      "lng": -144.97793
+    },
+    {
+      "name": "Cordova",
+      "slug": "cordova",
+      "county": "Valdez Cordova County",
+      "lat": 60.102558,
+      "lng": -147.943316
+    },
+    {
+      "name": "Craig",
+      "slug": "craig",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.47317,
+      "lng": -133.117081
+    },
+    {
+      "name": "Crooked Creek",
+      "slug": "crooked-creek",
+      "county": "Bethel County",
+      "lat": 61.818072,
+      "lng": -158.002483
+    },
+    {
+      "name": "Deering",
+      "slug": "deering",
+      "county": "Northwest Arctic County",
+      "lat": 66.062265,
+      "lng": -162.711951
+    },
+    {
+      "name": "Delta Junction",
+      "slug": "delta-junction",
+      "county": "Southeast Fairbanks County",
+      "lat": 64.005426,
+      "lng": -145.613611
+    },
+    {
+      "name": "Denali National Park",
+      "slug": "denali-national-park",
+      "county": "Denali County",
+      "lat": 63.516075,
+      "lng": -149.539532
+    },
+    {
+      "name": "Dillingham",
+      "slug": "dillingham",
+      "county": "Dillingham County",
+      "lat": 59.059279,
+      "lng": -158.973533
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Juneau County",
+      "lat": 58.275597,
+      "lng": -134.395041
+    },
+    {
+      "name": "Dutch Harbor",
+      "slug": "dutch-harbor",
+      "county": "Aleutians West County",
+      "lat": 53.362757,
+      "lng": -167.510656
+    },
+    {
+      "name": "Eagle",
+      "slug": "eagle",
+      "county": "Southeast Fairbanks County",
+      "lat": 64.783333,
+      "lng": -141.2
+    },
+    {
+      "name": "Eagle River",
+      "slug": "eagle-river",
+      "county": "Anchorage County",
+      "lat": 61.311357,
+      "lng": -149.508515
+    },
+    {
+      "name": "Eek",
+      "slug": "eek",
+      "county": "Bethel County",
+      "lat": 60.215058,
+      "lng": -162.032341
+    },
+    {
+      "name": "Egegik",
+      "slug": "egegik",
+      "county": "Lake And Peninsula County",
+      "lat": 58.206174,
+      "lng": -157.342202
+    },
+    {
+      "name": "Eielson Afb",
+      "slug": "eielson-afb",
+      "county": "Fairbanks North Star County",
+      "lat": 64.67352,
+      "lng": -147.08051
+    },
+    {
+      "name": "Ekwok",
+      "slug": "ekwok",
+      "county": "Dillingham County",
+      "lat": 59.362792,
+      "lng": -157.478211
+    },
+    {
+      "name": "Elfin Cove",
+      "slug": "elfin-cove",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 58.195,
+      "lng": -136.358333
+    },
+    {
+      "name": "Elim",
+      "slug": "elim",
+      "county": "Nome County",
+      "lat": 64.621662,
+      "lng": -162.260371
+    },
+    {
+      "name": "Elmendorf Afb",
+      "slug": "elmendorf-afb",
+      "county": "Anchorage County",
+      "lat": 61.251531,
+      "lng": -149.812667
+    },
+    {
+      "name": "Emmonak",
+      "slug": "emmonak",
+      "county": "Kusilvak County",
+      "lat": 62.827404,
+      "lng": -164.131298
+    },
+    {
+      "name": "Ester",
+      "slug": "ester",
+      "county": "Fairbanks North Star County",
+      "lat": 64.846667,
+      "lng": -148.016667
+    },
+    {
+      "name": "Fairbanks",
+      "slug": "fairbanks",
+      "county": "Fairbanks North Star County",
+      "lat": 64.840238,
+      "lng": -147.710431
+    },
+    {
+      "name": "False Pass",
+      "slug": "false-pass",
+      "county": "Aleutians East County",
+      "lat": 54.841028,
+      "lng": -163.436845
+    },
+    {
+      "name": "Fort Greely",
+      "slug": "fort-greely",
+      "county": "Southeast Fairbanks County",
+      "lat": 64.036667,
+      "lng": -145.733333
+    },
+    {
+      "name": "Fort Richardson",
+      "slug": "fort-richardson",
+      "county": "Anchorage County",
+      "lat": 61.275256,
+      "lng": -149.675454
+    },
+    {
+      "name": "Fort Wainwright",
+      "slug": "fort-wainwright",
+      "county": "Fairbanks North Star County",
+      "lat": 64.828303,
+      "lng": -147.655673
+    },
+    {
+      "name": "Fort Yukon",
+      "slug": "fort-yukon",
+      "county": "Yukon Koyukuk County",
+      "lat": 66.520744,
+      "lng": -145.306439
+    },
+    {
+      "name": "Gakona",
+      "slug": "gakona",
+      "county": "Valdez Cordova County",
+      "lat": 62.654744,
+      "lng": -143.568393
+    },
+    {
+      "name": "Galena",
+      "slug": "galena",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.760784,
+      "lng": -156.797701
+    },
+    {
+      "name": "Gambell",
+      "slug": "gambell",
+      "county": "Nome County",
+      "lat": 63.776555,
+      "lng": -171.701685
+    },
+    {
+      "name": "Girdwood",
+      "slug": "girdwood",
+      "county": "Anchorage County",
+      "lat": 60.9425,
+      "lng": -149.166389
+    },
+    {
+      "name": "Glennallen",
+      "slug": "glennallen",
+      "county": "Valdez Cordova County",
+      "lat": 62.103895,
+      "lng": -145.661684
+    },
+    {
+      "name": "Goodnews Bay",
+      "slug": "goodnews-bay",
+      "county": "Bethel County",
+      "lat": 59.085008,
+      "lng": -161.587146
+    },
+    {
+      "name": "Grayling",
+      "slug": "grayling",
+      "county": "Yukon Koyukuk County",
+      "lat": 63.372013,
+      "lng": -159.404907
+    },
+    {
+      "name": "Gustavus",
+      "slug": "gustavus",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 58.42835,
+      "lng": -135.761542
+    },
+    {
+      "name": "Haines",
+      "slug": "haines",
+      "county": "Haines County",
+      "lat": 59.251886,
+      "lng": -135.542032
+    },
+    {
+      "name": "Healy",
+      "slug": "healy",
+      "county": "Denali County",
+      "lat": 63.917123,
+      "lng": -149.011128
+    },
+    {
+      "name": "Holy Cross",
+      "slug": "holy-cross",
+      "county": "Yukon Koyukuk County",
+      "lat": 62.192584,
+      "lng": -159.825092
+    },
+    {
+      "name": "Homer",
+      "slug": "homer",
+      "county": "Kenai Peninsula County",
+      "lat": 59.665495,
+      "lng": -151.462644
+    },
+    {
+      "name": "Hoonah",
+      "slug": "hoonah",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 58.032237,
+      "lng": -135.558435
+    },
+    {
+      "name": "Hooper Bay",
+      "slug": "hooper-bay",
+      "county": "Kusilvak County",
+      "lat": 61.537157,
+      "lng": -165.891045
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Kenai Peninsula County",
+      "lat": 60.92,
+      "lng": -149.641667
+    },
+    {
+      "name": "Houston",
+      "slug": "houston",
+      "county": "Matanuska Susitna County",
+      "lat": 61.633611,
+      "lng": -149.841111
+    },
+    {
+      "name": "Hughes",
+      "slug": "hughes",
+      "county": "Yukon Koyukuk County",
+      "lat": 66.038246,
+      "lng": -154.26443
+    },
+    {
+      "name": "Huslia",
+      "slug": "huslia",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.689918,
+      "lng": -156.291976
+    },
+    {
+      "name": "Hydaburg",
+      "slug": "hydaburg",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.137406,
+      "lng": -132.633175
+    },
+    {
+      "name": "Hyder",
+      "slug": "hyder",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.925867,
+      "lng": -130.124915
+    },
+    {
+      "name": "Iliamna",
+      "slug": "iliamna",
+      "county": "Lake And Peninsula County",
+      "lat": 59.564836,
+      "lng": -155.462556
+    },
+    {
+      "name": "Indian",
+      "slug": "indian",
+      "county": "Anchorage County",
+      "lat": 60.9804,
+      "lng": -149.4917
+    },
+    {
+      "name": "Juneau",
+      "slug": "juneau",
+      "county": "Juneau County",
+      "lat": 58.362767,
+      "lng": -134.529429
+    },
+    {
+      "name": "Kake",
+      "slug": "kake",
+      "county": "Wrangell Petersburg County",
+      "lat": 56.975833,
+      "lng": -133.947222
+    },
+    {
+      "name": "Kaktovik",
+      "slug": "kaktovik",
+      "county": "North Slope County",
+      "lat": 70.042889,
+      "lng": -143.631329
+    },
+    {
+      "name": "Kalskag",
+      "slug": "kalskag",
+      "county": "Bethel County",
+      "lat": 61.541006,
+      "lng": -160.3261
+    },
+    {
+      "name": "Kaltag",
+      "slug": "kaltag",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.330452,
+      "lng": -158.724251
+    },
+    {
+      "name": "Karluk",
+      "slug": "karluk",
+      "county": "Kodiak Island County",
+      "lat": 57.57,
+      "lng": -154.458333
+    },
+    {
+      "name": "Kasigluk",
+      "slug": "kasigluk",
+      "county": "Bethel County",
+      "lat": 60.895556,
+      "lng": -162.520556
+    },
+    {
+      "name": "Kasilof",
+      "slug": "kasilof",
+      "county": "Kenai Peninsula County",
+      "lat": 60.316365,
+      "lng": -151.28958
+    },
+    {
+      "name": "Kenai",
+      "slug": "kenai",
+      "county": "Kenai Peninsula County",
+      "lat": 60.614467,
+      "lng": -151.254556
+    },
+    {
+      "name": "Ketchikan",
+      "slug": "ketchikan",
+      "county": "Ketchikan Gateway County",
+      "lat": 55.372028,
+      "lng": -131.683175
+    },
+    {
+      "name": "Kiana",
+      "slug": "kiana",
+      "county": "Northwest Arctic County",
+      "lat": 67.18026,
+      "lng": -158.152204
+    },
+    {
+      "name": "King Cove",
+      "slug": "king-cove",
+      "county": "Aleutians East County",
+      "lat": 55.062848,
+      "lng": -162.305561
+    },
+    {
+      "name": "King Salmon",
+      "slug": "king-salmon",
+      "county": "Bristol Bay County",
+      "lat": 58.724264,
+      "lng": -156.641603
+    },
+    {
+      "name": "Kipnuk",
+      "slug": "kipnuk",
+      "county": "Bethel County",
+      "lat": 59.923204,
+      "lng": -164.101013
+    },
+    {
+      "name": "Kivalina",
+      "slug": "kivalina",
+      "county": "Northwest Arctic County",
+      "lat": 67.665859,
+      "lng": -163.733617
+    },
+    {
+      "name": "Klawock",
+      "slug": "klawock",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.552611,
+      "lng": -133.055503
+    },
+    {
+      "name": "Kobuk",
+      "slug": "kobuk",
+      "county": "Northwest Arctic County",
+      "lat": 66.912253,
+      "lng": -157.066864
+    },
+    {
+      "name": "Kodiak",
+      "slug": "kodiak",
+      "county": "Kodiak Island County",
+      "lat": 57.781967,
+      "lng": -152.500169
+    },
+    {
+      "name": "Kongiganak",
+      "slug": "kongiganak",
+      "county": "Bethel County",
+      "lat": 60.9888,
+      "lng": -149.4116
+    },
+    {
+      "name": "Kotlik",
+      "slug": "kotlik",
+      "county": "Kusilvak County",
+      "lat": 63.029471,
+      "lng": -163.554153
+    },
+    {
+      "name": "Kotzebue",
+      "slug": "kotzebue",
+      "county": "Northwest Arctic County",
+      "lat": 66.846459,
+      "lng": -162.126493
+    },
+    {
+      "name": "Koyuk",
+      "slug": "koyuk",
+      "county": "Nome County",
+      "lat": 64.931668,
+      "lng": -161.149957
+    },
+    {
+      "name": "Koyukuk",
+      "slug": "koyukuk",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.883333,
+      "lng": -157.7
+    },
+    {
+      "name": "Kwethluk",
+      "slug": "kwethluk",
+      "county": "Bethel County",
+      "lat": 60.771814,
+      "lng": -161.38849
+    },
+    {
+      "name": "Kwigillingok",
+      "slug": "kwigillingok",
+      "county": "Bethel County",
+      "lat": 59.881022,
+      "lng": -162.984938
+    },
+    {
+      "name": "Lake Minchumina",
+      "slug": "lake-minchumina",
+      "county": "Yukon Koyukuk County",
+      "lat": 63.903884,
+      "lng": -152.430081
+    },
+    {
+      "name": "Larsen Bay",
+      "slug": "larsen-bay",
+      "county": "Kodiak Island County",
+      "lat": 57.538333,
+      "lng": -153.98
+    },
+    {
+      "name": "Levelock",
+      "slug": "levelock",
+      "county": "Lake And Peninsula County",
+      "lat": 59.371395,
+      "lng": -154.976815
+    },
+    {
+      "name": "Lower Kalskag",
+      "slug": "lower-kalskag",
+      "county": "Bethel County",
+      "lat": 61.51377,
+      "lng": -160.359966
+    },
+    {
+      "name": "Manley Hot Springs",
+      "slug": "manley-hot-springs",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.02058,
+      "lng": -150.573267
+    },
+    {
+      "name": "Manokotak",
+      "slug": "manokotak",
+      "county": "Dillingham County",
+      "lat": 59.009559,
+      "lng": -158.989699
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Kusilvak County",
+      "lat": 61.837087,
+      "lng": -161.7394
+    },
+    {
+      "name": "Mc Grath",
+      "slug": "mc-grath",
+      "county": "Yukon Koyukuk County",
+      "lat": 62.967153,
+      "lng": -155.585153
+    },
+    {
+      "name": "Mekoryuk",
+      "slug": "mekoryuk",
+      "county": "Bethel County",
+      "lat": 60.365679,
+      "lng": -166.283583
+    },
+    {
+      "name": "Metlakatla",
+      "slug": "metlakatla",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.121491,
+      "lng": -131.579001
+    },
+    {
+      "name": "Meyers Chuck",
+      "slug": "meyers-chuck",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.741667,
+      "lng": -132.253333
+    },
+    {
+      "name": "Minto",
+      "slug": "minto",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.058399,
+      "lng": -149.691186
+    },
+    {
+      "name": "Moose Pass",
+      "slug": "moose-pass",
+      "county": "Kenai Peninsula County",
+      "lat": 60.85852,
+      "lng": -149.255911
+    },
+    {
+      "name": "Mountain Village",
+      "slug": "mountain-village",
+      "county": "Kusilvak County",
+      "lat": 62.158913,
+      "lng": -163.883822
+    },
+    {
+      "name": "Naknek",
+      "slug": "naknek",
+      "county": "Bristol Bay County",
+      "lat": 58.885699,
+      "lng": -156.705405
+    },
+    {
+      "name": "Napakiak",
+      "slug": "napakiak",
+      "county": "Bethel County",
+      "lat": 60.663758,
+      "lng": -161.738144
+    },
+    {
+      "name": "Nenana",
+      "slug": "nenana",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.557656,
+      "lng": -149.086744
+    },
+    {
+      "name": "New Stuyahok",
+      "slug": "new-stuyahok",
+      "county": "Dillingham County",
+      "lat": 59.593533,
+      "lng": -157.297205
+    },
+    {
+      "name": "Nightmute",
+      "slug": "nightmute",
+      "county": "Bethel County",
+      "lat": 60.479444,
+      "lng": -164.723889
+    },
+    {
+      "name": "Nikiski",
+      "slug": "nikiski",
+      "county": "Kenai Peninsula County",
+      "lat": 60.690278,
+      "lng": -151.288889
+    },
+    {
+      "name": "Nikolai",
+      "slug": "nikolai",
+      "county": "Yukon Koyukuk County",
+      "lat": 63.001603,
+      "lng": -154.381247
+    },
+    {
+      "name": "Nikolski",
+      "slug": "nikolski",
+      "county": "Aleutians West County",
+      "lat": 52.988337,
+      "lng": -168.788427
+    },
+    {
+      "name": "Ninilchik",
+      "slug": "ninilchik",
+      "county": "Kenai Peninsula County",
+      "lat": 60.010833,
+      "lng": -151.639604
+    },
+    {
+      "name": "Noatak",
+      "slug": "noatak",
+      "county": "Northwest Arctic County",
+      "lat": 66.97553,
+      "lng": -160.509453
+    },
+    {
+      "name": "Nome",
+      "slug": "nome",
+      "county": "Nome County",
+      "lat": 64.505775,
+      "lng": -165.310667
+    },
+    {
+      "name": "Nondalton",
+      "slug": "nondalton",
+      "county": "Lake And Peninsula County",
+      "lat": 60.030837,
+      "lng": -154.731675
+    },
+    {
+      "name": "Noorvik",
+      "slug": "noorvik",
+      "county": "Northwest Arctic County",
+      "lat": 66.836353,
+      "lng": -161.044132
+    },
+    {
+      "name": "North Pole",
+      "slug": "north-pole",
+      "county": "Fairbanks North Star County",
+      "lat": 64.78049,
+      "lng": -147.369353
+    },
+    {
+      "name": "Northway",
+      "slug": "northway",
+      "county": "Southeast Fairbanks County",
+      "lat": 62.964167,
+      "lng": -141.908611
+    },
+    {
+      "name": "Nuiqsut",
+      "slug": "nuiqsut",
+      "county": "North Slope County",
+      "lat": 70.192737,
+      "lng": -150.997119
+    },
+    {
+      "name": "Nulato",
+      "slug": "nulato",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.778024,
+      "lng": -157.991353
+    },
+    {
+      "name": "Nunam Iqua",
+      "slug": "nunam-iqua",
+      "county": "Kusilvak County",
+      "lat": 62.509167,
+      "lng": -164.453333
+    },
+    {
+      "name": "Nunapitchuk",
+      "slug": "nunapitchuk",
+      "county": "Bethel County",
+      "lat": 60.896944,
+      "lng": -162.459444
+    },
+    {
+      "name": "Old Harbor",
+      "slug": "old-harbor",
+      "county": "Kodiak Island County",
+      "lat": 57.202778,
+      "lng": -153.303889
+    },
+    {
+      "name": "Ouzinkie",
+      "slug": "ouzinkie",
+      "county": "Kodiak Island County",
+      "lat": 57.925,
+      "lng": -152.491667
+    },
+    {
+      "name": "Palmer",
+      "slug": "palmer",
+      "county": "Matanuska Susitna County",
+      "lat": 61.613814,
+      "lng": -149.065323
+    },
+    {
+      "name": "Pedro Bay",
+      "slug": "pedro-bay",
+      "county": "Lake And Peninsula County",
+      "lat": 59.92238,
+      "lng": -153.821856
+    },
+    {
+      "name": "Pelican",
+      "slug": "pelican",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 57.960833,
+      "lng": -136.2275
+    },
+    {
+      "name": "Perryville",
+      "slug": "perryville",
+      "county": "Lake And Peninsula County",
+      "lat": 55.945289,
+      "lng": -159.259333
+    },
+    {
+      "name": "Petersburg",
+      "slug": "petersburg",
+      "county": "Wrangell Petersburg County",
+      "lat": 56.827134,
+      "lng": -133.160683
+    },
+    {
+      "name": "Pilot Point",
+      "slug": "pilot-point",
+      "county": "Lake And Peninsula County",
+      "lat": 57.595193,
+      "lng": -157.449272
+    },
+    {
+      "name": "Pilot Station",
+      "slug": "pilot-station",
+      "county": "Kusilvak County",
+      "lat": 61.946159,
+      "lng": -162.874716
+    },
+    {
+      "name": "Platinum",
+      "slug": "platinum",
+      "county": "Bethel County",
+      "lat": 58.63364,
+      "lng": -162.043201
+    },
+    {
+      "name": "Point Baker",
+      "slug": "point-baker",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 56.307858,
+      "lng": -133.376372
+    },
+    {
+      "name": "Point Hope",
+      "slug": "point-hope",
+      "county": "North Slope County",
+      "lat": 68.312058,
+      "lng": -166.72618
+    },
+    {
+      "name": "Point Lay",
+      "slug": "point-lay",
+      "county": "North Slope County",
+      "lat": 69.705626,
+      "lng": -162.906148
+    },
+    {
+      "name": "Port Alexander",
+      "slug": "port-alexander",
+      "county": "Wrangell Petersburg County",
+      "lat": 57.05,
+      "lng": -135.333333
+    },
+    {
+      "name": "Port Alsworth",
+      "slug": "port-alsworth",
+      "county": "Lake And Peninsula County",
+      "lat": 60.636416,
+      "lng": -154.433803
+    },
+    {
+      "name": "Port Heiden",
+      "slug": "port-heiden",
+      "county": "Lake And Peninsula County",
+      "lat": 56.964333,
+      "lng": -158.566367
+    },
+    {
+      "name": "Port Lions",
+      "slug": "port-lions",
+      "county": "Kodiak Island County",
+      "lat": 57.866667,
+      "lng": -152.883333
+    },
+    {
+      "name": "Prudhoe Bay",
+      "slug": "prudhoe-bay",
+      "county": "North Slope County",
+      "lat": 70.070057,
+      "lng": -148.559636
+    },
+    {
+      "name": "Quinhagak",
+      "slug": "quinhagak",
+      "county": "Bethel County",
+      "lat": 59.738057,
+      "lng": -161.874938
+    },
+    {
+      "name": "Rampart",
+      "slug": "rampart",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.383627,
+      "lng": -150.011201
+    },
+    {
+      "name": "Red Devil",
+      "slug": "red-devil",
+      "county": "Bethel County",
+      "lat": 61.735389,
+      "lng": -157.195969
+    },
+    {
+      "name": "Ruby",
+      "slug": "ruby",
+      "county": "Yukon Koyukuk County",
+      "lat": 64.720062,
+      "lng": -155.503872
+    },
+    {
+      "name": "Russian Mission",
+      "slug": "russian-mission",
+      "county": "Kusilvak County",
+      "lat": 61.591302,
+      "lng": -161.558413
+    },
+    {
+      "name": "Saint George Island",
+      "slug": "saint-george-island",
+      "county": "Aleutians West County",
+      "lat": 56.60324,
+      "lng": -169.547257
+    },
+    {
+      "name": "Saint Marys",
+      "slug": "saint-marys",
+      "county": "Kusilvak County",
+      "lat": 62.054106,
+      "lng": -163.205263
+    },
+    {
+      "name": "Saint Michael",
+      "slug": "saint-michael",
+      "county": "Nome County",
+      "lat": 63.47759,
+      "lng": -162.109141
+    },
+    {
+      "name": "Saint Paul Island",
+      "slug": "saint-paul-island",
+      "county": "Aleutians West County",
+      "lat": 57.178697,
+      "lng": -170.293408
+    },
+    {
+      "name": "Salcha",
+      "slug": "salcha",
+      "county": "Fairbanks North Star County",
+      "lat": 64.50905,
+      "lng": -146.952974
+    },
+    {
+      "name": "Sand Point",
+      "slug": "sand-point",
+      "county": "Aleutians East County",
+      "lat": 55.319236,
+      "lng": -160.491435
+    },
+    {
+      "name": "Savoonga",
+      "slug": "savoonga",
+      "county": "Nome County",
+      "lat": 63.679737,
+      "lng": -170.470908
+    },
+    {
+      "name": "Scammon Bay",
+      "slug": "scammon-bay",
+      "county": "Kusilvak County",
+      "lat": 61.845019,
+      "lng": -165.581945
+    },
+    {
+      "name": "Selawik",
+      "slug": "selawik",
+      "county": "Northwest Arctic County",
+      "lat": 65.713537,
+      "lng": -158.534287
+    },
+    {
+      "name": "Seldovia",
+      "slug": "seldovia",
+      "county": "Kenai Peninsula County",
+      "lat": 59.436667,
+      "lng": -151.708333
+    },
+    {
+      "name": "Seward",
+      "slug": "seward",
+      "county": "Kenai Peninsula County",
+      "lat": 60.132874,
+      "lng": -149.39849
+    },
+    {
+      "name": "Shageluk",
+      "slug": "shageluk",
+      "county": "Yukon Koyukuk County",
+      "lat": 62.661092,
+      "lng": -159.52816
+    },
+    {
+      "name": "Shaktoolik",
+      "slug": "shaktoolik",
+      "county": "Nome County",
+      "lat": 64.375498,
+      "lng": -161.174589
+    },
+    {
+      "name": "Shishmaref",
+      "slug": "shishmaref",
+      "county": "Nome County",
+      "lat": 66.230562,
+      "lng": -166.137276
+    },
+    {
+      "name": "Shungnak",
+      "slug": "shungnak",
+      "county": "Northwest Arctic County",
+      "lat": 66.958141,
+      "lng": -157.613496
+    },
+    {
+      "name": "Sitka",
+      "slug": "sitka",
+      "county": "Sitka County",
+      "lat": 57.051436,
+      "lng": -135.316569
+    },
+    {
+      "name": "Skagway",
+      "slug": "skagway",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 59.468471,
+      "lng": -135.301794
+    },
+    {
+      "name": "Skwentna",
+      "slug": "skwentna",
+      "county": "Matanuska Susitna County",
+      "lat": 61.958333,
+      "lng": -151.181667
+    },
+    {
+      "name": "Sleetmute",
+      "slug": "sleetmute",
+      "county": "Bethel County",
+      "lat": 61.634555,
+      "lng": -157.118284
+    },
+    {
+      "name": "Soldotna",
+      "slug": "soldotna",
+      "county": "Kenai Peninsula County",
+      "lat": 60.481778,
+      "lng": -151.13582
+    },
+    {
+      "name": "South Naknek",
+      "slug": "south-naknek",
+      "county": "Bristol Bay County",
+      "lat": 58.736221,
+      "lng": -156.850289
+    },
+    {
+      "name": "Stebbins",
+      "slug": "stebbins",
+      "county": "Nome County",
+      "lat": 63.478468,
+      "lng": -162.227355
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Kenai Peninsula County",
+      "lat": 60.520373,
+      "lng": -150.849792
+    },
+    {
+      "name": "Stevens Village",
+      "slug": "stevens-village",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.995894,
+      "lng": -149.118286
+    },
+    {
+      "name": "Sutton",
+      "slug": "sutton",
+      "county": "Matanuska Susitna County",
+      "lat": 61.796667,
+      "lng": -148.462778
+    },
+    {
+      "name": "Takotna",
+      "slug": "takotna",
+      "county": "Yukon Koyukuk County",
+      "lat": 62.948889,
+      "lng": -155.566389
+    },
+    {
+      "name": "Talkeetna",
+      "slug": "talkeetna",
+      "county": "Matanuska Susitna County",
+      "lat": 62.260516,
+      "lng": -150.110097
+    },
+    {
+      "name": "Tanacross",
+      "slug": "tanacross",
+      "county": "Southeast Fairbanks County",
+      "lat": 63.385278,
+      "lng": -143.346389
+    },
+    {
+      "name": "Tanana",
+      "slug": "tanana",
+      "county": "Yukon Koyukuk County",
+      "lat": 65.156483,
+      "lng": -152.103747
+    },
+    {
+      "name": "Tatitlek",
+      "slug": "tatitlek",
+      "county": "Valdez Cordova County",
+      "lat": 60.864722,
+      "lng": -146.678611
+    },
+    {
+      "name": "Teller",
+      "slug": "teller",
+      "county": "Nome County",
+      "lat": 65.240164,
+      "lng": -166.3833
+    },
+    {
+      "name": "Tenakee Springs",
+      "slug": "tenakee-springs",
+      "county": "Skagway Hoonah Angoon County",
+      "lat": 57.78,
+      "lng": -135.216667
+    },
+    {
+      "name": "Thorne Bay",
+      "slug": "thorne-bay",
+      "county": "Prince Wales Ketchikan County",
+      "lat": 55.66086,
+      "lng": -132.513815
+    },
+    {
+      "name": "Togiak",
+      "slug": "togiak",
+      "county": "Dillingham County",
+      "lat": 59.066667,
+      "lng": -160.4
+    },
+    {
+      "name": "Tok",
+      "slug": "tok",
+      "county": "Southeast Fairbanks County",
+      "lat": 63.333333,
+      "lng": -142.983333
+    },
+    {
+      "name": "Toksook Bay",
+      "slug": "toksook-bay",
+      "county": "Bethel County",
+      "lat": 60.537,
+      "lng": -165.097
+    },
+    {
+      "name": "Trapper Creek",
+      "slug": "trapper-creek",
+      "county": "Matanuska Susitna County",
+      "lat": 61.441361,
+      "lng": -150.284455
+    },
+    {
+      "name": "Tuluksak",
+      "slug": "tuluksak",
+      "county": "Bethel County",
+      "lat": 61.108848,
+      "lng": -160.938924
+    },
+    {
+      "name": "Tuntutuliak",
+      "slug": "tuntutuliak",
+      "county": "Bethel County",
+      "lat": 60.8438,
+      "lng": -161.6372
+    },
+    {
+      "name": "Tununak",
+      "slug": "tununak",
+      "county": "Bethel County",
+      "lat": 60.539322,
+      "lng": -165.097464
+    },
+    {
+      "name": "Two Rivers",
+      "slug": "two-rivers",
+      "county": "Fairbanks North Star County",
+      "lat": 64.871944,
+      "lng": -147.038056
+    },
+    {
+      "name": "Tyonek",
+      "slug": "tyonek",
+      "county": "Kenai Peninsula County",
+      "lat": 61.117929,
+      "lng": -151.348495
+    },
+    {
+      "name": "Unalakleet",
+      "slug": "unalakleet",
+      "county": "Nome County",
+      "lat": 63.883478,
+      "lng": -160.788365
+    },
+    {
+      "name": "Unalaska",
+      "slug": "unalaska",
+      "county": "Aleutians West County",
+      "lat": 53.887114,
+      "lng": -166.519855
+    },
+    {
+      "name": "Valdez",
+      "slug": "valdez",
+      "county": "Valdez Cordova County",
+      "lat": 60.895044,
+      "lng": -146.195628
+    },
+    {
+      "name": "Venetie",
+      "slug": "venetie",
+      "county": "Yukon Koyukuk County",
+      "lat": 67.010446,
+      "lng": -146.413723
+    },
+    {
+      "name": "Wainwright",
+      "slug": "wainwright",
+      "county": "North Slope County",
+      "lat": 70.620064,
+      "lng": -160.012532
+    },
+    {
+      "name": "Wales",
+      "slug": "wales",
+      "county": "Nome County",
+      "lat": 65.688212,
+      "lng": -168.520521
+    },
+    {
+      "name": "Ward Cove",
+      "slug": "ward-cove",
+      "county": "Ketchikan Gateway County",
+      "lat": 55.408333,
+      "lng": -131.725
+    },
+    {
+      "name": "Wasilla",
+      "slug": "wasilla",
+      "county": "Matanuska Susitna County",
+      "lat": 61.5814,
+      "lng": -149.4394
+    },
+    {
+      "name": "White Mountain",
+      "slug": "white-mountain",
+      "county": "Nome County",
+      "lat": 64.702791,
+      "lng": -163.42185
+    },
+    {
+      "name": "Whittier",
+      "slug": "whittier",
+      "county": "Valdez Cordova County",
+      "lat": 60.775,
+      "lng": -148.683333
+    },
+    {
+      "name": "Willow",
+      "slug": "willow",
+      "county": "Matanuska Susitna County",
+      "lat": 61.771511,
+      "lng": -150.188891
+    },
+    {
+      "name": "Wrangell",
+      "slug": "wrangell",
+      "county": "Wrangell Petersburg County",
+      "lat": 56.433524,
+      "lng": -132.352918
+    },
+    {
+      "name": "Yakutat",
+      "slug": "yakutat",
+      "county": "Yakutat County",
+      "lat": 59.620211,
+      "lng": -139.778858
+    }
+  ]
+}

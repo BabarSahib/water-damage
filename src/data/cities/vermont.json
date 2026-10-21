@@ -1,0 +1,2023 @@
+{
+  "stateName": "Vermont",
+  "stateCode": "VT",
+  "stateSlug": "vermont",
+  "cities": [
+    {
+      "name": "Adamant",
+      "slug": "adamant",
+      "county": "Washington County",
+      "lat": 44.35747,
+      "lng": -72.504649
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Orleans County",
+      "lat": 44.734427,
+      "lng": -72.34181
+    },
+    {
+      "name": "Alburgh",
+      "slug": "alburgh",
+      "county": "Grand Isle County",
+      "lat": 44.968454,
+      "lng": -73.280963
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Bennington County",
+      "lat": 43.085681,
+      "lng": -73.159364
+    },
+    {
+      "name": "Ascutney",
+      "slug": "ascutney",
+      "county": "Windsor County",
+      "lat": 43.406944,
+      "lng": -72.4075
+    },
+    {
+      "name": "Averill",
+      "slug": "averill",
+      "county": "Essex County",
+      "lat": 44.992304,
+      "lng": -71.700268
+    },
+    {
+      "name": "Bakersfield",
+      "slug": "bakersfield",
+      "county": "Franklin County",
+      "lat": 44.790518,
+      "lng": -72.796834
+    },
+    {
+      "name": "Barnard",
+      "slug": "barnard",
+      "county": "Windsor County",
+      "lat": 43.728611,
+      "lng": -72.619444
+    },
+    {
+      "name": "Barnet",
+      "slug": "barnet",
+      "county": "Caledonia County",
+      "lat": 44.317923,
+      "lng": -72.078326
+    },
+    {
+      "name": "Barre",
+      "slug": "barre",
+      "county": "Washington County",
+      "lat": 44.194522,
+      "lng": -72.493619
+    },
+    {
+      "name": "Barton",
+      "slug": "barton",
+      "county": "Orleans County",
+      "lat": 44.739465,
+      "lng": -72.160005
+    },
+    {
+      "name": "Beebe Plain",
+      "slug": "beebe-plain",
+      "county": "Orleans County",
+      "lat": 45.005278,
+      "lng": -72.141111
+    },
+    {
+      "name": "Beecher Falls",
+      "slug": "beecher-falls",
+      "county": "Essex County",
+      "lat": 45.006103,
+      "lng": -71.519901
+    },
+    {
+      "name": "Bellows Falls",
+      "slug": "bellows-falls",
+      "county": "Windham County",
+      "lat": 43.148198,
+      "lng": -72.466373
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Rutland County",
+      "lat": 43.428441,
+      "lng": -72.825701
+    },
+    {
+      "name": "Belvidere Center",
+      "slug": "belvidere-center",
+      "county": "Lamoille County",
+      "lat": 44.75,
+      "lng": -72.691667
+    },
+    {
+      "name": "Bennington",
+      "slug": "bennington",
+      "county": "Bennington County",
+      "lat": 42.882658,
+      "lng": -73.192321
+    },
+    {
+      "name": "Benson",
+      "slug": "benson",
+      "county": "Rutland County",
+      "lat": 43.594722,
+      "lng": -73.266111
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Windsor County",
+      "lat": 43.819464,
+      "lng": -72.652807
+    },
+    {
+      "name": "Bomoseen",
+      "slug": "bomoseen",
+      "county": "Rutland County",
+      "lat": 43.622413,
+      "lng": -73.206424
+    },
+    {
+      "name": "Bondville",
+      "slug": "bondville",
+      "county": "Bennington County",
+      "lat": 43.161831,
+      "lng": -72.912768
+    },
+    {
+      "name": "Bradford",
+      "slug": "bradford",
+      "county": "Orange County",
+      "lat": 44.0006,
+      "lng": -72.140638
+    },
+    {
+      "name": "Brandon",
+      "slug": "brandon",
+      "county": "Rutland County",
+      "lat": 43.806467,
+      "lng": -73.088182
+    },
+    {
+      "name": "Brattleboro",
+      "slug": "brattleboro",
+      "county": "Windham County",
+      "lat": 42.857353,
+      "lng": -72.593322
+    },
+    {
+      "name": "Bridgewater",
+      "slug": "bridgewater",
+      "county": "Windsor County",
+      "lat": 43.580428,
+      "lng": -72.646704
+    },
+    {
+      "name": "Bridgewater Corners",
+      "slug": "bridgewater-corners",
+      "county": "Windsor County",
+      "lat": 43.602147,
+      "lng": -72.682212
+    },
+    {
+      "name": "Bridport",
+      "slug": "bridport",
+      "county": "Addison County",
+      "lat": 43.95383,
+      "lng": -73.347557
+    },
+    {
+      "name": "Bristol",
+      "slug": "bristol",
+      "county": "Addison County",
+      "lat": 44.146031,
+      "lng": -73.071742
+    },
+    {
+      "name": "Brookfield",
+      "slug": "brookfield",
+      "county": "Orange County",
+      "lat": 44.032083,
+      "lng": -72.595259
+    },
+    {
+      "name": "Brownsville",
+      "slug": "brownsville",
+      "county": "Windsor County",
+      "lat": 43.464584,
+      "lng": -72.494405
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Chittenden County",
+      "lat": 44.484023,
+      "lng": -73.219875
+    },
+    {
+      "name": "Cabot",
+      "slug": "cabot",
+      "county": "Washington County",
+      "lat": 44.404215,
+      "lng": -72.306443
+    },
+    {
+      "name": "Calais",
+      "slug": "calais",
+      "county": "Washington County",
+      "lat": 44.393438,
+      "lng": -72.474113
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge",
+      "county": "Chittenden County",
+      "lat": 44.651013,
+      "lng": -72.865728
+    },
+    {
+      "name": "Cambridgeport",
+      "slug": "cambridgeport",
+      "county": "Windham County",
+      "lat": 43.153363,
+      "lng": -72.565511
+    },
+    {
+      "name": "Canaan",
+      "slug": "canaan",
+      "county": "Essex County",
+      "lat": 44.976439,
+      "lng": -71.560214
+    },
+    {
+      "name": "Castleton",
+      "slug": "castleton",
+      "county": "Rutland County",
+      "lat": 43.622312,
+      "lng": -73.170797
+    },
+    {
+      "name": "Cavendish",
+      "slug": "cavendish",
+      "county": "Windsor County",
+      "lat": 43.376621,
+      "lng": -72.609247
+    },
+    {
+      "name": "Center Rutland",
+      "slug": "center-rutland",
+      "county": "Rutland County",
+      "lat": 43.602345,
+      "lng": -73.016986
+    },
+    {
+      "name": "Charlotte",
+      "slug": "charlotte",
+      "county": "Chittenden County",
+      "lat": 44.311277,
+      "lng": -73.227969
+    },
+    {
+      "name": "Chelsea",
+      "slug": "chelsea",
+      "county": "Orange County",
+      "lat": 44.003931,
+      "lng": -72.479303
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Windsor County",
+      "lat": 43.283124,
+      "lng": -72.603125
+    },
+    {
+      "name": "Chester Depot",
+      "slug": "chester-depot",
+      "county": "Windsor County",
+      "lat": 43.262778,
+      "lng": -72.595556
+    },
+    {
+      "name": "Chittenden",
+      "slug": "chittenden",
+      "county": "Rutland County",
+      "lat": 43.703382,
+      "lng": -72.936001
+    },
+    {
+      "name": "Colchester",
+      "slug": "colchester",
+      "county": "Chittenden County",
+      "lat": 44.5489,
+      "lng": -73.1862
+    },
+    {
+      "name": "Concord",
+      "slug": "concord",
+      "county": "Essex County",
+      "lat": 44.446055,
+      "lng": -71.867554
+    },
+    {
+      "name": "Corinth",
+      "slug": "corinth",
+      "county": "Orange County",
+      "lat": 44.032533,
+      "lng": -72.282241
+    },
+    {
+      "name": "Coventry",
+      "slug": "coventry",
+      "county": "Orleans County",
+      "lat": 44.880853,
+      "lng": -72.254471
+    },
+    {
+      "name": "Craftsbury",
+      "slug": "craftsbury",
+      "county": "Orleans County",
+      "lat": 44.64341,
+      "lng": -72.366007
+    },
+    {
+      "name": "Craftsbury Common",
+      "slug": "craftsbury-common",
+      "county": "Orleans County",
+      "lat": 44.652917,
+      "lng": -72.414578
+    },
+    {
+      "name": "Cuttingsville",
+      "slug": "cuttingsville",
+      "county": "Rutland County",
+      "lat": 43.522084,
+      "lng": -72.869089
+    },
+    {
+      "name": "Danby",
+      "slug": "danby",
+      "county": "Rutland County",
+      "lat": 43.358341,
+      "lng": -73.01285
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Caledonia County",
+      "lat": 44.433241,
+      "lng": -72.113319
+    },
+    {
+      "name": "Derby",
+      "slug": "derby",
+      "county": "Orleans County",
+      "lat": 44.950182,
+      "lng": -72.137555
+    },
+    {
+      "name": "Derby Line",
+      "slug": "derby-line",
+      "county": "Orleans County",
+      "lat": 44.990183,
+      "lng": -72.082367
+    },
+    {
+      "name": "Dorset",
+      "slug": "dorset",
+      "county": "Bennington County",
+      "lat": 43.263561,
+      "lng": -73.076603
+    },
+    {
+      "name": "East Arlington",
+      "slug": "east-arlington",
+      "county": "Bennington County",
+      "lat": 43.063801,
+      "lng": -73.138904
+    },
+    {
+      "name": "East Barre",
+      "slug": "east-barre",
+      "county": "Washington County",
+      "lat": 44.158277,
+      "lng": -72.446003
+    },
+    {
+      "name": "East Berkshire",
+      "slug": "east-berkshire",
+      "county": "Franklin County",
+      "lat": 44.929798,
+      "lng": -72.706564
+    },
+    {
+      "name": "East Burke",
+      "slug": "east-burke",
+      "county": "Caledonia County",
+      "lat": 44.607849,
+      "lng": -71.935674
+    },
+    {
+      "name": "East Calais",
+      "slug": "east-calais",
+      "county": "Washington County",
+      "lat": 44.355599,
+      "lng": -72.439829
+    },
+    {
+      "name": "East Charleston",
+      "slug": "east-charleston",
+      "county": "Orleans County",
+      "lat": 44.829896,
+      "lng": -71.97627
+    },
+    {
+      "name": "East Corinth",
+      "slug": "east-corinth",
+      "county": "Orange County",
+      "lat": 44.061851,
+      "lng": -72.215144
+    },
+    {
+      "name": "East Dorset",
+      "slug": "east-dorset",
+      "county": "Bennington County",
+      "lat": 43.236982,
+      "lng": -73.008146
+    },
+    {
+      "name": "East Dover",
+      "slug": "east-dover",
+      "county": "Windham County",
+      "lat": 42.950508,
+      "lng": -72.783032
+    },
+    {
+      "name": "East Fairfield",
+      "slug": "east-fairfield",
+      "county": "Franklin County",
+      "lat": 44.801805,
+      "lng": -72.910995
+    },
+    {
+      "name": "East Hardwick",
+      "slug": "east-hardwick",
+      "county": "Caledonia County",
+      "lat": 44.528833,
+      "lng": -72.303351
+    },
+    {
+      "name": "East Haven",
+      "slug": "east-haven",
+      "county": "Essex County",
+      "lat": 44.651724,
+      "lng": -71.867491
+    },
+    {
+      "name": "East Middlebury",
+      "slug": "east-middlebury",
+      "county": "Addison County",
+      "lat": 43.973333,
+      "lng": -73.106667
+    },
+    {
+      "name": "East Montpelier",
+      "slug": "east-montpelier",
+      "county": "Washington County",
+      "lat": 44.282844,
+      "lng": -72.492636
+    },
+    {
+      "name": "East Poultney",
+      "slug": "east-poultney",
+      "county": "Rutland County",
+      "lat": 43.526389,
+      "lng": -73.205
+    },
+    {
+      "name": "East Randolph",
+      "slug": "east-randolph",
+      "county": "Orange County",
+      "lat": 43.955297,
+      "lng": -72.548746
+    },
+    {
+      "name": "East Ryegate",
+      "slug": "east-ryegate",
+      "county": "Caledonia County",
+      "lat": 44.193453,
+      "lng": -72.072669
+    },
+    {
+      "name": "East Saint Johnsbury",
+      "slug": "east-saint-johnsbury",
+      "county": "Caledonia County",
+      "lat": 44.438611,
+      "lng": -71.946111
+    },
+    {
+      "name": "East Thetford",
+      "slug": "east-thetford",
+      "county": "Orange County",
+      "lat": 43.825757,
+      "lng": -72.19668
+    },
+    {
+      "name": "East Wallingford",
+      "slug": "east-wallingford",
+      "county": "Rutland County",
+      "lat": 43.446063,
+      "lng": -72.884375
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "county": "Lamoille County",
+      "lat": 44.734267,
+      "lng": -72.5863
+    },
+    {
+      "name": "Eden Mills",
+      "slug": "eden-mills",
+      "county": "Lamoille County",
+      "lat": 44.693123,
+      "lng": -72.513447
+    },
+    {
+      "name": "Enosburg Falls",
+      "slug": "enosburg-falls",
+      "county": "Franklin County",
+      "lat": 44.898491,
+      "lng": -72.791037
+    },
+    {
+      "name": "Essex",
+      "slug": "essex",
+      "county": "Chittenden County",
+      "lat": 44.491944,
+      "lng": -73.109444
+    },
+    {
+      "name": "Essex Junction",
+      "slug": "essex-junction",
+      "county": "Chittenden County",
+      "lat": 44.503466,
+      "lng": -73.090644
+    },
+    {
+      "name": "Fair Haven",
+      "slug": "fair-haven",
+      "county": "Rutland County",
+      "lat": 43.62345,
+      "lng": -73.270068
+    },
+    {
+      "name": "Fairfax",
+      "slug": "fairfax",
+      "county": "Chittenden County",
+      "lat": 44.692387,
+      "lng": -73.024078
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Franklin County",
+      "lat": 44.784087,
+      "lng": -73.022187
+    },
+    {
+      "name": "Fairlee",
+      "slug": "fairlee",
+      "county": "Orange County",
+      "lat": 43.90105,
+      "lng": -72.190214
+    },
+    {
+      "name": "Ferrisburgh",
+      "slug": "ferrisburgh",
+      "county": "Addison County",
+      "lat": 44.212822,
+      "lng": -73.258575
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Rutland County",
+      "lat": 43.709294,
+      "lng": -73.078988
+    },
+    {
+      "name": "Forest Dale",
+      "slug": "forest-dale",
+      "county": "Rutland County",
+      "lat": 43.827778,
+      "lng": -73.054167
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Franklin County",
+      "lat": 44.961408,
+      "lng": -72.903694
+    },
+    {
+      "name": "Gaysville",
+      "slug": "gaysville",
+      "county": "Windsor County",
+      "lat": 43.752912,
+      "lng": -72.731149
+    },
+    {
+      "name": "Gilman",
+      "slug": "gilman",
+      "county": "Essex County",
+      "lat": 44.413985,
+      "lng": -71.71786
+    },
+    {
+      "name": "Glover",
+      "slug": "glover",
+      "county": "Orleans County",
+      "lat": 44.719979,
+      "lng": -72.203819
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Windham County",
+      "lat": 43.160095,
+      "lng": -72.597229
+    },
+    {
+      "name": "Granby",
+      "slug": "granby",
+      "county": "Essex County",
+      "lat": 44.570556,
+      "lng": -71.759167
+    },
+    {
+      "name": "Grand Isle",
+      "slug": "grand-isle",
+      "county": "Grand Isle County",
+      "lat": 44.719711,
+      "lng": -73.30561
+    },
+    {
+      "name": "Graniteville",
+      "slug": "graniteville",
+      "county": "Washington County",
+      "lat": 44.157326,
+      "lng": -72.484529
+    },
+    {
+      "name": "Granville",
+      "slug": "granville",
+      "county": "Addison County",
+      "lat": 43.984912,
+      "lng": -72.8245
+    },
+    {
+      "name": "Greensboro",
+      "slug": "greensboro",
+      "county": "Orleans County",
+      "lat": 44.595069,
+      "lng": -72.285017
+    },
+    {
+      "name": "Greensboro Bend",
+      "slug": "greensboro-bend",
+      "county": "Orleans County",
+      "lat": 44.548488,
+      "lng": -72.252478
+    },
+    {
+      "name": "Groton",
+      "slug": "groton",
+      "county": "Caledonia County",
+      "lat": 44.220435,
+      "lng": -72.217548
+    },
+    {
+      "name": "Guildhall",
+      "slug": "guildhall",
+      "county": "Essex County",
+      "lat": 44.690218,
+      "lng": -71.599057
+    },
+    {
+      "name": "Hancock",
+      "slug": "hancock",
+      "county": "Addison County",
+      "lat": 43.912525,
+      "lng": -72.913285
+    },
+    {
+      "name": "Hardwick",
+      "slug": "hardwick",
+      "county": "Caledonia County",
+      "lat": 44.507026,
+      "lng": -72.363818
+    },
+    {
+      "name": "Hartford",
+      "slug": "hartford",
+      "county": "Windsor County",
+      "lat": 43.660556,
+      "lng": -72.338889
+    },
+    {
+      "name": "Hartland",
+      "slug": "hartland",
+      "county": "Windsor County",
+      "lat": 43.570764,
+      "lng": -72.413103
+    },
+    {
+      "name": "Hartland Four Corners",
+      "slug": "hartland-four-corners",
+      "county": "Windsor County",
+      "lat": 43.546389,
+      "lng": -72.425
+    },
+    {
+      "name": "Highgate Center",
+      "slug": "highgate-center",
+      "county": "Franklin County",
+      "lat": 44.940395,
+      "lng": -73.015468
+    },
+    {
+      "name": "Highgate Springs",
+      "slug": "highgate-springs",
+      "county": "Franklin County",
+      "lat": 44.979444,
+      "lng": -73.105833
+    },
+    {
+      "name": "Hinesburg",
+      "slug": "hinesburg",
+      "county": "Chittenden County",
+      "lat": 44.334621,
+      "lng": -73.097955
+    },
+    {
+      "name": "Huntington",
+      "slug": "huntington",
+      "county": "Chittenden County",
+      "lat": 44.322655,
+      "lng": -72.996432
+    },
+    {
+      "name": "Hyde Park",
+      "slug": "hyde-park",
+      "county": "Lamoille County",
+      "lat": 44.622453,
+      "lng": -72.594971
+    },
+    {
+      "name": "Hydeville",
+      "slug": "hydeville",
+      "county": "Rutland County",
+      "lat": 43.605556,
+      "lng": -73.228611
+    },
+    {
+      "name": "Irasburg",
+      "slug": "irasburg",
+      "county": "Orleans County",
+      "lat": 44.808056,
+      "lng": -72.276269
+    },
+    {
+      "name": "Island Pond",
+      "slug": "island-pond",
+      "county": "Essex County",
+      "lat": 44.809452,
+      "lng": -71.883964
+    },
+    {
+      "name": "Isle La Motte",
+      "slug": "isle-la-motte",
+      "county": "Grand Isle County",
+      "lat": 44.874829,
+      "lng": -73.339095
+    },
+    {
+      "name": "Jacksonville",
+      "slug": "jacksonville",
+      "county": "Windham County",
+      "lat": 42.777752,
+      "lng": -72.807121
+    },
+    {
+      "name": "Jamaica",
+      "slug": "jamaica",
+      "county": "Windham County",
+      "lat": 43.104235,
+      "lng": -72.794409
+    },
+    {
+      "name": "Jeffersonville",
+      "slug": "jeffersonville",
+      "county": "Lamoille County",
+      "lat": 44.662499,
+      "lng": -72.780577
+    },
+    {
+      "name": "Jericho",
+      "slug": "jericho",
+      "county": "Chittenden County",
+      "lat": 44.484318,
+      "lng": -72.979398
+    },
+    {
+      "name": "Johnson",
+      "slug": "johnson",
+      "county": "Lamoille County",
+      "lat": 44.64204,
+      "lng": -72.671154
+    },
+    {
+      "name": "Jonesville",
+      "slug": "jonesville",
+      "county": "Chittenden County",
+      "lat": 44.383889,
+      "lng": -72.938056
+    },
+    {
+      "name": "Killington",
+      "slug": "killington",
+      "county": "Rutland County",
+      "lat": 43.663364,
+      "lng": -72.79631
+    },
+    {
+      "name": "Lake Elmore",
+      "slug": "lake-elmore",
+      "county": "Lamoille County",
+      "lat": 44.561667,
+      "lng": -72.598889
+    },
+    {
+      "name": "Londonderry",
+      "slug": "londonderry",
+      "county": "Windham County",
+      "lat": 43.223961,
+      "lng": -72.801756
+    },
+    {
+      "name": "Lowell",
+      "slug": "lowell",
+      "county": "Orleans County",
+      "lat": 44.796107,
+      "lng": -72.450132
+    },
+    {
+      "name": "Lower Waterford",
+      "slug": "lower-waterford",
+      "county": "Caledonia County",
+      "lat": 44.354444,
+      "lng": -71.9075
+    },
+    {
+      "name": "Ludlow",
+      "slug": "ludlow",
+      "county": "Windsor County",
+      "lat": 43.392909,
+      "lng": -72.700184
+    },
+    {
+      "name": "Lunenburg",
+      "slug": "lunenburg",
+      "county": "Essex County",
+      "lat": 44.466262,
+      "lng": -71.69304
+    },
+    {
+      "name": "Lyndon",
+      "slug": "lyndon",
+      "county": "Caledonia County",
+      "lat": 44.514167,
+      "lng": -72.011389
+    },
+    {
+      "name": "Lyndon Center",
+      "slug": "lyndon-center",
+      "county": "Caledonia County",
+      "lat": 44.54719,
+      "lng": -72.031062
+    },
+    {
+      "name": "Lyndonville",
+      "slug": "lyndonville",
+      "county": "Caledonia County",
+      "lat": 44.540766,
+      "lng": -72.009168
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Bennington County",
+      "lat": 43.163611,
+      "lng": -73.072778
+    },
+    {
+      "name": "Manchester Center",
+      "slug": "manchester-center",
+      "county": "Bennington County",
+      "lat": 43.175223,
+      "lng": -73.052313
+    },
+    {
+      "name": "Marlboro",
+      "slug": "marlboro",
+      "county": "Windham County",
+      "lat": 42.859444,
+      "lng": -72.726389
+    },
+    {
+      "name": "Marshfield",
+      "slug": "marshfield",
+      "county": "Washington County",
+      "lat": 44.321841,
+      "lng": -72.374994
+    },
+    {
+      "name": "Mc Indoe Falls",
+      "slug": "mc-indoe-falls",
+      "county": "Caledonia County",
+      "lat": 44.261667,
+      "lng": -72.064722
+    },
+    {
+      "name": "Middlebury",
+      "slug": "middlebury",
+      "county": "Addison County",
+      "lat": 44.007042,
+      "lng": -73.16613
+    },
+    {
+      "name": "Middletown Springs",
+      "slug": "middletown-springs",
+      "county": "Rutland County",
+      "lat": 43.484864,
+      "lng": -73.11452
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Chittenden County",
+      "lat": 44.648275,
+      "lng": -73.131692
+    },
+    {
+      "name": "Monkton",
+      "slug": "monkton",
+      "county": "Addison County",
+      "lat": 44.2275,
+      "lng": -73.130556
+    },
+    {
+      "name": "Montgomery",
+      "slug": "montgomery",
+      "county": "Franklin County",
+      "lat": 44.9025,
+      "lng": -72.638611
+    },
+    {
+      "name": "Montgomery Center",
+      "slug": "montgomery-center",
+      "county": "Franklin County",
+      "lat": 44.874606,
+      "lng": -72.599352
+    },
+    {
+      "name": "Montpelier",
+      "slug": "montpelier",
+      "county": "Washington County",
+      "lat": 44.2574,
+      "lng": -72.5698
+    },
+    {
+      "name": "Moretown",
+      "slug": "moretown",
+      "county": "Washington County",
+      "lat": 44.259602,
+      "lng": -72.749395
+    },
+    {
+      "name": "Morgan",
+      "slug": "morgan",
+      "county": "Orleans County",
+      "lat": 44.90659,
+      "lng": -71.994052
+    },
+    {
+      "name": "Morrisville",
+      "slug": "morrisville",
+      "county": "Lamoille County",
+      "lat": 44.554335,
+      "lng": -72.602625
+    },
+    {
+      "name": "Moscow",
+      "slug": "moscow",
+      "county": "Lamoille County",
+      "lat": 44.441389,
+      "lng": -72.715833
+    },
+    {
+      "name": "Mount Holly",
+      "slug": "mount-holly",
+      "county": "Rutland County",
+      "lat": 43.44865,
+      "lng": -72.795562
+    },
+    {
+      "name": "New Haven",
+      "slug": "new-haven",
+      "county": "Addison County",
+      "lat": 44.112575,
+      "lng": -73.17347
+    },
+    {
+      "name": "Newbury",
+      "slug": "newbury",
+      "county": "Orange County",
+      "lat": 44.096555,
+      "lng": -72.107231
+    },
+    {
+      "name": "Newfane",
+      "slug": "newfane",
+      "county": "Windham County",
+      "lat": 42.97043,
+      "lng": -72.678078
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Orleans County",
+      "lat": 44.939344,
+      "lng": -72.206505
+    },
+    {
+      "name": "Newport Center",
+      "slug": "newport-center",
+      "county": "Orleans County",
+      "lat": 44.944175,
+      "lng": -72.297412
+    },
+    {
+      "name": "North Bennington",
+      "slug": "north-bennington",
+      "county": "Bennington County",
+      "lat": 42.92385,
+      "lng": -73.237531
+    },
+    {
+      "name": "North Clarendon",
+      "slug": "north-clarendon",
+      "county": "Rutland County",
+      "lat": 43.552208,
+      "lng": -72.956096
+    },
+    {
+      "name": "North Concord",
+      "slug": "north-concord",
+      "county": "Essex County",
+      "lat": 44.550099,
+      "lng": -71.786662
+    },
+    {
+      "name": "North Ferrisburgh",
+      "slug": "north-ferrisburgh",
+      "county": "Addison County",
+      "lat": 44.251461,
+      "lng": -73.203254
+    },
+    {
+      "name": "North Hartland",
+      "slug": "north-hartland",
+      "county": "Windsor County",
+      "lat": 43.596721,
+      "lng": -72.352591
+    },
+    {
+      "name": "North Hero",
+      "slug": "north-hero",
+      "county": "Grand Isle County",
+      "lat": 44.829392,
+      "lng": -73.284169
+    },
+    {
+      "name": "North Hyde Park",
+      "slug": "north-hyde-park",
+      "county": "Lamoille County",
+      "lat": 44.670556,
+      "lng": -72.598611
+    },
+    {
+      "name": "North Montpelier",
+      "slug": "north-montpelier",
+      "county": "Washington County",
+      "lat": 44.256612,
+      "lng": -72.482119
+    },
+    {
+      "name": "North Pomfret",
+      "slug": "north-pomfret",
+      "county": "Windsor County",
+      "lat": 43.720401,
+      "lng": -72.494287
+    },
+    {
+      "name": "North Pownal",
+      "slug": "north-pownal",
+      "county": "Bennington County",
+      "lat": 42.809775,
+      "lng": -73.25343
+    },
+    {
+      "name": "North Springfield",
+      "slug": "north-springfield",
+      "county": "Windsor County",
+      "lat": 43.335452,
+      "lng": -72.529096
+    },
+    {
+      "name": "North Thetford",
+      "slug": "north-thetford",
+      "county": "Orange County",
+      "lat": 43.843056,
+      "lng": -72.186111
+    },
+    {
+      "name": "North Troy",
+      "slug": "north-troy",
+      "county": "Orleans County",
+      "lat": 44.961861,
+      "lng": -72.457231
+    },
+    {
+      "name": "Northfield",
+      "slug": "northfield",
+      "county": "Washington County",
+      "lat": 44.149961,
+      "lng": -72.659795
+    },
+    {
+      "name": "Northfield Falls",
+      "slug": "northfield-falls",
+      "county": "Washington County",
+      "lat": 44.171944,
+      "lng": -72.651389
+    },
+    {
+      "name": "Norton",
+      "slug": "norton",
+      "county": "Essex County",
+      "lat": 44.988781,
+      "lng": -71.78844
+    },
+    {
+      "name": "Norwich",
+      "slug": "norwich",
+      "county": "Windsor County",
+      "lat": 43.740373,
+      "lng": -72.30162
+    },
+    {
+      "name": "Orleans",
+      "slug": "orleans",
+      "county": "Orleans County",
+      "lat": 44.80544,
+      "lng": -72.165328
+    },
+    {
+      "name": "Orwell",
+      "slug": "orwell",
+      "county": "Addison County",
+      "lat": 43.783722,
+      "lng": -73.294855
+    },
+    {
+      "name": "Passumpsic",
+      "slug": "passumpsic",
+      "county": "Caledonia County",
+      "lat": 44.376667,
+      "lng": -72.028056
+    },
+    {
+      "name": "Pawlet",
+      "slug": "pawlet",
+      "county": "Rutland County",
+      "lat": 43.358679,
+      "lng": -73.144404
+    },
+    {
+      "name": "Peacham",
+      "slug": "peacham",
+      "county": "Caledonia County",
+      "lat": 44.335563,
+      "lng": -72.177039
+    },
+    {
+      "name": "Perkinsville",
+      "slug": "perkinsville",
+      "county": "Windsor County",
+      "lat": 43.387885,
+      "lng": -72.503813
+    },
+    {
+      "name": "Peru",
+      "slug": "peru",
+      "county": "Bennington County",
+      "lat": 43.256532,
+      "lng": -72.886797
+    },
+    {
+      "name": "Pittsfield",
+      "slug": "pittsfield",
+      "county": "Rutland County",
+      "lat": 43.753823,
+      "lng": -72.853376
+    },
+    {
+      "name": "Pittsford",
+      "slug": "pittsford",
+      "county": "Rutland County",
+      "lat": 43.71524,
+      "lng": -73.013492
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Washington County",
+      "lat": 44.262164,
+      "lng": -72.42243
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Windsor County",
+      "lat": 43.498653,
+      "lng": -72.710655
+    },
+    {
+      "name": "Post Mills",
+      "slug": "post-mills",
+      "county": "Orange County",
+      "lat": 43.893288,
+      "lng": -72.262031
+    },
+    {
+      "name": "Poultney",
+      "slug": "poultney",
+      "county": "Rutland County",
+      "lat": 43.53321,
+      "lng": -73.225281
+    },
+    {
+      "name": "Pownal",
+      "slug": "pownal",
+      "county": "Bennington County",
+      "lat": 42.787955,
+      "lng": -73.21624
+    },
+    {
+      "name": "Proctor",
+      "slug": "proctor",
+      "county": "Rutland County",
+      "lat": 43.657951,
+      "lng": -73.034816
+    },
+    {
+      "name": "Proctorsville",
+      "slug": "proctorsville",
+      "county": "Windsor County",
+      "lat": 43.4005,
+      "lng": -72.61962
+    },
+    {
+      "name": "Putney",
+      "slug": "putney",
+      "county": "Windham County",
+      "lat": 43.035561,
+      "lng": -72.512272
+    },
+    {
+      "name": "Quechee",
+      "slug": "quechee",
+      "county": "Windsor County",
+      "lat": 43.646111,
+      "lng": -72.418889
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Orange County",
+      "lat": 43.944399,
+      "lng": -72.67258
+    },
+    {
+      "name": "Randolph Center",
+      "slug": "randolph-center",
+      "county": "Orange County",
+      "lat": 43.9379,
+      "lng": -72.596975
+    },
+    {
+      "name": "Reading",
+      "slug": "reading",
+      "county": "Windsor County",
+      "lat": 43.47935,
+      "lng": -72.570446
+    },
+    {
+      "name": "Readsboro",
+      "slug": "readsboro",
+      "county": "Bennington County",
+      "lat": 42.78367,
+      "lng": -72.960886
+    },
+    {
+      "name": "Richford",
+      "slug": "richford",
+      "county": "Franklin County",
+      "lat": 44.971453,
+      "lng": -72.690472
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "county": "Chittenden County",
+      "lat": 44.399846,
+      "lng": -72.993256
+    },
+    {
+      "name": "Ripton",
+      "slug": "ripton",
+      "county": "Addison County",
+      "lat": 43.992862,
+      "lng": -73.01874
+    },
+    {
+      "name": "Rochester",
+      "slug": "rochester",
+      "county": "Windsor County",
+      "lat": 43.880382,
+      "lng": -72.815917
+    },
+    {
+      "name": "Roxbury",
+      "slug": "roxbury",
+      "county": "Addison County",
+      "lat": 44.084571,
+      "lng": -72.720151
+    },
+    {
+      "name": "Rupert",
+      "slug": "rupert",
+      "county": "Bennington County",
+      "lat": 43.259722,
+      "lng": -73.223333
+    },
+    {
+      "name": "Rutland",
+      "slug": "rutland",
+      "county": "Rutland County",
+      "lat": 43.614131,
+      "lng": -72.970773
+    },
+    {
+      "name": "Saint Albans",
+      "slug": "saint-albans",
+      "county": "Franklin County",
+      "lat": 44.811138,
+      "lng": -73.089025
+    },
+    {
+      "name": "Saint Albans Bay",
+      "slug": "saint-albans-bay",
+      "county": "Franklin County",
+      "lat": 44.807778,
+      "lng": -73.139722
+    },
+    {
+      "name": "Saint Johnsbury",
+      "slug": "saint-johnsbury",
+      "county": "Caledonia County",
+      "lat": 44.427195,
+      "lng": -72.005062
+    },
+    {
+      "name": "Saint Johnsbury Center",
+      "slug": "saint-johnsbury-center",
+      "county": "Caledonia County",
+      "lat": 44.456667,
+      "lng": -72.016111
+    },
+    {
+      "name": "Salisbury",
+      "slug": "salisbury",
+      "county": "Addison County",
+      "lat": 43.90172,
+      "lng": -73.100793
+    },
+    {
+      "name": "Saxtons River",
+      "slug": "saxtons-river",
+      "county": "Windham County",
+      "lat": 43.137861,
+      "lng": -72.508107
+    },
+    {
+      "name": "Shaftsbury",
+      "slug": "shaftsbury",
+      "county": "Bennington County",
+      "lat": 42.96144,
+      "lng": -73.216591
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Windsor County",
+      "lat": 43.774843,
+      "lng": -72.424283
+    },
+    {
+      "name": "Sheffield",
+      "slug": "sheffield",
+      "county": "Caledonia County",
+      "lat": 44.61784,
+      "lng": -72.123927
+    },
+    {
+      "name": "Shelburne",
+      "slug": "shelburne",
+      "county": "Chittenden County",
+      "lat": 44.389967,
+      "lng": -73.217124
+    },
+    {
+      "name": "Sheldon",
+      "slug": "sheldon",
+      "county": "Franklin County",
+      "lat": 44.887167,
+      "lng": -72.952989
+    },
+    {
+      "name": "Sheldon Springs",
+      "slug": "sheldon-springs",
+      "county": "Franklin County",
+      "lat": 44.906111,
+      "lng": -72.978056
+    },
+    {
+      "name": "Shoreham",
+      "slug": "shoreham",
+      "county": "Addison County",
+      "lat": 43.886214,
+      "lng": -73.305385
+    },
+    {
+      "name": "South Barre",
+      "slug": "south-barre",
+      "county": "Washington County",
+      "lat": 44.176944,
+      "lng": -72.506111
+    },
+    {
+      "name": "South Burlington",
+      "slug": "south-burlington",
+      "county": "Chittenden County",
+      "lat": 44.451324,
+      "lng": -73.179617
+    },
+    {
+      "name": "South Hero",
+      "slug": "south-hero",
+      "county": "Grand Isle County",
+      "lat": 44.640044,
+      "lng": -73.311344
+    },
+    {
+      "name": "South Londonderry",
+      "slug": "south-londonderry",
+      "county": "Windham County",
+      "lat": 43.183082,
+      "lng": -72.811787
+    },
+    {
+      "name": "South Newfane",
+      "slug": "south-newfane",
+      "county": "Windham County",
+      "lat": 42.938056,
+      "lng": -72.705833
+    },
+    {
+      "name": "South Pomfret",
+      "slug": "south-pomfret",
+      "county": "Windsor County",
+      "lat": 43.679665,
+      "lng": -72.534907
+    },
+    {
+      "name": "South Royalton",
+      "slug": "south-royalton",
+      "county": "Windsor County",
+      "lat": 43.808931,
+      "lng": -72.523228
+    },
+    {
+      "name": "South Ryegate",
+      "slug": "south-ryegate",
+      "county": "Caledonia County",
+      "lat": 44.211075,
+      "lng": -72.129558
+    },
+    {
+      "name": "South Strafford",
+      "slug": "south-strafford",
+      "county": "Orange County",
+      "lat": 43.828238,
+      "lng": -72.369959
+    },
+    {
+      "name": "South Woodstock",
+      "slug": "south-woodstock",
+      "county": "Windsor County",
+      "lat": 43.560137,
+      "lng": -72.538383
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Windsor County",
+      "lat": 43.303433,
+      "lng": -72.477769
+    },
+    {
+      "name": "Stamford",
+      "slug": "stamford",
+      "county": "Bennington County",
+      "lat": 42.76962,
+      "lng": -73.069068
+    },
+    {
+      "name": "Starksboro",
+      "slug": "starksboro",
+      "county": "Addison County",
+      "lat": 44.2261,
+      "lng": -73.0157
+    },
+    {
+      "name": "Stockbridge",
+      "slug": "stockbridge",
+      "county": "Windsor County",
+      "lat": 43.773808,
+      "lng": -72.781394
+    },
+    {
+      "name": "Stowe",
+      "slug": "stowe",
+      "county": "Lamoille County",
+      "lat": 44.469512,
+      "lng": -72.692282
+    },
+    {
+      "name": "Strafford",
+      "slug": "strafford",
+      "county": "Orange County",
+      "lat": 43.872306,
+      "lng": -72.36363
+    },
+    {
+      "name": "Sutton",
+      "slug": "sutton",
+      "county": "Caledonia County",
+      "lat": 44.646543,
+      "lng": -72.021133
+    },
+    {
+      "name": "Swanton",
+      "slug": "swanton",
+      "county": "Franklin County",
+      "lat": 44.916754,
+      "lng": -73.121124
+    },
+    {
+      "name": "Taftsville",
+      "slug": "taftsville",
+      "county": "Windsor County",
+      "lat": 43.629819,
+      "lng": -72.467331
+    },
+    {
+      "name": "Thetford",
+      "slug": "thetford",
+      "county": "Orange County",
+      "lat": 43.821111,
+      "lng": -72.254444
+    },
+    {
+      "name": "Thetford Center",
+      "slug": "thetford-center",
+      "county": "Orange County",
+      "lat": 43.814883,
+      "lng": -72.266204
+    },
+    {
+      "name": "Topsham",
+      "slug": "topsham",
+      "county": "Orange County",
+      "lat": 44.063889,
+      "lng": -72.222778
+    },
+    {
+      "name": "Townshend",
+      "slug": "townshend",
+      "county": "Windham County",
+      "lat": 43.062174,
+      "lng": -72.668676
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Orleans County",
+      "lat": 44.959381,
+      "lng": -72.393808
+    },
+    {
+      "name": "Tunbridge",
+      "slug": "tunbridge",
+      "county": "Orange County",
+      "lat": 43.9169,
+      "lng": -72.478578
+    },
+    {
+      "name": "Underhill",
+      "slug": "underhill",
+      "county": "Chittenden County",
+      "lat": 44.539069,
+      "lng": -72.925845
+    },
+    {
+      "name": "Underhill Center",
+      "slug": "underhill-center",
+      "county": "Chittenden County",
+      "lat": 44.5075,
+      "lng": -72.9
+    },
+    {
+      "name": "Vergennes",
+      "slug": "vergennes",
+      "county": "Addison County",
+      "lat": 44.132569,
+      "lng": -73.279293
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "county": "Windham County",
+      "lat": 42.756468,
+      "lng": -72.511547
+    },
+    {
+      "name": "Vershire",
+      "slug": "vershire",
+      "county": "Orange County",
+      "lat": 43.961811,
+      "lng": -72.319015
+    },
+    {
+      "name": "Waitsfield",
+      "slug": "waitsfield",
+      "county": "Washington County",
+      "lat": 44.188917,
+      "lng": -72.828321
+    },
+    {
+      "name": "Wallingford",
+      "slug": "wallingford",
+      "county": "Rutland County",
+      "lat": 43.4573,
+      "lng": -72.987722
+    },
+    {
+      "name": "Wardsboro",
+      "slug": "wardsboro",
+      "county": "Windham County",
+      "lat": 43.032649,
+      "lng": -72.807687
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Washington County",
+      "lat": 44.114222,
+      "lng": -72.848179
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Orange County",
+      "lat": 44.086448,
+      "lng": -72.430002
+    },
+    {
+      "name": "Waterbury",
+      "slug": "waterbury",
+      "county": "Washington County",
+      "lat": 44.337778,
+      "lng": -72.756667
+    },
+    {
+      "name": "Waterbury Center",
+      "slug": "waterbury-center",
+      "county": "Washington County",
+      "lat": 44.382797,
+      "lng": -72.708006
+    },
+    {
+      "name": "Waterville",
+      "slug": "waterville",
+      "county": "Lamoille County",
+      "lat": 44.712375,
+      "lng": -72.759557
+    },
+    {
+      "name": "Websterville",
+      "slug": "websterville",
+      "county": "Washington County",
+      "lat": 44.160556,
+      "lng": -72.47
+    },
+    {
+      "name": "Wells",
+      "slug": "wells",
+      "county": "Rutland County",
+      "lat": 43.430456,
+      "lng": -73.202684
+    },
+    {
+      "name": "Wells River",
+      "slug": "wells-river",
+      "county": "Orange County",
+      "lat": 44.152438,
+      "lng": -72.052958
+    },
+    {
+      "name": "West Burke",
+      "slug": "west-burke",
+      "county": "Caledonia County",
+      "lat": 44.663647,
+      "lng": -71.95718
+    },
+    {
+      "name": "West Charleston",
+      "slug": "west-charleston",
+      "county": "Orleans County",
+      "lat": 44.872894,
+      "lng": -72.05209
+    },
+    {
+      "name": "West Danville",
+      "slug": "west-danville",
+      "county": "Caledonia County",
+      "lat": 44.446509,
+      "lng": -72.219771
+    },
+    {
+      "name": "West Dover",
+      "slug": "west-dover",
+      "county": "Windham County",
+      "lat": 42.956029,
+      "lng": -72.854235
+    },
+    {
+      "name": "West Dummerston",
+      "slug": "west-dummerston",
+      "county": "Windham County",
+      "lat": 42.926389,
+      "lng": -72.615833
+    },
+    {
+      "name": "West Fairlee",
+      "slug": "west-fairlee",
+      "county": "Orange County",
+      "lat": 43.92232,
+      "lng": -72.26163
+    },
+    {
+      "name": "West Glover",
+      "slug": "west-glover",
+      "county": "Orleans County",
+      "lat": 44.703145,
+      "lng": -72.259936
+    },
+    {
+      "name": "West Halifax",
+      "slug": "west-halifax",
+      "county": "Windham County",
+      "lat": 42.776103,
+      "lng": -72.750142
+    },
+    {
+      "name": "West Hartford",
+      "slug": "west-hartford",
+      "county": "Windsor County",
+      "lat": 43.716068,
+      "lng": -72.444618
+    },
+    {
+      "name": "West Newbury",
+      "slug": "west-newbury",
+      "county": "Orange County",
+      "lat": 44.064444,
+      "lng": -72.125278
+    },
+    {
+      "name": "West Pawlet",
+      "slug": "west-pawlet",
+      "county": "Rutland County",
+      "lat": 43.36673,
+      "lng": -73.231327
+    },
+    {
+      "name": "West Rupert",
+      "slug": "west-rupert",
+      "county": "Bennington County",
+      "lat": 43.261792,
+      "lng": -73.202847
+    },
+    {
+      "name": "West Rutland",
+      "slug": "west-rutland",
+      "county": "Rutland County",
+      "lat": 43.578072,
+      "lng": -73.04242
+    },
+    {
+      "name": "West Topsham",
+      "slug": "west-topsham",
+      "county": "Orange County",
+      "lat": 44.119925,
+      "lng": -72.270051
+    },
+    {
+      "name": "West Townshend",
+      "slug": "west-townshend",
+      "county": "Windham County",
+      "lat": 43.130044,
+      "lng": -72.720985
+    },
+    {
+      "name": "West Wardsboro",
+      "slug": "west-wardsboro",
+      "county": "Windham County",
+      "lat": 43.047221,
+      "lng": -72.880537
+    },
+    {
+      "name": "Westfield",
+      "slug": "westfield",
+      "county": "Orleans County",
+      "lat": 44.882457,
+      "lng": -72.439628
+    },
+    {
+      "name": "Westford",
+      "slug": "westford",
+      "county": "Chittenden County",
+      "lat": 44.618191,
+      "lng": -73.006021
+    },
+    {
+      "name": "Westminster",
+      "slug": "westminster",
+      "county": "Windham County",
+      "lat": 43.069444,
+      "lng": -72.462222
+    },
+    {
+      "name": "Westminster Station",
+      "slug": "westminster-station",
+      "county": "Windham County",
+      "lat": 43.085556,
+      "lng": -72.439722
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Windsor County",
+      "lat": 43.29409,
+      "lng": -72.793523
+    },
+    {
+      "name": "White River Junction",
+      "slug": "white-river-junction",
+      "county": "Windsor County",
+      "lat": 43.663431,
+      "lng": -72.350351
+    },
+    {
+      "name": "Whiting",
+      "slug": "whiting",
+      "county": "Addison County",
+      "lat": 43.874972,
+      "lng": -73.213312
+    },
+    {
+      "name": "Whitingham",
+      "slug": "whitingham",
+      "county": "Windham County",
+      "lat": 42.790071,
+      "lng": -72.856001
+    },
+    {
+      "name": "Wilder",
+      "slug": "wilder",
+      "county": "Windsor County",
+      "lat": 43.672778,
+      "lng": -72.309167
+    },
+    {
+      "name": "Williamstown",
+      "slug": "williamstown",
+      "county": "Orange County",
+      "lat": 44.118191,
+      "lng": -72.53811
+    },
+    {
+      "name": "Williamsville",
+      "slug": "williamsville",
+      "county": "Windham County",
+      "lat": 42.948151,
+      "lng": -72.658406
+    },
+    {
+      "name": "Williston",
+      "slug": "williston",
+      "county": "Chittenden County",
+      "lat": 44.436745,
+      "lng": -73.095704
+    },
+    {
+      "name": "Wilmington",
+      "slug": "wilmington",
+      "county": "Windham County",
+      "lat": 42.881216,
+      "lng": -72.861316
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Windsor County",
+      "lat": 43.476032,
+      "lng": -72.410998
+    },
+    {
+      "name": "Winooski",
+      "slug": "winooski",
+      "county": "Chittenden County",
+      "lat": 44.494898,
+      "lng": -73.187413
+    },
+    {
+      "name": "Wolcott",
+      "slug": "wolcott",
+      "county": "Lamoille County",
+      "lat": 44.555753,
+      "lng": -72.484416
+    },
+    {
+      "name": "Woodbury",
+      "slug": "woodbury",
+      "county": "Washington County",
+      "lat": 44.432507,
+      "lng": -72.417766
+    },
+    {
+      "name": "Woodstock",
+      "slug": "woodstock",
+      "county": "Windsor County",
+      "lat": 43.62482,
+      "lng": -72.538455
+    },
+    {
+      "name": "Worcester",
+      "slug": "worcester",
+      "county": "Washington County",
+      "lat": 44.394389,
+      "lng": -72.560925
+    }
+  ]
+}

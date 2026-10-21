@@ -1,0 +1,421 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import TrustStrip from '../../../components/TrustStrip.astro';
+import FAQAccordion from '../../../components/FAQAccordion.astro';
+import CTABand from '../../../components/CTABand.astro';
+import ContactForm from '../../../components/ContactForm.astro';
+import { BUSINESS_INFO, SERVICES, PROCESS_STEPS } from '../../../data/siteData';
+import { CITY_CONTENT_DATA } from '../../../data/cityContent';
+import { getRegionalProfile } from '../../../data/regionalClimate';
+import { getNearbyCities } from '../../../data/citiesHelper';
+
+export async function getStaticPaths() {
+  const citiesDir = path.resolve(process.cwd(), 'src/data/cities');
+  if (!fs.existsSync(citiesDir)) return [];
+
+  // When BUILD_ALL_CITIES is 'true' or in production, generate all 29,738 cities.
+  // By default, if BUILD_STATE is specified, build just that state (e.g. california).
+  const targetState = process.env.BUILD_STATE; // e.g. 'california' or undefined
+  const buildAll = process.env.BUILD_ALL_CITIES === 'true' || targetState === undefined;
+
+  const files = fs.readdirSync(citiesDir).filter((f) => f.endsWith('.json'));
+  const paths = [];
+
+  for (const file of files) {
+    const stateSlug = file.replace('.json', '');
+    if (targetState && targetState !== stateSlug) continue;
+
+    const raw = fs.readFileSync(path.join(citiesDir, file), 'utf8');
+    const data = JSON.parse(raw);
+
+    for (const city of data.cities) {
+      paths.push({
+        params: { state: stateSlug, city: city.slug },
+        props: {
+          city,
+          state: {
+            name: data.stateName,
+            abbr: data.stateCode,
+            slug: data.stateSlug
+          }
+        }
+      });
+    }
+
+    // If testing single state only
+    if (!buildAll && paths.length >= 1239) break;
+  }
+
+  return paths;
+}
+
+const { city, state } = Astro.props;
+const regional = getRegionalProfile(state.slug);
+
+// Check if this city has custom handcrafted editorial content (e.g. Los Angeles, San Diego, etc.)
+const customContent = CITY_CONTENT_DATA[city.slug];
+
+const pageTitle = customContent
+  ? customContent.title
+  : `Emergency Water Extraction in ${city.name}, ${state.abbr} | 24/7 Rapid Response`;
+
+const pageDesc = customContent
+  ? customContent.metaDesc
+  : `Immediate 24/7 emergency water extraction, flood water removal & structural drying in ${city.name}, ${state.abbr} (${city.county}). Under 60-min response. Call (866) 751-9896!`;
+
+const h1Text = customContent
+  ? customContent.h1
+  : `24/7 Emergency Water Extraction & Flood Cleanup in ${city.name}, ${state.abbr}`;
+
+const openingText = customContent
+  ? customContent.openingText
+  : `When sudden indoor flooding, a ruptured water heater, or an overflowing plumbing fixture strikes your property in ${city.name}, immediate structural extraction is essential to halt catastrophic wood rot and mold colonization. Rapid Water Rescue Pros maintains mobile water damage restoration units serving ${city.name} and surrounding ${city.county} communities, delivering on-site response within 60 minutes with industrial truck-mounted vacuums and desiccant dehumidifiers.`;
+
+// Nearby cities within the same state based on geographic distance
+const nearby = getNearbyCities(state.slug, city.slug, 6);
+
+// Localized FAQs
+const localizedFaqs = (customContent && customContent.localizedFaqs && customContent.localizedFaqs.length > 0)
+  ? customContent.localizedFaqs
+  : [
+      {
+        q: `How quickly can water extraction crews arrive at my ${city.name} property?`,
+        a: `Our emergency coordination desk dispatches mobile response vehicles stationed near key highways serving ${city.name} and ${city.county}, maintaining an average on-site arrival window of under 60 minutes, 24 hours a day, 365 days a year.`
+      },
+      {
+        q: `Does homeowners insurance in ${state.name} cover water extraction and drying?`,
+        a: `In most situations, yes. Standard homeowners and commercial property policies in ${state.name} cover sudden and accidental water damage resulting from burst pipes, water heater ruptures, and appliance overflows. We document moisture readings with FLIR infrared cameras and submit itemized Xactimate billing directly to your insurance adjuster.`
+      },
+      {
+        q: `What should I do immediately while waiting for your ${city.name} technicians?`,
+        a: `Immediately locate and close your property's main water shutoff valve. If it is safe to do so without stepping into standing water, turn off electrical breakers to the affected rooms. Avoid walking through deep standing water, and call our 24/7 dispatch desk at (866) 751-9896 so our coordinators can guide you through immediate hazard mitigation.`
+      },
+      {
+        q: `Do you handle both residential and commercial water emergencies in ${city.county}?`,
+        a: `Yes. We provide emergency extraction for single-family residences, historic homes, multi-story apartment buildings, commercial retail centers, and industrial warehouses throughout ${city.name} and across ${city.county}.`
+      },
+      {
+        q: `How do you ensure no hidden moisture is trapped beneath floors or inside walls in ${city.name}?`,
+        a: `We do not rely on surface appearance. Our certified technicians deploy FLIR infrared thermal cameras and digital pin-probe moisture meters to trace hidden moisture boundaries behind baseboards, beneath hardwood planks, and inside subfloors until framing meets certified dry standards.`
+      }
+    ];
+
+const mapEmbedUrl = city.lat && city.lng
+  ? `https://maps.google.com/maps?q=${city.lat},${city.lng}&t=&z=12&ie=UTF8&iwloc=&output=embed`
+  : `https://maps.google.com/maps?q=${encodeURIComponent(city.name + ', ' + state.abbr)}&t=&z=12&ie=UTF8&iwloc=&output=embed`;
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDesc}
+  canonicalPath={`/locations/${state.slug}/${city.slug}/`}
+  localCity={city.name}
+  localState={state.abbr}
+>
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Locations", url: "/locations/" },
+    { label: state.name, url: `/locations/${state.slug}/` },
+    { label: city.name, url: `/locations/${state.slug}/${city.slug}/` }
+  ]} />
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
+          24/7 {city.name}, {state.abbr} Emergency Dispatch
+        </div>
+
+        <h1>{h1Text}</h1>
+
+        <p class="hero-subtitle">
+          {openingText}
+        </p>
+
+        <div class="hero-actions">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span>Call {city.name} Dispatch: {BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <a href="#city-form" class="btn btn-outline-white">
+            <span>Request Fast Assessment</span>
+          </a>
+        </div>
+
+        <div class="hero-highlights">
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Under 60-Min {city.county || city.name} Arrival</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Direct Home Insurance Billing</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>IICRC-Certified Technicians</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hero Media (Matching Reference Site Hero Image) -->
+      <div class="hero-media">
+        <div class="hero-card-frame">
+          <img
+            src="/images/hero_water_extraction.jpg"
+            alt={`Professional technician performing emergency water extraction in ${city.name}, ${state.abbr}`}
+            width="900"
+            height="675"
+            loading="eager"
+            fetchpriority="high"
+            class="hero-main-img"
+          />
+          <div class="hero-float-dispatch">
+            <span class="pulse-dot"></span>
+            <span>Live 24/7: {BUSINESS_INFO.phoneFormatted}</span>
+          </div>
+          <div class="hero-same-day-badge">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="#fb923c"><path d="M7 2v11h3v9l7-12h-4l4-8z"/></svg>
+            <span>Same-Day {city.name} Extraction</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Local Community Profile & Regional Climate Insights -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1.2fr 0.8fr;gap:3.5rem;align-items:start">
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">{city.name} Service Territory</span>
+          <h2>Professional Water Extraction & Mitigation in {city.name}, {state.abbr}</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:1.25rem">
+            At Rapid Water Rescue Pros, our response in {city.name} is engineered to halt moisture damage within the critical 24-to-48-hour window before toxic mold blooms and subfloor delamination occur. Whether an aging 50-gallon water heater ruptured in your utility enclosure, a supply line burst inside a bathroom wall, or heavy storm runoff flooded your crawlspace, our certified crews arrive equipped with truck-mounted high-lift extractors, antimicrobial washdowns, and commercial LGR dehumidifiers.
+          </p>
+
+          <!-- Regional Climate & Risk Deep Dive -->
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:1.75rem;margin:2rem 0">
+            <h3 style="color:var(--primary);margin-bottom:0.75rem;font-size:1.25rem">{regional.climateTitle}</h3>
+            <p style="color:var(--text-body);font-size:0.95rem;line-height:1.7;margin-bottom:1rem">
+              {regional.climateDesc}
+            </p>
+            <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.9rem;color:var(--text-dark)">
+              <div><strong>Primary Environmental Risk:</strong> {regional.primaryRisk}</div>
+              <div><strong>Prevalent Housing Stock:</strong> {regional.housingType}</div>
+              <div><strong>Seasonal Considerations:</strong> {regional.seasonalNotes}</div>
+            </div>
+          </div>
+
+          <!-- Technical Protocol Overview -->
+          <div style="margin:2rem 0">
+            <h3>Our Engineered Structural Drying Protocol in {city.name}</h3>
+            <ol style="padding-left:1.5rem;display:flex;flex-direction:column;gap:1rem;margin:1.25rem 0;color:var(--text-body);font-size:0.95rem;line-height:1.6">
+              <li><strong>Rapid Containment & Source Isolation:</strong> We safely locate and isolate electrical circuits, shut off main water supplies, and cap damaged plumbing lines to prevent further water ingress.</li>
+              <li><strong>High-Lift Industrial Extraction:</strong> Using 30-HP truck-mounted vacuum extractors and weighted suction plates, we pull gallons of trapped liquid directly from carpet padding, hardwood pores, and concrete slabs.</li>
+              <li><strong>FLIR Thermal Imaging & Moisture Mapping:</strong> Technicians scan all drywall perimeter walls and sill plates using infrared thermography to track moisture migration hidden from the naked eye.</li>
+              <li><strong>Antimicrobial Application:</strong> We apply EPA-registered, hospital-grade antimicrobials to eliminate musty odors, neutralize bacteria, and prevent mildew propagation.</li>
+              <li><strong>Psychrometric Dehumidification:</strong> Strategic placement of low-grain refrigerant (LGR) dehumidifiers and high-velocity axial air movers pulls evaporated moisture from the air until framing reaches certified dry baseline.</li>
+            </ol>
+          </div>
+        </div>
+
+        <!-- Sidebar / Contact Form -->
+        <div id="city-form">
+          <ContactForm cityContext={`${city.name}, ${state.abbr}`} />
+
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:1.75rem;margin-top:2rem">
+            <h4 style="color:var(--primary);margin-bottom:0.75rem">{city.name} Emergency Standards</h4>
+            <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.9rem;color:var(--text-body)">
+              <li style="display:flex;align-items:center;gap:0.5rem">
+                <span style="color:#10B981">✓</span> On-site arrival under 60 minutes
+              </li>
+              <li style="display:flex;align-items:center;gap:0.5rem">
+                <span style="color:#10B981">✓</span> IICRC S500 certified technicians
+              </li>
+              <li style="display:flex;align-items:center;gap:0.5rem">
+                <span style="color:#10B981">✓</span> Complete thermal moisture mapping
+              </li>
+              <li style="display:flex;align-items:center;gap:0.5rem">
+                <span style="color:#10B981">✓</span> Direct insurance billing (Xactimate)
+              </li>
+              <li style="display:flex;align-items:center;gap:0.5rem">
+                <span style="color:#10B981">✓</span> Flat-rate pricing with zero surprise fees
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Complete 8 Water Extraction Services -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Complete Service Catalog</span>
+        <h2>Emergency Water Solutions Available in {city.name}</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          Our certified response teams provide complete mitigation services tailored to {city.name} residential and commercial structures.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {SERVICES.map((s) => (
+          <div class="service-card">
+            <h3>{s.name} in {city.name}</h3>
+            <p>{s.shortDesc}</p>
+            <a href={`/services/${s.slug}/`} class="card-link">
+              <span>View Service Details →</span>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Common Problems We Solve -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-emergency">Diagnostic Scenarios</span>
+        <h2>Frequent Water Emergencies We Resolve in {city.name}</h2>
+        <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+          Real-world scenarios our mitigation specialists encounter across {city.county || city.name}.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        {regional.commonProblems.map((prob) => (
+          <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:1.75rem;box-shadow:var(--shadow-sm);border-left:4px solid var(--cta-red)">
+            <div style="font-weight:700;color:var(--primary);margin-bottom:0.5rem;font-size:1.05rem">Frequent Incident</div>
+            <p style="color:var(--text-muted);font-size:0.92rem;margin:0;line-height:1.6">{prob}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- 4-Step Process -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Action Plan</span>
+        <h2>Our {city.name} Water Extraction Process</h2>
+        <p style="max-width:600px;margin:0.5rem auto 0;color:var(--text-muted)">
+          From immediate phone dispatch to certified dry standard documentation.
+        </p>
+      </div>
+
+      <div class="process-grid">
+        {PROCESS_STEPS.map((step) => (
+          <div class="process-step">
+            <div class="process-number">{step.step}</div>
+            <h3>{step.title}</h3>
+            <p>{step.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Surrounding Communities / Nearby Cities Cross-Linking -->
+  {nearby.length > 0 && (
+    <section class="section">
+      <div class="container text-center">
+        <div class="section-header">
+          <span class="badge badge-secondary">Regional Coverage</span>
+          <h2>Nearby Communities We Serve Near {city.name}</h2>
+          <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+            Our mobile response fleet provides 24/7 emergency water extraction to {city.name} and surrounding {city.county || state.name} municipalities.
+          </p>
+        </div>
+
+        <div style="display:flex;justify-content:center;gap:1rem;flex-wrap:wrap;margin-bottom:2rem">
+          {nearby.map((nc) => (
+            <a href={`/locations/${state.slug}/${nc.slug}/`} class="btn btn-outline-primary" style="font-size:0.9rem">
+              Emergency Water Extraction in {nc.name} →
+            </a>
+          ))}
+        </div>
+
+        <div>
+          <a href={`/locations/${state.slug}/`} style="font-weight:700;color:var(--secondary)">
+            ← View All {state.name} Cities & State Directory
+          </a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Localized FAQs -->
+  <FAQAccordion
+    title={`${city.name}, ${state.abbr} Water Extraction FAQs`}
+    subtitle={`Answers to common questions from homeowners and business managers in ${city.name} and ${city.county}.`}
+    faqs={localizedFaqs}
+  />
+
+  <CTABand
+    headline={`Water Emergency in ${city.name}, ${state.abbr}?`}
+    subtext={`Call our local dispatch desk immediately at (866) 751-9896 for priority response under 60 minutes.`}
+  />
+
+  <!-- City Contact Section & Map -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start">
+        <div>
+          <span class="badge badge-emergency" style="margin-bottom:0.5rem">{city.name} Dispatch Desk</span>
+          <h2>Connect with Our {city.name} Emergency Unit</h2>
+          <p style="color:var(--text-body);font-size:1.05rem;line-height:1.7;margin-bottom:1.5rem">
+            Call our toll-free dispatch line at <a href={BUSINESS_INFO.phoneTel} style="font-weight:700;color:var(--cta-red)">{BUSINESS_INFO.phoneFormatted}</a> to speak directly with an on-duty coordinator or submit the form for immediate call-back.
+          </p>
+
+          <div style="display:flex;flex-direction:column;gap:1rem;margin-bottom:2rem">
+            <div style="display:flex;align-items:center;gap:1rem">
+              <div style="width:40px;height:40px;border-radius:var(--radius-md);background:var(--secondary-light);color:var(--secondary);display:flex;align-items:center;justify-content:center;font-size:1.25rem">
+                📞
+              </div>
+              <div>
+                <div style="font-size:0.82rem;color:var(--text-muted);font-weight:700">24/7 HOTLINE</div>
+                <a href={BUSINESS_INFO.phoneTel} style="font-size:1.2rem;font-weight:800;color:var(--primary)">{BUSINESS_INFO.phoneFormatted}</a>
+              </div>
+            </div>
+
+            <div style="display:flex;align-items:center;gap:1rem">
+              <div style="width:40px;height:40px;border-radius:var(--radius-md);background:var(--secondary-light);color:var(--secondary);display:flex;align-items:center;justify-content:center;font-size:1.25rem">
+                📍
+              </div>
+              <div>
+                <div style="font-size:0.82rem;color:var(--text-muted);font-weight:700">SERVICE AREA</div>
+                <div style="color:var(--text-body);font-weight:600">{city.name}, {city.county}, {state.abbr}</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Specific City Map Embed -->
+          <div style="border-radius:var(--radius-md);overflow:hidden;border:1px solid var(--border-light);box-shadow:var(--shadow-sm);height:280px">
+            <iframe
+              title={`Rapid Water Rescue Pros - ${city.name} Service Area`}
+              width="100%"
+              height="100%"
+              style="border:0"
+              loading="lazy"
+              allowfullscreen
+              src={mapEmbedUrl}>
+            </iframe>
+          </div>
+        </div>
+
+        <ContactForm cityContext={`${city.name}, ${state.abbr}`} />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

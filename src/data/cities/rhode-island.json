@@ -1,0 +1,497 @@
+{
+  "stateName": "Rhode Island",
+  "stateCode": "RI",
+  "stateSlug": "rhode-island",
+  "cities": [
+    {
+      "name": "Adamsville",
+      "slug": "adamsville",
+      "county": "Newport County",
+      "lat": 41.554444,
+      "lng": -71.131667
+    },
+    {
+      "name": "Albion",
+      "slug": "albion",
+      "county": "Providence County",
+      "lat": 41.951111,
+      "lng": -71.455
+    },
+    {
+      "name": "Ashaway",
+      "slug": "ashaway",
+      "county": "Washington County",
+      "lat": 41.423054,
+      "lng": -71.783745
+    },
+    {
+      "name": "Barrington",
+      "slug": "barrington",
+      "county": "Bristol County",
+      "lat": 41.744334,
+      "lng": -71.317497
+    },
+    {
+      "name": "Block Island",
+      "slug": "block-island",
+      "county": "Washington County",
+      "lat": 41.171546,
+      "lng": -71.574825
+    },
+    {
+      "name": "Bradford",
+      "slug": "bradford",
+      "county": "Washington County",
+      "lat": 41.411448,
+      "lng": -71.746453
+    },
+    {
+      "name": "Bristol",
+      "slug": "bristol",
+      "county": "Bristol County",
+      "lat": 41.68247,
+      "lng": -71.267558
+    },
+    {
+      "name": "Carolina",
+      "slug": "carolina",
+      "county": "Washington County",
+      "lat": 41.46941,
+      "lng": -71.650279
+    },
+    {
+      "name": "Central Falls",
+      "slug": "central-falls",
+      "county": "Providence County",
+      "lat": 41.888263,
+      "lng": -71.394527
+    },
+    {
+      "name": "Charlestown",
+      "slug": "charlestown",
+      "county": "Washington County",
+      "lat": 41.400749,
+      "lng": -71.661455
+    },
+    {
+      "name": "Chepachet",
+      "slug": "chepachet",
+      "county": "Providence County",
+      "lat": 41.91549,
+      "lng": -71.679483
+    },
+    {
+      "name": "Clayville",
+      "slug": "clayville",
+      "county": "Providence County",
+      "lat": 41.777762,
+      "lng": -71.670589
+    },
+    {
+      "name": "Coventry",
+      "slug": "coventry",
+      "county": "Kent County",
+      "lat": 41.69143,
+      "lng": -71.576794
+    },
+    {
+      "name": "Cranston",
+      "slug": "cranston",
+      "county": "Providence County",
+      "lat": 41.776572,
+      "lng": -71.438331
+    },
+    {
+      "name": "Cumberland",
+      "slug": "cumberland",
+      "county": "Providence County",
+      "lat": 41.948352,
+      "lng": -71.415419
+    },
+    {
+      "name": "East Greenwich",
+      "slug": "east-greenwich",
+      "county": "Kent County",
+      "lat": 41.649777,
+      "lng": -71.474009
+    },
+    {
+      "name": "East Providence",
+      "slug": "east-providence",
+      "county": "Providence County",
+      "lat": 41.813777,
+      "lng": -71.368785
+    },
+    {
+      "name": "Exeter",
+      "slug": "exeter",
+      "county": "Washington County",
+      "lat": 41.574031,
+      "lng": -71.607626
+    },
+    {
+      "name": "Fiskeville",
+      "slug": "fiskeville",
+      "county": "Providence County",
+      "lat": 41.734167,
+      "lng": -71.548611
+    },
+    {
+      "name": "Forestdale",
+      "slug": "forestdale",
+      "county": "Providence County",
+      "lat": 41.945833,
+      "lng": -71.700278
+    },
+    {
+      "name": "Foster",
+      "slug": "foster",
+      "county": "Providence County",
+      "lat": 41.781455,
+      "lng": -71.718748
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Providence County",
+      "lat": 41.976111,
+      "lng": -71.633056
+    },
+    {
+      "name": "Greene",
+      "slug": "greene",
+      "county": "Kent County",
+      "lat": 41.706151,
+      "lng": -71.735607
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Providence County",
+      "lat": 41.873409,
+      "lng": -71.556923
+    },
+    {
+      "name": "Harmony",
+      "slug": "harmony",
+      "county": "Providence County",
+      "lat": 41.887778,
+      "lng": -71.597222
+    },
+    {
+      "name": "Harrisville",
+      "slug": "harrisville",
+      "county": "Providence County",
+      "lat": 41.976379,
+      "lng": -71.653405
+    },
+    {
+      "name": "Hope",
+      "slug": "hope",
+      "county": "Providence County",
+      "lat": 41.751603,
+      "lng": -71.561225
+    },
+    {
+      "name": "Hope Valley",
+      "slug": "hope-valley",
+      "county": "Washington County",
+      "lat": 41.506974,
+      "lng": -71.734862
+    },
+    {
+      "name": "Hopkinton",
+      "slug": "hopkinton",
+      "county": "Washington County",
+      "lat": 41.461111,
+      "lng": -71.778056
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Newport County",
+      "lat": 41.516405,
+      "lng": -71.376108
+    },
+    {
+      "name": "Johnston",
+      "slug": "johnston",
+      "county": "Providence County",
+      "lat": 41.826431,
+      "lng": -71.497646
+    },
+    {
+      "name": "Kenyon",
+      "slug": "kenyon",
+      "county": "Washington County",
+      "lat": 41.477694,
+      "lng": -71.683992
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Washington County",
+      "lat": 41.480295,
+      "lng": -71.529239
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Providence County",
+      "lat": 41.908906,
+      "lng": -71.434777
+    },
+    {
+      "name": "Little Compton",
+      "slug": "little-compton",
+      "county": "Newport County",
+      "lat": 41.52204,
+      "lng": -71.161215
+    },
+    {
+      "name": "Manville",
+      "slug": "manville",
+      "county": "Providence County",
+      "lat": 41.96888,
+      "lng": -71.474113
+    },
+    {
+      "name": "Mapleville",
+      "slug": "mapleville",
+      "county": "Providence County",
+      "lat": 41.948056,
+      "lng": -71.649167
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "Newport County",
+      "lat": 41.545556,
+      "lng": -71.291944
+    },
+    {
+      "name": "Narragansett",
+      "slug": "narragansett",
+      "county": "Washington County",
+      "lat": 41.435313,
+      "lng": -71.46164
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Newport County",
+      "lat": 41.504502,
+      "lng": -71.30348
+    },
+    {
+      "name": "North Kingstown",
+      "slug": "north-kingstown",
+      "county": "Washington County",
+      "lat": 41.589426,
+      "lng": -71.462494
+    },
+    {
+      "name": "North Providence",
+      "slug": "north-providence",
+      "county": "Providence County",
+      "lat": 41.853412,
+      "lng": -71.474058
+    },
+    {
+      "name": "North Scituate",
+      "slug": "north-scituate",
+      "county": "Providence County",
+      "lat": 41.8439,
+      "lng": -71.624187
+    },
+    {
+      "name": "North Smithfield",
+      "slug": "north-smithfield",
+      "county": "Providence County",
+      "lat": 41.966667,
+      "lng": -71.55
+    },
+    {
+      "name": "Oakland",
+      "slug": "oakland",
+      "county": "Providence County",
+      "lat": 41.963637,
+      "lng": -71.642925
+    },
+    {
+      "name": "Pascoag",
+      "slug": "pascoag",
+      "county": "Providence County",
+      "lat": 41.962728,
+      "lng": -71.709866
+    },
+    {
+      "name": "Pawtucket",
+      "slug": "pawtucket",
+      "county": "Providence County",
+      "lat": 41.872873,
+      "lng": -71.390713
+    },
+    {
+      "name": "Peace Dale",
+      "slug": "peace-dale",
+      "county": "Washington County",
+      "lat": 41.45157,
+      "lng": -71.500057
+    },
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "county": "Newport County",
+      "lat": 41.594397,
+      "lng": -71.252018
+    },
+    {
+      "name": "Providence",
+      "slug": "providence",
+      "county": "Providence County",
+      "lat": 41.8255,
+      "lng": -71.4114
+    },
+    {
+      "name": "Prudence Island",
+      "slug": "prudence-island",
+      "county": "Bristol County",
+      "lat": 41.613606,
+      "lng": -71.311827
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Providence County",
+      "lat": 41.772313,
+      "lng": -71.354244
+    },
+    {
+      "name": "Rockville",
+      "slug": "rockville",
+      "county": "Washington County",
+      "lat": 41.519722,
+      "lng": -71.761667
+    },
+    {
+      "name": "Rumford",
+      "slug": "rumford",
+      "county": "Providence County",
+      "lat": 41.842472,
+      "lng": -71.355938
+    },
+    {
+      "name": "Saunderstown",
+      "slug": "saunderstown",
+      "county": "Washington County",
+      "lat": 41.510528,
+      "lng": -71.442693
+    },
+    {
+      "name": "Shannock",
+      "slug": "shannock",
+      "county": "Washington County",
+      "lat": 41.448333,
+      "lng": -71.637222
+    },
+    {
+      "name": "Slatersville",
+      "slug": "slatersville",
+      "county": "Providence County",
+      "lat": 42.001478,
+      "lng": -71.5682
+    },
+    {
+      "name": "Slocum",
+      "slug": "slocum",
+      "county": "Washington County",
+      "lat": 41.521237,
+      "lng": -71.537169
+    },
+    {
+      "name": "Smithfield",
+      "slug": "smithfield",
+      "county": "Providence County",
+      "lat": 41.896382,
+      "lng": -71.520666
+    },
+    {
+      "name": "Tiverton",
+      "slug": "tiverton",
+      "county": "Newport County",
+      "lat": 41.633839,
+      "lng": -71.180823
+    },
+    {
+      "name": "Wakefield",
+      "slug": "wakefield",
+      "county": "Washington County",
+      "lat": 41.430195,
+      "lng": -71.525138
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Bristol County",
+      "lat": 41.725618,
+      "lng": -71.270165
+    },
+    {
+      "name": "Warwick",
+      "slug": "warwick",
+      "county": "Kent County",
+      "lat": 41.702601,
+      "lng": -71.447591
+    },
+    {
+      "name": "West Greenwich",
+      "slug": "west-greenwich",
+      "county": "Kent County",
+      "lat": 41.639977,
+      "lng": -71.643549
+    },
+    {
+      "name": "West Kingston",
+      "slug": "west-kingston",
+      "county": "Washington County",
+      "lat": 41.506716,
+      "lng": -71.599076
+    },
+    {
+      "name": "West Warwick",
+      "slug": "west-warwick",
+      "county": "Kent County",
+      "lat": 41.700433,
+      "lng": -71.518349
+    },
+    {
+      "name": "Westerly",
+      "slug": "westerly",
+      "county": "Washington County",
+      "lat": 41.369128,
+      "lng": -71.812643
+    },
+    {
+      "name": "Wood River Junction",
+      "slug": "wood-river-junction",
+      "county": "Washington County",
+      "lat": 41.453771,
+      "lng": -71.709512
+    },
+    {
+      "name": "Woonsocket",
+      "slug": "woonsocket",
+      "county": "Providence County",
+      "lat": 41.99948,
+      "lng": -71.513683
+    },
+    {
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "county": "Washington County",
+      "lat": 41.523362,
+      "lng": -71.683973
+    }
+  ]
+}

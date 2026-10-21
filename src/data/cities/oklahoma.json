@@ -1,0 +1,4102 @@
+{
+  "stateName": "Oklahoma",
+  "stateCode": "OK",
+  "stateSlug": "oklahoma",
+  "cities": [
+    {
+      "name": "Achille",
+      "slug": "achille",
+      "county": "Bryan County",
+      "lat": 33.833333,
+      "lng": -96.386944
+    },
+    {
+      "name": "Ada",
+      "slug": "ada",
+      "county": "Pontotoc County",
+      "lat": 34.780044,
+      "lng": -96.69236
+    },
+    {
+      "name": "Adair",
+      "slug": "adair",
+      "county": "Mayes County",
+      "lat": 36.411453,
+      "lng": -95.273199
+    },
+    {
+      "name": "Adams",
+      "slug": "adams",
+      "county": "Texas County",
+      "lat": 36.756389,
+      "lng": -101.076667
+    },
+    {
+      "name": "Addington",
+      "slug": "addington",
+      "county": "Jefferson County",
+      "lat": 34.244444,
+      "lng": -97.966667
+    },
+    {
+      "name": "Afton",
+      "slug": "afton",
+      "county": "Ottawa County",
+      "lat": 36.630072,
+      "lng": -94.907491
+    },
+    {
+      "name": "Agra",
+      "slug": "agra",
+      "county": "Lincoln County",
+      "lat": 35.882548,
+      "lng": -96.87794
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Bryan County",
+      "lat": 33.881389,
+      "lng": -96.1625
+    },
+    {
+      "name": "Albert",
+      "slug": "albert",
+      "county": "Caddo County",
+      "lat": 35.232778,
+      "lng": -98.411111
+    },
+    {
+      "name": "Albion",
+      "slug": "albion",
+      "county": "Pushmataha County",
+      "lat": 34.662778,
+      "lng": -95.099722
+    },
+    {
+      "name": "Alderson",
+      "slug": "alderson",
+      "county": "Pittsburg County",
+      "lat": 34.9,
+      "lng": -95.691667
+    },
+    {
+      "name": "Alex",
+      "slug": "alex",
+      "county": "Grady County",
+      "lat": 34.961202,
+      "lng": -97.75709
+    },
+    {
+      "name": "Aline",
+      "slug": "aline",
+      "county": "Alfalfa County",
+      "lat": 36.505621,
+      "lng": -98.457387
+    },
+    {
+      "name": "Allen",
+      "slug": "allen",
+      "county": "Pontotoc County",
+      "lat": 34.850176,
+      "lng": -96.558462
+    },
+    {
+      "name": "Altus",
+      "slug": "altus",
+      "county": "Jackson County",
+      "lat": 34.648406,
+      "lng": -99.320483
+    },
+    {
+      "name": "Altus Afb",
+      "slug": "altus-afb",
+      "county": "Jackson County",
+      "lat": 34.659167,
+      "lng": -99.280556
+    },
+    {
+      "name": "Alva",
+      "slug": "alva",
+      "county": "Woods County",
+      "lat": 36.801564,
+      "lng": -98.672162
+    },
+    {
+      "name": "Amber",
+      "slug": "amber",
+      "county": "Grady County",
+      "lat": 35.137691,
+      "lng": -97.764566
+    },
+    {
+      "name": "Ames",
+      "slug": "ames",
+      "county": "Major County",
+      "lat": 36.242293,
+      "lng": -98.181989
+    },
+    {
+      "name": "Amorita",
+      "slug": "amorita",
+      "county": "Alfalfa County",
+      "lat": 36.941221,
+      "lng": -98.245821
+    },
+    {
+      "name": "Anadarko",
+      "slug": "anadarko",
+      "county": "Caddo County",
+      "lat": 35.072808,
+      "lng": -98.24291
+    },
+    {
+      "name": "Antlers",
+      "slug": "antlers",
+      "county": "Pushmataha County",
+      "lat": 34.234923,
+      "lng": -95.625412
+    },
+    {
+      "name": "Apache",
+      "slug": "apache",
+      "county": "Caddo County",
+      "lat": 34.903376,
+      "lng": -98.369483
+    },
+    {
+      "name": "Arapaho",
+      "slug": "arapaho",
+      "county": "Custer County",
+      "lat": 35.578864,
+      "lng": -98.959508
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Oklahoma County",
+      "lat": 35.6543,
+      "lng": -97.324289
+    },
+    {
+      "name": "Ardmore",
+      "slug": "ardmore",
+      "county": "Carter County",
+      "lat": 34.176681,
+      "lng": -97.134157
+    },
+    {
+      "name": "Arkoma",
+      "slug": "arkoma",
+      "county": "Le Flore County",
+      "lat": 35.343352,
+      "lng": -94.440311
+    },
+    {
+      "name": "Arnett",
+      "slug": "arnett",
+      "county": "Ellis County",
+      "lat": 36.120524,
+      "lng": -99.73266
+    },
+    {
+      "name": "Asher",
+      "slug": "asher",
+      "county": "Pottawatomie County",
+      "lat": 34.984862,
+      "lng": -96.876326
+    },
+    {
+      "name": "Atoka",
+      "slug": "atoka",
+      "county": "Atoka County",
+      "lat": 34.34451,
+      "lng": -96.141827
+    },
+    {
+      "name": "Atwood",
+      "slug": "atwood",
+      "county": "Hughes County",
+      "lat": 34.919194,
+      "lng": -96.357703
+    },
+    {
+      "name": "Avant",
+      "slug": "avant",
+      "county": "Osage County",
+      "lat": 36.489444,
+      "lng": -96.061944
+    },
+    {
+      "name": "Balko",
+      "slug": "balko",
+      "county": "Beaver County",
+      "lat": 36.599607,
+      "lng": -100.710329
+    },
+    {
+      "name": "Barnsdall",
+      "slug": "barnsdall",
+      "county": "Osage County",
+      "lat": 36.542866,
+      "lng": -96.131789
+    },
+    {
+      "name": "Bartlesville",
+      "slug": "bartlesville",
+      "county": "Washington County",
+      "lat": 36.743956,
+      "lng": -95.992091
+    },
+    {
+      "name": "Battiest",
+      "slug": "battiest",
+      "county": "Mccurtain County",
+      "lat": 34.393333,
+      "lng": -94.924722
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Beaver County",
+      "lat": 36.795562,
+      "lng": -100.532938
+    },
+    {
+      "name": "Beggs",
+      "slug": "beggs",
+      "county": "Okmulgee County",
+      "lat": 35.789595,
+      "lng": -96.026398
+    },
+    {
+      "name": "Bennington",
+      "slug": "bennington",
+      "county": "Bryan County",
+      "lat": 33.977085,
+      "lng": -96.018774
+    },
+    {
+      "name": "Bessie",
+      "slug": "bessie",
+      "county": "Washita County",
+      "lat": 35.38545,
+      "lng": -98.989638
+    },
+    {
+      "name": "Bethany",
+      "slug": "bethany",
+      "county": "Oklahoma County",
+      "lat": 35.504315,
+      "lng": -97.639856
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Mccurtain County",
+      "lat": 34.358443,
+      "lng": -94.878126
+    },
+    {
+      "name": "Big Cabin",
+      "slug": "big-cabin",
+      "county": "Craig County",
+      "lat": 36.607931,
+      "lng": -95.274736
+    },
+    {
+      "name": "Billings",
+      "slug": "billings",
+      "county": "Noble County",
+      "lat": 36.524609,
+      "lng": -97.418889
+    },
+    {
+      "name": "Binger",
+      "slug": "binger",
+      "county": "Caddo County",
+      "lat": 35.310593,
+      "lng": -98.314797
+    },
+    {
+      "name": "Bison",
+      "slug": "bison",
+      "county": "Garfield County",
+      "lat": 36.196222,
+      "lng": -97.880484
+    },
+    {
+      "name": "Bixby",
+      "slug": "bixby",
+      "county": "Tulsa County",
+      "lat": 35.917291,
+      "lng": -95.872895
+    },
+    {
+      "name": "Blackwell",
+      "slug": "blackwell",
+      "county": "Kay County",
+      "lat": 36.800574,
+      "lng": -97.286695
+    },
+    {
+      "name": "Blair",
+      "slug": "blair",
+      "county": "Jackson County",
+      "lat": 34.778813,
+      "lng": -99.333404
+    },
+    {
+      "name": "Blanchard",
+      "slug": "blanchard",
+      "county": "Mcclain County",
+      "lat": 35.119215,
+      "lng": -97.640131
+    },
+    {
+      "name": "Blanco",
+      "slug": "blanco",
+      "county": "Pittsburg County",
+      "lat": 34.762151,
+      "lng": -95.792069
+    },
+    {
+      "name": "Blocker",
+      "slug": "blocker",
+      "county": "Pittsburg County",
+      "lat": 35.061389,
+      "lng": -95.568056
+    },
+    {
+      "name": "Bluejacket",
+      "slug": "bluejacket",
+      "county": "Ottawa County",
+      "lat": 36.797453,
+      "lng": -95.101844
+    },
+    {
+      "name": "Boise City",
+      "slug": "boise-city",
+      "county": "Cimarron County",
+      "lat": 36.728328,
+      "lng": -102.535519
+    },
+    {
+      "name": "Bokchito",
+      "slug": "bokchito",
+      "county": "Bryan County",
+      "lat": 33.985913,
+      "lng": -96.162097
+    },
+    {
+      "name": "Bokoshe",
+      "slug": "bokoshe",
+      "county": "Le Flore County",
+      "lat": 35.160925,
+      "lng": -94.722158
+    },
+    {
+      "name": "Boley",
+      "slug": "boley",
+      "county": "Okfuskee County",
+      "lat": 35.491328,
+      "lng": -96.470386
+    },
+    {
+      "name": "Boswell",
+      "slug": "boswell",
+      "county": "Choctaw County",
+      "lat": 34.024475,
+      "lng": -95.840313
+    },
+    {
+      "name": "Bowlegs",
+      "slug": "bowlegs",
+      "county": "Seminole County",
+      "lat": 35.146111,
+      "lng": -96.669722
+    },
+    {
+      "name": "Boynton",
+      "slug": "boynton",
+      "county": "Muskogee County",
+      "lat": 35.657652,
+      "lng": -95.660036
+    },
+    {
+      "name": "Bradley",
+      "slug": "bradley",
+      "county": "Grady County",
+      "lat": 34.874124,
+      "lng": -97.711841
+    },
+    {
+      "name": "Braggs",
+      "slug": "braggs",
+      "county": "Muskogee County",
+      "lat": 35.657395,
+      "lng": -95.203326
+    },
+    {
+      "name": "Braman",
+      "slug": "braman",
+      "county": "Kay County",
+      "lat": 36.933054,
+      "lng": -97.308231
+    },
+    {
+      "name": "Bristow",
+      "slug": "bristow",
+      "county": "Creek County",
+      "lat": 35.820904,
+      "lng": -96.375838
+    },
+    {
+      "name": "Broken Arrow",
+      "slug": "broken-arrow",
+      "county": "Tulsa County",
+      "lat": 35.990812,
+      "lng": -95.814332
+    },
+    {
+      "name": "Broken Bow",
+      "slug": "broken-bow",
+      "county": "Mccurtain County",
+      "lat": 34.026991,
+      "lng": -94.762296
+    },
+    {
+      "name": "Bromide",
+      "slug": "bromide",
+      "county": "Johnston County",
+      "lat": 34.418333,
+      "lng": -96.496667
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Harper County",
+      "lat": 36.835901,
+      "lng": -99.604816
+    },
+    {
+      "name": "Bunch",
+      "slug": "bunch",
+      "county": "Adair County",
+      "lat": 35.735691,
+      "lng": -94.734154
+    },
+    {
+      "name": "Burbank",
+      "slug": "burbank",
+      "county": "Osage County",
+      "lat": 36.696583,
+      "lng": -96.786873
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Alfalfa County",
+      "lat": 36.903613,
+      "lng": -98.421455
+    },
+    {
+      "name": "Burneyville",
+      "slug": "burneyville",
+      "county": "Love County",
+      "lat": 33.951516,
+      "lng": -97.324929
+    },
+    {
+      "name": "Burns Flat",
+      "slug": "burns-flat",
+      "county": "Washita County",
+      "lat": 35.348889,
+      "lng": -99.17
+    },
+    {
+      "name": "Butler",
+      "slug": "butler",
+      "county": "Custer County",
+      "lat": 35.633638,
+      "lng": -99.242749
+    },
+    {
+      "name": "Byars",
+      "slug": "byars",
+      "county": "Mcclain County",
+      "lat": 34.890397,
+      "lng": -97.099723
+    },
+    {
+      "name": "Cache",
+      "slug": "cache",
+      "county": "Comanche County",
+      "lat": 34.613072,
+      "lng": -98.615351
+    },
+    {
+      "name": "Caddo",
+      "slug": "caddo",
+      "county": "Bryan County",
+      "lat": 34.115688,
+      "lng": -96.260017
+    },
+    {
+      "name": "Calera",
+      "slug": "calera",
+      "county": "Bryan County",
+      "lat": 33.928872,
+      "lng": -96.410205
+    },
+    {
+      "name": "Calumet",
+      "slug": "calumet",
+      "county": "Canadian County",
+      "lat": 35.594819,
+      "lng": -98.189991
+    },
+    {
+      "name": "Calvin",
+      "slug": "calvin",
+      "county": "Hughes County",
+      "lat": 34.877987,
+      "lng": -96.270972
+    },
+    {
+      "name": "Camargo",
+      "slug": "camargo",
+      "county": "Dewey County",
+      "lat": 36.021235,
+      "lng": -99.278101
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Le Flore County",
+      "lat": 35.149355,
+      "lng": -94.506015
+    },
+    {
+      "name": "Canadian",
+      "slug": "canadian",
+      "county": "Pittsburg County",
+      "lat": 35.159258,
+      "lng": -95.653042
+    },
+    {
+      "name": "Caney",
+      "slug": "caney",
+      "county": "Atoka County",
+      "lat": 34.222112,
+      "lng": -96.258364
+    },
+    {
+      "name": "Canton",
+      "slug": "canton",
+      "county": "Blaine County",
+      "lat": 36.037194,
+      "lng": -98.577818
+    },
+    {
+      "name": "Canute",
+      "slug": "canute",
+      "county": "Washita County",
+      "lat": 35.403678,
+      "lng": -99.281575
+    },
+    {
+      "name": "Cardin",
+      "slug": "cardin",
+      "county": "Ottawa County",
+      "lat": 36.9725,
+      "lng": -94.848611
+    },
+    {
+      "name": "Carmen",
+      "slug": "carmen",
+      "county": "Alfalfa County",
+      "lat": 36.584206,
+      "lng": -98.457793
+    },
+    {
+      "name": "Carnegie",
+      "slug": "carnegie",
+      "county": "Caddo County",
+      "lat": 35.123484,
+      "lng": -98.575454
+    },
+    {
+      "name": "Carney",
+      "slug": "carney",
+      "county": "Lincoln County",
+      "lat": 35.805381,
+      "lng": -97.015942
+    },
+    {
+      "name": "Carrier",
+      "slug": "carrier",
+      "county": "Garfield County",
+      "lat": 36.518892,
+      "lng": -97.999688
+    },
+    {
+      "name": "Carter",
+      "slug": "carter",
+      "county": "Beckham County",
+      "lat": 35.220779,
+      "lng": -99.482239
+    },
+    {
+      "name": "Cartwright",
+      "slug": "cartwright",
+      "county": "Bryan County",
+      "lat": 33.884552,
+      "lng": -96.551909
+    },
+    {
+      "name": "Cashion",
+      "slug": "cashion",
+      "county": "Kingfisher County",
+      "lat": 35.799996,
+      "lng": -97.679523
+    },
+    {
+      "name": "Castle",
+      "slug": "castle",
+      "county": "Okfuskee County",
+      "lat": 35.473235,
+      "lng": -96.379133
+    },
+    {
+      "name": "Catoosa",
+      "slug": "catoosa",
+      "county": "Rogers County",
+      "lat": 36.17208,
+      "lng": -95.727321
+    },
+    {
+      "name": "Cement",
+      "slug": "cement",
+      "county": "Caddo County",
+      "lat": 34.932092,
+      "lng": -98.14656
+    },
+    {
+      "name": "Centrahoma",
+      "slug": "centrahoma",
+      "county": "Coal County",
+      "lat": 34.606642,
+      "lng": -96.338585
+    },
+    {
+      "name": "Chandler",
+      "slug": "chandler",
+      "county": "Lincoln County",
+      "lat": 35.704253,
+      "lng": -96.858266
+    },
+    {
+      "name": "Chattanooga",
+      "slug": "chattanooga",
+      "county": "Comanche County",
+      "lat": 34.426193,
+      "lng": -98.651365
+    },
+    {
+      "name": "Checotah",
+      "slug": "checotah",
+      "county": "Mcintosh County",
+      "lat": 35.435786,
+      "lng": -95.535038
+    },
+    {
+      "name": "Chelsea",
+      "slug": "chelsea",
+      "county": "Rogers County",
+      "lat": 36.535586,
+      "lng": -95.448871
+    },
+    {
+      "name": "Cherokee",
+      "slug": "cherokee",
+      "county": "Alfalfa County",
+      "lat": 36.756376,
+      "lng": -98.359375
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Major County",
+      "lat": 36.252841,
+      "lng": -98.884078
+    },
+    {
+      "name": "Cheyenne",
+      "slug": "cheyenne",
+      "county": "Roger Mills County",
+      "lat": 35.623181,
+      "lng": -99.676688
+    },
+    {
+      "name": "Chickasha",
+      "slug": "chickasha",
+      "county": "Grady County",
+      "lat": 35.026751,
+      "lng": -97.951847
+    },
+    {
+      "name": "Choctaw",
+      "slug": "choctaw",
+      "county": "Oklahoma County",
+      "lat": 35.471758,
+      "lng": -97.272564
+    },
+    {
+      "name": "Chouteau",
+      "slug": "chouteau",
+      "county": "Mayes County",
+      "lat": 36.166924,
+      "lng": -95.341574
+    },
+    {
+      "name": "Claremore",
+      "slug": "claremore",
+      "county": "Rogers County",
+      "lat": 36.324208,
+      "lng": -95.598539
+    },
+    {
+      "name": "Clarita",
+      "slug": "clarita",
+      "county": "Coal County",
+      "lat": 34.482778,
+      "lng": -96.433056
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Pushmataha County",
+      "lat": 34.590591,
+      "lng": -95.379981
+    },
+    {
+      "name": "Cleo Springs",
+      "slug": "cleo-springs",
+      "county": "Major County",
+      "lat": 36.408989,
+      "lng": -98.442275
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Pawnee County",
+      "lat": 36.255334,
+      "lng": -96.423009
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Custer County",
+      "lat": 35.511543,
+      "lng": -98.979533
+    },
+    {
+      "name": "Coalgate",
+      "slug": "coalgate",
+      "county": "Coal County",
+      "lat": 34.534408,
+      "lng": -96.216726
+    },
+    {
+      "name": "Colbert",
+      "slug": "colbert",
+      "county": "Bryan County",
+      "lat": 33.857516,
+      "lng": -96.495345
+    },
+    {
+      "name": "Colcord",
+      "slug": "colcord",
+      "county": "Delaware County",
+      "lat": 36.233349,
+      "lng": -94.654675
+    },
+    {
+      "name": "Coleman",
+      "slug": "coleman",
+      "county": "Johnston County",
+      "lat": 34.262498,
+      "lng": -96.458818
+    },
+    {
+      "name": "Collinsville",
+      "slug": "collinsville",
+      "county": "Tulsa County",
+      "lat": 36.370069,
+      "lng": -95.84688
+    },
+    {
+      "name": "Colony",
+      "slug": "colony",
+      "county": "Washita County",
+      "lat": 35.344844,
+      "lng": -98.670674
+    },
+    {
+      "name": "Comanche",
+      "slug": "comanche",
+      "county": "Stephens County",
+      "lat": 34.376523,
+      "lng": -97.979286
+    },
+    {
+      "name": "Commerce",
+      "slug": "commerce",
+      "county": "Ottawa County",
+      "lat": 36.933063,
+      "lng": -94.872983
+    },
+    {
+      "name": "Concho",
+      "slug": "concho",
+      "county": "Canadian County",
+      "lat": 35.615556,
+      "lng": -97.994167
+    },
+    {
+      "name": "Connerville",
+      "slug": "connerville",
+      "county": "Johnston County",
+      "lat": 34.4475,
+      "lng": -96.635833
+    },
+    {
+      "name": "Cookson",
+      "slug": "cookson",
+      "county": "Cherokee County",
+      "lat": 35.711622,
+      "lng": -94.913205
+    },
+    {
+      "name": "Copan",
+      "slug": "copan",
+      "county": "Washington County",
+      "lat": 36.906181,
+      "lng": -95.912987
+    },
+    {
+      "name": "Cordell",
+      "slug": "cordell",
+      "county": "Washita County",
+      "lat": 35.278803,
+      "lng": -98.951056
+    },
+    {
+      "name": "Corn",
+      "slug": "corn",
+      "county": "Washita County",
+      "lat": 35.399842,
+      "lng": -98.806226
+    },
+    {
+      "name": "Council Hill",
+      "slug": "council-hill",
+      "county": "Muskogee County",
+      "lat": 35.532175,
+      "lng": -95.711326
+    },
+    {
+      "name": "Countyline",
+      "slug": "countyline",
+      "county": "Stephens County",
+      "lat": 34.448611,
+      "lng": -97.5625
+    },
+    {
+      "name": "Covington",
+      "slug": "covington",
+      "county": "Garfield County",
+      "lat": 36.309944,
+      "lng": -97.575163
+    },
+    {
+      "name": "Coweta",
+      "slug": "coweta",
+      "county": "Wagoner County",
+      "lat": 35.957835,
+      "lng": -95.652597
+    },
+    {
+      "name": "Coyle",
+      "slug": "coyle",
+      "county": "Logan County",
+      "lat": 35.898496,
+      "lng": -97.260683
+    },
+    {
+      "name": "Crawford",
+      "slug": "crawford",
+      "county": "Roger Mills County",
+      "lat": 35.836766,
+      "lng": -99.806446
+    },
+    {
+      "name": "Crescent",
+      "slug": "crescent",
+      "county": "Logan County",
+      "lat": 35.942,
+      "lng": -97.596922
+    },
+    {
+      "name": "Cromwell",
+      "slug": "cromwell",
+      "county": "Seminole County",
+      "lat": 35.34,
+      "lng": -96.456944
+    },
+    {
+      "name": "Crowder",
+      "slug": "crowder",
+      "county": "Pittsburg County",
+      "lat": 35.123889,
+      "lng": -95.669722
+    },
+    {
+      "name": "Cushing",
+      "slug": "cushing",
+      "county": "Payne County",
+      "lat": 35.982174,
+      "lng": -96.752628
+    },
+    {
+      "name": "Custer City",
+      "slug": "custer-city",
+      "county": "Custer County",
+      "lat": 35.689371,
+      "lng": -98.912013
+    },
+    {
+      "name": "Cyril",
+      "slug": "cyril",
+      "county": "Caddo County",
+      "lat": 34.895854,
+      "lng": -98.208269
+    },
+    {
+      "name": "Dacoma",
+      "slug": "dacoma",
+      "county": "Woods County",
+      "lat": 36.660604,
+      "lng": -98.594202
+    },
+    {
+      "name": "Daisy",
+      "slug": "daisy",
+      "county": "Atoka County",
+      "lat": 34.538357,
+      "lng": -95.708773
+    },
+    {
+      "name": "Davenport",
+      "slug": "davenport",
+      "county": "Lincoln County",
+      "lat": 35.704722,
+      "lng": -96.765
+    },
+    {
+      "name": "Davidson",
+      "slug": "davidson",
+      "county": "Tillman County",
+      "lat": 34.251423,
+      "lng": -99.064031
+    },
+    {
+      "name": "Davis",
+      "slug": "davis",
+      "county": "Murray County",
+      "lat": 34.495301,
+      "lng": -97.10843
+    },
+    {
+      "name": "Deer Creek",
+      "slug": "deer-creek",
+      "county": "Grant County",
+      "lat": 36.80482,
+      "lng": -97.513581
+    },
+    {
+      "name": "Delaware",
+      "slug": "delaware",
+      "county": "Nowata County",
+      "lat": 36.780382,
+      "lng": -95.618096
+    },
+    {
+      "name": "Depew",
+      "slug": "depew",
+      "county": "Creek County",
+      "lat": 35.756141,
+      "lng": -96.489665
+    },
+    {
+      "name": "Devol",
+      "slug": "devol",
+      "county": "Cotton County",
+      "lat": 34.195589,
+      "lng": -98.576991
+    },
+    {
+      "name": "Dewar",
+      "slug": "dewar",
+      "county": "Okmulgee County",
+      "lat": 35.458056,
+      "lng": -95.941111
+    },
+    {
+      "name": "Dewey",
+      "slug": "dewey",
+      "county": "Washington County",
+      "lat": 36.80125,
+      "lng": -95.93454
+    },
+    {
+      "name": "Dibble",
+      "slug": "dibble",
+      "county": "Mcclain County",
+      "lat": 35.033333,
+      "lng": -97.629444
+    },
+    {
+      "name": "Dill City",
+      "slug": "dill-city",
+      "county": "Washita County",
+      "lat": 35.278704,
+      "lng": -99.153738
+    },
+    {
+      "name": "Disney",
+      "slug": "disney",
+      "county": "Mayes County",
+      "lat": 36.481111,
+      "lng": -95.014722
+    },
+    {
+      "name": "Dougherty",
+      "slug": "dougherty",
+      "county": "Murray County",
+      "lat": 34.399444,
+      "lng": -97.055278
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Garfield County",
+      "lat": 36.248138,
+      "lng": -97.689626
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Kingfisher County",
+      "lat": 35.984761,
+      "lng": -97.906677
+    },
+    {
+      "name": "Drummond",
+      "slug": "drummond",
+      "county": "Garfield County",
+      "lat": 36.284142,
+      "lng": -98.035846
+    },
+    {
+      "name": "Drumright",
+      "slug": "drumright",
+      "county": "Creek County",
+      "lat": 35.993136,
+      "lng": -96.519789
+    },
+    {
+      "name": "Duke",
+      "slug": "duke",
+      "county": "Jackson County",
+      "lat": 34.666769,
+      "lng": -99.548172
+    },
+    {
+      "name": "Duncan",
+      "slug": "duncan",
+      "county": "Stephens County",
+      "lat": 34.507277,
+      "lng": -97.940322
+    },
+    {
+      "name": "Durant",
+      "slug": "durant",
+      "county": "Bryan County",
+      "lat": 34.00609,
+      "lng": -96.384705
+    },
+    {
+      "name": "Durham",
+      "slug": "durham",
+      "county": "Roger Mills County",
+      "lat": 35.836391,
+      "lng": -99.908774
+    },
+    {
+      "name": "Dustin",
+      "slug": "dustin",
+      "county": "Hughes County",
+      "lat": 35.251937,
+      "lng": -96.057271
+    },
+    {
+      "name": "Eagletown",
+      "slug": "eagletown",
+      "county": "Mccurtain County",
+      "lat": 34.036358,
+      "lng": -94.559557
+    },
+    {
+      "name": "Eakly",
+      "slug": "eakly",
+      "county": "Caddo County",
+      "lat": 35.305278,
+      "lng": -98.5575
+    },
+    {
+      "name": "Earlsboro",
+      "slug": "earlsboro",
+      "county": "Pottawatomie County",
+      "lat": 35.262792,
+      "lng": -96.804093
+    },
+    {
+      "name": "Edmond",
+      "slug": "edmond",
+      "county": "Oklahoma County",
+      "lat": 35.68,
+      "lng": -97.53
+    },
+    {
+      "name": "El Reno",
+      "slug": "el-reno",
+      "county": "Canadian County",
+      "lat": 35.533468,
+      "lng": -97.959091
+    },
+    {
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "county": "Jackson County",
+      "lat": 34.472744,
+      "lng": -99.645956
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Comanche County",
+      "lat": 34.772018,
+      "lng": -98.407322
+    },
+    {
+      "name": "Elk City",
+      "slug": "elk-city",
+      "county": "Beckham County",
+      "lat": 35.410359,
+      "lng": -99.421086
+    },
+    {
+      "name": "Elmer",
+      "slug": "elmer",
+      "county": "Jackson County",
+      "lat": 34.513668,
+      "lng": -99.316744
+    },
+    {
+      "name": "Elmore City",
+      "slug": "elmore-city",
+      "county": "Garvin County",
+      "lat": 34.622778,
+      "lng": -97.396111
+    },
+    {
+      "name": "Enid",
+      "slug": "enid",
+      "county": "Garfield County",
+      "lat": 36.402842,
+      "lng": -97.862257
+    },
+    {
+      "name": "Erick",
+      "slug": "erick",
+      "county": "Beckham County",
+      "lat": 35.228586,
+      "lng": -99.863463
+    },
+    {
+      "name": "Eucha",
+      "slug": "eucha",
+      "county": "Delaware County",
+      "lat": 36.398709,
+      "lng": -94.923003
+    },
+    {
+      "name": "Eufaula",
+      "slug": "eufaula",
+      "county": "Mcintosh County",
+      "lat": 35.29114,
+      "lng": -95.647227
+    },
+    {
+      "name": "Fairfax",
+      "slug": "fairfax",
+      "county": "Osage County",
+      "lat": 36.557687,
+      "lng": -96.699691
+    },
+    {
+      "name": "Fairland",
+      "slug": "fairland",
+      "county": "Ottawa County",
+      "lat": 36.74178,
+      "lng": -94.827934
+    },
+    {
+      "name": "Fairmont",
+      "slug": "fairmont",
+      "county": "Garfield County",
+      "lat": 36.391614,
+      "lng": -97.711493
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Major County",
+      "lat": 36.265981,
+      "lng": -98.506271
+    },
+    {
+      "name": "Fanshawe",
+      "slug": "fanshawe",
+      "county": "Le Flore County",
+      "lat": 34.950833,
+      "lng": -94.908056
+    },
+    {
+      "name": "Fargo",
+      "slug": "fargo",
+      "county": "Ellis County",
+      "lat": 36.40525,
+      "lng": -99.650602
+    },
+    {
+      "name": "Farris",
+      "slug": "farris",
+      "county": "Atoka County",
+      "lat": 34.255833,
+      "lng": -95.841368
+    },
+    {
+      "name": "Faxon",
+      "slug": "faxon",
+      "county": "Comanche County",
+      "lat": 34.464521,
+      "lng": -98.55771
+    },
+    {
+      "name": "Fay",
+      "slug": "fay",
+      "county": "Dewey County",
+      "lat": 35.820417,
+      "lng": -98.658678
+    },
+    {
+      "name": "Felt",
+      "slug": "felt",
+      "county": "Cimarron County",
+      "lat": 36.566569,
+      "lng": -102.797422
+    },
+    {
+      "name": "Finley",
+      "slug": "finley",
+      "county": "Pushmataha County",
+      "lat": 34.340654,
+      "lng": -95.538519
+    },
+    {
+      "name": "Fittstown",
+      "slug": "fittstown",
+      "county": "Pontotoc County",
+      "lat": 34.630134,
+      "lng": -96.649458
+    },
+    {
+      "name": "Fitzhugh",
+      "slug": "fitzhugh",
+      "county": "Pontotoc County",
+      "lat": 34.661545,
+      "lng": -96.774487
+    },
+    {
+      "name": "Fletcher",
+      "slug": "fletcher",
+      "county": "Comanche County",
+      "lat": 34.784657,
+      "lng": -98.200246
+    },
+    {
+      "name": "Forgan",
+      "slug": "forgan",
+      "county": "Beaver County",
+      "lat": 36.908588,
+      "lng": -100.540875
+    },
+    {
+      "name": "Fort Cobb",
+      "slug": "fort-cobb",
+      "county": "Caddo County",
+      "lat": 35.116097,
+      "lng": -98.430296
+    },
+    {
+      "name": "Fort Gibson",
+      "slug": "fort-gibson",
+      "county": "Muskogee County",
+      "lat": 35.794285,
+      "lng": -95.229734
+    },
+    {
+      "name": "Fort Sill",
+      "slug": "fort-sill",
+      "county": "Comanche County",
+      "lat": 34.659525,
+      "lng": -98.40041
+    },
+    {
+      "name": "Fort Supply",
+      "slug": "fort-supply",
+      "county": "Woodward County",
+      "lat": 36.564556,
+      "lng": -99.526797
+    },
+    {
+      "name": "Fort Towson",
+      "slug": "fort-towson",
+      "county": "Choctaw County",
+      "lat": 34.051968,
+      "lng": -95.253015
+    },
+    {
+      "name": "Foss",
+      "slug": "foss",
+      "county": "Washita County",
+      "lat": 35.373645,
+      "lng": -99.15259
+    },
+    {
+      "name": "Foster",
+      "slug": "foster",
+      "county": "Stephens County",
+      "lat": 34.616389,
+      "lng": -97.488889
+    },
+    {
+      "name": "Fox",
+      "slug": "fox",
+      "county": "Carter County",
+      "lat": 34.363611,
+      "lng": -97.491944
+    },
+    {
+      "name": "Foyil",
+      "slug": "foyil",
+      "county": "Rogers County",
+      "lat": 36.434722,
+      "lng": -95.519167
+    },
+    {
+      "name": "Francis",
+      "slug": "francis",
+      "county": "Pontotoc County",
+      "lat": 34.873611,
+      "lng": -96.595278
+    },
+    {
+      "name": "Frederick",
+      "slug": "frederick",
+      "county": "Tillman County",
+      "lat": 34.401199,
+      "lng": -99.011877
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "county": "Woods County",
+      "lat": 36.809036,
+      "lng": -99.131922
+    },
+    {
+      "name": "Gage",
+      "slug": "gage",
+      "county": "Ellis County",
+      "lat": 36.317996,
+      "lng": -99.760003
+    },
+    {
+      "name": "Gans",
+      "slug": "gans",
+      "county": "Sequoyah County",
+      "lat": 35.388889,
+      "lng": -94.691944
+    },
+    {
+      "name": "Garber",
+      "slug": "garber",
+      "county": "Garfield County",
+      "lat": 36.439184,
+      "lng": -97.578899
+    },
+    {
+      "name": "Garvin",
+      "slug": "garvin",
+      "county": "Mccurtain County",
+      "lat": 33.920512,
+      "lng": -94.932308
+    },
+    {
+      "name": "Gate",
+      "slug": "gate",
+      "county": "Beaver County",
+      "lat": 36.875679,
+      "lng": -100.073386
+    },
+    {
+      "name": "Geary",
+      "slug": "geary",
+      "county": "Blaine County",
+      "lat": 35.621709,
+      "lng": -98.390529
+    },
+    {
+      "name": "Gene Autry",
+      "slug": "gene-autry",
+      "county": "Carter County",
+      "lat": 34.283611,
+      "lng": -97.037778
+    },
+    {
+      "name": "Geronimo",
+      "slug": "geronimo",
+      "county": "Comanche County",
+      "lat": 34.480499,
+      "lng": -98.387525
+    },
+    {
+      "name": "Glencoe",
+      "slug": "glencoe",
+      "county": "Payne County",
+      "lat": 36.215815,
+      "lng": -96.913845
+    },
+    {
+      "name": "Glenpool",
+      "slug": "glenpool",
+      "county": "Tulsa County",
+      "lat": 35.959106,
+      "lng": -95.999709
+    },
+    {
+      "name": "Golden",
+      "slug": "golden",
+      "county": "Mccurtain County",
+      "lat": 34.034444,
+      "lng": -94.896111
+    },
+    {
+      "name": "Goltry",
+      "slug": "goltry",
+      "county": "Alfalfa County",
+      "lat": 36.531364,
+      "lng": -98.153978
+    },
+    {
+      "name": "Goodwell",
+      "slug": "goodwell",
+      "county": "Texas County",
+      "lat": 36.674382,
+      "lng": -101.71369
+    },
+    {
+      "name": "Gore",
+      "slug": "gore",
+      "county": "Sequoyah County",
+      "lat": 35.541772,
+      "lng": -95.109474
+    },
+    {
+      "name": "Gotebo",
+      "slug": "gotebo",
+      "county": "Kiowa County",
+      "lat": 35.075891,
+      "lng": -98.875977
+    },
+    {
+      "name": "Gould",
+      "slug": "gould",
+      "county": "Harmon County",
+      "lat": 34.664964,
+      "lng": -99.784337
+    },
+    {
+      "name": "Gowen",
+      "slug": "gowen",
+      "county": "Latimer County",
+      "lat": 34.881389,
+      "lng": -95.476667
+    },
+    {
+      "name": "Gracemont",
+      "slug": "gracemont",
+      "county": "Caddo County",
+      "lat": 35.187498,
+      "lng": -98.283513
+    },
+    {
+      "name": "Graham",
+      "slug": "graham",
+      "county": "Carter County",
+      "lat": 34.337379,
+      "lng": -97.495435
+    },
+    {
+      "name": "Grandfield",
+      "slug": "grandfield",
+      "county": "Tillman County",
+      "lat": 34.228247,
+      "lng": -98.686654
+    },
+    {
+      "name": "Granite",
+      "slug": "granite",
+      "county": "Greer County",
+      "lat": 34.971184,
+      "lng": -99.388139
+    },
+    {
+      "name": "Grant",
+      "slug": "grant",
+      "county": "Choctaw County",
+      "lat": 33.930239,
+      "lng": -95.489324
+    },
+    {
+      "name": "Greenfield",
+      "slug": "greenfield",
+      "county": "Blaine County",
+      "lat": 35.733269,
+      "lng": -98.384073
+    },
+    {
+      "name": "Grove",
+      "slug": "grove",
+      "county": "Delaware County",
+      "lat": 36.592869,
+      "lng": -94.756536
+    },
+    {
+      "name": "Guthrie",
+      "slug": "guthrie",
+      "county": "Logan County",
+      "lat": 35.832955,
+      "lng": -97.435995
+    },
+    {
+      "name": "Guymon",
+      "slug": "guymon",
+      "county": "Texas County",
+      "lat": 36.696052,
+      "lng": -101.47778
+    },
+    {
+      "name": "Haileyville",
+      "slug": "haileyville",
+      "county": "Pittsburg County",
+      "lat": 34.854444,
+      "lng": -95.581944
+    },
+    {
+      "name": "Hallett",
+      "slug": "hallett",
+      "county": "Pawnee County",
+      "lat": 36.233889,
+      "lng": -96.567222
+    },
+    {
+      "name": "Hammon",
+      "slug": "hammon",
+      "county": "Roger Mills County",
+      "lat": 35.646131,
+      "lng": -99.402683
+    },
+    {
+      "name": "Hanna",
+      "slug": "hanna",
+      "county": "Mcintosh County",
+      "lat": 35.208526,
+      "lng": -95.895795
+    },
+    {
+      "name": "Hardesty",
+      "slug": "hardesty",
+      "county": "Texas County",
+      "lat": 36.601754,
+      "lng": -101.153944
+    },
+    {
+      "name": "Harrah",
+      "slug": "harrah",
+      "county": "Oklahoma County",
+      "lat": 35.483258,
+      "lng": -97.17343
+    },
+    {
+      "name": "Hartshorne",
+      "slug": "hartshorne",
+      "county": "Pittsburg County",
+      "lat": 34.84517,
+      "lng": -95.573972
+    },
+    {
+      "name": "Haskell",
+      "slug": "haskell",
+      "county": "Muskogee County",
+      "lat": 35.810752,
+      "lng": -95.683981
+    },
+    {
+      "name": "Hastings",
+      "slug": "hastings",
+      "county": "Jefferson County",
+      "lat": 34.225064,
+      "lng": -98.107539
+    },
+    {
+      "name": "Haworth",
+      "slug": "haworth",
+      "county": "Mccurtain County",
+      "lat": 33.787507,
+      "lng": -94.581775
+    },
+    {
+      "name": "Headrick",
+      "slug": "headrick",
+      "county": "Jackson County",
+      "lat": 34.72189,
+      "lng": -99.23904
+    },
+    {
+      "name": "Healdton",
+      "slug": "healdton",
+      "county": "Carter County",
+      "lat": 34.229017,
+      "lng": -97.488904
+    },
+    {
+      "name": "Heavener",
+      "slug": "heavener",
+      "county": "Le Flore County",
+      "lat": 34.835267,
+      "lng": -94.61849
+    },
+    {
+      "name": "Helena",
+      "slug": "helena",
+      "county": "Alfalfa County",
+      "lat": 36.54375,
+      "lng": -98.277819
+    },
+    {
+      "name": "Hendrix",
+      "slug": "hendrix",
+      "county": "Bryan County",
+      "lat": 33.801582,
+      "lng": -96.358134
+    },
+    {
+      "name": "Hennepin",
+      "slug": "hennepin",
+      "county": "Carter County",
+      "lat": 34.508889,
+      "lng": -97.346667
+    },
+    {
+      "name": "Hennessey",
+      "slug": "hennessey",
+      "county": "Kingfisher County",
+      "lat": 36.086848,
+      "lng": -97.892595
+    },
+    {
+      "name": "Henryetta",
+      "slug": "henryetta",
+      "county": "Okmulgee County",
+      "lat": 35.454476,
+      "lng": -95.976187
+    },
+    {
+      "name": "Hillsdale",
+      "slug": "hillsdale",
+      "county": "Garfield County",
+      "lat": 36.563056,
+      "lng": -97.991111
+    },
+    {
+      "name": "Hinton",
+      "slug": "hinton",
+      "county": "Caddo County",
+      "lat": 35.4675,
+      "lng": -98.331348
+    },
+    {
+      "name": "Hitchcock",
+      "slug": "hitchcock",
+      "county": "Blaine County",
+      "lat": 35.971209,
+      "lng": -98.331535
+    },
+    {
+      "name": "Hitchita",
+      "slug": "hitchita",
+      "county": "Mcintosh County",
+      "lat": 35.519722,
+      "lng": -95.751111
+    },
+    {
+      "name": "Hobart",
+      "slug": "hobart",
+      "county": "Kiowa County",
+      "lat": 35.025521,
+      "lng": -99.094433
+    },
+    {
+      "name": "Hodgen",
+      "slug": "hodgen",
+      "county": "Le Flore County",
+      "lat": 34.753757,
+      "lng": -94.63908
+    },
+    {
+      "name": "Holdenville",
+      "slug": "holdenville",
+      "county": "Hughes County",
+      "lat": 35.083935,
+      "lng": -96.376968
+    },
+    {
+      "name": "Hollis",
+      "slug": "hollis",
+      "county": "Harmon County",
+      "lat": 34.695281,
+      "lng": -99.917711
+    },
+    {
+      "name": "Hollister",
+      "slug": "hollister",
+      "county": "Tillman County",
+      "lat": 34.352473,
+      "lng": -98.881404
+    },
+    {
+      "name": "Hominy",
+      "slug": "hominy",
+      "county": "Osage County",
+      "lat": 36.411068,
+      "lng": -96.387848
+    },
+    {
+      "name": "Hooker",
+      "slug": "hooker",
+      "county": "Texas County",
+      "lat": 36.847981,
+      "lng": -101.190683
+    },
+    {
+      "name": "Hopeton",
+      "slug": "hopeton",
+      "county": "Woods County",
+      "lat": 36.688056,
+      "lng": -98.665556
+    },
+    {
+      "name": "Howe",
+      "slug": "howe",
+      "county": "Le Flore County",
+      "lat": 34.929936,
+      "lng": -94.657072
+    },
+    {
+      "name": "Hoyt",
+      "slug": "hoyt",
+      "county": "Haskell County",
+      "lat": 35.268466,
+      "lng": -95.299382
+    },
+    {
+      "name": "Hugo",
+      "slug": "hugo",
+      "county": "Choctaw County",
+      "lat": 34.011339,
+      "lng": -95.513876
+    },
+    {
+      "name": "Hulbert",
+      "slug": "hulbert",
+      "county": "Cherokee County",
+      "lat": 35.925415,
+      "lng": -95.165095
+    },
+    {
+      "name": "Hunter",
+      "slug": "hunter",
+      "county": "Garfield County",
+      "lat": 36.560342,
+      "lng": -97.642507
+    },
+    {
+      "name": "Hydro",
+      "slug": "hydro",
+      "county": "Caddo County",
+      "lat": 35.45201,
+      "lng": -98.560448
+    },
+    {
+      "name": "Idabel",
+      "slug": "idabel",
+      "county": "Mccurtain County",
+      "lat": 33.88512,
+      "lng": -94.802012
+    },
+    {
+      "name": "Indiahoma",
+      "slug": "indiahoma",
+      "county": "Comanche County",
+      "lat": 34.624226,
+      "lng": -98.734864
+    },
+    {
+      "name": "Indianola",
+      "slug": "indianola",
+      "county": "Pittsburg County",
+      "lat": 35.093724,
+      "lng": -95.784479
+    },
+    {
+      "name": "Inola",
+      "slug": "inola",
+      "county": "Rogers County",
+      "lat": 36.150315,
+      "lng": -95.520456
+    },
+    {
+      "name": "Isabella",
+      "slug": "isabella",
+      "county": "Major County",
+      "lat": 36.23407,
+      "lng": -98.337446
+    },
+    {
+      "name": "Jay",
+      "slug": "jay",
+      "county": "Delaware County",
+      "lat": 36.436343,
+      "lng": -94.776309
+    },
+    {
+      "name": "Jenks",
+      "slug": "jenks",
+      "county": "Tulsa County",
+      "lat": 36.014834,
+      "lng": -95.979711
+    },
+    {
+      "name": "Jennings",
+      "slug": "jennings",
+      "county": "Pawnee County",
+      "lat": 36.186302,
+      "lng": -96.573227
+    },
+    {
+      "name": "Jet",
+      "slug": "jet",
+      "county": "Alfalfa County",
+      "lat": 36.692917,
+      "lng": -98.172121
+    },
+    {
+      "name": "Jones",
+      "slug": "jones",
+      "county": "Oklahoma County",
+      "lat": 35.575316,
+      "lng": -97.28914
+    },
+    {
+      "name": "Kansas",
+      "slug": "kansas",
+      "county": "Delaware County",
+      "lat": 36.216114,
+      "lng": -94.811416
+    },
+    {
+      "name": "Kaw City",
+      "slug": "kaw-city",
+      "county": "Kay County",
+      "lat": 36.786663,
+      "lng": -96.898862
+    },
+    {
+      "name": "Kellyville",
+      "slug": "kellyville",
+      "county": "Creek County",
+      "lat": 35.917075,
+      "lng": -96.218009
+    },
+    {
+      "name": "Kemp",
+      "slug": "kemp",
+      "county": "Bryan County",
+      "lat": 33.769444,
+      "lng": -96.353889
+    },
+    {
+      "name": "Kenefic",
+      "slug": "kenefic",
+      "county": "Johnston County",
+      "lat": 34.131377,
+      "lng": -96.388663
+    },
+    {
+      "name": "Kenton",
+      "slug": "kenton",
+      "county": "Cimarron County",
+      "lat": 36.855639,
+      "lng": -102.912421
+    },
+    {
+      "name": "Keota",
+      "slug": "keota",
+      "county": "Haskell County",
+      "lat": 35.264541,
+      "lng": -94.902822
+    },
+    {
+      "name": "Ketchum",
+      "slug": "ketchum",
+      "county": "Mayes County",
+      "lat": 36.525556,
+      "lng": -95.025556
+    },
+    {
+      "name": "Keyes",
+      "slug": "keyes",
+      "county": "Cimarron County",
+      "lat": 36.800316,
+      "lng": -102.236063
+    },
+    {
+      "name": "Kiamichi Christian Mission",
+      "slug": "kiamichi-christian-mission",
+      "county": "Le Flore County",
+      "lat": 34.592604,
+      "lng": -94.991557
+    },
+    {
+      "name": "Kiefer",
+      "slug": "kiefer",
+      "county": "Creek County",
+      "lat": 35.944722,
+      "lng": -96.065
+    },
+    {
+      "name": "Kingfisher",
+      "slug": "kingfisher",
+      "county": "Kingfisher County",
+      "lat": 35.863613,
+      "lng": -97.947293
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Marshall County",
+      "lat": 33.951664,
+      "lng": -96.711977
+    },
+    {
+      "name": "Kinta",
+      "slug": "kinta",
+      "county": "Haskell County",
+      "lat": 35.197065,
+      "lng": -95.317545
+    },
+    {
+      "name": "Kiowa",
+      "slug": "kiowa",
+      "county": "Pittsburg County",
+      "lat": 34.727755,
+      "lng": -95.932836
+    },
+    {
+      "name": "Konawa",
+      "slug": "konawa",
+      "county": "Seminole County",
+      "lat": 34.970824,
+      "lng": -96.734279
+    },
+    {
+      "name": "Krebs",
+      "slug": "krebs",
+      "county": "Pittsburg County",
+      "lat": 34.927778,
+      "lng": -95.715556
+    },
+    {
+      "name": "Kremlin",
+      "slug": "kremlin",
+      "county": "Garfield County",
+      "lat": 36.520735,
+      "lng": -97.854186
+    },
+    {
+      "name": "Lahoma",
+      "slug": "lahoma",
+      "county": "Garfield County",
+      "lat": 36.385005,
+      "lng": -98.072738
+    },
+    {
+      "name": "Lamar",
+      "slug": "lamar",
+      "county": "Hughes County",
+      "lat": 35.083557,
+      "lng": -96.114226
+    },
+    {
+      "name": "Lamont",
+      "slug": "lamont",
+      "county": "Grant County",
+      "lat": 36.693884,
+      "lng": -97.560093
+    },
+    {
+      "name": "Lane",
+      "slug": "lane",
+      "county": "Atoka County",
+      "lat": 34.269122,
+      "lng": -95.968515
+    },
+    {
+      "name": "Langley",
+      "slug": "langley",
+      "county": "Mayes County",
+      "lat": 36.463889,
+      "lng": -95.0475
+    },
+    {
+      "name": "Langston",
+      "slug": "langston",
+      "county": "Logan County",
+      "lat": 35.945,
+      "lng": -97.255
+    },
+    {
+      "name": "Laverne",
+      "slug": "laverne",
+      "county": "Harper County",
+      "lat": 36.70625,
+      "lng": -99.891766
+    },
+    {
+      "name": "Lawton",
+      "slug": "lawton",
+      "county": "Comanche County",
+      "lat": 34.591467,
+      "lng": -98.369783
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Marshall County",
+      "lat": 33.961036,
+      "lng": -96.864495
+    },
+    {
+      "name": "Leedey",
+      "slug": "leedey",
+      "county": "Dewey County",
+      "lat": 35.869772,
+      "lng": -99.349146
+    },
+    {
+      "name": "Leflore",
+      "slug": "leflore",
+      "county": "Le Flore County",
+      "lat": 34.896944,
+      "lng": -94.981111
+    },
+    {
+      "name": "Lehigh",
+      "slug": "lehigh",
+      "county": "Coal County",
+      "lat": 34.469167,
+      "lng": -96.216111
+    },
+    {
+      "name": "Lenapah",
+      "slug": "lenapah",
+      "county": "Nowata County",
+      "lat": 36.880055,
+      "lng": -95.623316
+    },
+    {
+      "name": "Leon",
+      "slug": "leon",
+      "county": "Love County",
+      "lat": 33.924278,
+      "lng": -97.447058
+    },
+    {
+      "name": "Leonard",
+      "slug": "leonard",
+      "county": "Tulsa County",
+      "lat": 35.920278,
+      "lng": -95.799167
+    },
+    {
+      "name": "Lequire",
+      "slug": "lequire",
+      "county": "Haskell County",
+      "lat": 35.104444,
+      "lng": -95.107222
+    },
+    {
+      "name": "Lexington",
+      "slug": "lexington",
+      "county": "Cleveland County",
+      "lat": 35.037661,
+      "lng": -97.260945
+    },
+    {
+      "name": "Lindsay",
+      "slug": "lindsay",
+      "county": "Garvin County",
+      "lat": 34.821116,
+      "lng": -97.599788
+    },
+    {
+      "name": "Loco",
+      "slug": "loco",
+      "county": "Stephens County",
+      "lat": 34.321416,
+      "lng": -97.665803
+    },
+    {
+      "name": "Locust Grove",
+      "slug": "locust-grove",
+      "county": "Mayes County",
+      "lat": 36.181902,
+      "lng": -95.168854
+    },
+    {
+      "name": "Lone Grove",
+      "slug": "lone-grove",
+      "county": "Carter County",
+      "lat": 34.177373,
+      "lng": -97.268523
+    },
+    {
+      "name": "Lone Wolf",
+      "slug": "lone-wolf",
+      "county": "Kiowa County",
+      "lat": 34.980584,
+      "lng": -99.250161
+    },
+    {
+      "name": "Longdale",
+      "slug": "longdale",
+      "county": "Blaine County",
+      "lat": 36.121233,
+      "lng": -98.549966
+    },
+    {
+      "name": "Lookeba",
+      "slug": "lookeba",
+      "county": "Caddo County",
+      "lat": 35.367946,
+      "lng": -98.389833
+    },
+    {
+      "name": "Loveland",
+      "slug": "loveland",
+      "county": "Tillman County",
+      "lat": 34.391018,
+      "lng": -98.72353
+    },
+    {
+      "name": "Loyal",
+      "slug": "loyal",
+      "county": "Kingfisher County",
+      "lat": 35.970529,
+      "lng": -98.115516
+    },
+    {
+      "name": "Lucien",
+      "slug": "lucien",
+      "county": "Noble County",
+      "lat": 36.275327,
+      "lng": -97.452574
+    },
+    {
+      "name": "Luther",
+      "slug": "luther",
+      "county": "Oklahoma County",
+      "lat": 35.631491,
+      "lng": -97.182292
+    },
+    {
+      "name": "Macomb",
+      "slug": "macomb",
+      "county": "Pottawatomie County",
+      "lat": 35.12052,
+      "lng": -97.033964
+    },
+    {
+      "name": "Madill",
+      "slug": "madill",
+      "county": "Marshall County",
+      "lat": 34.07126,
+      "lng": -96.787258
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Grant County",
+      "lat": 36.9744,
+      "lng": -98.03826
+    },
+    {
+      "name": "Mangum",
+      "slug": "mangum",
+      "county": "Greer County",
+      "lat": 34.875473,
+      "lng": -99.505769
+    },
+    {
+      "name": "Manitou",
+      "slug": "manitou",
+      "county": "Tillman County",
+      "lat": 34.5075,
+      "lng": -98.983056
+    },
+    {
+      "name": "Mannford",
+      "slug": "mannford",
+      "county": "Creek County",
+      "lat": 36.092688,
+      "lng": -96.357552
+    },
+    {
+      "name": "Mannsville",
+      "slug": "mannsville",
+      "county": "Johnston County",
+      "lat": 34.189902,
+      "lng": -96.877801
+    },
+    {
+      "name": "Maramec",
+      "slug": "maramec",
+      "county": "Pawnee County",
+      "lat": 36.217465,
+      "lng": -96.68441
+    },
+    {
+      "name": "Marble City",
+      "slug": "marble-city",
+      "county": "Sequoyah County",
+      "lat": 35.580278,
+      "lng": -94.820833
+    },
+    {
+      "name": "Marietta",
+      "slug": "marietta",
+      "county": "Love County",
+      "lat": 33.943099,
+      "lng": -97.114801
+    },
+    {
+      "name": "Marland",
+      "slug": "marland",
+      "county": "Noble County",
+      "lat": 36.559067,
+      "lng": -97.097592
+    },
+    {
+      "name": "Marlow",
+      "slug": "marlow",
+      "county": "Stephens County",
+      "lat": 34.638681,
+      "lng": -97.940955
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Logan County",
+      "lat": 36.148455,
+      "lng": -97.617052
+    },
+    {
+      "name": "Martha",
+      "slug": "martha",
+      "county": "Jackson County",
+      "lat": 34.725278,
+      "lng": -99.386667
+    },
+    {
+      "name": "Maud",
+      "slug": "maud",
+      "county": "Pottawatomie County",
+      "lat": 35.129224,
+      "lng": -96.762686
+    },
+    {
+      "name": "May",
+      "slug": "may",
+      "county": "Harper County",
+      "lat": 36.62673,
+      "lng": -99.72469
+    },
+    {
+      "name": "Maysville",
+      "slug": "maysville",
+      "county": "Garvin County",
+      "lat": 34.811316,
+      "lng": -97.413143
+    },
+    {
+      "name": "Mcalester",
+      "slug": "mcalester",
+      "county": "Pittsburg County",
+      "lat": 34.926233,
+      "lng": -95.759168
+    },
+    {
+      "name": "Mccurtain",
+      "slug": "mccurtain",
+      "county": "Haskell County",
+      "lat": 35.140403,
+      "lng": -95.012737
+    },
+    {
+      "name": "Mcloud",
+      "slug": "mcloud",
+      "county": "Pottawatomie County",
+      "lat": 35.41907,
+      "lng": -97.105178
+    },
+    {
+      "name": "Mead",
+      "slug": "mead",
+      "county": "Bryan County",
+      "lat": 33.994442,
+      "lng": -96.529886
+    },
+    {
+      "name": "Medford",
+      "slug": "medford",
+      "county": "Grant County",
+      "lat": 36.814195,
+      "lng": -97.720215
+    },
+    {
+      "name": "Medicine Park",
+      "slug": "medicine-park",
+      "county": "Comanche County",
+      "lat": 34.729167,
+      "lng": -98.502222
+    },
+    {
+      "name": "Meeker",
+      "slug": "meeker",
+      "county": "Lincoln County",
+      "lat": 35.521111,
+      "lng": -96.998052
+    },
+    {
+      "name": "Meers",
+      "slug": "meers",
+      "county": "Comanche County",
+      "lat": 34.782778,
+      "lng": -98.578611
+    },
+    {
+      "name": "Meno",
+      "slug": "meno",
+      "county": "Major County",
+      "lat": 36.381497,
+      "lng": -98.163501
+    },
+    {
+      "name": "Meridian",
+      "slug": "meridian",
+      "county": "Logan County",
+      "lat": 35.8451,
+      "lng": -97.24623
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "county": "Ottawa County",
+      "lat": 36.876377,
+      "lng": -94.87186
+    },
+    {
+      "name": "Milburn",
+      "slug": "milburn",
+      "county": "Johnston County",
+      "lat": 34.195172,
+      "lng": -96.54286
+    },
+    {
+      "name": "Milfay",
+      "slug": "milfay",
+      "county": "Creek County",
+      "lat": 35.755,
+      "lng": -96.565556
+    },
+    {
+      "name": "Mill Creek",
+      "slug": "mill-creek",
+      "county": "Johnston County",
+      "lat": 34.309754,
+      "lng": -96.788419
+    },
+    {
+      "name": "Millerton",
+      "slug": "millerton",
+      "county": "Mccurtain County",
+      "lat": 33.985833,
+      "lng": -95.013333
+    },
+    {
+      "name": "Minco",
+      "slug": "minco",
+      "county": "Grady County",
+      "lat": 35.306723,
+      "lng": -97.96638
+    },
+    {
+      "name": "Moffett",
+      "slug": "moffett",
+      "county": "Sequoyah County",
+      "lat": 35.390278,
+      "lng": -94.446667
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Le Flore County",
+      "lat": 34.9925,
+      "lng": -94.516667
+    },
+    {
+      "name": "Moodys",
+      "slug": "moodys",
+      "county": "Cherokee County",
+      "lat": 36.031111,
+      "lng": -94.9575
+    },
+    {
+      "name": "Mooreland",
+      "slug": "mooreland",
+      "county": "Woodward County",
+      "lat": 36.442828,
+      "lng": -99.18321
+    },
+    {
+      "name": "Morris",
+      "slug": "morris",
+      "county": "Okmulgee County",
+      "lat": 35.661877,
+      "lng": -95.83186
+    },
+    {
+      "name": "Morrison",
+      "slug": "morrison",
+      "county": "Noble County",
+      "lat": 36.290214,
+      "lng": -97.022777
+    },
+    {
+      "name": "Mounds",
+      "slug": "mounds",
+      "county": "Creek County",
+      "lat": 35.912919,
+      "lng": -96.068513
+    },
+    {
+      "name": "Mountain Park",
+      "slug": "mountain-park",
+      "county": "Kiowa County",
+      "lat": 34.703158,
+      "lng": -98.959136
+    },
+    {
+      "name": "Mountain View",
+      "slug": "mountain-view",
+      "county": "Kiowa County",
+      "lat": 35.06535,
+      "lng": -98.730694
+    },
+    {
+      "name": "Moyers",
+      "slug": "moyers",
+      "county": "Pushmataha County",
+      "lat": 34.338648,
+      "lng": -95.663881
+    },
+    {
+      "name": "Muldrow",
+      "slug": "muldrow",
+      "county": "Sequoyah County",
+      "lat": 35.401985,
+      "lng": -94.633216
+    },
+    {
+      "name": "Mulhall",
+      "slug": "mulhall",
+      "county": "Logan County",
+      "lat": 36.053678,
+      "lng": -97.409809
+    },
+    {
+      "name": "Muse",
+      "slug": "muse",
+      "county": "Le Flore County",
+      "lat": 34.664124,
+      "lng": -94.719007
+    },
+    {
+      "name": "Muskogee",
+      "slug": "muskogee",
+      "county": "Muskogee County",
+      "lat": 35.730661,
+      "lng": -95.375491
+    },
+    {
+      "name": "Mustang",
+      "slug": "mustang",
+      "county": "Canadian County",
+      "lat": 35.388498,
+      "lng": -97.730888
+    },
+    {
+      "name": "Mutual",
+      "slug": "mutual",
+      "county": "Woodward County",
+      "lat": 36.213954,
+      "lng": -99.114492
+    },
+    {
+      "name": "Nardin",
+      "slug": "nardin",
+      "county": "Kay County",
+      "lat": 36.815517,
+      "lng": -97.432458
+    },
+    {
+      "name": "Nash",
+      "slug": "nash",
+      "county": "Grant County",
+      "lat": 36.696146,
+      "lng": -98.025764
+    },
+    {
+      "name": "Nashoba",
+      "slug": "nashoba",
+      "county": "Pushmataha County",
+      "lat": 34.507204,
+      "lng": -95.207467
+    },
+    {
+      "name": "Newalla",
+      "slug": "newalla",
+      "county": "Cleveland County",
+      "lat": 35.373415,
+      "lng": -97.197123
+    },
+    {
+      "name": "Newcastle",
+      "slug": "newcastle",
+      "county": "Mcclain County",
+      "lat": 35.245269,
+      "lng": -97.621573
+    },
+    {
+      "name": "Newkirk",
+      "slug": "newkirk",
+      "county": "Kay County",
+      "lat": 36.887425,
+      "lng": -97.05133
+    },
+    {
+      "name": "Nicoma Park",
+      "slug": "nicoma-park",
+      "county": "Oklahoma County",
+      "lat": 35.491111,
+      "lng": -97.322778
+    },
+    {
+      "name": "Ninnekah",
+      "slug": "ninnekah",
+      "county": "Grady County",
+      "lat": 34.91435,
+      "lng": -97.933277
+    },
+    {
+      "name": "Noble",
+      "slug": "noble",
+      "county": "Cleveland County",
+      "lat": 35.141742,
+      "lng": -97.340929
+    },
+    {
+      "name": "Norman",
+      "slug": "norman",
+      "county": "Cleveland County",
+      "lat": 35.2212,
+      "lng": -97.4448
+    },
+    {
+      "name": "North Miami",
+      "slug": "north-miami",
+      "county": "Ottawa County",
+      "lat": 36.917222,
+      "lng": -94.879444
+    },
+    {
+      "name": "Nowata",
+      "slug": "nowata",
+      "county": "Nowata County",
+      "lat": 36.694565,
+      "lng": -95.640421
+    },
+    {
+      "name": "Oakhurst",
+      "slug": "oakhurst",
+      "county": "Tulsa County",
+      "lat": 36.075278,
+      "lng": -96.064167
+    },
+    {
+      "name": "Oaks",
+      "slug": "oaks",
+      "county": "Delaware County",
+      "lat": 36.168663,
+      "lng": -94.850206
+    },
+    {
+      "name": "Oakwood",
+      "slug": "oakwood",
+      "county": "Dewey County",
+      "lat": 35.921429,
+      "lng": -98.708058
+    },
+    {
+      "name": "Ochelata",
+      "slug": "ochelata",
+      "county": "Washington County",
+      "lat": 36.594655,
+      "lng": -95.969143
+    },
+    {
+      "name": "Oilton",
+      "slug": "oilton",
+      "county": "Creek County",
+      "lat": 36.084444,
+      "lng": -96.583333
+    },
+    {
+      "name": "Okarche",
+      "slug": "okarche",
+      "county": "Kingfisher County",
+      "lat": 35.750158,
+      "lng": -97.92999
+    },
+    {
+      "name": "Okay",
+      "slug": "okay",
+      "county": "Wagoner County",
+      "lat": 35.850556,
+      "lng": -95.318056
+    },
+    {
+      "name": "Okeene",
+      "slug": "okeene",
+      "county": "Blaine County",
+      "lat": 36.11646,
+      "lng": -98.325422
+    },
+    {
+      "name": "Okemah",
+      "slug": "okemah",
+      "county": "Okfuskee County",
+      "lat": 35.447516,
+      "lng": -96.306788
+    },
+    {
+      "name": "Oklahoma City",
+      "slug": "oklahoma-city",
+      "county": "Cleveland County",
+      "lat": 35.3337,
+      "lng": -97.4922
+    },
+    {
+      "name": "Okmulgee",
+      "slug": "okmulgee",
+      "county": "Okmulgee County",
+      "lat": 35.628805,
+      "lng": -95.96967
+    },
+    {
+      "name": "Oktaha",
+      "slug": "oktaha",
+      "county": "Muskogee County",
+      "lat": 35.625014,
+      "lng": -95.485591
+    },
+    {
+      "name": "Olustee",
+      "slug": "olustee",
+      "county": "Jackson County",
+      "lat": 34.549634,
+      "lng": -99.428684
+    },
+    {
+      "name": "Omega",
+      "slug": "omega",
+      "county": "Kingfisher County",
+      "lat": 35.850653,
+      "lng": -98.186344
+    },
+    {
+      "name": "Oologah",
+      "slug": "oologah",
+      "county": "Rogers County",
+      "lat": 36.443723,
+      "lng": -95.72901
+    },
+    {
+      "name": "Orlando",
+      "slug": "orlando",
+      "county": "Logan County",
+      "lat": 36.141973,
+      "lng": -97.395992
+    },
+    {
+      "name": "Osage",
+      "slug": "osage",
+      "county": "Osage County",
+      "lat": 36.283156,
+      "lng": -96.377411
+    },
+    {
+      "name": "Oscar",
+      "slug": "oscar",
+      "county": "Jefferson County",
+      "lat": 33.973237,
+      "lng": -97.761359
+    },
+    {
+      "name": "Overbrook",
+      "slug": "overbrook",
+      "county": "Love County",
+      "lat": 34.053906,
+      "lng": -97.132353
+    },
+    {
+      "name": "Owasso",
+      "slug": "owasso",
+      "county": "Tulsa County",
+      "lat": 36.286258,
+      "lng": -95.822151
+    },
+    {
+      "name": "Paden",
+      "slug": "paden",
+      "county": "Okfuskee County",
+      "lat": 35.518171,
+      "lng": -96.571921
+    },
+    {
+      "name": "Panama",
+      "slug": "panama",
+      "county": "Le Flore County",
+      "lat": 35.167222,
+      "lng": -94.672222
+    },
+    {
+      "name": "Panola",
+      "slug": "panola",
+      "county": "Latimer County",
+      "lat": 34.928611,
+      "lng": -95.213056
+    },
+    {
+      "name": "Paoli",
+      "slug": "paoli",
+      "county": "Garvin County",
+      "lat": 34.828492,
+      "lng": -97.260807
+    },
+    {
+      "name": "Park Hill",
+      "slug": "park-hill",
+      "county": "Cherokee County",
+      "lat": 35.797686,
+      "lng": -94.982173
+    },
+    {
+      "name": "Pauls Valley",
+      "slug": "pauls-valley",
+      "county": "Garvin County",
+      "lat": 34.738506,
+      "lng": -97.219501
+    },
+    {
+      "name": "Pawhuska",
+      "slug": "pawhuska",
+      "county": "Osage County",
+      "lat": 36.690424,
+      "lng": -96.31209
+    },
+    {
+      "name": "Pawnee",
+      "slug": "pawnee",
+      "county": "Pawnee County",
+      "lat": 36.336197,
+      "lng": -96.79227
+    },
+    {
+      "name": "Peggs",
+      "slug": "peggs",
+      "county": "Cherokee County",
+      "lat": 36.059061,
+      "lng": -94.991928
+    },
+    {
+      "name": "Perkins",
+      "slug": "perkins",
+      "county": "Payne County",
+      "lat": 35.97684,
+      "lng": -97.044059
+    },
+    {
+      "name": "Perry",
+      "slug": "perry",
+      "county": "Noble County",
+      "lat": 36.287468,
+      "lng": -97.284175
+    },
+    {
+      "name": "Picher",
+      "slug": "picher",
+      "county": "Ottawa County",
+      "lat": 36.979961,
+      "lng": -94.817301
+    },
+    {
+      "name": "Pickens",
+      "slug": "pickens",
+      "county": "Mccurtain County",
+      "lat": 34.396389,
+      "lng": -95.011667
+    },
+    {
+      "name": "Piedmont",
+      "slug": "piedmont",
+      "county": "Canadian County",
+      "lat": 35.66946,
+      "lng": -97.743109
+    },
+    {
+      "name": "Pittsburg",
+      "slug": "pittsburg",
+      "county": "Pittsburg County",
+      "lat": 34.69748,
+      "lng": -95.843905
+    },
+    {
+      "name": "Platter",
+      "slug": "platter",
+      "county": "Bryan County",
+      "lat": 33.906944,
+      "lng": -96.534722
+    },
+    {
+      "name": "Pocasset",
+      "slug": "pocasset",
+      "county": "Grady County",
+      "lat": 35.154437,
+      "lng": -97.97904
+    },
+    {
+      "name": "Pocola",
+      "slug": "pocola",
+      "county": "Le Flore County",
+      "lat": 35.243603,
+      "lng": -94.476029
+    },
+    {
+      "name": "Ponca City",
+      "slug": "ponca-city",
+      "county": "Kay County",
+      "lat": 36.703104,
+      "lng": -97.078409
+    },
+    {
+      "name": "Pond Creek",
+      "slug": "pond-creek",
+      "county": "Grant County",
+      "lat": 36.664281,
+      "lng": -97.801903
+    },
+    {
+      "name": "Porter",
+      "slug": "porter",
+      "county": "Wagoner County",
+      "lat": 35.85674,
+      "lng": -95.508193
+    },
+    {
+      "name": "Porum",
+      "slug": "porum",
+      "county": "Muskogee County",
+      "lat": 35.363059,
+      "lng": -95.260661
+    },
+    {
+      "name": "Poteau",
+      "slug": "poteau",
+      "county": "Le Flore County",
+      "lat": 35.060561,
+      "lng": -94.609603
+    },
+    {
+      "name": "Prague",
+      "slug": "prague",
+      "county": "Lincoln County",
+      "lat": 35.510482,
+      "lng": -96.700879
+    },
+    {
+      "name": "Preston",
+      "slug": "preston",
+      "county": "Okmulgee County",
+      "lat": 35.711389,
+      "lng": -95.991389
+    },
+    {
+      "name": "Proctor",
+      "slug": "proctor",
+      "county": "Adair County",
+      "lat": 35.967111,
+      "lng": -94.744159
+    },
+    {
+      "name": "Prue",
+      "slug": "prue",
+      "county": "Osage County",
+      "lat": 36.250125,
+      "lng": -96.270074
+    },
+    {
+      "name": "Pryor",
+      "slug": "pryor",
+      "county": "Mayes County",
+      "lat": 36.292112,
+      "lng": -95.312942
+    },
+    {
+      "name": "Purcell",
+      "slug": "purcell",
+      "county": "Mcclain County",
+      "lat": 35.010293,
+      "lng": -97.425493
+    },
+    {
+      "name": "Putnam",
+      "slug": "putnam",
+      "county": "Dewey County",
+      "lat": 35.853851,
+      "lng": -98.963765
+    },
+    {
+      "name": "Quapaw",
+      "slug": "quapaw",
+      "county": "Ottawa County",
+      "lat": 36.928248,
+      "lng": -94.742983
+    },
+    {
+      "name": "Quinton",
+      "slug": "quinton",
+      "county": "Pittsburg County",
+      "lat": 35.154666,
+      "lng": -95.467085
+    },
+    {
+      "name": "Ralston",
+      "slug": "ralston",
+      "county": "Pawnee County",
+      "lat": 36.499228,
+      "lng": -96.775481
+    },
+    {
+      "name": "Ramona",
+      "slug": "ramona",
+      "county": "Washington County",
+      "lat": 36.575245,
+      "lng": -95.89622
+    },
+    {
+      "name": "Randlett",
+      "slug": "randlett",
+      "county": "Cotton County",
+      "lat": 34.174045,
+      "lng": -98.459974
+    },
+    {
+      "name": "Ratliff City",
+      "slug": "ratliff-city",
+      "county": "Carter County",
+      "lat": 34.448889,
+      "lng": -97.509167
+    },
+    {
+      "name": "Rattan",
+      "slug": "rattan",
+      "county": "Pushmataha County",
+      "lat": 34.245417,
+      "lng": -95.344235
+    },
+    {
+      "name": "Ravia",
+      "slug": "ravia",
+      "county": "Johnston County",
+      "lat": 34.241667,
+      "lng": -96.751111
+    },
+    {
+      "name": "Red Oak",
+      "slug": "red-oak",
+      "county": "Latimer County",
+      "lat": 34.942174,
+      "lng": -95.090432
+    },
+    {
+      "name": "Red Rock",
+      "slug": "red-rock",
+      "county": "Noble County",
+      "lat": 36.474754,
+      "lng": -97.164021
+    },
+    {
+      "name": "Redbird",
+      "slug": "redbird",
+      "county": "Wagoner County",
+      "lat": 35.885556,
+      "lng": -95.588611
+    },
+    {
+      "name": "Rentiesville",
+      "slug": "rentiesville",
+      "county": "Mcintosh County",
+      "lat": 35.521389,
+      "lng": -95.494722
+    },
+    {
+      "name": "Reydon",
+      "slug": "reydon",
+      "county": "Roger Mills County",
+      "lat": 35.657587,
+      "lng": -99.916567
+    },
+    {
+      "name": "Ringling",
+      "slug": "ringling",
+      "county": "Jefferson County",
+      "lat": 34.167865,
+      "lng": -97.602867
+    },
+    {
+      "name": "Ringold",
+      "slug": "ringold",
+      "county": "Mccurtain County",
+      "lat": 34.179892,
+      "lng": -95.070387
+    },
+    {
+      "name": "Ringwood",
+      "slug": "ringwood",
+      "county": "Major County",
+      "lat": 36.375293,
+      "lng": -98.270639
+    },
+    {
+      "name": "Ripley",
+      "slug": "ripley",
+      "county": "Payne County",
+      "lat": 35.998491,
+      "lng": -96.89667
+    },
+    {
+      "name": "Rocky",
+      "slug": "rocky",
+      "county": "Washita County",
+      "lat": 35.152636,
+      "lng": -99.048037
+    },
+    {
+      "name": "Roff",
+      "slug": "roff",
+      "county": "Pontotoc County",
+      "lat": 34.615294,
+      "lng": -96.842313
+    },
+    {
+      "name": "Roland",
+      "slug": "roland",
+      "county": "Sequoyah County",
+      "lat": 35.453811,
+      "lng": -94.529085
+    },
+    {
+      "name": "Roosevelt",
+      "slug": "roosevelt",
+      "county": "Kiowa County",
+      "lat": 34.846983,
+      "lng": -98.983599
+    },
+    {
+      "name": "Rose",
+      "slug": "rose",
+      "county": "Mayes County",
+      "lat": 36.211263,
+      "lng": -94.993362
+    },
+    {
+      "name": "Rosston",
+      "slug": "rosston",
+      "county": "Harper County",
+      "lat": 36.878915,
+      "lng": -99.900253
+    },
+    {
+      "name": "Rufe",
+      "slug": "rufe",
+      "county": "Mccurtain County",
+      "lat": 34.161684,
+      "lng": -95.136011
+    },
+    {
+      "name": "Rush Springs",
+      "slug": "rush-springs",
+      "county": "Grady County",
+      "lat": 34.770804,
+      "lng": -97.943101
+    },
+    {
+      "name": "Ryan",
+      "slug": "ryan",
+      "county": "Jefferson County",
+      "lat": 34.023787,
+      "lng": -97.946141
+    },
+    {
+      "name": "S Coffeyville",
+      "slug": "s-coffeyville",
+      "county": "Nowata County",
+      "lat": 36.983684,
+      "lng": -95.606509
+    },
+    {
+      "name": "Saint Louis",
+      "slug": "saint-louis",
+      "county": "Pottawatomie County",
+      "lat": 35.074167,
+      "lng": -96.852778
+    },
+    {
+      "name": "Salina",
+      "slug": "salina",
+      "county": "Mayes County",
+      "lat": 36.311597,
+      "lng": -95.115772
+    },
+    {
+      "name": "Sallisaw",
+      "slug": "sallisaw",
+      "county": "Sequoyah County",
+      "lat": 35.485191,
+      "lng": -94.778998
+    },
+    {
+      "name": "Sand Springs",
+      "slug": "sand-springs",
+      "county": "Tulsa County",
+      "lat": 36.13414,
+      "lng": -96.142601
+    },
+    {
+      "name": "Sapulpa",
+      "slug": "sapulpa",
+      "county": "Creek County",
+      "lat": 36.00297,
+      "lng": -96.11061
+    },
+    {
+      "name": "Sasakwa",
+      "slug": "sasakwa",
+      "county": "Seminole County",
+      "lat": 34.950982,
+      "lng": -96.538706
+    },
+    {
+      "name": "Savanna",
+      "slug": "savanna",
+      "county": "Pittsburg County",
+      "lat": 34.828889,
+      "lng": -95.843611
+    },
+    {
+      "name": "Sawyer",
+      "slug": "sawyer",
+      "county": "Choctaw County",
+      "lat": 34.027726,
+      "lng": -95.355833
+    },
+    {
+      "name": "Sayre",
+      "slug": "sayre",
+      "county": "Beckham County",
+      "lat": 35.304722,
+      "lng": -99.642928
+    },
+    {
+      "name": "Schulter",
+      "slug": "schulter",
+      "county": "Okmulgee County",
+      "lat": 35.514444,
+      "lng": -95.956389
+    },
+    {
+      "name": "Seiling",
+      "slug": "seiling",
+      "county": "Dewey County",
+      "lat": 36.127823,
+      "lng": -98.88746
+    },
+    {
+      "name": "Seminole",
+      "slug": "seminole",
+      "county": "Seminole County",
+      "lat": 35.224444,
+      "lng": -96.670278
+    },
+    {
+      "name": "Sentinel",
+      "slug": "sentinel",
+      "county": "Washita County",
+      "lat": 35.161741,
+      "lng": -99.170611
+    },
+    {
+      "name": "Shady Point",
+      "slug": "shady-point",
+      "county": "Le Flore County",
+      "lat": 35.129333,
+      "lng": -94.666534
+    },
+    {
+      "name": "Shamrock",
+      "slug": "shamrock",
+      "county": "Creek County",
+      "lat": 35.91,
+      "lng": -96.583611
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Woodward County",
+      "lat": 36.269872,
+      "lng": -99.358736
+    },
+    {
+      "name": "Shattuck",
+      "slug": "shattuck",
+      "county": "Ellis County",
+      "lat": 36.288922,
+      "lng": -99.879303
+    },
+    {
+      "name": "Shawnee",
+      "slug": "shawnee",
+      "county": "Pottawatomie County",
+      "lat": 35.34907,
+      "lng": -96.931321
+    },
+    {
+      "name": "Shidler",
+      "slug": "shidler",
+      "county": "Osage County",
+      "lat": 36.814915,
+      "lng": -96.674962
+    },
+    {
+      "name": "Skiatook",
+      "slug": "skiatook",
+      "county": "Tulsa County",
+      "lat": 36.372495,
+      "lng": -96.012325
+    },
+    {
+      "name": "Slick",
+      "slug": "slick",
+      "county": "Creek County",
+      "lat": 35.776944,
+      "lng": -96.265833
+    },
+    {
+      "name": "Smithville",
+      "slug": "smithville",
+      "county": "Mccurtain County",
+      "lat": 34.479056,
+      "lng": -94.619117
+    },
+    {
+      "name": "Snow",
+      "slug": "snow",
+      "county": "Pushmataha County",
+      "lat": 34.377963,
+      "lng": -95.427833
+    },
+    {
+      "name": "Snyder",
+      "slug": "snyder",
+      "county": "Kiowa County",
+      "lat": 34.654779,
+      "lng": -98.950752
+    },
+    {
+      "name": "Soper",
+      "slug": "soper",
+      "county": "Choctaw County",
+      "lat": 34.03659,
+      "lng": -95.691566
+    },
+    {
+      "name": "Southard",
+      "slug": "southard",
+      "county": "Blaine County",
+      "lat": 36.074706,
+      "lng": -98.446456
+    },
+    {
+      "name": "Sparks",
+      "slug": "sparks",
+      "county": "Lincoln County",
+      "lat": 35.61378,
+      "lng": -96.816269
+    },
+    {
+      "name": "Spavinaw",
+      "slug": "spavinaw",
+      "county": "Mayes County",
+      "lat": 36.415548,
+      "lng": -95.028465
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Oklahoma County",
+      "lat": 35.518276,
+      "lng": -97.348775
+    },
+    {
+      "name": "Spencerville",
+      "slug": "spencerville",
+      "county": "Choctaw County",
+      "lat": 34.13263,
+      "lng": -95.383468
+    },
+    {
+      "name": "Sperry",
+      "slug": "sperry",
+      "county": "Tulsa County",
+      "lat": 36.29547,
+      "lng": -95.980368
+    },
+    {
+      "name": "Spiro",
+      "slug": "spiro",
+      "county": "Le Flore County",
+      "lat": 35.249219,
+      "lng": -94.626546
+    },
+    {
+      "name": "Springer",
+      "slug": "springer",
+      "county": "Carter County",
+      "lat": 34.303832,
+      "lng": -97.122266
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Comanche County",
+      "lat": 34.750278,
+      "lng": -98.171389
+    },
+    {
+      "name": "Stidham",
+      "slug": "stidham",
+      "county": "Mcintosh County",
+      "lat": 35.381389,
+      "lng": -95.705575
+    },
+    {
+      "name": "Stigler",
+      "slug": "stigler",
+      "county": "Haskell County",
+      "lat": 35.268561,
+      "lng": -95.10707
+    },
+    {
+      "name": "Stillwater",
+      "slug": "stillwater",
+      "county": "Payne County",
+      "lat": 36.104349,
+      "lng": -97.060868
+    },
+    {
+      "name": "Stilwell",
+      "slug": "stilwell",
+      "county": "Adair County",
+      "lat": 35.810703,
+      "lng": -94.631322
+    },
+    {
+      "name": "Stonewall",
+      "slug": "stonewall",
+      "county": "Pontotoc County",
+      "lat": 34.666194,
+      "lng": -96.54289
+    },
+    {
+      "name": "Strang",
+      "slug": "strang",
+      "county": "Mayes County",
+      "lat": 36.463861,
+      "lng": -95.070768
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Garvin County",
+      "lat": 34.771412,
+      "lng": -96.976277
+    },
+    {
+      "name": "Stringtown",
+      "slug": "stringtown",
+      "county": "Atoka County",
+      "lat": 34.467597,
+      "lng": -96.000245
+    },
+    {
+      "name": "Stroud",
+      "slug": "stroud",
+      "county": "Lincoln County",
+      "lat": 35.782389,
+      "lng": -96.684377
+    },
+    {
+      "name": "Stuart",
+      "slug": "stuart",
+      "county": "Hughes County",
+      "lat": 34.882581,
+      "lng": -96.138105
+    },
+    {
+      "name": "Sulphur",
+      "slug": "sulphur",
+      "county": "Murray County",
+      "lat": 34.511585,
+      "lng": -96.979695
+    },
+    {
+      "name": "Sweetwater",
+      "slug": "sweetwater",
+      "county": "Roger Mills County",
+      "lat": 35.448835,
+      "lng": -99.900619
+    },
+    {
+      "name": "Swink",
+      "slug": "swink",
+      "county": "Choctaw County",
+      "lat": 34.017778,
+      "lng": -95.201944
+    },
+    {
+      "name": "Taft",
+      "slug": "taft",
+      "county": "Muskogee County",
+      "lat": 35.758059,
+      "lng": -95.54936
+    },
+    {
+      "name": "Tahlequah",
+      "slug": "tahlequah",
+      "county": "Cherokee County",
+      "lat": 35.909385,
+      "lng": -94.97873
+    },
+    {
+      "name": "Talala",
+      "slug": "talala",
+      "county": "Rogers County",
+      "lat": 36.542915,
+      "lng": -95.714203
+    },
+    {
+      "name": "Talihina",
+      "slug": "talihina",
+      "county": "Latimer County",
+      "lat": 34.73812,
+      "lng": -94.997813
+    },
+    {
+      "name": "Taloga",
+      "slug": "taloga",
+      "county": "Dewey County",
+      "lat": 35.997242,
+      "lng": -98.982473
+    },
+    {
+      "name": "Tatums",
+      "slug": "tatums",
+      "county": "Carter County",
+      "lat": 34.482778,
+      "lng": -97.461389
+    },
+    {
+      "name": "Tecumseh",
+      "slug": "tecumseh",
+      "county": "Pottawatomie County",
+      "lat": 35.25023,
+      "lng": -96.966713
+    },
+    {
+      "name": "Temple",
+      "slug": "temple",
+      "county": "Cotton County",
+      "lat": 34.260669,
+      "lng": -98.237074
+    },
+    {
+      "name": "Terlton",
+      "slug": "terlton",
+      "county": "Pawnee County",
+      "lat": 36.188856,
+      "lng": -96.487569
+    },
+    {
+      "name": "Terral",
+      "slug": "terral",
+      "county": "Jefferson County",
+      "lat": 33.897162,
+      "lng": -97.935045
+    },
+    {
+      "name": "Texhoma",
+      "slug": "texhoma",
+      "county": "Texas County",
+      "lat": 36.52529,
+      "lng": -101.839351
+    },
+    {
+      "name": "Texola",
+      "slug": "texola",
+      "county": "Beckham County",
+      "lat": 35.224977,
+      "lng": -99.98218
+    },
+    {
+      "name": "Thackerville",
+      "slug": "thackerville",
+      "county": "Love County",
+      "lat": 33.788167,
+      "lng": -97.136349
+    },
+    {
+      "name": "Thomas",
+      "slug": "thomas",
+      "county": "Custer County",
+      "lat": 35.738165,
+      "lng": -98.738842
+    },
+    {
+      "name": "Tinker Afb",
+      "slug": "tinker-afb",
+      "county": "Oklahoma County",
+      "lat": 35.415706,
+      "lng": -97.403707
+    },
+    {
+      "name": "Tipton",
+      "slug": "tipton",
+      "county": "Tillman County",
+      "lat": 34.509793,
+      "lng": -99.131482
+    },
+    {
+      "name": "Tishomingo",
+      "slug": "tishomingo",
+      "county": "Johnston County",
+      "lat": 34.264286,
+      "lng": -96.667502
+    },
+    {
+      "name": "Tonkawa",
+      "slug": "tonkawa",
+      "county": "Kay County",
+      "lat": 36.68062,
+      "lng": -97.30634
+    },
+    {
+      "name": "Tryon",
+      "slug": "tryon",
+      "county": "Lincoln County",
+      "lat": 35.863151,
+      "lng": -96.9984
+    },
+    {
+      "name": "Tulsa",
+      "slug": "tulsa",
+      "county": "Creek County",
+      "lat": 36.05566,
+      "lng": -96.060229
+    },
+    {
+      "name": "Tupelo",
+      "slug": "tupelo",
+      "county": "Coal County",
+      "lat": 34.559809,
+      "lng": -96.427365
+    },
+    {
+      "name": "Turpin",
+      "slug": "turpin",
+      "county": "Beaver County",
+      "lat": 36.909012,
+      "lng": -100.869028
+    },
+    {
+      "name": "Tuskahoma",
+      "slug": "tuskahoma",
+      "county": "Pushmataha County",
+      "lat": 34.734778,
+      "lng": -95.220798
+    },
+    {
+      "name": "Tussy",
+      "slug": "tussy",
+      "county": "Carter County",
+      "lat": 34.506667,
+      "lng": -97.542778
+    },
+    {
+      "name": "Tuttle",
+      "slug": "tuttle",
+      "county": "Grady County",
+      "lat": 35.267406,
+      "lng": -97.744621
+    },
+    {
+      "name": "Twin Oaks",
+      "slug": "twin-oaks",
+      "county": "Delaware County",
+      "lat": 36.191616,
+      "lng": -94.854444
+    },
+    {
+      "name": "Tyrone",
+      "slug": "tyrone",
+      "county": "Texas County",
+      "lat": 36.95577,
+      "lng": -101.059408
+    },
+    {
+      "name": "Union City",
+      "slug": "union-city",
+      "county": "Canadian County",
+      "lat": 35.391333,
+      "lng": -97.93979
+    },
+    {
+      "name": "Valliant",
+      "slug": "valliant",
+      "county": "Mccurtain County",
+      "lat": 34.009056,
+      "lng": -95.068625
+    },
+    {
+      "name": "Velma",
+      "slug": "velma",
+      "county": "Stephens County",
+      "lat": 34.46,
+      "lng": -97.673611
+    },
+    {
+      "name": "Vera",
+      "slug": "vera",
+      "county": "Washington County",
+      "lat": 36.449167,
+      "lng": -95.880556
+    },
+    {
+      "name": "Verden",
+      "slug": "verden",
+      "county": "Grady County",
+      "lat": 35.08356,
+      "lng": -98.079206
+    },
+    {
+      "name": "Vian",
+      "slug": "vian",
+      "county": "Sequoyah County",
+      "lat": 35.540383,
+      "lng": -94.988756
+    },
+    {
+      "name": "Vici",
+      "slug": "vici",
+      "county": "Dewey County",
+      "lat": 36.137168,
+      "lng": -99.267004
+    },
+    {
+      "name": "Vinita",
+      "slug": "vinita",
+      "county": "Craig County",
+      "lat": 36.633353,
+      "lng": -95.138164
+    },
+    {
+      "name": "Vinson",
+      "slug": "vinson",
+      "county": "Harmon County",
+      "lat": 34.906179,
+      "lng": -99.833929
+    },
+    {
+      "name": "Wagoner",
+      "slug": "wagoner",
+      "county": "Wagoner County",
+      "lat": 35.954864,
+      "lng": -95.353956
+    },
+    {
+      "name": "Wainwright",
+      "slug": "wainwright",
+      "county": "Muskogee County",
+      "lat": 35.6125,
+      "lng": -95.564167
+    },
+    {
+      "name": "Wakita",
+      "slug": "wakita",
+      "county": "Grant County",
+      "lat": 36.875333,
+      "lng": -97.942687
+    },
+    {
+      "name": "Walters",
+      "slug": "walters",
+      "county": "Cotton County",
+      "lat": 34.360526,
+      "lng": -98.313983
+    },
+    {
+      "name": "Wanette",
+      "slug": "wanette",
+      "county": "Pottawatomie County",
+      "lat": 34.998313,
+      "lng": -97.0419
+    },
+    {
+      "name": "Wann",
+      "slug": "wann",
+      "county": "Nowata County",
+      "lat": 36.940211,
+      "lng": -95.776752
+    },
+    {
+      "name": "Wapanucka",
+      "slug": "wapanucka",
+      "county": "Johnston County",
+      "lat": 34.386634,
+      "lng": -96.453223
+    },
+    {
+      "name": "Wardville",
+      "slug": "wardville",
+      "county": "Pittsburg County",
+      "lat": 34.568791,
+      "lng": -96.020958
+    },
+    {
+      "name": "Warner",
+      "slug": "warner",
+      "county": "Muskogee County",
+      "lat": 35.494546,
+      "lng": -95.306434
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Mcclain County",
+      "lat": 35.13235,
+      "lng": -97.486969
+    },
+    {
+      "name": "Washita",
+      "slug": "washita",
+      "county": "Caddo County",
+      "lat": 35.102778,
+      "lng": -98.340556
+    },
+    {
+      "name": "Watonga",
+      "slug": "watonga",
+      "county": "Blaine County",
+      "lat": 35.853762,
+      "lng": -98.417487
+    },
+    {
+      "name": "Watson",
+      "slug": "watson",
+      "county": "Mccurtain County",
+      "lat": 34.419252,
+      "lng": -94.556217
+    },
+    {
+      "name": "Watts",
+      "slug": "watts",
+      "county": "Adair County",
+      "lat": 36.115216,
+      "lng": -94.634472
+    },
+    {
+      "name": "Waukomis",
+      "slug": "waukomis",
+      "county": "Garfield County",
+      "lat": 36.278057,
+      "lng": -97.899578
+    },
+    {
+      "name": "Waurika",
+      "slug": "waurika",
+      "county": "Jefferson County",
+      "lat": 34.174466,
+      "lng": -97.997346
+    },
+    {
+      "name": "Wayne",
+      "slug": "wayne",
+      "county": "Mcclain County",
+      "lat": 34.915353,
+      "lng": -97.329014
+    },
+    {
+      "name": "Waynoka",
+      "slug": "waynoka",
+      "county": "Woods County",
+      "lat": 36.585788,
+      "lng": -98.848746
+    },
+    {
+      "name": "Weatherford",
+      "slug": "weatherford",
+      "county": "Custer County",
+      "lat": 35.535046,
+      "lng": -98.699603
+    },
+    {
+      "name": "Webbers Falls",
+      "slug": "webbers-falls",
+      "county": "Muskogee County",
+      "lat": 35.513787,
+      "lng": -95.165881
+    },
+    {
+      "name": "Welch",
+      "slug": "welch",
+      "county": "Craig County",
+      "lat": 36.902022,
+      "lng": -95.129455
+    },
+    {
+      "name": "Weleetka",
+      "slug": "weleetka",
+      "county": "Okfuskee County",
+      "lat": 35.341582,
+      "lng": -96.113609
+    },
+    {
+      "name": "Welling",
+      "slug": "welling",
+      "county": "Cherokee County",
+      "lat": 35.881917,
+      "lng": -94.865326
+    },
+    {
+      "name": "Wellston",
+      "slug": "wellston",
+      "county": "Lincoln County",
+      "lat": 35.675738,
+      "lng": -97.059685
+    },
+    {
+      "name": "Westville",
+      "slug": "westville",
+      "county": "Adair County",
+      "lat": 35.991226,
+      "lng": -94.592627
+    },
+    {
+      "name": "Wetumka",
+      "slug": "wetumka",
+      "county": "Hughes County",
+      "lat": 35.239552,
+      "lng": -96.242082
+    },
+    {
+      "name": "Wewoka",
+      "slug": "wewoka",
+      "county": "Seminole County",
+      "lat": 35.182893,
+      "lng": -96.503793
+    },
+    {
+      "name": "Wheatland",
+      "slug": "wheatland",
+      "county": "Oklahoma County",
+      "lat": 35.397778,
+      "lng": -97.651944
+    },
+    {
+      "name": "Whitefield",
+      "slug": "whitefield",
+      "county": "Haskell County",
+      "lat": 35.25114,
+      "lng": -95.237493
+    },
+    {
+      "name": "Whitesboro",
+      "slug": "whitesboro",
+      "county": "Le Flore County",
+      "lat": 34.684311,
+      "lng": -94.869977
+    },
+    {
+      "name": "Wilburton",
+      "slug": "wilburton",
+      "county": "Latimer County",
+      "lat": 34.912805,
+      "lng": -95.338896
+    },
+    {
+      "name": "Willow",
+      "slug": "willow",
+      "county": "Greer County",
+      "lat": 35.070245,
+      "lng": -99.542091
+    },
+    {
+      "name": "Wilson",
+      "slug": "wilson",
+      "county": "Carter County",
+      "lat": 34.164206,
+      "lng": -97.42487
+    },
+    {
+      "name": "Wister",
+      "slug": "wister",
+      "county": "Le Flore County",
+      "lat": 34.955593,
+      "lng": -94.783205
+    },
+    {
+      "name": "Woodward",
+      "slug": "woodward",
+      "county": "Woodward County",
+      "lat": 36.426784,
+      "lng": -99.402016
+    },
+    {
+      "name": "Wright City",
+      "slug": "wright-city",
+      "county": "Mccurtain County",
+      "lat": 34.079922,
+      "lng": -94.992889
+    },
+    {
+      "name": "Wyandotte",
+      "slug": "wyandotte",
+      "county": "Ottawa County",
+      "lat": 36.779616,
+      "lng": -94.700239
+    },
+    {
+      "name": "Wynnewood",
+      "slug": "wynnewood",
+      "county": "Garvin County",
+      "lat": 34.63847,
+      "lng": -97.176952
+    },
+    {
+      "name": "Wynona",
+      "slug": "wynona",
+      "county": "Osage County",
+      "lat": 36.50847,
+      "lng": -96.368891
+    },
+    {
+      "name": "Yale",
+      "slug": "yale",
+      "county": "Payne County",
+      "lat": 36.110065,
+      "lng": -96.702209
+    },
+    {
+      "name": "Yukon",
+      "slug": "yukon",
+      "county": "Canadian County",
+      "lat": 35.506667,
+      "lng": -97.762222
+    }
+  ]
+}

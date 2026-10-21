@@ -1,0 +1,2646 @@
+{
+  "stateName": "South Carolina",
+  "stateCode": "SC",
+  "stateSlug": "south-carolina",
+  "cities": [
+    {
+      "name": "Abbeville",
+      "slug": "abbeville",
+      "county": "Abbeville County",
+      "lat": 34.18186,
+      "lng": -82.378452
+    },
+    {
+      "name": "Adams Run",
+      "slug": "adams-run",
+      "county": "Charleston County",
+      "lat": 32.749318,
+      "lng": -80.368197
+    },
+    {
+      "name": "Aiken",
+      "slug": "aiken",
+      "county": "Aiken County",
+      "lat": 33.553024,
+      "lng": -81.719429
+    },
+    {
+      "name": "Alcolu",
+      "slug": "alcolu",
+      "county": "Clarendon County",
+      "lat": 33.768402,
+      "lng": -80.178782
+    },
+    {
+      "name": "Allendale",
+      "slug": "allendale",
+      "county": "Allendale County",
+      "lat": 33.007676,
+      "lng": -81.320254
+    },
+    {
+      "name": "Anderson",
+      "slug": "anderson",
+      "county": "Anderson County",
+      "lat": 34.526051,
+      "lng": -82.630436
+    },
+    {
+      "name": "Andrews",
+      "slug": "andrews",
+      "county": "Georgetown County",
+      "lat": 33.452525,
+      "lng": -79.560438
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Spartanburg County",
+      "lat": 34.958056,
+      "lng": -81.990833
+    },
+    {
+      "name": "Awendaw",
+      "slug": "awendaw",
+      "county": "Charleston County",
+      "lat": 32.951475,
+      "lng": -79.686075
+    },
+    {
+      "name": "Aynor",
+      "slug": "aynor",
+      "county": "Horry County",
+      "lat": 33.982271,
+      "lng": -79.17773
+    },
+    {
+      "name": "Ballentine",
+      "slug": "ballentine",
+      "county": "Richland County",
+      "lat": 34.124167,
+      "lng": -81.2375
+    },
+    {
+      "name": "Bamberg",
+      "slug": "bamberg",
+      "county": "Bamberg County",
+      "lat": 33.277915,
+      "lng": -81.017744
+    },
+    {
+      "name": "Barnwell",
+      "slug": "barnwell",
+      "county": "Barnwell County",
+      "lat": 33.233492,
+      "lng": -81.35231
+    },
+    {
+      "name": "Batesburg",
+      "slug": "batesburg",
+      "county": "Lexington County",
+      "lat": 33.938595,
+      "lng": -81.548988
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "county": "Aiken County",
+      "lat": 33.504444,
+      "lng": -81.869167
+    },
+    {
+      "name": "Beaufort",
+      "slug": "beaufort",
+      "county": "Beaufort County",
+      "lat": 32.4335,
+      "lng": -80.6728
+    },
+    {
+      "name": "Beech Island",
+      "slug": "beech-island",
+      "county": "Aiken County",
+      "lat": 33.427222,
+      "lng": -81.891111
+    },
+    {
+      "name": "Belton",
+      "slug": "belton",
+      "county": "Anderson County",
+      "lat": 34.508715,
+      "lng": -82.510106
+    },
+    {
+      "name": "Bennettsville",
+      "slug": "bennettsville",
+      "county": "Marlboro County",
+      "lat": 34.625501,
+      "lng": -79.689826
+    },
+    {
+      "name": "Bethera",
+      "slug": "bethera",
+      "county": "Berkeley County",
+      "lat": 33.201389,
+      "lng": -79.788333
+    },
+    {
+      "name": "Bethune",
+      "slug": "bethune",
+      "county": "Kershaw County",
+      "lat": 34.42012,
+      "lng": -80.366206
+    },
+    {
+      "name": "Bishopville",
+      "slug": "bishopville",
+      "county": "Lee County",
+      "lat": 34.224101,
+      "lng": -80.274988
+    },
+    {
+      "name": "Blacksburg",
+      "slug": "blacksburg",
+      "county": "Cherokee County",
+      "lat": 35.115047,
+      "lng": -81.508004
+    },
+    {
+      "name": "Blackstock",
+      "slug": "blackstock",
+      "county": "Chester County",
+      "lat": 34.577876,
+      "lng": -81.124857
+    },
+    {
+      "name": "Blackville",
+      "slug": "blackville",
+      "county": "Barnwell County",
+      "lat": 33.364476,
+      "lng": -81.271844
+    },
+    {
+      "name": "Blair",
+      "slug": "blair",
+      "county": "Fairfield County",
+      "lat": 34.496668,
+      "lng": -81.345945
+    },
+    {
+      "name": "Blenheim",
+      "slug": "blenheim",
+      "county": "Marlboro County",
+      "lat": 34.502033,
+      "lng": -79.659422
+    },
+    {
+      "name": "Bluffton",
+      "slug": "bluffton",
+      "county": "Beaufort County",
+      "lat": 32.251275,
+      "lng": -80.872079
+    },
+    {
+      "name": "Blythewood",
+      "slug": "blythewood",
+      "county": "Richland County",
+      "lat": 34.191112,
+      "lng": -80.975756
+    },
+    {
+      "name": "Boiling Springs",
+      "slug": "boiling-springs",
+      "county": "Spartanburg County",
+      "lat": 35.0342,
+      "lng": -81.9775
+    },
+    {
+      "name": "Bonneau",
+      "slug": "bonneau",
+      "county": "Berkeley County",
+      "lat": 33.297332,
+      "lng": -79.92164
+    },
+    {
+      "name": "Bowling Green",
+      "slug": "bowling-green",
+      "county": "York County",
+      "lat": 35.149722,
+      "lng": -81.2125
+    },
+    {
+      "name": "Bowman",
+      "slug": "bowman",
+      "county": "Orangeburg County",
+      "lat": 33.347466,
+      "lng": -80.670868
+    },
+    {
+      "name": "Bradley",
+      "slug": "bradley",
+      "county": "Greenwood County",
+      "lat": 34.032587,
+      "lng": -82.202723
+    },
+    {
+      "name": "Branchville",
+      "slug": "branchville",
+      "county": "Orangeburg County",
+      "lat": 33.262802,
+      "lng": -80.805931
+    },
+    {
+      "name": "Brunson",
+      "slug": "brunson",
+      "county": "Hampton County",
+      "lat": 32.941297,
+      "lng": -81.180719
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Union County",
+      "lat": 34.724703,
+      "lng": -81.682576
+    },
+    {
+      "name": "Cades",
+      "slug": "cades",
+      "county": "Williamsburg County",
+      "lat": 33.812017,
+      "lng": -79.817567
+    },
+    {
+      "name": "Calhoun Falls",
+      "slug": "calhoun-falls",
+      "county": "Abbeville County",
+      "lat": 34.099912,
+      "lng": -82.580544
+    },
+    {
+      "name": "Camden",
+      "slug": "camden",
+      "county": "Kershaw County",
+      "lat": 34.269636,
+      "lng": -80.590997
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Calhoun County",
+      "lat": 33.557789,
+      "lng": -80.646605
+    },
+    {
+      "name": "Campobello",
+      "slug": "campobello",
+      "county": "Spartanburg County",
+      "lat": 35.108003,
+      "lng": -82.140343
+    },
+    {
+      "name": "Canadys",
+      "slug": "canadys",
+      "county": "Colleton County",
+      "lat": 33.056667,
+      "lng": -80.62
+    },
+    {
+      "name": "Carlisle",
+      "slug": "carlisle",
+      "county": "Union County",
+      "lat": 34.614332,
+      "lng": -81.509105
+    },
+    {
+      "name": "Cassatt",
+      "slug": "cassatt",
+      "county": "Kershaw County",
+      "lat": 34.342414,
+      "lng": -80.499993
+    },
+    {
+      "name": "Catawba",
+      "slug": "catawba",
+      "county": "York County",
+      "lat": 34.850712,
+      "lng": -80.934154
+    },
+    {
+      "name": "Cayce",
+      "slug": "cayce",
+      "county": "Lexington County",
+      "lat": 33.962567,
+      "lng": -81.067084
+    },
+    {
+      "name": "Centenary",
+      "slug": "centenary",
+      "county": "Marion County",
+      "lat": 34.030833,
+      "lng": -79.355833
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "county": "Pickens County",
+      "lat": 34.74007,
+      "lng": -82.794727
+    },
+    {
+      "name": "Chapin",
+      "slug": "chapin",
+      "county": "Lexington County",
+      "lat": 34.131158,
+      "lng": -81.33182
+    },
+    {
+      "name": "Chappells",
+      "slug": "chappells",
+      "county": "Newberry County",
+      "lat": 34.235834,
+      "lng": -81.835253
+    },
+    {
+      "name": "Charleston",
+      "slug": "charleston",
+      "county": "Berkeley County",
+      "lat": 32.962223,
+      "lng": -79.86533
+    },
+    {
+      "name": "Charleston Afb",
+      "slug": "charleston-afb",
+      "county": "Charleston County",
+      "lat": 32.895816,
+      "lng": -80.067687
+    },
+    {
+      "name": "Cheraw",
+      "slug": "cheraw",
+      "county": "Chesterfield County",
+      "lat": 34.686275,
+      "lng": -79.917414
+    },
+    {
+      "name": "Chesnee",
+      "slug": "chesnee",
+      "county": "Spartanburg County",
+      "lat": 35.115398,
+      "lng": -81.867827
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Chester County",
+      "lat": 34.714897,
+      "lng": -81.21856
+    },
+    {
+      "name": "Chesterfield",
+      "slug": "chesterfield",
+      "county": "Chesterfield County",
+      "lat": 34.727834,
+      "lng": -80.09577
+    },
+    {
+      "name": "Clarks Hill",
+      "slug": "clarks-hill",
+      "county": "Mccormick County",
+      "lat": 33.65052,
+      "lng": -82.14875
+    },
+    {
+      "name": "Clearwater",
+      "slug": "clearwater",
+      "county": "Aiken County",
+      "lat": 33.496667,
+      "lng": -81.892222
+    },
+    {
+      "name": "Clemson",
+      "slug": "clemson",
+      "county": "Pickens County",
+      "lat": 34.683061,
+      "lng": -82.825003
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Greenville County",
+      "lat": 35.06537,
+      "lng": -82.609256
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Spartanburg County",
+      "lat": 34.979444,
+      "lng": -81.818056
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Laurens County",
+      "lat": 34.470692,
+      "lng": -81.87717
+    },
+    {
+      "name": "Clio",
+      "slug": "clio",
+      "county": "Marlboro County",
+      "lat": 34.58052,
+      "lng": -79.545255
+    },
+    {
+      "name": "Clover",
+      "slug": "clover",
+      "county": "York County",
+      "lat": 35.110728,
+      "lng": -81.186358
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "county": "Lexington County",
+      "lat": 34.072613,
+      "lng": -81.179617
+    },
+    {
+      "name": "Conestee",
+      "slug": "conestee",
+      "county": "Greenville County",
+      "lat": 34.768056,
+      "lng": -82.35
+    },
+    {
+      "name": "Converse",
+      "slug": "converse",
+      "county": "Spartanburg County",
+      "lat": 34.991944,
+      "lng": -81.835
+    },
+    {
+      "name": "Conway",
+      "slug": "conway",
+      "county": "Horry County",
+      "lat": 33.873066,
+      "lng": -79.055712
+    },
+    {
+      "name": "Coosawhatchie",
+      "slug": "coosawhatchie",
+      "county": "Jasper County",
+      "lat": 32.483056,
+      "lng": -80.983056
+    },
+    {
+      "name": "Cope",
+      "slug": "cope",
+      "county": "Orangeburg County",
+      "lat": 33.372555,
+      "lng": -80.963111
+    },
+    {
+      "name": "Cordesville",
+      "slug": "cordesville",
+      "county": "Berkeley County",
+      "lat": 33.162127,
+      "lng": -79.920492
+    },
+    {
+      "name": "Cordova",
+      "slug": "cordova",
+      "county": "Orangeburg County",
+      "lat": 33.42753,
+      "lng": -80.885719
+    },
+    {
+      "name": "Cottageville",
+      "slug": "cottageville",
+      "county": "Colleton County",
+      "lat": 32.961171,
+      "lng": -80.479414
+    },
+    {
+      "name": "Coward",
+      "slug": "coward",
+      "county": "Florence County",
+      "lat": 33.990514,
+      "lng": -79.751523
+    },
+    {
+      "name": "Cowpens",
+      "slug": "cowpens",
+      "county": "Spartanburg County",
+      "lat": 35.038979,
+      "lng": -81.822019
+    },
+    {
+      "name": "Crocketville",
+      "slug": "crocketville",
+      "county": "Hampton County",
+      "lat": 32.916389,
+      "lng": -81.0775
+    },
+    {
+      "name": "Cross",
+      "slug": "cross",
+      "county": "Berkeley County",
+      "lat": 33.336373,
+      "lng": -80.185901
+    },
+    {
+      "name": "Cross Anchor",
+      "slug": "cross-anchor",
+      "county": "Spartanburg County",
+      "lat": 34.642778,
+      "lng": -81.858056
+    },
+    {
+      "name": "Cross Hill",
+      "slug": "cross-hill",
+      "county": "Laurens County",
+      "lat": 34.269274,
+      "lng": -81.984278
+    },
+    {
+      "name": "Dale",
+      "slug": "dale",
+      "county": "Beaufort County",
+      "lat": 32.556389,
+      "lng": -80.69
+    },
+    {
+      "name": "Dalzell",
+      "slug": "dalzell",
+      "county": "Sumter County",
+      "lat": 34.014412,
+      "lng": -80.466533
+    },
+    {
+      "name": "Darlington",
+      "slug": "darlington",
+      "county": "Darlington County",
+      "lat": 34.300294,
+      "lng": -79.873221
+    },
+    {
+      "name": "Daufuskie Island",
+      "slug": "daufuskie-island",
+      "county": "Beaufort County",
+      "lat": 32.104167,
+      "lng": -80.885556
+    },
+    {
+      "name": "Davis Station",
+      "slug": "davis-station",
+      "county": "Clarendon County",
+      "lat": 33.6025,
+      "lng": -80.264722
+    },
+    {
+      "name": "Denmark",
+      "slug": "denmark",
+      "county": "Bamberg County",
+      "lat": 33.320925,
+      "lng": -81.14072
+    },
+    {
+      "name": "Dillon",
+      "slug": "dillon",
+      "county": "Dillon County",
+      "lat": 34.414553,
+      "lng": -79.377015
+    },
+    {
+      "name": "Donalds",
+      "slug": "donalds",
+      "county": "Abbeville County",
+      "lat": 34.399772,
+      "lng": -82.366616
+    },
+    {
+      "name": "Dorchester",
+      "slug": "dorchester",
+      "county": "Dorchester County",
+      "lat": 33.124688,
+      "lng": -80.403398
+    },
+    {
+      "name": "Drayton",
+      "slug": "drayton",
+      "county": "Spartanburg County",
+      "lat": 34.967778,
+      "lng": -81.906667
+    },
+    {
+      "name": "Due West",
+      "slug": "due-west",
+      "county": "Abbeville County",
+      "lat": 34.334425,
+      "lng": -82.400164
+    },
+    {
+      "name": "Duncan",
+      "slug": "duncan",
+      "county": "Spartanburg County",
+      "lat": 34.917645,
+      "lng": -82.125821
+    },
+    {
+      "name": "Early Branch",
+      "slug": "early-branch",
+      "county": "Hampton County",
+      "lat": 32.628893,
+      "lng": -81.030011
+    },
+    {
+      "name": "Easley",
+      "slug": "easley",
+      "county": "Pickens County",
+      "lat": 34.829031,
+      "lng": -82.579552
+    },
+    {
+      "name": "Eastover",
+      "slug": "eastover",
+      "county": "Richland County",
+      "lat": 33.915274,
+      "lng": -80.699647
+    },
+    {
+      "name": "Edgefield",
+      "slug": "edgefield",
+      "county": "Edgefield County",
+      "lat": 33.805553,
+      "lng": -81.96602
+    },
+    {
+      "name": "Edgemoor",
+      "slug": "edgemoor",
+      "county": "Chester County",
+      "lat": 34.797006,
+      "lng": -80.989095
+    },
+    {
+      "name": "Edisto Island",
+      "slug": "edisto-island",
+      "county": "Colleton County",
+      "lat": 32.548572,
+      "lng": -80.30701
+    },
+    {
+      "name": "Effingham",
+      "slug": "effingham",
+      "county": "Florence County",
+      "lat": 34.094571,
+      "lng": -79.791822
+    },
+    {
+      "name": "Ehrhardt",
+      "slug": "ehrhardt",
+      "county": "Bamberg County",
+      "lat": 33.104436,
+      "lng": -81.022137
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Kershaw County",
+      "lat": 34.161963,
+      "lng": -80.811292
+    },
+    {
+      "name": "Elko",
+      "slug": "elko",
+      "county": "Barnwell County",
+      "lat": 33.380278,
+      "lng": -81.379722
+    },
+    {
+      "name": "Elliott",
+      "slug": "elliott",
+      "county": "Lee County",
+      "lat": 34.117149,
+      "lng": -80.175441
+    },
+    {
+      "name": "Elloree",
+      "slug": "elloree",
+      "county": "Orangeburg County",
+      "lat": 33.490608,
+      "lng": -80.56784
+    },
+    {
+      "name": "Enoree",
+      "slug": "enoree",
+      "county": "Spartanburg County",
+      "lat": 34.670952,
+      "lng": -81.92373
+    },
+    {
+      "name": "Estill",
+      "slug": "estill",
+      "county": "Hampton County",
+      "lat": 32.737514,
+      "lng": -81.217768
+    },
+    {
+      "name": "Eutawville",
+      "slug": "eutawville",
+      "county": "Orangeburg County",
+      "lat": 33.392189,
+      "lng": -80.319983
+    },
+    {
+      "name": "Fair Play",
+      "slug": "fair-play",
+      "county": "Oconee County",
+      "lat": 34.577548,
+      "lng": -82.999874
+    },
+    {
+      "name": "Fairfax",
+      "slug": "fairfax",
+      "county": "Allendale County",
+      "lat": 32.951455,
+      "lng": -81.25864
+    },
+    {
+      "name": "Fairforest",
+      "slug": "fairforest",
+      "county": "Spartanburg County",
+      "lat": 34.956389,
+      "lng": -82.010278
+    },
+    {
+      "name": "Fingerville",
+      "slug": "fingerville",
+      "county": "Spartanburg County",
+      "lat": 35.133889,
+      "lng": -82.006667
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Florence County",
+      "lat": 34.18375,
+      "lng": -79.772786
+    },
+    {
+      "name": "Folly Beach",
+      "slug": "folly-beach",
+      "county": "Charleston County",
+      "lat": 32.655,
+      "lng": -79.940556
+    },
+    {
+      "name": "Fork",
+      "slug": "fork",
+      "county": "Dillon County",
+      "lat": 34.28733,
+      "lng": -79.250063
+    },
+    {
+      "name": "Fort Lawn",
+      "slug": "fort-lawn",
+      "county": "Chester County",
+      "lat": 34.70064,
+      "lng": -80.909175
+    },
+    {
+      "name": "Fort Mill",
+      "slug": "fort-mill",
+      "county": "Lancaster County",
+      "lat": 35.0073697,
+      "lng": -80.9450759
+    },
+    {
+      "name": "Fountain Inn",
+      "slug": "fountain-inn",
+      "county": "Greenville County",
+      "lat": 34.653334,
+      "lng": -82.264593
+    },
+    {
+      "name": "Furman",
+      "slug": "furman",
+      "county": "Hampton County",
+      "lat": 32.681389,
+      "lng": -81.188333
+    },
+    {
+      "name": "Gable",
+      "slug": "gable",
+      "county": "Clarendon County",
+      "lat": 33.840989,
+      "lng": -80.081377
+    },
+    {
+      "name": "Gadsden",
+      "slug": "gadsden",
+      "county": "Richland County",
+      "lat": 33.845461,
+      "lng": -80.753199
+    },
+    {
+      "name": "Gaffney",
+      "slug": "gaffney",
+      "county": "Cherokee County",
+      "lat": 35.061508,
+      "lng": -81.649061
+    },
+    {
+      "name": "Galivants Ferry",
+      "slug": "galivants-ferry",
+      "county": "Horry County",
+      "lat": 34.123801,
+      "lng": -79.105915
+    },
+    {
+      "name": "Garnett",
+      "slug": "garnett",
+      "county": "Hampton County",
+      "lat": 32.600666,
+      "lng": -81.239629
+    },
+    {
+      "name": "Gaston",
+      "slug": "gaston",
+      "county": "Lexington County",
+      "lat": 33.833712,
+      "lng": -81.117395
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Georgetown County",
+      "lat": 33.430776,
+      "lng": -79.323459
+    },
+    {
+      "name": "Gifford",
+      "slug": "gifford",
+      "county": "Hampton County",
+      "lat": 32.859444,
+      "lng": -81.239167
+    },
+    {
+      "name": "Gilbert",
+      "slug": "gilbert",
+      "county": "Lexington County",
+      "lat": 33.95805,
+      "lng": -81.39136
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Spartanburg County",
+      "lat": 34.944722,
+      "lng": -81.837778
+    },
+    {
+      "name": "Gloverville",
+      "slug": "gloverville",
+      "county": "Aiken County",
+      "lat": 33.525833,
+      "lng": -81.830278
+    },
+    {
+      "name": "Goose Creek",
+      "slug": "goose-creek",
+      "county": "Berkeley County",
+      "lat": 32.988699,
+      "lng": -80.019948
+    },
+    {
+      "name": "Gramling",
+      "slug": "gramling",
+      "county": "Spartanburg County",
+      "lat": 35.076667,
+      "lng": -82.132778
+    },
+    {
+      "name": "Graniteville",
+      "slug": "graniteville",
+      "county": "Aiken County",
+      "lat": 33.563016,
+      "lng": -81.814686
+    },
+    {
+      "name": "Gray Court",
+      "slug": "gray-court",
+      "county": "Laurens County",
+      "lat": 34.580984,
+      "lng": -82.157035
+    },
+    {
+      "name": "Great Falls",
+      "slug": "great-falls",
+      "county": "Chester County",
+      "lat": 34.57053,
+      "lng": -80.913263
+    },
+    {
+      "name": "Greeleyville",
+      "slug": "greeleyville",
+      "county": "Williamsburg County",
+      "lat": 33.59664,
+      "lng": -79.98022
+    },
+    {
+      "name": "Green Pond",
+      "slug": "green-pond",
+      "county": "Colleton County",
+      "lat": 32.662827,
+      "lng": -80.528035
+    },
+    {
+      "name": "Green Sea",
+      "slug": "green-sea",
+      "county": "Horry County",
+      "lat": 34.205105,
+      "lng": -79.051613
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Greenville County",
+      "lat": 34.847165,
+      "lng": -82.406049
+    },
+    {
+      "name": "Greenwood",
+      "slug": "greenwood",
+      "county": "Greenwood County",
+      "lat": 34.175802,
+      "lng": -82.156211
+    },
+    {
+      "name": "Greer",
+      "slug": "greer",
+      "county": "Greenville County",
+      "lat": 34.8968,
+      "lng": -82.267442
+    },
+    {
+      "name": "Gresham",
+      "slug": "gresham",
+      "county": "Marion County",
+      "lat": 33.906941,
+      "lng": -79.356426
+    },
+    {
+      "name": "Grover",
+      "slug": "grover",
+      "county": "Dorchester County",
+      "lat": 33.105,
+      "lng": -80.595
+    },
+    {
+      "name": "Hamer",
+      "slug": "hamer",
+      "county": "Dillon County",
+      "lat": 34.484556,
+      "lng": -79.377871
+    },
+    {
+      "name": "Hampton",
+      "slug": "hampton",
+      "county": "Hampton County",
+      "lat": 32.87288,
+      "lng": -81.097333
+    },
+    {
+      "name": "Hardeeville",
+      "slug": "hardeeville",
+      "county": "Jasper County",
+      "lat": 32.263512,
+      "lng": -81.066865
+    },
+    {
+      "name": "Harleyville",
+      "slug": "harleyville",
+      "county": "Dorchester County",
+      "lat": 33.220511,
+      "lng": -80.450094
+    },
+    {
+      "name": "Hartsville",
+      "slug": "hartsville",
+      "county": "Darlington County",
+      "lat": 34.375616,
+      "lng": -80.084237
+    },
+    {
+      "name": "Heath Springs",
+      "slug": "heath-springs",
+      "county": "Lancaster County",
+      "lat": 34.602422,
+      "lng": -80.71031
+    },
+    {
+      "name": "Hemingway",
+      "slug": "hemingway",
+      "county": "Williamsburg County",
+      "lat": 33.741887,
+      "lng": -79.448895
+    },
+    {
+      "name": "Hickory Grove",
+      "slug": "hickory-grove",
+      "county": "York County",
+      "lat": 34.970833,
+      "lng": -81.430599
+    },
+    {
+      "name": "Hilda",
+      "slug": "hilda",
+      "county": "Barnwell County",
+      "lat": 33.273333,
+      "lng": -81.247222
+    },
+    {
+      "name": "Hilton Head Island",
+      "slug": "hilton-head-island",
+      "county": "Beaufort County",
+      "lat": 32.1632,
+      "lng": -80.7533
+    },
+    {
+      "name": "Hodges",
+      "slug": "hodges",
+      "county": "Greenwood County",
+      "lat": 34.288167,
+      "lng": -82.214225
+    },
+    {
+      "name": "Holly Hill",
+      "slug": "holly-hill",
+      "county": "Orangeburg County",
+      "lat": 33.327586,
+      "lng": -80.402393
+    },
+    {
+      "name": "Hollywood",
+      "slug": "hollywood",
+      "county": "Charleston County",
+      "lat": 32.722306,
+      "lng": -80.259566
+    },
+    {
+      "name": "Honea Path",
+      "slug": "honea-path",
+      "county": "Anderson County",
+      "lat": 34.441723,
+      "lng": -82.425471
+    },
+    {
+      "name": "Hopkins",
+      "slug": "hopkins",
+      "county": "Richland County",
+      "lat": 33.934868,
+      "lng": -80.844906
+    },
+    {
+      "name": "Horatio",
+      "slug": "horatio",
+      "county": "Sumter County",
+      "lat": 34.021111,
+      "lng": -80.566111
+    },
+    {
+      "name": "Huger",
+      "slug": "huger",
+      "county": "Berkeley County",
+      "lat": 33.018436,
+      "lng": -79.807254
+    },
+    {
+      "name": "Inman",
+      "slug": "inman",
+      "county": "Spartanburg County",
+      "lat": 35.052795,
+      "lng": -82.054013
+    },
+    {
+      "name": "Irmo",
+      "slug": "irmo",
+      "county": "Richland County",
+      "lat": 34.110254,
+      "lng": -81.196553
+    },
+    {
+      "name": "Islandton",
+      "slug": "islandton",
+      "county": "Colleton County",
+      "lat": 32.950324,
+      "lng": -80.891589
+    },
+    {
+      "name": "Isle Of Palms",
+      "slug": "isle-of-palms",
+      "county": "Charleston County",
+      "lat": 32.794252,
+      "lng": -79.772949
+    },
+    {
+      "name": "Iva",
+      "slug": "iva",
+      "county": "Anderson County",
+      "lat": 34.319847,
+      "lng": -82.657437
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Aiken County",
+      "lat": 33.338886,
+      "lng": -81.797628
+    },
+    {
+      "name": "Jacksonboro",
+      "slug": "jacksonboro",
+      "county": "Colleton County",
+      "lat": 32.77,
+      "lng": -80.454722
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Berkeley County",
+      "lat": 33.228797,
+      "lng": -79.715551
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Chesterfield County",
+      "lat": 34.654581,
+      "lng": -80.363934
+    },
+    {
+      "name": "Jenkinsville",
+      "slug": "jenkinsville",
+      "county": "Fairfield County",
+      "lat": 34.271693,
+      "lng": -81.271153
+    },
+    {
+      "name": "Joanna",
+      "slug": "joanna",
+      "county": "Laurens County",
+      "lat": 34.406795,
+      "lng": -81.81907
+    },
+    {
+      "name": "Johns Island",
+      "slug": "johns-island",
+      "county": "Charleston County",
+      "lat": 32.709697,
+      "lng": -80.094294
+    },
+    {
+      "name": "Johnsonville",
+      "slug": "johnsonville",
+      "county": "Florence County",
+      "lat": 33.829873,
+      "lng": -79.478256
+    },
+    {
+      "name": "Johnston",
+      "slug": "johnston",
+      "county": "Edgefield County",
+      "lat": 33.823075,
+      "lng": -81.797242
+    },
+    {
+      "name": "Jonesville",
+      "slug": "jonesville",
+      "county": "Union County",
+      "lat": 34.837368,
+      "lng": -81.684218
+    },
+    {
+      "name": "Kershaw",
+      "slug": "kershaw",
+      "county": "Lancaster County",
+      "lat": 34.557809,
+      "lng": -80.554633
+    },
+    {
+      "name": "Kinards",
+      "slug": "kinards",
+      "county": "Newberry County",
+      "lat": 34.355219,
+      "lng": -81.71975
+    },
+    {
+      "name": "Kingstree",
+      "slug": "kingstree",
+      "county": "Williamsburg County",
+      "lat": 33.687841,
+      "lng": -79.783221
+    },
+    {
+      "name": "La France",
+      "slug": "la-france",
+      "county": "Anderson County",
+      "lat": 34.611944,
+      "lng": -82.765278
+    },
+    {
+      "name": "Ladson",
+      "slug": "ladson",
+      "county": "Berkeley County",
+      "lat": 32.993019,
+      "lng": -80.125701
+    },
+    {
+      "name": "Ladys Island",
+      "slug": "ladys-island",
+      "county": "Beaufort County",
+      "lat": 32.4446,
+      "lng": -80.6412
+    },
+    {
+      "name": "Lake City",
+      "slug": "lake-city",
+      "county": "Florence County",
+      "lat": 33.865473,
+      "lng": -79.741794
+    },
+    {
+      "name": "Lake View",
+      "slug": "lake-view",
+      "county": "Dillon County",
+      "lat": 34.34449,
+      "lng": -79.192869
+    },
+    {
+      "name": "Lamar",
+      "slug": "lamar",
+      "county": "Darlington County",
+      "lat": 34.189044,
+      "lng": -80.030134
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Lancaster County",
+      "lat": 34.749006,
+      "lng": -80.761576
+    },
+    {
+      "name": "Lando",
+      "slug": "lando",
+      "county": "Chester County",
+      "lat": 34.776111,
+      "lng": -81.010278
+    },
+    {
+      "name": "Landrum",
+      "slug": "landrum",
+      "county": "Spartanburg County",
+      "lat": 35.156486,
+      "lng": -82.211473
+    },
+    {
+      "name": "Lane",
+      "slug": "lane",
+      "county": "Williamsburg County",
+      "lat": 33.50827,
+      "lng": -79.871545
+    },
+    {
+      "name": "Langley",
+      "slug": "langley",
+      "county": "Aiken County",
+      "lat": 33.517778,
+      "lng": -81.844167
+    },
+    {
+      "name": "Latta",
+      "slug": "latta",
+      "county": "Dillon County",
+      "lat": 34.339829,
+      "lng": -79.441704
+    },
+    {
+      "name": "Laurens",
+      "slug": "laurens",
+      "county": "Laurens County",
+      "lat": 34.500714,
+      "lng": -82.026774
+    },
+    {
+      "name": "Leesville",
+      "slug": "leesville",
+      "county": "Lexington County",
+      "lat": 33.913169,
+      "lng": -81.459753
+    },
+    {
+      "name": "Lexington",
+      "slug": "lexington",
+      "county": "Lexington County",
+      "lat": 33.981389,
+      "lng": -81.236389
+    },
+    {
+      "name": "Liberty",
+      "slug": "liberty",
+      "county": "Pickens County",
+      "lat": 34.787189,
+      "lng": -82.697429
+    },
+    {
+      "name": "Liberty Hill",
+      "slug": "liberty-hill",
+      "county": "Kershaw County",
+      "lat": 34.478056,
+      "lng": -80.801944
+    },
+    {
+      "name": "Little Mountain",
+      "slug": "little-mountain",
+      "county": "Newberry County",
+      "lat": 34.167569,
+      "lng": -81.418375
+    },
+    {
+      "name": "Little River",
+      "slug": "little-river",
+      "county": "Horry County",
+      "lat": 33.876806,
+      "lng": -78.650829
+    },
+    {
+      "name": "Little Rock",
+      "slug": "little-rock",
+      "county": "Dillon County",
+      "lat": 34.404803,
+      "lng": -79.326948
+    },
+    {
+      "name": "Lobeco",
+      "slug": "lobeco",
+      "county": "Beaufort County",
+      "lat": 32.5525,
+      "lng": -80.743611
+    },
+    {
+      "name": "Lockhart",
+      "slug": "lockhart",
+      "county": "Union County",
+      "lat": 34.786389,
+      "lng": -81.462222
+    },
+    {
+      "name": "Lodge",
+      "slug": "lodge",
+      "county": "Colleton County",
+      "lat": 32.982263,
+      "lng": -80.934641
+    },
+    {
+      "name": "Long Creek",
+      "slug": "long-creek",
+      "county": "Oconee County",
+      "lat": 34.754954,
+      "lng": -83.184728
+    },
+    {
+      "name": "Longs",
+      "slug": "longs",
+      "county": "Horry County",
+      "lat": 33.906408,
+      "lng": -78.793359
+    },
+    {
+      "name": "Loris",
+      "slug": "loris",
+      "county": "Horry County",
+      "lat": 34.055756,
+      "lng": -78.916096
+    },
+    {
+      "name": "Lowndesville",
+      "slug": "lowndesville",
+      "county": "Abbeville County",
+      "lat": 34.26624,
+      "lng": -82.571021
+    },
+    {
+      "name": "Lugoff",
+      "slug": "lugoff",
+      "county": "Kershaw County",
+      "lat": 34.22961,
+      "lng": -80.714712
+    },
+    {
+      "name": "Luray",
+      "slug": "luray",
+      "county": "Hampton County",
+      "lat": 32.86177,
+      "lng": -81.223506
+    },
+    {
+      "name": "Lydia",
+      "slug": "lydia",
+      "county": "Darlington County",
+      "lat": 34.288889,
+      "lng": -80.1125
+    },
+    {
+      "name": "Lyman",
+      "slug": "lyman",
+      "county": "Spartanburg County",
+      "lat": 34.968443,
+      "lng": -82.143479
+    },
+    {
+      "name": "Lynchburg",
+      "slug": "lynchburg",
+      "county": "Lee County",
+      "lat": 34.052603,
+      "lng": -80.098821
+    },
+    {
+      "name": "Manning",
+      "slug": "manning",
+      "county": "Clarendon County",
+      "lat": 33.667716,
+      "lng": -80.222078
+    },
+    {
+      "name": "Marietta",
+      "slug": "marietta",
+      "county": "Greenville County",
+      "lat": 35.029644,
+      "lng": -82.513622
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Marion County",
+      "lat": 34.156195,
+      "lng": -79.389822
+    },
+    {
+      "name": "Martin",
+      "slug": "martin",
+      "county": "Allendale County",
+      "lat": 33.109286,
+      "lng": -81.500304
+    },
+    {
+      "name": "Mauldin",
+      "slug": "mauldin",
+      "county": "Greenville County",
+      "lat": 34.780675,
+      "lng": -82.303507
+    },
+    {
+      "name": "Mayesville",
+      "slug": "mayesville",
+      "county": "Sumter County",
+      "lat": 34.046463,
+      "lng": -80.234927
+    },
+    {
+      "name": "Mayo",
+      "slug": "mayo",
+      "county": "Spartanburg County",
+      "lat": 35.083889,
+      "lng": -81.86
+    },
+    {
+      "name": "Mc Bee",
+      "slug": "mc-bee",
+      "county": "Chesterfield County",
+      "lat": 34.46056,
+      "lng": -80.254434
+    },
+    {
+      "name": "Mc Clellanville",
+      "slug": "mc-clellanville",
+      "county": "Charleston County",
+      "lat": 33.10472,
+      "lng": -79.479982
+    },
+    {
+      "name": "Mc Coll",
+      "slug": "mc-coll",
+      "county": "Marlboro County",
+      "lat": 34.670406,
+      "lng": -79.559741
+    },
+    {
+      "name": "Mc Connells",
+      "slug": "mc-connells",
+      "county": "York County",
+      "lat": 34.867667,
+      "lng": -81.236803
+    },
+    {
+      "name": "Mc Cormick",
+      "slug": "mc-cormick",
+      "county": "Mccormick County",
+      "lat": 33.914646,
+      "lng": -82.271862
+    },
+    {
+      "name": "Miley",
+      "slug": "miley",
+      "county": "Hampton County",
+      "lat": 32.947778,
+      "lng": -81.031944
+    },
+    {
+      "name": "Minturn",
+      "slug": "minturn",
+      "county": "Dillon County",
+      "lat": 34.516944,
+      "lng": -79.4725
+    },
+    {
+      "name": "Modoc",
+      "slug": "modoc",
+      "county": "Mccormick County",
+      "lat": 33.724894,
+      "lng": -82.203469
+    },
+    {
+      "name": "Moncks Corner",
+      "slug": "moncks-corner",
+      "county": "Berkeley County",
+      "lat": 33.163071,
+      "lng": -80.036576
+    },
+    {
+      "name": "Monetta",
+      "slug": "monetta",
+      "county": "Aiken County",
+      "lat": 33.774729,
+      "lng": -81.536299
+    },
+    {
+      "name": "Montmorenci",
+      "slug": "montmorenci",
+      "county": "Aiken County",
+      "lat": 33.527778,
+      "lng": -81.636667
+    },
+    {
+      "name": "Moore",
+      "slug": "moore",
+      "county": "Spartanburg County",
+      "lat": 34.883453,
+      "lng": -82.017893
+    },
+    {
+      "name": "Mount Carmel",
+      "slug": "mount-carmel",
+      "county": "Mccormick County",
+      "lat": 33.970323,
+      "lng": -82.43607
+    },
+    {
+      "name": "Mount Croghan",
+      "slug": "mount-croghan",
+      "county": "Chesterfield County",
+      "lat": 34.743895,
+      "lng": -80.242791
+    },
+    {
+      "name": "Mount Pleasant",
+      "slug": "mount-pleasant",
+      "county": "Charleston County",
+      "lat": 32.816211,
+      "lng": -79.852031
+    },
+    {
+      "name": "Mountain Rest",
+      "slug": "mountain-rest",
+      "county": "Oconee County",
+      "lat": 34.854119,
+      "lng": -83.113402
+    },
+    {
+      "name": "Mountville",
+      "slug": "mountville",
+      "county": "Laurens County",
+      "lat": 34.340791,
+      "lng": -81.958429
+    },
+    {
+      "name": "Mullins",
+      "slug": "mullins",
+      "county": "Marion County",
+      "lat": 34.204441,
+      "lng": -79.254155
+    },
+    {
+      "name": "Murrells Inlet",
+      "slug": "murrells-inlet",
+      "county": "Horry County",
+      "lat": 33.550717,
+      "lng": -79.05275
+    },
+    {
+      "name": "Myrtle Beach",
+      "slug": "myrtle-beach",
+      "county": "Horry County",
+      "lat": 33.758701,
+      "lng": -78.804448
+    },
+    {
+      "name": "Neeses",
+      "slug": "neeses",
+      "county": "Orangeburg County",
+      "lat": 33.534282,
+      "lng": -81.083433
+    },
+    {
+      "name": "Nesmith",
+      "slug": "nesmith",
+      "county": "Williamsburg County",
+      "lat": 33.591652,
+      "lng": -79.551301
+    },
+    {
+      "name": "New Ellenton",
+      "slug": "new-ellenton",
+      "county": "Aiken County",
+      "lat": 33.417242,
+      "lng": -81.687376
+    },
+    {
+      "name": "New Zion",
+      "slug": "new-zion",
+      "county": "Clarendon County",
+      "lat": 33.795736,
+      "lng": -80.014753
+    },
+    {
+      "name": "Newberry",
+      "slug": "newberry",
+      "county": "Newberry County",
+      "lat": 34.284661,
+      "lng": -81.615741
+    },
+    {
+      "name": "Newry",
+      "slug": "newry",
+      "county": "Oconee County",
+      "lat": 34.725,
+      "lng": -82.91
+    },
+    {
+      "name": "Nichols",
+      "slug": "nichols",
+      "county": "Horry County",
+      "lat": 34.242629,
+      "lng": -79.162493
+    },
+    {
+      "name": "Ninety Six",
+      "slug": "ninety-six",
+      "county": "Greenwood County",
+      "lat": 34.165198,
+      "lng": -82.029185
+    },
+    {
+      "name": "Norris",
+      "slug": "norris",
+      "county": "Pickens County",
+      "lat": 34.765472,
+      "lng": -82.755492
+    },
+    {
+      "name": "North",
+      "slug": "north",
+      "county": "Orangeburg County",
+      "lat": 33.621121,
+      "lng": -81.060096
+    },
+    {
+      "name": "North Augusta",
+      "slug": "north-augusta",
+      "county": "Aiken County",
+      "lat": 33.517766,
+      "lng": -81.934794
+    },
+    {
+      "name": "North Charleston",
+      "slug": "north-charleston",
+      "county": "Berkeley County",
+      "lat": 33.0562,
+      "lng": -80.0759
+    },
+    {
+      "name": "North Myrtle Beach",
+      "slug": "north-myrtle-beach",
+      "county": "Horry County",
+      "lat": 33.822801,
+      "lng": -78.67792
+    },
+    {
+      "name": "Norway",
+      "slug": "norway",
+      "county": "Orangeburg County",
+      "lat": 33.453402,
+      "lng": -81.109744
+    },
+    {
+      "name": "Okatie",
+      "slug": "okatie",
+      "county": "Beaufort County",
+      "lat": 32.327778,
+      "lng": -80.847778
+    },
+    {
+      "name": "Olanta",
+      "slug": "olanta",
+      "county": "Florence County",
+      "lat": 33.928545,
+      "lng": -79.915349
+    },
+    {
+      "name": "Olar",
+      "slug": "olar",
+      "county": "Bamberg County",
+      "lat": 33.18364,
+      "lng": -81.164042
+    },
+    {
+      "name": "Orangeburg",
+      "slug": "orangeburg",
+      "county": "Orangeburg County",
+      "lat": 33.502545,
+      "lng": -80.859282
+    },
+    {
+      "name": "Pacolet",
+      "slug": "pacolet",
+      "county": "Spartanburg County",
+      "lat": 34.901708,
+      "lng": -81.758703
+    },
+    {
+      "name": "Pacolet Mills",
+      "slug": "pacolet-mills",
+      "county": "Spartanburg County",
+      "lat": 34.9225,
+      "lng": -81.742778
+    },
+    {
+      "name": "Pageland",
+      "slug": "pageland",
+      "county": "Chesterfield County",
+      "lat": 34.772193,
+      "lng": -80.396615
+    },
+    {
+      "name": "Pamplico",
+      "slug": "pamplico",
+      "county": "Florence County",
+      "lat": 33.992166,
+      "lng": -79.592917
+    },
+    {
+      "name": "Parksville",
+      "slug": "parksville",
+      "county": "Mccormick County",
+      "lat": 33.786111,
+      "lng": -82.219722
+    },
+    {
+      "name": "Patrick",
+      "slug": "patrick",
+      "county": "Chesterfield County",
+      "lat": 34.559823,
+      "lng": -80.064984
+    },
+    {
+      "name": "Pauline",
+      "slug": "pauline",
+      "county": "Spartanburg County",
+      "lat": 34.774808,
+      "lng": -81.857853
+    },
+    {
+      "name": "Pawleys Island",
+      "slug": "pawleys-island",
+      "county": "Georgetown County",
+      "lat": 33.450825,
+      "lng": -79.134128
+    },
+    {
+      "name": "Peak",
+      "slug": "peak",
+      "county": "Newberry County",
+      "lat": 34.240556,
+      "lng": -81.323611
+    },
+    {
+      "name": "Pelion",
+      "slug": "pelion",
+      "county": "Lexington County",
+      "lat": 33.776628,
+      "lng": -81.250161
+    },
+    {
+      "name": "Pelzer",
+      "slug": "pelzer",
+      "county": "Anderson County",
+      "lat": 34.646063,
+      "lng": -82.467334
+    },
+    {
+      "name": "Pendleton",
+      "slug": "pendleton",
+      "county": "Anderson County",
+      "lat": 34.63694,
+      "lng": -82.740623
+    },
+    {
+      "name": "Pickens",
+      "slug": "pickens",
+      "county": "Pickens County",
+      "lat": 34.902403,
+      "lng": -82.705784
+    },
+    {
+      "name": "Piedmont",
+      "slug": "piedmont",
+      "county": "Greenville County",
+      "lat": 34.724433,
+      "lng": -82.470216
+    },
+    {
+      "name": "Pineland",
+      "slug": "pineland",
+      "county": "Jasper County",
+      "lat": 32.602065,
+      "lng": -81.176116
+    },
+    {
+      "name": "Pineville",
+      "slug": "pineville",
+      "county": "Berkeley County",
+      "lat": 33.419926,
+      "lng": -80.093181
+    },
+    {
+      "name": "Pinewood",
+      "slug": "pinewood",
+      "county": "Sumter County",
+      "lat": 33.764216,
+      "lng": -80.497761
+    },
+    {
+      "name": "Pinopolis",
+      "slug": "pinopolis",
+      "county": "Berkeley County",
+      "lat": 33.224125,
+      "lng": -80.039761
+    },
+    {
+      "name": "Plum Branch",
+      "slug": "plum-branch",
+      "county": "Mccormick County",
+      "lat": 33.832893,
+      "lng": -82.248041
+    },
+    {
+      "name": "Pomaria",
+      "slug": "pomaria",
+      "county": "Newberry County",
+      "lat": 34.306281,
+      "lng": -81.449973
+    },
+    {
+      "name": "Port Royal",
+      "slug": "port-royal",
+      "county": "Beaufort County",
+      "lat": 32.384205,
+      "lng": -80.69278
+    },
+    {
+      "name": "Prosperity",
+      "slug": "prosperity",
+      "county": "Newberry County",
+      "lat": 34.183243,
+      "lng": -81.532353
+    },
+    {
+      "name": "Rains",
+      "slug": "rains",
+      "county": "Marion County",
+      "lat": 34.0975,
+      "lng": -79.315833
+    },
+    {
+      "name": "Ravenel",
+      "slug": "ravenel",
+      "county": "Charleston County",
+      "lat": 32.788088,
+      "lng": -80.222346
+    },
+    {
+      "name": "Reevesville",
+      "slug": "reevesville",
+      "county": "Dorchester County",
+      "lat": 33.187213,
+      "lng": -80.66725
+    },
+    {
+      "name": "Reidville",
+      "slug": "reidville",
+      "county": "Spartanburg County",
+      "lat": 34.862778,
+      "lng": -82.114444
+    },
+    {
+      "name": "Rembert",
+      "slug": "rembert",
+      "county": "Sumter County",
+      "lat": 34.108467,
+      "lng": -80.494544
+    },
+    {
+      "name": "Richburg",
+      "slug": "richburg",
+      "county": "Chester County",
+      "lat": 34.682185,
+      "lng": -80.989061
+    },
+    {
+      "name": "Richland",
+      "slug": "richland",
+      "county": "Oconee County",
+      "lat": 34.677778,
+      "lng": -83.025556
+    },
+    {
+      "name": "Ridge Spring",
+      "slug": "ridge-spring",
+      "county": "Saluda County",
+      "lat": 33.871403,
+      "lng": -81.655949
+    },
+    {
+      "name": "Ridgeland",
+      "slug": "ridgeland",
+      "county": "Jasper County",
+      "lat": 32.491938,
+      "lng": -80.949435
+    },
+    {
+      "name": "Ridgeville",
+      "slug": "ridgeville",
+      "county": "Dorchester County",
+      "lat": 33.108017,
+      "lng": -80.308611
+    },
+    {
+      "name": "Ridgeway",
+      "slug": "ridgeway",
+      "county": "Fairfield County",
+      "lat": 34.316651,
+      "lng": -80.928813
+    },
+    {
+      "name": "Rion",
+      "slug": "rion",
+      "county": "Fairfield County",
+      "lat": 34.306944,
+      "lng": -81.125278
+    },
+    {
+      "name": "Rock Hill",
+      "slug": "rock-hill",
+      "county": "York County",
+      "lat": 34.915068,
+      "lng": -81.012904
+    },
+    {
+      "name": "Roebuck",
+      "slug": "roebuck",
+      "county": "Spartanburg County",
+      "lat": 34.8688,
+      "lng": -81.95255
+    },
+    {
+      "name": "Round O",
+      "slug": "round-o",
+      "county": "Colleton County",
+      "lat": 32.940516,
+      "lng": -80.573882
+    },
+    {
+      "name": "Rowesville",
+      "slug": "rowesville",
+      "county": "Orangeburg County",
+      "lat": 33.370257,
+      "lng": -80.833115
+    },
+    {
+      "name": "Ruby",
+      "slug": "ruby",
+      "county": "Chesterfield County",
+      "lat": 34.737928,
+      "lng": -80.190966
+    },
+    {
+      "name": "Ruffin",
+      "slug": "ruffin",
+      "county": "Colleton County",
+      "lat": 33.010319,
+      "lng": -80.813653
+    },
+    {
+      "name": "Russellville",
+      "slug": "russellville",
+      "county": "Berkeley County",
+      "lat": 33.396944,
+      "lng": -79.971944
+    },
+    {
+      "name": "Saint George",
+      "slug": "saint-george",
+      "county": "Dorchester County",
+      "lat": 33.184532,
+      "lng": -80.573246
+    },
+    {
+      "name": "Saint Helena Island",
+      "slug": "saint-helena-island",
+      "county": "Beaufort County",
+      "lat": 32.380213,
+      "lng": -80.533863
+    },
+    {
+      "name": "Saint Matthews",
+      "slug": "saint-matthews",
+      "county": "Calhoun County",
+      "lat": 33.694212,
+      "lng": -80.856286
+    },
+    {
+      "name": "Saint Stephen",
+      "slug": "saint-stephen",
+      "county": "Berkeley County",
+      "lat": 33.405953,
+      "lng": -79.937635
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Oconee County",
+      "lat": 34.872836,
+      "lng": -82.960687
+    },
+    {
+      "name": "Salley",
+      "slug": "salley",
+      "county": "Aiken County",
+      "lat": 33.597233,
+      "lng": -81.318418
+    },
+    {
+      "name": "Salters",
+      "slug": "salters",
+      "county": "Williamsburg County",
+      "lat": 33.561138,
+      "lng": -79.830024
+    },
+    {
+      "name": "Saluda",
+      "slug": "saluda",
+      "county": "Saluda County",
+      "lat": 34.017451,
+      "lng": -81.775398
+    },
+    {
+      "name": "Sandy Springs",
+      "slug": "sandy-springs",
+      "county": "Anderson County",
+      "lat": 34.595278,
+      "lng": -82.75
+    },
+    {
+      "name": "Santee",
+      "slug": "santee",
+      "county": "Orangeburg County",
+      "lat": 33.483533,
+      "lng": -80.480498
+    },
+    {
+      "name": "Sardinia",
+      "slug": "sardinia",
+      "county": "Clarendon County",
+      "lat": 33.834167,
+      "lng": -80.083056
+    },
+    {
+      "name": "Scotia",
+      "slug": "scotia",
+      "county": "Hampton County",
+      "lat": 32.680833,
+      "lng": -81.243611
+    },
+    {
+      "name": "Scranton",
+      "slug": "scranton",
+      "county": "Florence County",
+      "lat": 33.92813,
+      "lng": -79.773101
+    },
+    {
+      "name": "Seabrook",
+      "slug": "seabrook",
+      "county": "Beaufort County",
+      "lat": 32.526884,
+      "lng": -80.740793
+    },
+    {
+      "name": "Sellers",
+      "slug": "sellers",
+      "county": "Marion County",
+      "lat": 34.269522,
+      "lng": -79.436948
+    },
+    {
+      "name": "Seneca",
+      "slug": "seneca",
+      "county": "Oconee County",
+      "lat": 34.7347,
+      "lng": -82.9482
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "York County",
+      "lat": 34.908396,
+      "lng": -81.372907
+    },
+    {
+      "name": "Shaw A F B",
+      "slug": "shaw-a-f-b",
+      "county": "Sumter County",
+      "lat": 33.980262,
+      "lng": -80.481093
+    },
+    {
+      "name": "Sheldon",
+      "slug": "sheldon",
+      "county": "Beaufort County",
+      "lat": 32.601389,
+      "lng": -80.793333
+    },
+    {
+      "name": "Silverstreet",
+      "slug": "silverstreet",
+      "county": "Newberry County",
+      "lat": 34.235553,
+      "lng": -81.703684
+    },
+    {
+      "name": "Simpsonville",
+      "slug": "simpsonville",
+      "county": "Greenville County",
+      "lat": 34.736944,
+      "lng": -82.254444
+    },
+    {
+      "name": "Six Mile",
+      "slug": "six-mile",
+      "county": "Pickens County",
+      "lat": 34.828287,
+      "lng": -82.827795
+    },
+    {
+      "name": "Slater",
+      "slug": "slater",
+      "county": "Greenville County",
+      "lat": 35.031667,
+      "lng": -82.495278
+    },
+    {
+      "name": "Smoaks",
+      "slug": "smoaks",
+      "county": "Colleton County",
+      "lat": 33.096319,
+      "lng": -80.813021
+    },
+    {
+      "name": "Smyrna",
+      "slug": "smyrna",
+      "county": "York County",
+      "lat": 35.030784,
+      "lng": -81.389606
+    },
+    {
+      "name": "Society Hill",
+      "slug": "society-hill",
+      "county": "Darlington County",
+      "lat": 34.451161,
+      "lng": -79.886494
+    },
+    {
+      "name": "Spartanburg",
+      "slug": "spartanburg",
+      "county": "Spartanburg County",
+      "lat": 34.935211,
+      "lng": -81.965377
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Orangeburg County",
+      "lat": 33.534265,
+      "lng": -81.249858
+    },
+    {
+      "name": "Starr",
+      "slug": "starr",
+      "county": "Anderson County",
+      "lat": 34.396196,
+      "lng": -82.68971
+    },
+    {
+      "name": "Startex",
+      "slug": "startex",
+      "county": "Spartanburg County",
+      "lat": 34.928333,
+      "lng": -82.099167
+    },
+    {
+      "name": "State Park",
+      "slug": "state-park",
+      "county": "Richland County",
+      "lat": 34.090556,
+      "lng": -80.966389
+    },
+    {
+      "name": "Sullivans Island",
+      "slug": "sullivans-island",
+      "county": "Charleston County",
+      "lat": 32.763652,
+      "lng": -79.839905
+    },
+    {
+      "name": "Summerton",
+      "slug": "summerton",
+      "county": "Clarendon County",
+      "lat": 33.594578,
+      "lng": -80.360566
+    },
+    {
+      "name": "Summerville",
+      "slug": "summerville",
+      "county": "Dorchester County",
+      "lat": 33.028045,
+      "lng": -80.173852
+    },
+    {
+      "name": "Sumter",
+      "slug": "sumter",
+      "county": "Sumter County",
+      "lat": 33.928199,
+      "lng": -80.321008
+    },
+    {
+      "name": "Sunset",
+      "slug": "sunset",
+      "county": "Pickens County",
+      "lat": 34.970617,
+      "lng": -82.807639
+    },
+    {
+      "name": "Swansea",
+      "slug": "swansea",
+      "county": "Lexington County",
+      "lat": 33.733917,
+      "lng": -81.093309
+    },
+    {
+      "name": "Sycamore",
+      "slug": "sycamore",
+      "county": "Allendale County",
+      "lat": 33.035556,
+      "lng": -81.222222
+    },
+    {
+      "name": "Tamassee",
+      "slug": "tamassee",
+      "county": "Oconee County",
+      "lat": 34.898229,
+      "lng": -82.986138
+    },
+    {
+      "name": "Tatum",
+      "slug": "tatum",
+      "county": "Marlboro County",
+      "lat": 34.643889,
+      "lng": -79.586667
+    },
+    {
+      "name": "Taylors",
+      "slug": "taylors",
+      "county": "Greenville County",
+      "lat": 34.924517,
+      "lng": -82.31968
+    },
+    {
+      "name": "Tigerville",
+      "slug": "tigerville",
+      "county": "Greenville County",
+      "lat": 35.094443,
+      "lng": -82.358236
+    },
+    {
+      "name": "Tillman",
+      "slug": "tillman",
+      "county": "Jasper County",
+      "lat": 32.492719,
+      "lng": -81.077567
+    },
+    {
+      "name": "Timmonsville",
+      "slug": "timmonsville",
+      "county": "Florence County",
+      "lat": 34.101241,
+      "lng": -79.937845
+    },
+    {
+      "name": "Townville",
+      "slug": "townville",
+      "county": "Anderson County",
+      "lat": 34.522638,
+      "lng": -82.89633
+    },
+    {
+      "name": "Travelers Rest",
+      "slug": "travelers-rest",
+      "county": "Greenville County",
+      "lat": 35.003929,
+      "lng": -82.427179
+    },
+    {
+      "name": "Trenton",
+      "slug": "trenton",
+      "county": "Edgefield County",
+      "lat": 33.693757,
+      "lng": -81.853392
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Greenwood County",
+      "lat": 33.955654,
+      "lng": -82.294077
+    },
+    {
+      "name": "Turbeville",
+      "slug": "turbeville",
+      "county": "Clarendon County",
+      "lat": 33.87857,
+      "lng": -79.985174
+    },
+    {
+      "name": "Ulmer",
+      "slug": "ulmer",
+      "county": "Allendale County",
+      "lat": 33.057597,
+      "lng": -81.221292
+    },
+    {
+      "name": "Una",
+      "slug": "una",
+      "county": "Spartanburg County",
+      "lat": 34.968889,
+      "lng": -81.970556
+    },
+    {
+      "name": "Union",
+      "slug": "union",
+      "county": "Union County",
+      "lat": 34.726855,
+      "lng": -81.620235
+    },
+    {
+      "name": "Van Wyck",
+      "slug": "van-wyck",
+      "county": "Lancaster County",
+      "lat": 34.858333,
+      "lng": -80.846111
+    },
+    {
+      "name": "Vance",
+      "slug": "vance",
+      "county": "Orangeburg County",
+      "lat": 33.413882,
+      "lng": -80.461716
+    },
+    {
+      "name": "Varnville",
+      "slug": "varnville",
+      "county": "Hampton County",
+      "lat": 32.834893,
+      "lng": -81.028839
+    },
+    {
+      "name": "Vaucluse",
+      "slug": "vaucluse",
+      "county": "Aiken County",
+      "lat": 33.6125,
+      "lng": -81.81
+    },
+    {
+      "name": "Wadmalaw Island",
+      "slug": "wadmalaw-island",
+      "county": "Charleston County",
+      "lat": 32.652854,
+      "lng": -80.182867
+    },
+    {
+      "name": "Wagener",
+      "slug": "wagener",
+      "county": "Aiken County",
+      "lat": 33.649417,
+      "lng": -81.39952
+    },
+    {
+      "name": "Walhalla",
+      "slug": "walhalla",
+      "county": "Oconee County",
+      "lat": 34.768902,
+      "lng": -83.038778
+    },
+    {
+      "name": "Wallace",
+      "slug": "wallace",
+      "county": "Marlboro County",
+      "lat": 34.730704,
+      "lng": -79.801142
+    },
+    {
+      "name": "Walterboro",
+      "slug": "walterboro",
+      "county": "Colleton County",
+      "lat": 32.897367,
+      "lng": -80.679225
+    },
+    {
+      "name": "Ward",
+      "slug": "ward",
+      "county": "Saluda County",
+      "lat": 33.884856,
+      "lng": -81.728341
+    },
+    {
+      "name": "Ware Shoals",
+      "slug": "ware-shoals",
+      "county": "Greenwood County",
+      "lat": 34.402491,
+      "lng": -82.26779
+    },
+    {
+      "name": "Warrenville",
+      "slug": "warrenville",
+      "county": "Aiken County",
+      "lat": 33.519917,
+      "lng": -81.829397
+    },
+    {
+      "name": "Waterloo",
+      "slug": "waterloo",
+      "county": "Laurens County",
+      "lat": 34.33673,
+      "lng": -82.087968
+    },
+    {
+      "name": "Wedgefield",
+      "slug": "wedgefield",
+      "county": "Sumter County",
+      "lat": 33.943002,
+      "lng": -80.498719
+    },
+    {
+      "name": "Wellford",
+      "slug": "wellford",
+      "county": "Spartanburg County",
+      "lat": 34.951394,
+      "lng": -82.092706
+    },
+    {
+      "name": "West Columbia",
+      "slug": "west-columbia",
+      "county": "Lexington County",
+      "lat": 33.995024,
+      "lng": -81.088836
+    },
+    {
+      "name": "West Union",
+      "slug": "west-union",
+      "county": "Oconee County",
+      "lat": 34.751572,
+      "lng": -83.039887
+    },
+    {
+      "name": "Westminster",
+      "slug": "westminster",
+      "county": "Oconee County",
+      "lat": 34.658857,
+      "lng": -83.110782
+    },
+    {
+      "name": "Westville",
+      "slug": "westville",
+      "county": "Kershaw County",
+      "lat": 34.449177,
+      "lng": -80.579554
+    },
+    {
+      "name": "White Rock",
+      "slug": "white-rock",
+      "county": "Richland County",
+      "lat": 34.145,
+      "lng": -81.275833
+    },
+    {
+      "name": "White Stone",
+      "slug": "white-stone",
+      "county": "Spartanburg County",
+      "lat": 34.902778,
+      "lng": -81.817222
+    },
+    {
+      "name": "Whitmire",
+      "slug": "whitmire",
+      "county": "Newberry County",
+      "lat": 34.495485,
+      "lng": -81.605981
+    },
+    {
+      "name": "Williams",
+      "slug": "williams",
+      "county": "Colleton County",
+      "lat": 33.034444,
+      "lng": -80.842778
+    },
+    {
+      "name": "Williamston",
+      "slug": "williamston",
+      "county": "Anderson County",
+      "lat": 34.620572,
+      "lng": -82.511006
+    },
+    {
+      "name": "Williston",
+      "slug": "williston",
+      "county": "Barnwell County",
+      "lat": 33.392608,
+      "lng": -81.416146
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Aiken County",
+      "lat": 33.467446,
+      "lng": -81.513626
+    },
+    {
+      "name": "Winnsboro",
+      "slug": "winnsboro",
+      "county": "Fairfield County",
+      "lat": 34.381008,
+      "lng": -81.10899
+    },
+    {
+      "name": "Woodruff",
+      "slug": "woodruff",
+      "county": "Spartanburg County",
+      "lat": 34.757864,
+      "lng": -82.044658
+    },
+    {
+      "name": "Yemassee",
+      "slug": "yemassee",
+      "county": "Hampton County",
+      "lat": 32.642983,
+      "lng": -80.812932
+    },
+    {
+      "name": "York",
+      "slug": "york",
+      "county": "York County",
+      "lat": 34.994669,
+      "lng": -81.224462
+    }
+  ]
+}

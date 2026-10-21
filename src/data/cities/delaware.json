@@ -1,0 +1,406 @@
+{
+  "stateName": "Delaware",
+  "stateCode": "DE",
+  "stateSlug": "delaware",
+  "cities": [
+    {
+      "name": "Bear",
+      "slug": "bear",
+      "county": "New Castle County",
+      "lat": 39.610187,
+      "lng": -75.674729
+    },
+    {
+      "name": "Bethany Beach",
+      "slug": "bethany-beach",
+      "county": "Sussex County",
+      "lat": 38.531009,
+      "lng": -75.067396
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Sussex County",
+      "lat": 38.568517,
+      "lng": -75.624298
+    },
+    {
+      "name": "Bridgeville",
+      "slug": "bridgeville",
+      "county": "Sussex County",
+      "lat": 38.736628,
+      "lng": -75.608768
+    },
+    {
+      "name": "Camden Wyoming",
+      "slug": "camden-wyoming",
+      "county": "Kent County",
+      "lat": 39.099099,
+      "lng": -75.596559
+    },
+    {
+      "name": "Cheswold",
+      "slug": "cheswold",
+      "county": "Kent County",
+      "lat": 39.219167,
+      "lng": -75.586111
+    },
+    {
+      "name": "Claymont",
+      "slug": "claymont",
+      "county": "New Castle County",
+      "lat": 39.804432,
+      "lng": -75.46494
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Kent County",
+      "lat": 39.256395,
+      "lng": -75.690361
+    },
+    {
+      "name": "Dagsboro",
+      "slug": "dagsboro",
+      "county": "Sussex County",
+      "lat": 38.559559,
+      "lng": -75.21133
+    },
+    {
+      "name": "Delaware City",
+      "slug": "delaware-city",
+      "county": "New Castle County",
+      "lat": 39.577778,
+      "lng": -75.589167
+    },
+    {
+      "name": "Delmar",
+      "slug": "delmar",
+      "county": "Sussex County",
+      "lat": 38.476955,
+      "lng": -75.575887
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Kent County",
+      "lat": 39.156639,
+      "lng": -75.535983
+    },
+    {
+      "name": "Dover Afb",
+      "slug": "dover-afb",
+      "county": "Kent County",
+      "lat": 39.120246,
+      "lng": -75.478966
+    },
+    {
+      "name": "Ellendale",
+      "slug": "ellendale",
+      "county": "Sussex County",
+      "lat": 38.805737,
+      "lng": -75.405588
+    },
+    {
+      "name": "Felton",
+      "slug": "felton",
+      "county": "Kent County",
+      "lat": 39.022538,
+      "lng": -75.582906
+    },
+    {
+      "name": "Fenwick Island",
+      "slug": "fenwick-island",
+      "county": "Sussex County",
+      "lat": 38.460278,
+      "lng": -75.221111
+    },
+    {
+      "name": "Frankford",
+      "slug": "frankford",
+      "county": "Sussex County",
+      "lat": 38.51767,
+      "lng": -75.200633
+    },
+    {
+      "name": "Frederica",
+      "slug": "frederica",
+      "county": "Kent County",
+      "lat": 39.034188,
+      "lng": -75.454458
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Sussex County",
+      "lat": 38.679006,
+      "lng": -75.393198
+    },
+    {
+      "name": "Greenwood",
+      "slug": "greenwood",
+      "county": "Sussex County",
+      "lat": 38.817519,
+      "lng": -75.593547
+    },
+    {
+      "name": "Harbeson",
+      "slug": "harbeson",
+      "county": "Sussex County",
+      "lat": 38.672294,
+      "lng": -75.223621
+    },
+    {
+      "name": "Harrington",
+      "slug": "harrington",
+      "county": "Kent County",
+      "lat": 38.924031,
+      "lng": -75.584268
+    },
+    {
+      "name": "Hartly",
+      "slug": "hartly",
+      "county": "Kent County",
+      "lat": 39.15421,
+      "lng": -75.693476
+    },
+    {
+      "name": "Hockessin",
+      "slug": "hockessin",
+      "county": "New Castle County",
+      "lat": 39.77604,
+      "lng": -75.688873
+    },
+    {
+      "name": "Houston",
+      "slug": "houston",
+      "county": "Kent County",
+      "lat": 38.91143,
+      "lng": -75.506354
+    },
+    {
+      "name": "Kenton",
+      "slug": "kenton",
+      "county": "Kent County",
+      "lat": 39.2275,
+      "lng": -75.663333
+    },
+    {
+      "name": "Kirkwood",
+      "slug": "kirkwood",
+      "county": "New Castle County",
+      "lat": 39.571667,
+      "lng": -75.696667
+    },
+    {
+      "name": "Laurel",
+      "slug": "laurel",
+      "county": "Sussex County",
+      "lat": 38.553695,
+      "lng": -75.563052
+    },
+    {
+      "name": "Lewes",
+      "slug": "lewes",
+      "county": "Sussex County",
+      "lat": 38.738149,
+      "lng": -75.174702
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Sussex County",
+      "lat": 38.86128,
+      "lng": -75.399961
+    },
+    {
+      "name": "Little Creek",
+      "slug": "little-creek",
+      "county": "Kent County",
+      "lat": 39.166944,
+      "lng": -75.448611
+    },
+    {
+      "name": "Magnolia",
+      "slug": "magnolia",
+      "county": "Kent County",
+      "lat": 39.07353,
+      "lng": -75.508321
+    },
+    {
+      "name": "Marydel",
+      "slug": "marydel",
+      "county": "Kent County",
+      "lat": 39.099794,
+      "lng": -75.728661
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "New Castle County",
+      "lat": 39.481535,
+      "lng": -75.683183
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Sussex County",
+      "lat": 38.921801,
+      "lng": -75.429877
+    },
+    {
+      "name": "Millsboro",
+      "slug": "millsboro",
+      "county": "Sussex County",
+      "lat": 38.593436,
+      "lng": -75.255547
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Sussex County",
+      "lat": 38.558946,
+      "lng": -75.107762
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "county": "Sussex County",
+      "lat": 38.768687,
+      "lng": -75.295298
+    },
+    {
+      "name": "Montchanin",
+      "slug": "montchanin",
+      "county": "New Castle County",
+      "lat": 39.789722,
+      "lng": -75.589444
+    },
+    {
+      "name": "Nassau",
+      "slug": "nassau",
+      "county": "Sussex County",
+      "lat": 38.751944,
+      "lng": -75.188056
+    },
+    {
+      "name": "New Castle",
+      "slug": "new-castle",
+      "county": "New Castle County",
+      "lat": 39.67703,
+      "lng": -75.589938
+    },
+    {
+      "name": "Newark",
+      "slug": "newark",
+      "county": "New Castle County",
+      "lat": 39.634869,
+      "lng": -75.699339
+    },
+    {
+      "name": "Ocean View",
+      "slug": "ocean-view",
+      "county": "Sussex County",
+      "lat": 38.555528,
+      "lng": -75.096518
+    },
+    {
+      "name": "Odessa",
+      "slug": "odessa",
+      "county": "New Castle County",
+      "lat": 39.457222,
+      "lng": -75.661667
+    },
+    {
+      "name": "Port Penn",
+      "slug": "port-penn",
+      "county": "New Castle County",
+      "lat": 39.516667,
+      "lng": -75.576944
+    },
+    {
+      "name": "Rehoboth Beach",
+      "slug": "rehoboth-beach",
+      "county": "Sussex County",
+      "lat": 38.714715,
+      "lng": -75.107346
+    },
+    {
+      "name": "Rockland",
+      "slug": "rockland",
+      "county": "New Castle County",
+      "lat": 39.796111,
+      "lng": -75.5725
+    },
+    {
+      "name": "Saint Georges",
+      "slug": "saint-georges",
+      "county": "New Castle County",
+      "lat": 39.555,
+      "lng": -75.650556
+    },
+    {
+      "name": "Seaford",
+      "slug": "seaford",
+      "county": "Sussex County",
+      "lat": 38.640358,
+      "lng": -75.604122
+    },
+    {
+      "name": "Selbyville",
+      "slug": "selbyville",
+      "county": "Sussex County",
+      "lat": 38.465357,
+      "lng": -75.157325
+    },
+    {
+      "name": "Smyrna",
+      "slug": "smyrna",
+      "county": "Kent County",
+      "lat": 39.293379,
+      "lng": -75.600832
+    },
+    {
+      "name": "Townsend",
+      "slug": "townsend",
+      "county": "New Castle County",
+      "lat": 39.381882,
+      "lng": -75.683368
+    },
+    {
+      "name": "Viola",
+      "slug": "viola",
+      "county": "Kent County",
+      "lat": 39.041872,
+      "lng": -75.572605
+    },
+    {
+      "name": "Wilmington",
+      "slug": "wilmington",
+      "county": "New Castle County",
+      "lat": 39.737752,
+      "lng": -75.549658
+    },
+    {
+      "name": "Winterthur",
+      "slug": "winterthur",
+      "county": "New Castle County",
+      "lat": 39.802778,
+      "lng": -75.591944
+    },
+    {
+      "name": "Woodside",
+      "slug": "woodside",
+      "county": "Kent County",
+      "lat": 39.071389,
+      "lng": -75.568611
+    },
+    {
+      "name": "Yorklyn",
+      "slug": "yorklyn",
+      "county": "New Castle County",
+      "lat": 39.808056,
+      "lng": -75.675833
+    }
+  ]
+}

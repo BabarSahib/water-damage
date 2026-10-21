@@ -1,0 +1,7490 @@
+{
+  "stateName": "Ohio",
+  "stateCode": "OH",
+  "stateSlug": "ohio",
+  "cities": [
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "county": "Brown County",
+      "lat": 38.670864,
+      "lng": -83.763723
+    },
+    {
+      "name": "Ada",
+      "slug": "ada",
+      "county": "Hardin County",
+      "lat": 40.770931,
+      "lng": -83.815402
+    },
+    {
+      "name": "Adamsville",
+      "slug": "adamsville",
+      "county": "Muskingum County",
+      "lat": 40.07929,
+      "lng": -81.871847
+    },
+    {
+      "name": "Addyston",
+      "slug": "addyston",
+      "county": "Hamilton County",
+      "lat": 39.137364,
+      "lng": -84.709602
+    },
+    {
+      "name": "Adelphi",
+      "slug": "adelphi",
+      "county": "Ross County",
+      "lat": 39.466667,
+      "lng": -82.747222
+    },
+    {
+      "name": "Adena",
+      "slug": "adena",
+      "county": "Jefferson County",
+      "lat": 40.212581,
+      "lng": -80.881538
+    },
+    {
+      "name": "Akron",
+      "slug": "akron",
+      "county": "Summit County",
+      "lat": 41.044852,
+      "lng": -81.520048
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Athens County",
+      "lat": 39.209664,
+      "lng": -82.217727
+    },
+    {
+      "name": "Alexandria",
+      "slug": "alexandria",
+      "county": "Licking County",
+      "lat": 40.105965,
+      "lng": -82.607683
+    },
+    {
+      "name": "Alger",
+      "slug": "alger",
+      "county": "Hardin County",
+      "lat": 40.705967,
+      "lng": -83.825011
+    },
+    {
+      "name": "Alledonia",
+      "slug": "alledonia",
+      "county": "Belmont County",
+      "lat": 39.905271,
+      "lng": -80.957753
+    },
+    {
+      "name": "Alliance",
+      "slug": "alliance",
+      "county": "Stark County",
+      "lat": 40.915842,
+      "lng": -81.118193
+    },
+    {
+      "name": "Alpha",
+      "slug": "alpha",
+      "county": "Greene County",
+      "lat": 39.711667,
+      "lng": -84.023333
+    },
+    {
+      "name": "Alvada",
+      "slug": "alvada",
+      "county": "Seneca County",
+      "lat": 41.046284,
+      "lng": -83.376982
+    },
+    {
+      "name": "Alvordton",
+      "slug": "alvordton",
+      "county": "Williams County",
+      "lat": 41.662489,
+      "lng": -84.435533
+    },
+    {
+      "name": "Amanda",
+      "slug": "amanda",
+      "county": "Fairfield County",
+      "lat": 39.625104,
+      "lng": -82.755236
+    },
+    {
+      "name": "Amelia",
+      "slug": "amelia",
+      "county": "Clermont County",
+      "lat": 39.021138,
+      "lng": -84.211174
+    },
+    {
+      "name": "Amesville",
+      "slug": "amesville",
+      "county": "Athens County",
+      "lat": 39.408641,
+      "lng": -81.964976
+    },
+    {
+      "name": "Amherst",
+      "slug": "amherst",
+      "county": "Lorain County",
+      "lat": 41.390506,
+      "lng": -82.228165
+    },
+    {
+      "name": "Amlin",
+      "slug": "amlin",
+      "county": "Franklin County",
+      "lat": 40.07203,
+      "lng": -83.179157
+    },
+    {
+      "name": "Amsterdam",
+      "slug": "amsterdam",
+      "county": "Jefferson County",
+      "lat": 40.473131,
+      "lng": -80.959554
+    },
+    {
+      "name": "Andover",
+      "slug": "andover",
+      "county": "Ashtabula County",
+      "lat": 41.622488,
+      "lng": -80.575374
+    },
+    {
+      "name": "Anna",
+      "slug": "anna",
+      "county": "Shelby County",
+      "lat": 40.405105,
+      "lng": -84.210344
+    },
+    {
+      "name": "Ansonia",
+      "slug": "ansonia",
+      "county": "Darke County",
+      "lat": 40.215064,
+      "lng": -84.640642
+    },
+    {
+      "name": "Antwerp",
+      "slug": "antwerp",
+      "county": "Paulding County",
+      "lat": 41.188736,
+      "lng": -84.744796
+    },
+    {
+      "name": "Apple Creek",
+      "slug": "apple-creek",
+      "county": "Wayne County",
+      "lat": 40.755118,
+      "lng": -81.809256
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Hancock County",
+      "lat": 41.111562,
+      "lng": -83.50195
+    },
+    {
+      "name": "Arcanum",
+      "slug": "arcanum",
+      "county": "Darke County",
+      "lat": 39.988367,
+      "lng": -84.53702
+    },
+    {
+      "name": "Archbold",
+      "slug": "archbold",
+      "county": "Fulton County",
+      "lat": 41.533255,
+      "lng": -84.304833
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Hancock County",
+      "lat": 40.876109,
+      "lng": -83.668536
+    },
+    {
+      "name": "Ashland",
+      "slug": "ashland",
+      "county": "Ashland County",
+      "lat": 40.855892,
+      "lng": -82.318931
+    },
+    {
+      "name": "Ashley",
+      "slug": "ashley",
+      "county": "Delaware County",
+      "lat": 40.416264,
+      "lng": -82.954201
+    },
+    {
+      "name": "Ashtabula",
+      "slug": "ashtabula",
+      "county": "Ashtabula County",
+      "lat": 41.867877,
+      "lng": -80.794681
+    },
+    {
+      "name": "Ashville",
+      "slug": "ashville",
+      "county": "Pickaway County",
+      "lat": 39.731576,
+      "lng": -82.944567
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "county": "Athens County",
+      "lat": 39.317824,
+      "lng": -82.102011
+    },
+    {
+      "name": "Attica",
+      "slug": "attica",
+      "county": "Seneca County",
+      "lat": 41.077755,
+      "lng": -82.889721
+    },
+    {
+      "name": "Atwater",
+      "slug": "atwater",
+      "county": "Portage County",
+      "lat": 41.033487,
+      "lng": -81.198456
+    },
+    {
+      "name": "Augusta",
+      "slug": "augusta",
+      "county": "Carroll County",
+      "lat": 40.685833,
+      "lng": -81.021111
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "county": "Portage County",
+      "lat": 41.320935,
+      "lng": -81.360424
+    },
+    {
+      "name": "Austinburg",
+      "slug": "austinburg",
+      "county": "Ashtabula County",
+      "lat": 41.75536,
+      "lng": -80.858422
+    },
+    {
+      "name": "Ava",
+      "slug": "ava",
+      "county": "Noble County",
+      "lat": 39.831667,
+      "lng": -81.575
+    },
+    {
+      "name": "Avon",
+      "slug": "avon",
+      "county": "Lorain County",
+      "lat": 41.446713,
+      "lng": -82.020359
+    },
+    {
+      "name": "Avon Lake",
+      "slug": "avon-lake",
+      "county": "Lorain County",
+      "lat": 41.501904,
+      "lng": -82.011094
+    },
+    {
+      "name": "Bainbridge",
+      "slug": "bainbridge",
+      "county": "Ross County",
+      "lat": 39.213116,
+      "lng": -83.276268
+    },
+    {
+      "name": "Bakersville",
+      "slug": "bakersville",
+      "county": "Coshocton County",
+      "lat": 40.355556,
+      "lng": -81.645833
+    },
+    {
+      "name": "Baltic",
+      "slug": "baltic",
+      "county": "Tuscarawas County",
+      "lat": 40.447568,
+      "lng": -81.679171
+    },
+    {
+      "name": "Baltimore",
+      "slug": "baltimore",
+      "county": "Fairfield County",
+      "lat": 39.864452,
+      "lng": -82.624023
+    },
+    {
+      "name": "Bannock",
+      "slug": "bannock",
+      "county": "Belmont County",
+      "lat": 40.098611,
+      "lng": -80.977222
+    },
+    {
+      "name": "Barberton",
+      "slug": "barberton",
+      "county": "Summit County",
+      "lat": 41.018589,
+      "lng": -81.615314
+    },
+    {
+      "name": "Barlow",
+      "slug": "barlow",
+      "county": "Washington County",
+      "lat": 39.398611,
+      "lng": -81.665
+    },
+    {
+      "name": "Barnesville",
+      "slug": "barnesville",
+      "county": "Belmont County",
+      "lat": 39.9812,
+      "lng": -81.171295
+    },
+    {
+      "name": "Bartlett",
+      "slug": "bartlett",
+      "county": "Washington County",
+      "lat": 39.419444,
+      "lng": -81.815833
+    },
+    {
+      "name": "Barton",
+      "slug": "barton",
+      "county": "Belmont County",
+      "lat": 40.107222,
+      "lng": -80.841389
+    },
+    {
+      "name": "Bascom",
+      "slug": "bascom",
+      "county": "Seneca County",
+      "lat": 41.132778,
+      "lng": -83.285278
+    },
+    {
+      "name": "Batavia",
+      "slug": "batavia",
+      "county": "Clermont County",
+      "lat": 39.095661,
+      "lng": -84.145125
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "county": "Summit County",
+      "lat": 41.188889,
+      "lng": -81.636389
+    },
+    {
+      "name": "Bay Village",
+      "slug": "bay-village",
+      "county": "Cuyahoga County",
+      "lat": 41.484137,
+      "lng": -81.928868
+    },
+    {
+      "name": "Beach City",
+      "slug": "beach-city",
+      "county": "Stark County",
+      "lat": 40.656199,
+      "lng": -81.585129
+    },
+    {
+      "name": "Beachwood",
+      "slug": "beachwood",
+      "county": "Cuyahoga County",
+      "lat": 41.470109,
+      "lng": -81.523172
+    },
+    {
+      "name": "Beallsville",
+      "slug": "beallsville",
+      "county": "Monroe County",
+      "lat": 39.872601,
+      "lng": -81.014358
+    },
+    {
+      "name": "Beaver",
+      "slug": "beaver",
+      "county": "Pike County",
+      "lat": 39.023847,
+      "lng": -82.847469
+    },
+    {
+      "name": "Beaverdam",
+      "slug": "beaverdam",
+      "county": "Allen County",
+      "lat": 40.833333,
+      "lng": -83.976667
+    },
+    {
+      "name": "Bedford",
+      "slug": "bedford",
+      "county": "Cuyahoga County",
+      "lat": 41.392067,
+      "lng": -81.52315
+    },
+    {
+      "name": "Bellaire",
+      "slug": "bellaire",
+      "county": "Belmont County",
+      "lat": 40.020399,
+      "lng": -80.763813
+    },
+    {
+      "name": "Bellbrook",
+      "slug": "bellbrook",
+      "county": "Greene County",
+      "lat": 39.640187,
+      "lng": -84.08245
+    },
+    {
+      "name": "Belle Center",
+      "slug": "belle-center",
+      "county": "Logan County",
+      "lat": 40.502371,
+      "lng": -83.768773
+    },
+    {
+      "name": "Belle Valley",
+      "slug": "belle-valley",
+      "county": "Noble County",
+      "lat": 39.790556,
+      "lng": -81.556389
+    },
+    {
+      "name": "Bellefontaine",
+      "slug": "bellefontaine",
+      "county": "Logan County",
+      "lat": 40.360472,
+      "lng": -83.757076
+    },
+    {
+      "name": "Bellevue",
+      "slug": "bellevue",
+      "county": "Huron County",
+      "lat": 41.268432,
+      "lng": -82.85765
+    },
+    {
+      "name": "Bellville",
+      "slug": "bellville",
+      "county": "Richland County",
+      "lat": 40.613604,
+      "lng": -82.517516
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "Belmont County",
+      "lat": 40.03202,
+      "lng": -81.006564
+    },
+    {
+      "name": "Belmore",
+      "slug": "belmore",
+      "county": "Putnam County",
+      "lat": 41.098333,
+      "lng": -83.984722
+    },
+    {
+      "name": "Beloit",
+      "slug": "beloit",
+      "county": "Mahoning County",
+      "lat": 40.895678,
+      "lng": -80.989669
+    },
+    {
+      "name": "Belpre",
+      "slug": "belpre",
+      "county": "Washington County",
+      "lat": 39.286772,
+      "lng": -81.596795
+    },
+    {
+      "name": "Benton Ridge",
+      "slug": "benton-ridge",
+      "county": "Hancock County",
+      "lat": 41.004722,
+      "lng": -83.794167
+    },
+    {
+      "name": "Bentonville",
+      "slug": "bentonville",
+      "county": "Adams County",
+      "lat": 38.749444,
+      "lng": -83.613333
+    },
+    {
+      "name": "Berea",
+      "slug": "berea",
+      "county": "Cuyahoga County",
+      "lat": 41.367557,
+      "lng": -81.861756
+    },
+    {
+      "name": "Bergholz",
+      "slug": "bergholz",
+      "county": "Jefferson County",
+      "lat": 40.47771,
+      "lng": -80.886153
+    },
+    {
+      "name": "Berkey",
+      "slug": "berkey",
+      "county": "Lucas County",
+      "lat": 41.698892,
+      "lng": -83.830972
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Holmes County",
+      "lat": 40.561111,
+      "lng": -81.794444
+    },
+    {
+      "name": "Berlin Center",
+      "slug": "berlin-center",
+      "county": "Mahoning County",
+      "lat": 41.024319,
+      "lng": -80.934104
+    },
+    {
+      "name": "Berlin Heights",
+      "slug": "berlin-heights",
+      "county": "Erie County",
+      "lat": 41.320519,
+      "lng": -82.477713
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Clermont County",
+      "lat": 38.94236,
+      "lng": -84.09195
+    },
+    {
+      "name": "Bethesda",
+      "slug": "bethesda",
+      "county": "Belmont County",
+      "lat": 40.019221,
+      "lng": -81.076742
+    },
+    {
+      "name": "Bettsville",
+      "slug": "bettsville",
+      "county": "Seneca County",
+      "lat": 41.246389,
+      "lng": -83.235833
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly",
+      "county": "Washington County",
+      "lat": 39.571435,
+      "lng": -81.634588
+    },
+    {
+      "name": "Bidwell",
+      "slug": "bidwell",
+      "county": "Gallia County",
+      "lat": 38.927647,
+      "lng": -82.270092
+    },
+    {
+      "name": "Big Prairie",
+      "slug": "big-prairie",
+      "county": "Holmes County",
+      "lat": 40.618777,
+      "lng": -82.072048
+    },
+    {
+      "name": "Birmingham",
+      "slug": "birmingham",
+      "county": "Erie County",
+      "lat": 41.33,
+      "lng": -82.360833
+    },
+    {
+      "name": "Blacklick",
+      "slug": "blacklick",
+      "county": "Franklin County",
+      "lat": 40.020952,
+      "lng": -82.807857
+    },
+    {
+      "name": "Bladensburg",
+      "slug": "bladensburg",
+      "county": "Knox County",
+      "lat": 40.284444,
+      "lng": -82.284167
+    },
+    {
+      "name": "Blaine",
+      "slug": "blaine",
+      "county": "Belmont County",
+      "lat": 40.067778,
+      "lng": -80.8175
+    },
+    {
+      "name": "Blakeslee",
+      "slug": "blakeslee",
+      "county": "Williams County",
+      "lat": 41.524167,
+      "lng": -84.730278
+    },
+    {
+      "name": "Blanchester",
+      "slug": "blanchester",
+      "county": "Clinton County",
+      "lat": 39.303442,
+      "lng": -83.973977
+    },
+    {
+      "name": "Blissfield",
+      "slug": "blissfield",
+      "county": "Coshocton County",
+      "lat": 40.399722,
+      "lng": -81.965556
+    },
+    {
+      "name": "Bloomdale",
+      "slug": "bloomdale",
+      "county": "Wood County",
+      "lat": 41.181489,
+      "lng": -83.572356
+    },
+    {
+      "name": "Bloomingburg",
+      "slug": "bloomingburg",
+      "county": "Fayette County",
+      "lat": 39.628617,
+      "lng": -83.409521
+    },
+    {
+      "name": "Bloomingdale",
+      "slug": "bloomingdale",
+      "county": "Jefferson County",
+      "lat": 40.3742,
+      "lng": -80.807214
+    },
+    {
+      "name": "Bloomville",
+      "slug": "bloomville",
+      "county": "Seneca County",
+      "lat": 41.018206,
+      "lng": -82.989874
+    },
+    {
+      "name": "Blue Creek",
+      "slug": "blue-creek",
+      "county": "Adams County",
+      "lat": 38.756451,
+      "lng": -83.35268
+    },
+    {
+      "name": "Blue Rock",
+      "slug": "blue-rock",
+      "county": "Muskingum County",
+      "lat": 39.799996,
+      "lng": -81.891023
+    },
+    {
+      "name": "Bluffton",
+      "slug": "bluffton",
+      "county": "Allen County",
+      "lat": 40.878978,
+      "lng": -83.891397
+    },
+    {
+      "name": "Bolivar",
+      "slug": "bolivar",
+      "county": "Tuscarawas County",
+      "lat": 40.634692,
+      "lng": -81.446356
+    },
+    {
+      "name": "Botkins",
+      "slug": "botkins",
+      "county": "Shelby County",
+      "lat": 40.465897,
+      "lng": -84.177994
+    },
+    {
+      "name": "Bourneville",
+      "slug": "bourneville",
+      "county": "Ross County",
+      "lat": 39.281944,
+      "lng": -83.156667
+    },
+    {
+      "name": "Bowerston",
+      "slug": "bowerston",
+      "county": "Harrison County",
+      "lat": 40.437056,
+      "lng": -81.18624
+    },
+    {
+      "name": "Bowersville",
+      "slug": "bowersville",
+      "county": "Greene County",
+      "lat": 39.580556,
+      "lng": -83.725
+    },
+    {
+      "name": "Bowling Green",
+      "slug": "bowling-green",
+      "county": "Wood County",
+      "lat": 41.381513,
+      "lng": -83.650749
+    },
+    {
+      "name": "Bradford",
+      "slug": "bradford",
+      "county": "Miami County",
+      "lat": 40.128558,
+      "lng": -84.429288
+    },
+    {
+      "name": "Bradner",
+      "slug": "bradner",
+      "county": "Wood County",
+      "lat": 41.329789,
+      "lng": -83.4456
+    },
+    {
+      "name": "Brady Lake",
+      "slug": "brady-lake",
+      "county": "Portage County",
+      "lat": 41.159444,
+      "lng": -81.317222
+    },
+    {
+      "name": "Brecksville",
+      "slug": "brecksville",
+      "county": "Cuyahoga County",
+      "lat": 41.316554,
+      "lng": -81.626083
+    },
+    {
+      "name": "Brewster",
+      "slug": "brewster",
+      "county": "Stark County",
+      "lat": 40.714387,
+      "lng": -81.598752
+    },
+    {
+      "name": "Brice",
+      "slug": "brice",
+      "county": "Franklin County",
+      "lat": 39.918056,
+      "lng": -82.832222
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Belmont County",
+      "lat": 40.075184,
+      "lng": -80.774682
+    },
+    {
+      "name": "Brilliant",
+      "slug": "brilliant",
+      "county": "Jefferson County",
+      "lat": 40.268283,
+      "lng": -80.631949
+    },
+    {
+      "name": "Brinkhaven",
+      "slug": "brinkhaven",
+      "county": "Knox County",
+      "lat": 40.458346,
+      "lng": -82.155289
+    },
+    {
+      "name": "Bristolville",
+      "slug": "bristolville",
+      "county": "Trumbull County",
+      "lat": 41.379749,
+      "lng": -80.856839
+    },
+    {
+      "name": "Broadview Heights",
+      "slug": "broadview-heights",
+      "county": "Cuyahoga County",
+      "lat": 41.32907,
+      "lng": -81.680879
+    },
+    {
+      "name": "Broadway",
+      "slug": "broadway",
+      "county": "Union County",
+      "lat": 40.341111,
+      "lng": -83.412222
+    },
+    {
+      "name": "Brook Park",
+      "slug": "brook-park",
+      "county": "Cuyahoga County",
+      "lat": 41.397944,
+      "lng": -81.811811
+    },
+    {
+      "name": "Brookfield",
+      "slug": "brookfield",
+      "county": "Trumbull County",
+      "lat": 41.247957,
+      "lng": -80.578767
+    },
+    {
+      "name": "Brookville",
+      "slug": "brookville",
+      "county": "Montgomery County",
+      "lat": 39.841393,
+      "lng": -84.416464
+    },
+    {
+      "name": "Brownsville",
+      "slug": "brownsville",
+      "county": "Licking County",
+      "lat": 39.946944,
+      "lng": -82.256667
+    },
+    {
+      "name": "Brunswick",
+      "slug": "brunswick",
+      "county": "Medina County",
+      "lat": 41.247053,
+      "lng": -81.827968
+    },
+    {
+      "name": "Bryan",
+      "slug": "bryan",
+      "county": "Williams County",
+      "lat": 41.474839,
+      "lng": -84.56287
+    },
+    {
+      "name": "Buchtel",
+      "slug": "buchtel",
+      "county": "Athens County",
+      "lat": 39.461944,
+      "lng": -82.181944
+    },
+    {
+      "name": "Buckeye Lake",
+      "slug": "buckeye-lake",
+      "county": "Licking County",
+      "lat": 39.933611,
+      "lng": -82.4725
+    },
+    {
+      "name": "Buckland",
+      "slug": "buckland",
+      "county": "Auglaize County",
+      "lat": 40.622778,
+      "lng": -84.26
+    },
+    {
+      "name": "Bucyrus",
+      "slug": "bucyrus",
+      "county": "Crawford County",
+      "lat": 40.810306,
+      "lng": -82.969829
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "county": "Guernsey County",
+      "lat": 39.915833,
+      "lng": -81.520278
+    },
+    {
+      "name": "Buford",
+      "slug": "buford",
+      "county": "Highland County",
+      "lat": 39.076667,
+      "lng": -83.844167
+    },
+    {
+      "name": "Burbank",
+      "slug": "burbank",
+      "county": "Wayne County",
+      "lat": 40.963725,
+      "lng": -81.995753
+    },
+    {
+      "name": "Burghill",
+      "slug": "burghill",
+      "county": "Trumbull County",
+      "lat": 41.334688,
+      "lng": -80.54406
+    },
+    {
+      "name": "Burgoon",
+      "slug": "burgoon",
+      "county": "Sandusky County",
+      "lat": 41.267986,
+      "lng": -83.247455
+    },
+    {
+      "name": "Burkettsville",
+      "slug": "burkettsville",
+      "county": "Mercer County",
+      "lat": 40.351944,
+      "lng": -84.642222
+    },
+    {
+      "name": "Burton",
+      "slug": "burton",
+      "county": "Geauga County",
+      "lat": 41.452702,
+      "lng": -81.15262
+    },
+    {
+      "name": "Butler",
+      "slug": "butler",
+      "county": "Richland County",
+      "lat": 40.543754,
+      "lng": -82.398984
+    },
+    {
+      "name": "Byesville",
+      "slug": "byesville",
+      "county": "Guernsey County",
+      "lat": 39.962336,
+      "lng": -81.548485
+    },
+    {
+      "name": "Cable",
+      "slug": "cable",
+      "county": "Champaign County",
+      "lat": 40.178411,
+      "lng": -83.64696
+    },
+    {
+      "name": "Cadiz",
+      "slug": "cadiz",
+      "county": "Harrison County",
+      "lat": 40.264537,
+      "lng": -80.996244
+    },
+    {
+      "name": "Cairo",
+      "slug": "cairo",
+      "county": "Allen County",
+      "lat": 40.831944,
+      "lng": -84.086111
+    },
+    {
+      "name": "Caldwell",
+      "slug": "caldwell",
+      "county": "Noble County",
+      "lat": 39.746651,
+      "lng": -81.51528
+    },
+    {
+      "name": "Caledonia",
+      "slug": "caledonia",
+      "county": "Marion County",
+      "lat": 40.627239,
+      "lng": -82.992465
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge",
+      "county": "Guernsey County",
+      "lat": 40.030501,
+      "lng": -81.591277
+    },
+    {
+      "name": "Camden",
+      "slug": "camden",
+      "county": "Preble County",
+      "lat": 39.613391,
+      "lng": -84.610008
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Monroe County",
+      "lat": 39.766944,
+      "lng": -80.945
+    },
+    {
+      "name": "Camp Dennison",
+      "slug": "camp-dennison",
+      "county": "Hamilton County",
+      "lat": 39.196212,
+      "lng": -84.289659
+    },
+    {
+      "name": "Campbell",
+      "slug": "campbell",
+      "county": "Mahoning County",
+      "lat": 41.077829,
+      "lng": -80.589721
+    },
+    {
+      "name": "Canal Fulton",
+      "slug": "canal-fulton",
+      "county": "Stark County",
+      "lat": 40.88871,
+      "lng": -81.577269
+    },
+    {
+      "name": "Canal Winchester",
+      "slug": "canal-winchester",
+      "county": "Franklin County",
+      "lat": 39.83486,
+      "lng": -82.804369
+    },
+    {
+      "name": "Canfield",
+      "slug": "canfield",
+      "county": "Mahoning County",
+      "lat": 41.029328,
+      "lng": -80.756436
+    },
+    {
+      "name": "Canton",
+      "slug": "canton",
+      "county": "",
+      "lat": 40.827,
+      "lng": -81.3853
+    },
+    {
+      "name": "Carbon Hill",
+      "slug": "carbon-hill",
+      "county": "Hocking County",
+      "lat": 39.501667,
+      "lng": -82.244722
+    },
+    {
+      "name": "Carbondale",
+      "slug": "carbondale",
+      "county": "Athens County",
+      "lat": 39.377778,
+      "lng": -82.271111
+    },
+    {
+      "name": "Cardington",
+      "slug": "cardington",
+      "county": "Morrow County",
+      "lat": 40.506583,
+      "lng": -82.933728
+    },
+    {
+      "name": "Carey",
+      "slug": "carey",
+      "county": "Wyandot County",
+      "lat": 40.948599,
+      "lng": -83.383578
+    },
+    {
+      "name": "Carroll",
+      "slug": "carroll",
+      "county": "Fairfield County",
+      "lat": 39.795743,
+      "lng": -82.708358
+    },
+    {
+      "name": "Carrollton",
+      "slug": "carrollton",
+      "county": "Carroll County",
+      "lat": 40.578663,
+      "lng": -81.081789
+    },
+    {
+      "name": "Casstown",
+      "slug": "casstown",
+      "county": "Miami County",
+      "lat": 40.071578,
+      "lng": -84.108799
+    },
+    {
+      "name": "Castalia",
+      "slug": "castalia",
+      "county": "Erie County",
+      "lat": 41.387229,
+      "lng": -82.799426
+    },
+    {
+      "name": "Catawba",
+      "slug": "catawba",
+      "county": "Clark County",
+      "lat": 39.999167,
+      "lng": -83.621667
+    },
+    {
+      "name": "Cecil",
+      "slug": "cecil",
+      "county": "Paulding County",
+      "lat": 41.217355,
+      "lng": -84.629646
+    },
+    {
+      "name": "Cedarville",
+      "slug": "cedarville",
+      "county": "Greene County",
+      "lat": 39.748424,
+      "lng": -83.801253
+    },
+    {
+      "name": "Celina",
+      "slug": "celina",
+      "county": "Mercer County",
+      "lat": 40.546074,
+      "lng": -84.570067
+    },
+    {
+      "name": "Centerburg",
+      "slug": "centerburg",
+      "county": "Knox County",
+      "lat": 40.286513,
+      "lng": -82.680039
+    },
+    {
+      "name": "Chagrin Falls",
+      "slug": "chagrin-falls",
+      "county": "Cuyahoga County",
+      "lat": 41.418577,
+      "lng": -81.361437
+    },
+    {
+      "name": "Chandlersville",
+      "slug": "chandlersville",
+      "county": "Muskingum County",
+      "lat": 39.889659,
+      "lng": -81.830084
+    },
+    {
+      "name": "Chardon",
+      "slug": "chardon",
+      "county": "Geauga County",
+      "lat": 41.571862,
+      "lng": -81.205629
+    },
+    {
+      "name": "Charm",
+      "slug": "charm",
+      "county": "Holmes County",
+      "lat": 40.506667,
+      "lng": -81.785
+    },
+    {
+      "name": "Chatfield",
+      "slug": "chatfield",
+      "county": "Crawford County",
+      "lat": 40.956637,
+      "lng": -83.021432
+    },
+    {
+      "name": "Chauncey",
+      "slug": "chauncey",
+      "county": "Athens County",
+      "lat": 39.397778,
+      "lng": -82.129444
+    },
+    {
+      "name": "Cherry Fork",
+      "slug": "cherry-fork",
+      "county": "Adams County",
+      "lat": 38.8875,
+      "lng": -83.614444
+    },
+    {
+      "name": "Chesapeake",
+      "slug": "chesapeake",
+      "county": "Lawrence County",
+      "lat": 38.455089,
+      "lng": -82.450448
+    },
+    {
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "county": "Gallia County",
+      "lat": 38.958678,
+      "lng": -82.123537
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Meigs County",
+      "lat": 39.0875,
+      "lng": -81.922778
+    },
+    {
+      "name": "Chesterhill",
+      "slug": "chesterhill",
+      "county": "Morgan County",
+      "lat": 39.495277,
+      "lng": -81.877286
+    },
+    {
+      "name": "Chesterland",
+      "slug": "chesterland",
+      "county": "Geauga County",
+      "lat": 41.534378,
+      "lng": -81.342102
+    },
+    {
+      "name": "Chesterville",
+      "slug": "chesterville",
+      "county": "Morrow County",
+      "lat": 40.48,
+      "lng": -82.683611
+    },
+    {
+      "name": "Chickasaw",
+      "slug": "chickasaw",
+      "county": "Mercer County",
+      "lat": 40.436944,
+      "lng": -84.493333
+    },
+    {
+      "name": "Chillicothe",
+      "slug": "chillicothe",
+      "county": "Ross County",
+      "lat": 39.337997,
+      "lng": -82.98949
+    },
+    {
+      "name": "Chilo",
+      "slug": "chilo",
+      "county": "Clermont County",
+      "lat": 38.793056,
+      "lng": -84.140833
+    },
+    {
+      "name": "Chippewa Lake",
+      "slug": "chippewa-lake",
+      "county": "Medina County",
+      "lat": 41.06719,
+      "lng": -81.909173
+    },
+    {
+      "name": "Christiansburg",
+      "slug": "christiansburg",
+      "county": "Champaign County",
+      "lat": 40.055278,
+      "lng": -84.026111
+    },
+    {
+      "name": "Cincinnati",
+      "slug": "cincinnati",
+      "county": "Clermont County",
+      "lat": 39.091293,
+      "lng": -84.277383
+    },
+    {
+      "name": "Circleville",
+      "slug": "circleville",
+      "county": "Pickaway County",
+      "lat": 39.598836,
+      "lng": -82.929966
+    },
+    {
+      "name": "Clarington",
+      "slug": "clarington",
+      "county": "Monroe County",
+      "lat": 39.781908,
+      "lng": -80.911311
+    },
+    {
+      "name": "Clarksburg",
+      "slug": "clarksburg",
+      "county": "Ross County",
+      "lat": 39.490432,
+      "lng": -83.156282
+    },
+    {
+      "name": "Clarksville",
+      "slug": "clarksville",
+      "county": "Clinton County",
+      "lat": 39.404233,
+      "lng": -83.959407
+    },
+    {
+      "name": "Clay Center",
+      "slug": "clay-center",
+      "county": "Ottawa County",
+      "lat": 41.563333,
+      "lng": -83.361944
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Montgomery County",
+      "lat": 39.855124,
+      "lng": -84.33989
+    },
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "county": "Cuyahoga County",
+      "lat": 41.4918,
+      "lng": -81.6757
+    },
+    {
+      "name": "Cleves",
+      "slug": "cleves",
+      "county": "Hamilton County",
+      "lat": 39.193707,
+      "lng": -84.733969
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Greene County",
+      "lat": 39.796944,
+      "lng": -83.825833
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Summit County",
+      "lat": 40.939062,
+      "lng": -81.587079
+    },
+    {
+      "name": "Cloverdale",
+      "slug": "cloverdale",
+      "county": "Putnam County",
+      "lat": 41.037934,
+      "lng": -84.29382
+    },
+    {
+      "name": "Clyde",
+      "slug": "clyde",
+      "county": "Sandusky County",
+      "lat": 41.302397,
+      "lng": -82.991849
+    },
+    {
+      "name": "Coal Run",
+      "slug": "coal-run",
+      "county": "Washington County",
+      "lat": 39.5675,
+      "lng": -81.581389
+    },
+    {
+      "name": "Coalton",
+      "slug": "coalton",
+      "county": "Jackson County",
+      "lat": 39.113611,
+      "lng": -82.611389
+    },
+    {
+      "name": "Coldwater",
+      "slug": "coldwater",
+      "county": "Mercer County",
+      "lat": 40.484557,
+      "lng": -84.651653
+    },
+    {
+      "name": "Colerain",
+      "slug": "colerain",
+      "county": "Belmont County",
+      "lat": 40.125833,
+      "lng": -80.808889
+    },
+    {
+      "name": "College Corner",
+      "slug": "college-corner",
+      "county": "Butler County",
+      "lat": 39.575453,
+      "lng": -84.804951
+    },
+    {
+      "name": "Collins",
+      "slug": "collins",
+      "county": "Huron County",
+      "lat": 41.245023,
+      "lng": -82.490402
+    },
+    {
+      "name": "Collinsville",
+      "slug": "collinsville",
+      "county": "Butler County",
+      "lat": 39.515278,
+      "lng": -84.609444
+    },
+    {
+      "name": "Colton",
+      "slug": "colton",
+      "county": "Henry County",
+      "lat": 41.464722,
+      "lng": -83.9525
+    },
+    {
+      "name": "Columbia Station",
+      "slug": "columbia-station",
+      "county": "Lorain County",
+      "lat": 41.318708,
+      "lng": -81.934398
+    },
+    {
+      "name": "Columbiana",
+      "slug": "columbiana",
+      "county": "Columbiana County",
+      "lat": 40.885279,
+      "lng": -80.697473
+    },
+    {
+      "name": "Columbus",
+      "slug": "columbus",
+      "county": "Delaware County",
+      "lat": 40.1444,
+      "lng": -82.9789
+    },
+    {
+      "name": "Columbus Grove",
+      "slug": "columbus-grove",
+      "county": "Putnam County",
+      "lat": 40.91372,
+      "lng": -84.070467
+    },
+    {
+      "name": "Commercial Point",
+      "slug": "commercial-point",
+      "county": "Pickaway County",
+      "lat": 39.768333,
+      "lng": -83.057222
+    },
+    {
+      "name": "Conesville",
+      "slug": "conesville",
+      "county": "Coshocton County",
+      "lat": 40.180441,
+      "lng": -81.895074
+    },
+    {
+      "name": "Conneaut",
+      "slug": "conneaut",
+      "county": "Ashtabula County",
+      "lat": 41.934479,
+      "lng": -80.580257
+    },
+    {
+      "name": "Conover",
+      "slug": "conover",
+      "county": "Miami County",
+      "lat": 40.145694,
+      "lng": -84.028297
+    },
+    {
+      "name": "Continental",
+      "slug": "continental",
+      "county": "Putnam County",
+      "lat": 41.114769,
+      "lng": -84.235778
+    },
+    {
+      "name": "Convoy",
+      "slug": "convoy",
+      "county": "Van Wert County",
+      "lat": 40.926998,
+      "lng": -84.723772
+    },
+    {
+      "name": "Coolville",
+      "slug": "coolville",
+      "county": "Athens County",
+      "lat": 39.214131,
+      "lng": -81.832867
+    },
+    {
+      "name": "Corning",
+      "slug": "corning",
+      "county": "Perry County",
+      "lat": 39.634902,
+      "lng": -82.097737
+    },
+    {
+      "name": "Cortland",
+      "slug": "cortland",
+      "county": "Trumbull County",
+      "lat": 41.325125,
+      "lng": -80.732745
+    },
+    {
+      "name": "Coshocton",
+      "slug": "coshocton",
+      "county": "Coshocton County",
+      "lat": 40.275412,
+      "lng": -81.866033
+    },
+    {
+      "name": "Covington",
+      "slug": "covington",
+      "county": "Miami County",
+      "lat": 40.11756,
+      "lng": -84.349646
+    },
+    {
+      "name": "Creola",
+      "slug": "creola",
+      "county": "Vinton County",
+      "lat": 39.3497,
+      "lng": -82.493835
+    },
+    {
+      "name": "Crestline",
+      "slug": "crestline",
+      "county": "Crawford County",
+      "lat": 40.792714,
+      "lng": -82.736723
+    },
+    {
+      "name": "Creston",
+      "slug": "creston",
+      "county": "Wayne County",
+      "lat": 40.978846,
+      "lng": -81.921083
+    },
+    {
+      "name": "Crooksville",
+      "slug": "crooksville",
+      "county": "Perry County",
+      "lat": 39.762321,
+      "lng": -82.084018
+    },
+    {
+      "name": "Croton",
+      "slug": "croton",
+      "county": "Licking County",
+      "lat": 40.237603,
+      "lng": -82.698948
+    },
+    {
+      "name": "Crown City",
+      "slug": "crown-city",
+      "county": "Gallia County",
+      "lat": 38.613548,
+      "lng": -82.265717
+    },
+    {
+      "name": "Cuba",
+      "slug": "cuba",
+      "county": "Clinton County",
+      "lat": 39.361111,
+      "lng": -83.863889
+    },
+    {
+      "name": "Cumberland",
+      "slug": "cumberland",
+      "county": "Guernsey County",
+      "lat": 39.874092,
+      "lng": -81.625925
+    },
+    {
+      "name": "Curtice",
+      "slug": "curtice",
+      "county": "Ottawa County",
+      "lat": 41.647736,
+      "lng": -83.285825
+    },
+    {
+      "name": "Custar",
+      "slug": "custar",
+      "county": "Wood County",
+      "lat": 41.295318,
+      "lng": -83.834919
+    },
+    {
+      "name": "Cutler",
+      "slug": "cutler",
+      "county": "Washington County",
+      "lat": 39.404172,
+      "lng": -81.76573
+    },
+    {
+      "name": "Cuyahoga Falls",
+      "slug": "cuyahoga-falls",
+      "county": "Summit County",
+      "lat": 41.140082,
+      "lng": -81.478961
+    },
+    {
+      "name": "Cygnet",
+      "slug": "cygnet",
+      "county": "Wood County",
+      "lat": 41.247024,
+      "lng": -83.614151
+    },
+    {
+      "name": "Cynthiana",
+      "slug": "cynthiana",
+      "county": "Pike County",
+      "lat": 39.173611,
+      "lng": -83.348611
+    },
+    {
+      "name": "Dalton",
+      "slug": "dalton",
+      "county": "Wayne County",
+      "lat": 40.779326,
+      "lng": -81.70078
+    },
+    {
+      "name": "Damascus",
+      "slug": "damascus",
+      "county": "Mahoning County",
+      "lat": 40.901944,
+      "lng": -80.955278
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Knox County",
+      "lat": 40.455693,
+      "lng": -82.263855
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "county": "Greene County",
+      "lat": 39.765396,
+      "lng": -84.099802
+    },
+    {
+      "name": "De Graff",
+      "slug": "de-graff",
+      "county": "Logan County",
+      "lat": 40.305773,
+      "lng": -83.9153
+    },
+    {
+      "name": "Decatur",
+      "slug": "decatur",
+      "county": "Brown County",
+      "lat": 38.815556,
+      "lng": -83.703889
+    },
+    {
+      "name": "Deerfield",
+      "slug": "deerfield",
+      "county": "Portage County",
+      "lat": 41.03586,
+      "lng": -81.052827
+    },
+    {
+      "name": "Deersville",
+      "slug": "deersville",
+      "county": "Harrison County",
+      "lat": 40.3075,
+      "lng": -81.186667
+    },
+    {
+      "name": "Defiance",
+      "slug": "defiance",
+      "county": "Defiance County",
+      "lat": 41.279858,
+      "lng": -84.362583
+    },
+    {
+      "name": "Delaware",
+      "slug": "delaware",
+      "county": "Delaware County",
+      "lat": 40.293186,
+      "lng": -83.072312
+    },
+    {
+      "name": "Dellroy",
+      "slug": "dellroy",
+      "county": "Carroll County",
+      "lat": 40.586143,
+      "lng": -81.19856
+    },
+    {
+      "name": "Delphos",
+      "slug": "delphos",
+      "county": "Allen County",
+      "lat": 40.833619,
+      "lng": -84.324678
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "county": "Fulton County",
+      "lat": 41.557695,
+      "lng": -83.9866
+    },
+    {
+      "name": "Dennison",
+      "slug": "dennison",
+      "county": "Tuscarawas County",
+      "lat": 40.408885,
+      "lng": -81.320301
+    },
+    {
+      "name": "Derby",
+      "slug": "derby",
+      "county": "Pickaway County",
+      "lat": 39.768611,
+      "lng": -83.205833
+    },
+    {
+      "name": "Derwent",
+      "slug": "derwent",
+      "county": "Guernsey County",
+      "lat": 39.923056,
+      "lng": -81.544444
+    },
+    {
+      "name": "Deshler",
+      "slug": "deshler",
+      "county": "Henry County",
+      "lat": 41.223945,
+      "lng": -83.896434
+    },
+    {
+      "name": "Dexter City",
+      "slug": "dexter-city",
+      "county": "Noble County",
+      "lat": 39.652585,
+      "lng": -81.467151
+    },
+    {
+      "name": "Diamond",
+      "slug": "diamond",
+      "county": "Portage County",
+      "lat": 41.093473,
+      "lng": -81.0425
+    },
+    {
+      "name": "Dillonvale",
+      "slug": "dillonvale",
+      "county": "Jefferson County",
+      "lat": 40.212132,
+      "lng": -80.802843
+    },
+    {
+      "name": "Dola",
+      "slug": "dola",
+      "county": "Hardin County",
+      "lat": 40.787645,
+      "lng": -83.689371
+    },
+    {
+      "name": "Donnelsville",
+      "slug": "donnelsville",
+      "county": "Clark County",
+      "lat": 39.918333,
+      "lng": -83.948611
+    },
+    {
+      "name": "Dorset",
+      "slug": "dorset",
+      "county": "Ashtabula County",
+      "lat": 41.658972,
+      "lng": -80.668334
+    },
+    {
+      "name": "Dover",
+      "slug": "dover",
+      "county": "Tuscarawas County",
+      "lat": 40.534338,
+      "lng": -81.476321
+    },
+    {
+      "name": "Doylestown",
+      "slug": "doylestown",
+      "county": "Wayne County",
+      "lat": 40.965042,
+      "lng": -81.684845
+    },
+    {
+      "name": "Dresden",
+      "slug": "dresden",
+      "county": "Muskingum County",
+      "lat": 40.112941,
+      "lng": -82.018807
+    },
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "county": "Franklin County",
+      "lat": 40.099167,
+      "lng": -83.114167
+    },
+    {
+      "name": "Dunbridge",
+      "slug": "dunbridge",
+      "county": "Wood County",
+      "lat": 41.458056,
+      "lng": -83.610278
+    },
+    {
+      "name": "Duncan Falls",
+      "slug": "duncan-falls",
+      "county": "Muskingum County",
+      "lat": 39.877777,
+      "lng": -81.911665
+    },
+    {
+      "name": "Dundee",
+      "slug": "dundee",
+      "county": "Tuscarawas County",
+      "lat": 40.639441,
+      "lng": -81.676519
+    },
+    {
+      "name": "Dunkirk",
+      "slug": "dunkirk",
+      "county": "Hardin County",
+      "lat": 40.782375,
+      "lng": -83.633912
+    },
+    {
+      "name": "Dupont",
+      "slug": "dupont",
+      "county": "Putnam County",
+      "lat": 41.100278,
+      "lng": -84.266389
+    },
+    {
+      "name": "East Canton",
+      "slug": "east-canton",
+      "county": "Stark County",
+      "lat": 40.784983,
+      "lng": -81.278295
+    },
+    {
+      "name": "East Claridon",
+      "slug": "east-claridon",
+      "county": "Geauga County",
+      "lat": 41.5325,
+      "lng": -81.115833
+    },
+    {
+      "name": "East Fultonham",
+      "slug": "east-fultonham",
+      "county": "Muskingum County",
+      "lat": 39.85,
+      "lng": -82.122222
+    },
+    {
+      "name": "East Liberty",
+      "slug": "east-liberty",
+      "county": "Logan County",
+      "lat": 40.307682,
+      "lng": -83.586221
+    },
+    {
+      "name": "East Liverpool",
+      "slug": "east-liverpool",
+      "county": "Columbiana County",
+      "lat": 40.645918,
+      "lng": -80.578669
+    },
+    {
+      "name": "East Palestine",
+      "slug": "east-palestine",
+      "county": "Columbiana County",
+      "lat": 40.840554,
+      "lng": -80.546513
+    },
+    {
+      "name": "East Rochester",
+      "slug": "east-rochester",
+      "county": "Columbiana County",
+      "lat": 40.756288,
+      "lng": -81.01749
+    },
+    {
+      "name": "East Sparta",
+      "slug": "east-sparta",
+      "county": "Stark County",
+      "lat": 40.697065,
+      "lng": -81.368728
+    },
+    {
+      "name": "East Springfield",
+      "slug": "east-springfield",
+      "county": "Jefferson County",
+      "lat": 40.450556,
+      "lng": -80.860556
+    },
+    {
+      "name": "Eastlake",
+      "slug": "eastlake",
+      "county": "Lake County",
+      "lat": 41.649822,
+      "lng": -81.447887
+    },
+    {
+      "name": "Eaton",
+      "slug": "eaton",
+      "county": "Preble County",
+      "lat": 39.742572,
+      "lng": -84.650849
+    },
+    {
+      "name": "Edgerton",
+      "slug": "edgerton",
+      "county": "Williams County",
+      "lat": 41.442496,
+      "lng": -84.734937
+    },
+    {
+      "name": "Edison",
+      "slug": "edison",
+      "county": "Morrow County",
+      "lat": 40.590475,
+      "lng": -82.902301
+    },
+    {
+      "name": "Edon",
+      "slug": "edon",
+      "county": "Williams County",
+      "lat": 41.584219,
+      "lng": -84.757002
+    },
+    {
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "county": "Preble County",
+      "lat": 39.888209,
+      "lng": -84.678592
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Van Wert County",
+      "lat": 40.7425,
+      "lng": -84.475833
+    },
+    {
+      "name": "Elkton",
+      "slug": "elkton",
+      "county": "Columbiana County",
+      "lat": 40.761944,
+      "lng": -80.698889
+    },
+    {
+      "name": "Ellsworth",
+      "slug": "ellsworth",
+      "county": "Mahoning County",
+      "lat": 41.024167,
+      "lng": -80.8575
+    },
+    {
+      "name": "Elmore",
+      "slug": "elmore",
+      "county": "Ottawa County",
+      "lat": 41.468144,
+      "lng": -83.27673
+    },
+    {
+      "name": "Elyria",
+      "slug": "elyria",
+      "county": "Lorain County",
+      "lat": 41.372353,
+      "lng": -82.105088
+    },
+    {
+      "name": "Empire",
+      "slug": "empire",
+      "county": "Jefferson County",
+      "lat": 40.5075,
+      "lng": -80.624167
+    },
+    {
+      "name": "Englewood",
+      "slug": "englewood",
+      "county": "Montgomery County",
+      "lat": 39.873976,
+      "lng": -84.309515
+    },
+    {
+      "name": "Enon",
+      "slug": "enon",
+      "county": "Clark County",
+      "lat": 39.866282,
+      "lng": -83.938464
+    },
+    {
+      "name": "Etna",
+      "slug": "etna",
+      "county": "Licking County",
+      "lat": 39.957222,
+      "lng": -82.681944
+    },
+    {
+      "name": "Euclid",
+      "slug": "euclid",
+      "county": "Cuyahoga County",
+      "lat": 41.569615,
+      "lng": -81.525686
+    },
+    {
+      "name": "Evansport",
+      "slug": "evansport",
+      "county": "Defiance County",
+      "lat": 41.426111,
+      "lng": -84.396389
+    },
+    {
+      "name": "Fairborn",
+      "slug": "fairborn",
+      "county": "Greene County",
+      "lat": 39.805311,
+      "lng": -84.019789
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Butler County",
+      "lat": 39.326602,
+      "lng": -84.547881
+    },
+    {
+      "name": "Fairlawn",
+      "slug": "fairlawn",
+      "county": "Summit County",
+      "lat": 41.1365,
+      "lng": -81.5667
+    },
+    {
+      "name": "Fairpoint",
+      "slug": "fairpoint",
+      "county": "Belmont County",
+      "lat": 40.120278,
+      "lng": -80.933056
+    },
+    {
+      "name": "Fairview",
+      "slug": "fairview",
+      "county": "Guernsey County",
+      "lat": 39.901944,
+      "lng": -81.554444
+    },
+    {
+      "name": "Farmdale",
+      "slug": "farmdale",
+      "county": "Trumbull County",
+      "lat": 41.392301,
+      "lng": -80.662818
+    },
+    {
+      "name": "Farmer",
+      "slug": "farmer",
+      "county": "Defiance County",
+      "lat": 41.383056,
+      "lng": -84.630556
+    },
+    {
+      "name": "Farmersville",
+      "slug": "farmersville",
+      "county": "Montgomery County",
+      "lat": 39.686684,
+      "lng": -84.420507
+    },
+    {
+      "name": "Fayette",
+      "slug": "fayette",
+      "county": "Fulton County",
+      "lat": 41.671716,
+      "lng": -84.325004
+    },
+    {
+      "name": "Fayetteville",
+      "slug": "fayetteville",
+      "county": "Brown County",
+      "lat": 39.186214,
+      "lng": -83.950087
+    },
+    {
+      "name": "Feesburg",
+      "slug": "feesburg",
+      "county": "Brown County",
+      "lat": 38.878333,
+      "lng": -83.998889
+    },
+    {
+      "name": "Felicity",
+      "slug": "felicity",
+      "county": "Clermont County",
+      "lat": 38.826248,
+      "lng": -84.098581
+    },
+    {
+      "name": "Findlay",
+      "slug": "findlay",
+      "county": "Hancock County",
+      "lat": 41.044167,
+      "lng": -83.65
+    },
+    {
+      "name": "Flat Rock",
+      "slug": "flat-rock",
+      "county": "Seneca County",
+      "lat": 41.235833,
+      "lng": -82.860278
+    },
+    {
+      "name": "Fleming",
+      "slug": "fleming",
+      "county": "Washington County",
+      "lat": 39.392806,
+      "lng": -81.656444
+    },
+    {
+      "name": "Fletcher",
+      "slug": "fletcher",
+      "county": "Miami County",
+      "lat": 40.152622,
+      "lng": -84.13304
+    },
+    {
+      "name": "Flushing",
+      "slug": "flushing",
+      "county": "Belmont County",
+      "lat": 40.145144,
+      "lng": -81.07573
+    },
+    {
+      "name": "Forest",
+      "slug": "forest",
+      "county": "Hardin County",
+      "lat": 40.79955,
+      "lng": -83.509771
+    },
+    {
+      "name": "Fort Jennings",
+      "slug": "fort-jennings",
+      "county": "Putnam County",
+      "lat": 40.948393,
+      "lng": -84.237381
+    },
+    {
+      "name": "Fort Loramie",
+      "slug": "fort-loramie",
+      "county": "Shelby County",
+      "lat": 40.330632,
+      "lng": -84.374131
+    },
+    {
+      "name": "Fort Recovery",
+      "slug": "fort-recovery",
+      "county": "Mercer County",
+      "lat": 40.401829,
+      "lng": -84.76125
+    },
+    {
+      "name": "Fostoria",
+      "slug": "fostoria",
+      "county": "Seneca County",
+      "lat": 41.162346,
+      "lng": -83.413938
+    },
+    {
+      "name": "Fowler",
+      "slug": "fowler",
+      "county": "Trumbull County",
+      "lat": 41.334851,
+      "lng": -80.605894
+    },
+    {
+      "name": "Frankfort",
+      "slug": "frankfort",
+      "county": "Ross County",
+      "lat": 39.391015,
+      "lng": -83.203356
+    },
+    {
+      "name": "Franklin",
+      "slug": "franklin",
+      "county": "Warren County",
+      "lat": 39.547839,
+      "lng": -84.305881
+    },
+    {
+      "name": "Franklin Furnace",
+      "slug": "franklin-furnace",
+      "county": "Scioto County",
+      "lat": 38.628216,
+      "lng": -82.814477
+    },
+    {
+      "name": "Frazeysburg",
+      "slug": "frazeysburg",
+      "county": "Muskingum County",
+      "lat": 40.131616,
+      "lng": -82.129279
+    },
+    {
+      "name": "Fredericksburg",
+      "slug": "fredericksburg",
+      "county": "Wayne County",
+      "lat": 40.685953,
+      "lng": -81.851812
+    },
+    {
+      "name": "Fredericktown",
+      "slug": "fredericktown",
+      "county": "Knox County",
+      "lat": 40.497613,
+      "lng": -82.585711
+    },
+    {
+      "name": "Freeport",
+      "slug": "freeport",
+      "county": "Harrison County",
+      "lat": 40.192502,
+      "lng": -81.276955
+    },
+    {
+      "name": "Fremont",
+      "slug": "fremont",
+      "county": "Sandusky County",
+      "lat": 41.349792,
+      "lng": -83.118095
+    },
+    {
+      "name": "Fresno",
+      "slug": "fresno",
+      "county": "Coshocton County",
+      "lat": 40.371126,
+      "lng": -81.762297
+    },
+    {
+      "name": "Friendship",
+      "slug": "friendship",
+      "county": "Scioto County",
+      "lat": 38.697778,
+      "lng": -83.093889
+    },
+    {
+      "name": "Fulton",
+      "slug": "fulton",
+      "county": "Morrow County",
+      "lat": 40.465013,
+      "lng": -82.836244
+    },
+    {
+      "name": "Fultonham",
+      "slug": "fultonham",
+      "county": "Muskingum County",
+      "lat": 39.855556,
+      "lng": -82.141667
+    },
+    {
+      "name": "Galena",
+      "slug": "galena",
+      "county": "Delaware County",
+      "lat": 40.191546,
+      "lng": -82.895937
+    },
+    {
+      "name": "Galion",
+      "slug": "galion",
+      "county": "Crawford County",
+      "lat": 40.730316,
+      "lng": -82.793943
+    },
+    {
+      "name": "Gallipolis",
+      "slug": "gallipolis",
+      "county": "Gallia County",
+      "lat": 38.814781,
+      "lng": -82.22902
+    },
+    {
+      "name": "Galloway",
+      "slug": "galloway",
+      "county": "Franklin County",
+      "lat": 39.936604,
+      "lng": -83.183848
+    },
+    {
+      "name": "Gambier",
+      "slug": "gambier",
+      "county": "Knox County",
+      "lat": 40.378241,
+      "lng": -82.382752
+    },
+    {
+      "name": "Garrettsville",
+      "slug": "garrettsville",
+      "county": "Portage County",
+      "lat": 41.298803,
+      "lng": -81.070365
+    },
+    {
+      "name": "Gates Mills",
+      "slug": "gates-mills",
+      "county": "Cuyahoga County",
+      "lat": 41.532368,
+      "lng": -81.415021
+    },
+    {
+      "name": "Geneva",
+      "slug": "geneva",
+      "county": "Ashtabula County",
+      "lat": 41.802864,
+      "lng": -80.947363
+    },
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "county": "Ottawa County",
+      "lat": 41.530005,
+      "lng": -83.358984
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Brown County",
+      "lat": 38.871708,
+      "lng": -83.909153
+    },
+    {
+      "name": "Germantown",
+      "slug": "germantown",
+      "county": "Montgomery County",
+      "lat": 39.6244,
+      "lng": -84.376384
+    },
+    {
+      "name": "Gettysburg",
+      "slug": "gettysburg",
+      "county": "Darke County",
+      "lat": 40.111389,
+      "lng": -84.495278
+    },
+    {
+      "name": "Gibsonburg",
+      "slug": "gibsonburg",
+      "county": "Sandusky County",
+      "lat": 41.380474,
+      "lng": -83.335762
+    },
+    {
+      "name": "Girard",
+      "slug": "girard",
+      "county": "Trumbull County",
+      "lat": 41.161136,
+      "lng": -80.693305
+    },
+    {
+      "name": "Glandorf",
+      "slug": "glandorf",
+      "county": "Putnam County",
+      "lat": 41.028889,
+      "lng": -84.079167
+    },
+    {
+      "name": "Glencoe",
+      "slug": "glencoe",
+      "county": "Belmont County",
+      "lat": 40.008056,
+      "lng": -80.887778
+    },
+    {
+      "name": "Glenford",
+      "slug": "glenford",
+      "county": "Perry County",
+      "lat": 39.869935,
+      "lng": -82.302592
+    },
+    {
+      "name": "Glenmont",
+      "slug": "glenmont",
+      "county": "Holmes County",
+      "lat": 40.521682,
+      "lng": -82.150538
+    },
+    {
+      "name": "Glouster",
+      "slug": "glouster",
+      "county": "Athens County",
+      "lat": 39.497837,
+      "lng": -82.087128
+    },
+    {
+      "name": "Gnadenhutten",
+      "slug": "gnadenhutten",
+      "county": "Tuscarawas County",
+      "lat": 40.372123,
+      "lng": -81.405858
+    },
+    {
+      "name": "Gomer",
+      "slug": "gomer",
+      "county": "Allen County",
+      "lat": 40.845,
+      "lng": -84.187222
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Clermont County",
+      "lat": 39.220931,
+      "lng": -84.118764
+    },
+    {
+      "name": "Grafton",
+      "slug": "grafton",
+      "county": "Lorain County",
+      "lat": 41.28537,
+      "lng": -82.043098
+    },
+    {
+      "name": "Grand Rapids",
+      "slug": "grand-rapids",
+      "county": "Wood County",
+      "lat": 41.437855,
+      "lng": -83.855246
+    },
+    {
+      "name": "Grand River",
+      "slug": "grand-river",
+      "county": "Lake County",
+      "lat": 41.736111,
+      "lng": -81.281389
+    },
+    {
+      "name": "Granville",
+      "slug": "granville",
+      "county": "Licking County",
+      "lat": 40.078791,
+      "lng": -82.519399
+    },
+    {
+      "name": "Gratiot",
+      "slug": "gratiot",
+      "county": "Licking County",
+      "lat": 39.951111,
+      "lng": -82.216111
+    },
+    {
+      "name": "Gratis",
+      "slug": "gratis",
+      "county": "Preble County",
+      "lat": 39.647778,
+      "lng": -84.527222
+    },
+    {
+      "name": "Graysville",
+      "slug": "graysville",
+      "county": "Washington County",
+      "lat": 39.659384,
+      "lng": -81.189152
+    },
+    {
+      "name": "Graytown",
+      "slug": "graytown",
+      "county": "Ottawa County",
+      "lat": 41.527136,
+      "lng": -83.261135
+    },
+    {
+      "name": "Green",
+      "slug": "green",
+      "county": "Summit County",
+      "lat": 40.945833,
+      "lng": -81.483333
+    },
+    {
+      "name": "Green Camp",
+      "slug": "green-camp",
+      "county": "Marion County",
+      "lat": 40.531944,
+      "lng": -83.210556
+    },
+    {
+      "name": "Green Springs",
+      "slug": "green-springs",
+      "county": "Seneca County",
+      "lat": 41.228111,
+      "lng": -83.088549
+    },
+    {
+      "name": "Greenfield",
+      "slug": "greenfield",
+      "county": "Highland County",
+      "lat": 39.347763,
+      "lng": -83.389805
+    },
+    {
+      "name": "Greenford",
+      "slug": "greenford",
+      "county": "Mahoning County",
+      "lat": 40.943889,
+      "lng": -80.791667
+    },
+    {
+      "name": "Greentown",
+      "slug": "greentown",
+      "county": "Stark County",
+      "lat": 40.9275,
+      "lng": -81.402778
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Darke County",
+      "lat": 40.098726,
+      "lng": -84.634189
+    },
+    {
+      "name": "Greenwich",
+      "slug": "greenwich",
+      "county": "Huron County",
+      "lat": 41.04068,
+      "lng": -82.51334
+    },
+    {
+      "name": "Grelton",
+      "slug": "grelton",
+      "county": "Henry County",
+      "lat": 41.341667,
+      "lng": -83.999722
+    },
+    {
+      "name": "Grove City",
+      "slug": "grove-city",
+      "county": "Franklin County",
+      "lat": 39.881382,
+      "lng": -83.083944
+    },
+    {
+      "name": "Groveport",
+      "slug": "groveport",
+      "county": "Franklin County",
+      "lat": 39.858137,
+      "lng": -82.887219
+    },
+    {
+      "name": "Grover Hill",
+      "slug": "grover-hill",
+      "county": "Paulding County",
+      "lat": 41.024497,
+      "lng": -84.495601
+    },
+    {
+      "name": "Guysville",
+      "slug": "guysville",
+      "county": "Athens County",
+      "lat": 39.294368,
+      "lng": -81.926841
+    },
+    {
+      "name": "Gypsum",
+      "slug": "gypsum",
+      "county": "Ottawa County",
+      "lat": 41.493333,
+      "lng": -82.875833
+    },
+    {
+      "name": "Hallsville",
+      "slug": "hallsville",
+      "county": "Ross County",
+      "lat": 39.443889,
+      "lng": -82.827222
+    },
+    {
+      "name": "Hamden",
+      "slug": "hamden",
+      "county": "Vinton County",
+      "lat": 39.168497,
+      "lng": -82.509976
+    },
+    {
+      "name": "Hamersville",
+      "slug": "hamersville",
+      "county": "Brown County",
+      "lat": 38.919962,
+      "lng": -83.993062
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "county": "Butler County",
+      "lat": 39.405906,
+      "lng": -84.522117
+    },
+    {
+      "name": "Hamler",
+      "slug": "hamler",
+      "county": "Henry County",
+      "lat": 41.212874,
+      "lng": -84.071989
+    },
+    {
+      "name": "Hammondsville",
+      "slug": "hammondsville",
+      "county": "Jefferson County",
+      "lat": 40.579909,
+      "lng": -80.729918
+    },
+    {
+      "name": "Hannibal",
+      "slug": "hannibal",
+      "county": "Monroe County",
+      "lat": 39.667222,
+      "lng": -80.872222
+    },
+    {
+      "name": "Hanoverton",
+      "slug": "hanoverton",
+      "county": "Columbiana County",
+      "lat": 40.773116,
+      "lng": -80.914445
+    },
+    {
+      "name": "Harbor View",
+      "slug": "harbor-view",
+      "county": "Lucas County",
+      "lat": 41.693333,
+      "lng": -83.444444
+    },
+    {
+      "name": "Harlem Springs",
+      "slug": "harlem-springs",
+      "county": "Carroll County",
+      "lat": 40.520833,
+      "lng": -81.003333
+    },
+    {
+      "name": "Harpster",
+      "slug": "harpster",
+      "county": "Wyandot County",
+      "lat": 40.747541,
+      "lng": -83.23428
+    },
+    {
+      "name": "Harrisburg",
+      "slug": "harrisburg",
+      "county": "Franklin County",
+      "lat": 39.809444,
+      "lng": -83.171111
+    },
+    {
+      "name": "Harrison",
+      "slug": "harrison",
+      "county": "Hamilton County",
+      "lat": 39.259208,
+      "lng": -84.78368
+    },
+    {
+      "name": "Harrisville",
+      "slug": "harrisville",
+      "county": "Harrison County",
+      "lat": 40.181389,
+      "lng": -80.887778
+    },
+    {
+      "name": "Harrod",
+      "slug": "harrod",
+      "county": "Allen County",
+      "lat": 40.717657,
+      "lng": -83.943649
+    },
+    {
+      "name": "Hartford",
+      "slug": "hartford",
+      "county": "Trumbull County",
+      "lat": 41.311389,
+      "lng": -80.568611
+    },
+    {
+      "name": "Hartville",
+      "slug": "hartville",
+      "county": "Stark County",
+      "lat": 40.961798,
+      "lng": -81.323873
+    },
+    {
+      "name": "Harveysburg",
+      "slug": "harveysburg",
+      "county": "Warren County",
+      "lat": 39.503611,
+      "lng": -84.010556
+    },
+    {
+      "name": "Haskins",
+      "slug": "haskins",
+      "county": "Wood County",
+      "lat": 41.465159,
+      "lng": -83.705858
+    },
+    {
+      "name": "Haverhill",
+      "slug": "haverhill",
+      "county": "Scioto County",
+      "lat": 38.584722,
+      "lng": -82.832222
+    },
+    {
+      "name": "Haviland",
+      "slug": "haviland",
+      "county": "Paulding County",
+      "lat": 41.032911,
+      "lng": -84.6139
+    },
+    {
+      "name": "Haydenville",
+      "slug": "haydenville",
+      "county": "Hocking County",
+      "lat": 39.481944,
+      "lng": -82.328333
+    },
+    {
+      "name": "Hayesville",
+      "slug": "hayesville",
+      "county": "Ashland County",
+      "lat": 40.773056,
+      "lng": -82.2625
+    },
+    {
+      "name": "Heath",
+      "slug": "heath",
+      "county": "Licking County",
+      "lat": 40.019659,
+      "lng": -82.387527
+    },
+    {
+      "name": "Hebron",
+      "slug": "hebron",
+      "county": "Licking County",
+      "lat": 39.953464,
+      "lng": -82.491868
+    },
+    {
+      "name": "Helena",
+      "slug": "helena",
+      "county": "Sandusky County",
+      "lat": 41.318005,
+      "lng": -83.323184
+    },
+    {
+      "name": "Hicksville",
+      "slug": "hicksville",
+      "county": "Defiance County",
+      "lat": 41.303378,
+      "lng": -84.758852
+    },
+    {
+      "name": "Hideaway Hls",
+      "slug": "hideaway-hls",
+      "county": "Fairfield County",
+      "lat": 39.698807,
+      "lng": -82.42548
+    },
+    {
+      "name": "Higginsport",
+      "slug": "higginsport",
+      "county": "Brown County",
+      "lat": 38.789722,
+      "lng": -83.9675
+    },
+    {
+      "name": "Highland",
+      "slug": "highland",
+      "county": "Highland County",
+      "lat": 39.344444,
+      "lng": -83.5975
+    },
+    {
+      "name": "Hilliard",
+      "slug": "hilliard",
+      "county": "Franklin County",
+      "lat": 40.032187,
+      "lng": -83.138333
+    },
+    {
+      "name": "Hillsboro",
+      "slug": "hillsboro",
+      "county": "Highland County",
+      "lat": 39.167877,
+      "lng": -83.606406
+    },
+    {
+      "name": "Hinckley",
+      "slug": "hinckley",
+      "county": "Medina County",
+      "lat": 41.241872,
+      "lng": -81.74527
+    },
+    {
+      "name": "Hiram",
+      "slug": "hiram",
+      "county": "Portage County",
+      "lat": 41.332253,
+      "lng": -81.14644
+    },
+    {
+      "name": "Hockingport",
+      "slug": "hockingport",
+      "county": "Athens County",
+      "lat": 39.188056,
+      "lng": -81.751944
+    },
+    {
+      "name": "Holgate",
+      "slug": "holgate",
+      "county": "Henry County",
+      "lat": 41.254859,
+      "lng": -84.144735
+    },
+    {
+      "name": "Holland",
+      "slug": "holland",
+      "county": "Lucas County",
+      "lat": 41.622629,
+      "lng": -83.725712
+    },
+    {
+      "name": "Hollansburg",
+      "slug": "hollansburg",
+      "county": "Darke County",
+      "lat": 39.989862,
+      "lng": -84.79008
+    },
+    {
+      "name": "Holloway",
+      "slug": "holloway",
+      "county": "Belmont County",
+      "lat": 40.162222,
+      "lng": -81.132778
+    },
+    {
+      "name": "Holmesville",
+      "slug": "holmesville",
+      "county": "Holmes County",
+      "lat": 40.633042,
+      "lng": -81.927476
+    },
+    {
+      "name": "Homer",
+      "slug": "homer",
+      "county": "Licking County",
+      "lat": 40.252778,
+      "lng": -82.517778
+    },
+    {
+      "name": "Homerville",
+      "slug": "homerville",
+      "county": "Medina County",
+      "lat": 41.02669,
+      "lng": -82.124957
+    },
+    {
+      "name": "Homeworth",
+      "slug": "homeworth",
+      "county": "Columbiana County",
+      "lat": 40.859192,
+      "lng": -81.065473
+    },
+    {
+      "name": "Hooven",
+      "slug": "hooven",
+      "county": "Hamilton County",
+      "lat": 39.178056,
+      "lng": -84.759167
+    },
+    {
+      "name": "Hopedale",
+      "slug": "hopedale",
+      "county": "Harrison County",
+      "lat": 40.349647,
+      "lng": -80.902136
+    },
+    {
+      "name": "Hopewell",
+      "slug": "hopewell",
+      "county": "Muskingum County",
+      "lat": 39.96008,
+      "lng": -82.175619
+    },
+    {
+      "name": "Houston",
+      "slug": "houston",
+      "county": "Shelby County",
+      "lat": 40.253478,
+      "lng": -84.352109
+    },
+    {
+      "name": "Howard",
+      "slug": "howard",
+      "county": "Knox County",
+      "lat": 40.415818,
+      "lng": -82.333351
+    },
+    {
+      "name": "Hoytville",
+      "slug": "hoytville",
+      "county": "Wood County",
+      "lat": 41.19,
+      "lng": -83.784722
+    },
+    {
+      "name": "Hubbard",
+      "slug": "hubbard",
+      "county": "Trumbull County",
+      "lat": 41.162401,
+      "lng": -80.576192
+    },
+    {
+      "name": "Hudson",
+      "slug": "hudson",
+      "county": "Summit County",
+      "lat": 41.245836,
+      "lng": -81.436659
+    },
+    {
+      "name": "Huntsburg",
+      "slug": "huntsburg",
+      "county": "Geauga County",
+      "lat": 41.530559,
+      "lng": -81.057183
+    },
+    {
+      "name": "Huntsville",
+      "slug": "huntsville",
+      "county": "Logan County",
+      "lat": 40.441295,
+      "lng": -83.792748
+    },
+    {
+      "name": "Huron",
+      "slug": "huron",
+      "county": "Erie County",
+      "lat": 41.390662,
+      "lng": -82.555491
+    },
+    {
+      "name": "Iberia",
+      "slug": "iberia",
+      "county": "Morrow County",
+      "lat": 40.670278,
+      "lng": -82.843611
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Cuyahoga County",
+      "lat": 41.380905,
+      "lng": -81.66421
+    },
+    {
+      "name": "Irondale",
+      "slug": "irondale",
+      "county": "Jefferson County",
+      "lat": 40.511052,
+      "lng": -80.791546
+    },
+    {
+      "name": "Ironton",
+      "slug": "ironton",
+      "county": "Lawrence County",
+      "lat": 38.529429,
+      "lng": -82.665351
+    },
+    {
+      "name": "Irwin",
+      "slug": "irwin",
+      "county": "Union County",
+      "lat": 40.128352,
+      "lng": -83.458699
+    },
+    {
+      "name": "Isle Saint George",
+      "slug": "isle-saint-george",
+      "county": "Ottawa County",
+      "lat": 41.713668,
+      "lng": -82.819275
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Jackson County",
+      "lat": 39.042821,
+      "lng": -82.647209
+    },
+    {
+      "name": "Jackson Center",
+      "slug": "jackson-center",
+      "county": "Shelby County",
+      "lat": 40.435802,
+      "lng": -84.045677
+    },
+    {
+      "name": "Jacksontown",
+      "slug": "jacksontown",
+      "county": "Licking County",
+      "lat": 39.959444,
+      "lng": -82.413056
+    },
+    {
+      "name": "Jacksonville",
+      "slug": "jacksonville",
+      "county": "Athens County",
+      "lat": 39.475,
+      "lng": -82.079167
+    },
+    {
+      "name": "Jacobsburg",
+      "slug": "jacobsburg",
+      "county": "Belmont County",
+      "lat": 39.956304,
+      "lng": -80.882181
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Greene County",
+      "lat": 39.642848,
+      "lng": -83.750417
+    },
+    {
+      "name": "Jasper",
+      "slug": "jasper",
+      "county": "Pike County",
+      "lat": 39.05,
+      "lng": -83.056667
+    },
+    {
+      "name": "Jefferson",
+      "slug": "jefferson",
+      "county": "Ashtabula County",
+      "lat": 41.733513,
+      "lng": -80.756166
+    },
+    {
+      "name": "Jeffersonville",
+      "slug": "jeffersonville",
+      "county": "Fayette County",
+      "lat": 39.65896,
+      "lng": -83.56873
+    },
+    {
+      "name": "Jenera",
+      "slug": "jenera",
+      "county": "Hancock County",
+      "lat": 40.900388,
+      "lng": -83.725628
+    },
+    {
+      "name": "Jeromesville",
+      "slug": "jeromesville",
+      "county": "Ashland County",
+      "lat": 40.813366,
+      "lng": -82.186134
+    },
+    {
+      "name": "Jerry City",
+      "slug": "jerry-city",
+      "county": "Wood County",
+      "lat": 41.253889,
+      "lng": -83.604444
+    },
+    {
+      "name": "Jerusalem",
+      "slug": "jerusalem",
+      "county": "Monroe County",
+      "lat": 39.848831,
+      "lng": -81.092088
+    },
+    {
+      "name": "Jewell",
+      "slug": "jewell",
+      "county": "Defiance County",
+      "lat": 41.325833,
+      "lng": -84.285556
+    },
+    {
+      "name": "Jewett",
+      "slug": "jewett",
+      "county": "Harrison County",
+      "lat": 40.37446,
+      "lng": -81.000379
+    },
+    {
+      "name": "Johnstown",
+      "slug": "johnstown",
+      "county": "Licking County",
+      "lat": 40.14452,
+      "lng": -82.697284
+    },
+    {
+      "name": "Junction City",
+      "slug": "junction-city",
+      "county": "Perry County",
+      "lat": 39.696531,
+      "lng": -82.315525
+    },
+    {
+      "name": "Kalida",
+      "slug": "kalida",
+      "county": "Putnam County",
+      "lat": 40.982778,
+      "lng": -84.199444
+    },
+    {
+      "name": "Kansas",
+      "slug": "kansas",
+      "county": "Seneca County",
+      "lat": 41.212543,
+      "lng": -83.329829
+    },
+    {
+      "name": "Keene",
+      "slug": "keene",
+      "county": "Coshocton County",
+      "lat": 40.345,
+      "lng": -81.868333
+    },
+    {
+      "name": "Kelleys Island",
+      "slug": "kelleys-island",
+      "county": "Erie County",
+      "lat": 41.600755,
+      "lng": -82.706811
+    },
+    {
+      "name": "Kensington",
+      "slug": "kensington",
+      "county": "Columbiana County",
+      "lat": 40.71418,
+      "lng": -80.938079
+    },
+    {
+      "name": "Kent",
+      "slug": "kent",
+      "county": "Portage County",
+      "lat": 41.14492,
+      "lng": -81.34976
+    },
+    {
+      "name": "Kenton",
+      "slug": "kenton",
+      "county": "Hardin County",
+      "lat": 40.640433,
+      "lng": -83.611087
+    },
+    {
+      "name": "Kerr",
+      "slug": "kerr",
+      "county": "Gallia County",
+      "lat": 38.872778,
+      "lng": -82.260833
+    },
+    {
+      "name": "Kettlersville",
+      "slug": "kettlersville",
+      "county": "Shelby County",
+      "lat": 40.438889,
+      "lng": -84.261389
+    },
+    {
+      "name": "Kidron",
+      "slug": "kidron",
+      "county": "Wayne County",
+      "lat": 40.740833,
+      "lng": -81.745
+    },
+    {
+      "name": "Kilbourne",
+      "slug": "kilbourne",
+      "county": "Delaware County",
+      "lat": 40.33,
+      "lng": -82.9575
+    },
+    {
+      "name": "Killbuck",
+      "slug": "killbuck",
+      "county": "Holmes County",
+      "lat": 40.4933,
+      "lng": -81.983721
+    },
+    {
+      "name": "Kimbolton",
+      "slug": "kimbolton",
+      "county": "Guernsey County",
+      "lat": 40.166544,
+      "lng": -81.53036
+    },
+    {
+      "name": "Kings Mills",
+      "slug": "kings-mills",
+      "county": "Warren County",
+      "lat": 39.355556,
+      "lng": -84.248611
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "county": "Ross County",
+      "lat": 39.441432,
+      "lng": -82.848808
+    },
+    {
+      "name": "Kingsville",
+      "slug": "kingsville",
+      "county": "Ashtabula County",
+      "lat": 41.872311,
+      "lng": -80.660092
+    },
+    {
+      "name": "Kinsman",
+      "slug": "kinsman",
+      "county": "Trumbull County",
+      "lat": 41.435442,
+      "lng": -80.576506
+    },
+    {
+      "name": "Kipling",
+      "slug": "kipling",
+      "county": "Guernsey County",
+      "lat": 39.996111,
+      "lng": -81.500833
+    },
+    {
+      "name": "Kipton",
+      "slug": "kipton",
+      "county": "Lorain County",
+      "lat": 41.268056,
+      "lng": -82.302222
+    },
+    {
+      "name": "Kirby",
+      "slug": "kirby",
+      "county": "Wyandot County",
+      "lat": 40.813056,
+      "lng": -83.418611
+    },
+    {
+      "name": "Kirkersville",
+      "slug": "kirkersville",
+      "county": "Licking County",
+      "lat": 39.959444,
+      "lng": -82.595833
+    },
+    {
+      "name": "Kitts Hill",
+      "slug": "kitts-hill",
+      "county": "Lawrence County",
+      "lat": 38.564945,
+      "lng": -82.548897
+    },
+    {
+      "name": "Kunkle",
+      "slug": "kunkle",
+      "county": "Williams County",
+      "lat": 41.636667,
+      "lng": -84.495278
+    },
+    {
+      "name": "La Rue",
+      "slug": "la-rue",
+      "county": "Marion County",
+      "lat": 40.578879,
+      "lng": -83.373397
+    },
+    {
+      "name": "Lacarne",
+      "slug": "lacarne",
+      "county": "Ottawa County",
+      "lat": 41.527846,
+      "lng": -83.024004
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Allen County",
+      "lat": 40.759167,
+      "lng": -83.948333
+    },
+    {
+      "name": "Lafferty",
+      "slug": "lafferty",
+      "county": "Belmont County",
+      "lat": 40.111667,
+      "lng": -81.018333
+    },
+    {
+      "name": "Lagrange",
+      "slug": "lagrange",
+      "county": "Lorain County",
+      "lat": 41.242278,
+      "lng": -82.127918
+    },
+    {
+      "name": "Laings",
+      "slug": "laings",
+      "county": "Monroe County",
+      "lat": 39.716944,
+      "lng": -81.0125
+    },
+    {
+      "name": "Lake Milton",
+      "slug": "lake-milton",
+      "county": "Mahoning County",
+      "lat": 41.101354,
+      "lng": -80.97235
+    },
+    {
+      "name": "Lakemore",
+      "slug": "lakemore",
+      "county": "Summit County",
+      "lat": 41.020833,
+      "lng": -81.436111
+    },
+    {
+      "name": "Lakeside Marblehead",
+      "slug": "lakeside-marblehead",
+      "county": "Ottawa County",
+      "lat": 41.52913,
+      "lng": -82.771392
+    },
+    {
+      "name": "Lakeview",
+      "slug": "lakeview",
+      "county": "Logan County",
+      "lat": 40.503033,
+      "lng": -83.908139
+    },
+    {
+      "name": "Lakeville",
+      "slug": "lakeville",
+      "county": "Holmes County",
+      "lat": 40.651965,
+      "lng": -82.145477
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Cuyahoga County",
+      "lat": 41.482654,
+      "lng": -81.797143
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Fairfield County",
+      "lat": 39.718697,
+      "lng": -82.603074
+    },
+    {
+      "name": "Langsville",
+      "slug": "langsville",
+      "county": "Meigs County",
+      "lat": 39.056325,
+      "lng": -82.231186
+    },
+    {
+      "name": "Lansing",
+      "slug": "lansing",
+      "county": "Belmont County",
+      "lat": 40.075556,
+      "lng": -80.790278
+    },
+    {
+      "name": "Latham",
+      "slug": "latham",
+      "county": "Pike County",
+      "lat": 39.080436,
+      "lng": -83.328294
+    },
+    {
+      "name": "Latty",
+      "slug": "latty",
+      "county": "Paulding County",
+      "lat": 41.088611,
+      "lng": -84.585278
+    },
+    {
+      "name": "Laura",
+      "slug": "laura",
+      "county": "Miami County",
+      "lat": 39.978492,
+      "lng": -84.3994
+    },
+    {
+      "name": "Laurelville",
+      "slug": "laurelville",
+      "county": "Hocking County",
+      "lat": 39.4757,
+      "lng": -82.721219
+    },
+    {
+      "name": "Leavittsburg",
+      "slug": "leavittsburg",
+      "county": "Trumbull County",
+      "lat": 41.244498,
+      "lng": -80.886922
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "Warren County",
+      "lat": 39.442047,
+      "lng": -84.218754
+    },
+    {
+      "name": "Lees Creek",
+      "slug": "lees-creek",
+      "county": "Clinton County",
+      "lat": 39.42,
+      "lng": -83.649444
+    },
+    {
+      "name": "Leesburg",
+      "slug": "leesburg",
+      "county": "Highland County",
+      "lat": 39.345767,
+      "lng": -83.548146
+    },
+    {
+      "name": "Leesville",
+      "slug": "leesville",
+      "county": "Carroll County",
+      "lat": 40.451667,
+      "lng": -81.212222
+    },
+    {
+      "name": "Leetonia",
+      "slug": "leetonia",
+      "county": "Columbiana County",
+      "lat": 40.863077,
+      "lng": -80.758453
+    },
+    {
+      "name": "Leipsic",
+      "slug": "leipsic",
+      "county": "Putnam County",
+      "lat": 41.109197,
+      "lng": -83.995723
+    },
+    {
+      "name": "Lemoyne",
+      "slug": "lemoyne",
+      "county": "Wood County",
+      "lat": 41.495833,
+      "lng": -83.474167
+    },
+    {
+      "name": "Lewis Center",
+      "slug": "lewis-center",
+      "county": "Delaware County",
+      "lat": 40.198333,
+      "lng": -83.010278
+    },
+    {
+      "name": "Lewisburg",
+      "slug": "lewisburg",
+      "county": "Preble County",
+      "lat": 39.853404,
+      "lng": -84.53685
+    },
+    {
+      "name": "Lewistown",
+      "slug": "lewistown",
+      "county": "Logan County",
+      "lat": 40.42768,
+      "lng": -83.920893
+    },
+    {
+      "name": "Lewisville",
+      "slug": "lewisville",
+      "county": "Monroe County",
+      "lat": 39.768379,
+      "lng": -81.231583
+    },
+    {
+      "name": "Liberty Center",
+      "slug": "liberty-center",
+      "county": "Henry County",
+      "lat": 41.451371,
+      "lng": -83.985889
+    },
+    {
+      "name": "Lima",
+      "slug": "lima",
+      "county": "Allen County",
+      "lat": 40.764066,
+      "lng": -84.097296
+    },
+    {
+      "name": "Limaville",
+      "slug": "limaville",
+      "county": "Stark County",
+      "lat": 40.981944,
+      "lng": -81.148611
+    },
+    {
+      "name": "Lindsey",
+      "slug": "lindsey",
+      "county": "Sandusky County",
+      "lat": 41.414747,
+      "lng": -83.213474
+    },
+    {
+      "name": "Lisbon",
+      "slug": "lisbon",
+      "county": "Columbiana County",
+      "lat": 40.759154,
+      "lng": -80.758674
+    },
+    {
+      "name": "Litchfield",
+      "slug": "litchfield",
+      "county": "Medina County",
+      "lat": 41.166847,
+      "lng": -82.015674
+    },
+    {
+      "name": "Lithopolis",
+      "slug": "lithopolis",
+      "county": "Fairfield County",
+      "lat": 39.802778,
+      "lng": -82.806389
+    },
+    {
+      "name": "Little Hocking",
+      "slug": "little-hocking",
+      "county": "Washington County",
+      "lat": 39.280046,
+      "lng": -81.707107
+    },
+    {
+      "name": "Lockbourne",
+      "slug": "lockbourne",
+      "county": "Franklin County",
+      "lat": 39.814236,
+      "lng": -82.976369
+    },
+    {
+      "name": "Lodi",
+      "slug": "lodi",
+      "county": "Medina County",
+      "lat": 41.032713,
+      "lng": -82.014661
+    },
+    {
+      "name": "Logan",
+      "slug": "logan",
+      "county": "Hocking County",
+      "lat": 39.537175,
+      "lng": -82.412594
+    },
+    {
+      "name": "London",
+      "slug": "london",
+      "county": "Madison County",
+      "lat": 39.900074,
+      "lng": -83.443899
+    },
+    {
+      "name": "Londonderry",
+      "slug": "londonderry",
+      "county": "Ross County",
+      "lat": 39.272283,
+      "lng": -82.783288
+    },
+    {
+      "name": "Long Bottom",
+      "slug": "long-bottom",
+      "county": "Meigs County",
+      "lat": 39.08015,
+      "lng": -81.888748
+    },
+    {
+      "name": "Lorain",
+      "slug": "lorain",
+      "county": "Lorain County",
+      "lat": 41.457796,
+      "lng": -82.171039
+    },
+    {
+      "name": "Lore City",
+      "slug": "lore-city",
+      "county": "Guernsey County",
+      "lat": 40.045854,
+      "lng": -81.447853
+    },
+    {
+      "name": "Loudonville",
+      "slug": "loudonville",
+      "county": "Ashland County",
+      "lat": 40.636059,
+      "lng": -82.23559
+    },
+    {
+      "name": "Louisville",
+      "slug": "louisville",
+      "county": "Stark County",
+      "lat": 40.847729,
+      "lng": -81.259464
+    },
+    {
+      "name": "Loveland",
+      "slug": "loveland",
+      "county": "Clermont County",
+      "lat": 39.244484,
+      "lng": -84.258802
+    },
+    {
+      "name": "Lowell",
+      "slug": "lowell",
+      "county": "Washington County",
+      "lat": 39.53847,
+      "lng": -81.519679
+    },
+    {
+      "name": "Lowellville",
+      "slug": "lowellville",
+      "county": "Mahoning County",
+      "lat": 41.050256,
+      "lng": -80.541551
+    },
+    {
+      "name": "Lower Salem",
+      "slug": "lower-salem",
+      "county": "Washington County",
+      "lat": 39.593895,
+      "lng": -81.35452
+    },
+    {
+      "name": "Lucas",
+      "slug": "lucas",
+      "county": "Richland County",
+      "lat": 40.70389,
+      "lng": -82.408671
+    },
+    {
+      "name": "Lucasville",
+      "slug": "lucasville",
+      "county": "Scioto County",
+      "lat": 38.893832,
+      "lng": -82.994009
+    },
+    {
+      "name": "Luckey",
+      "slug": "luckey",
+      "county": "Wood County",
+      "lat": 41.451669,
+      "lng": -83.467396
+    },
+    {
+      "name": "Ludlow Falls",
+      "slug": "ludlow-falls",
+      "county": "Miami County",
+      "lat": 39.987091,
+      "lng": -84.333391
+    },
+    {
+      "name": "Lynchburg",
+      "slug": "lynchburg",
+      "county": "Highland County",
+      "lat": 39.211931,
+      "lng": -83.802124
+    },
+    {
+      "name": "Lynx",
+      "slug": "lynx",
+      "county": "Adams County",
+      "lat": 38.773056,
+      "lng": -83.413056
+    },
+    {
+      "name": "Lyons",
+      "slug": "lyons",
+      "county": "Fulton County",
+      "lat": 41.690546,
+      "lng": -84.062351
+    },
+    {
+      "name": "Macedonia",
+      "slug": "macedonia",
+      "county": "Summit County",
+      "lat": 41.322236,
+      "lng": -81.499578
+    },
+    {
+      "name": "Macksburg",
+      "slug": "macksburg",
+      "county": "Washington County",
+      "lat": 39.620356,
+      "lng": -81.447088
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Lake County",
+      "lat": 41.805367,
+      "lng": -81.058819
+    },
+    {
+      "name": "Magnetic Springs",
+      "slug": "magnetic-springs",
+      "county": "Union County",
+      "lat": 40.358023,
+      "lng": -83.267142
+    },
+    {
+      "name": "Magnolia",
+      "slug": "magnolia",
+      "county": "Stark County",
+      "lat": 40.651414,
+      "lng": -81.307607
+    },
+    {
+      "name": "Maineville",
+      "slug": "maineville",
+      "county": "Warren County",
+      "lat": 39.313878,
+      "lng": -84.252567
+    },
+    {
+      "name": "Malaga",
+      "slug": "malaga",
+      "county": "Monroe County",
+      "lat": 39.854722,
+      "lng": -81.149444
+    },
+    {
+      "name": "Malinta",
+      "slug": "malinta",
+      "county": "Henry County",
+      "lat": 41.308425,
+      "lng": -84.045731
+    },
+    {
+      "name": "Malta",
+      "slug": "malta",
+      "county": "Morgan County",
+      "lat": 39.648212,
+      "lng": -81.912746
+    },
+    {
+      "name": "Malvern",
+      "slug": "malvern",
+      "county": "Carroll County",
+      "lat": 40.684532,
+      "lng": -81.18378
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Adams County",
+      "lat": 38.698167,
+      "lng": -83.618064
+    },
+    {
+      "name": "Mansfield",
+      "slug": "mansfield",
+      "county": "Richland County",
+      "lat": 40.7633,
+      "lng": -82.5138
+    },
+    {
+      "name": "Mantua",
+      "slug": "mantua",
+      "county": "Portage County",
+      "lat": 41.294141,
+      "lng": -81.228259
+    },
+    {
+      "name": "Maple Heights",
+      "slug": "maple-heights",
+      "county": "Cuyahoga County",
+      "lat": 41.410513,
+      "lng": -81.560339
+    },
+    {
+      "name": "Maplewood",
+      "slug": "maplewood",
+      "county": "Shelby County",
+      "lat": 40.343743,
+      "lng": -84.076657
+    },
+    {
+      "name": "Marathon",
+      "slug": "marathon",
+      "county": "Clermont County",
+      "lat": 39.144722,
+      "lng": -84.006389
+    },
+    {
+      "name": "Marengo",
+      "slug": "marengo",
+      "county": "Morrow County",
+      "lat": 40.389512,
+      "lng": -82.812136
+    },
+    {
+      "name": "Maria Stein",
+      "slug": "maria-stein",
+      "county": "Mercer County",
+      "lat": 40.406225,
+      "lng": -84.507579
+    },
+    {
+      "name": "Marietta",
+      "slug": "marietta",
+      "county": "Washington County",
+      "lat": 39.428141,
+      "lng": -81.464438
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Marion County",
+      "lat": 40.5886,
+      "lng": -83.1286
+    },
+    {
+      "name": "Mark Center",
+      "slug": "mark-center",
+      "county": "Defiance County",
+      "lat": 41.291669,
+      "lng": -84.62778
+    },
+    {
+      "name": "Marshallville",
+      "slug": "marshallville",
+      "county": "Wayne County",
+      "lat": 40.906677,
+      "lng": -81.722527
+    },
+    {
+      "name": "Martel",
+      "slug": "martel",
+      "county": "Marion County",
+      "lat": 40.670775,
+      "lng": -82.90586
+    },
+    {
+      "name": "Martin",
+      "slug": "martin",
+      "county": "Ottawa County",
+      "lat": 41.596249,
+      "lng": -83.345536
+    },
+    {
+      "name": "Martins Ferry",
+      "slug": "martins-ferry",
+      "county": "Belmont County",
+      "lat": 40.103597,
+      "lng": -80.736125
+    },
+    {
+      "name": "Martinsburg",
+      "slug": "martinsburg",
+      "county": "Knox County",
+      "lat": 40.267954,
+      "lng": -82.356691
+    },
+    {
+      "name": "Martinsville",
+      "slug": "martinsville",
+      "county": "Clinton County",
+      "lat": 39.312705,
+      "lng": -83.800545
+    },
+    {
+      "name": "Marysville",
+      "slug": "marysville",
+      "county": "Union County",
+      "lat": 40.247723,
+      "lng": -83.362213
+    },
+    {
+      "name": "Mason",
+      "slug": "mason",
+      "county": "Warren County",
+      "lat": 39.335741,
+      "lng": -84.314935
+    },
+    {
+      "name": "Massillon",
+      "slug": "massillon",
+      "county": "Stark County",
+      "lat": 40.811605,
+      "lng": -81.497263
+    },
+    {
+      "name": "Masury",
+      "slug": "masury",
+      "county": "Trumbull County",
+      "lat": 41.22552,
+      "lng": -80.532565
+    },
+    {
+      "name": "Maumee",
+      "slug": "maumee",
+      "county": "Lucas County",
+      "lat": 41.581682,
+      "lng": -83.66283
+    },
+    {
+      "name": "Maximo",
+      "slug": "maximo",
+      "county": "Stark County",
+      "lat": 40.876389,
+      "lng": -81.172222
+    },
+    {
+      "name": "Maynard",
+      "slug": "maynard",
+      "county": "Belmont County",
+      "lat": 40.123333,
+      "lng": -80.879444
+    },
+    {
+      "name": "Mc Arthur",
+      "slug": "mc-arthur",
+      "county": "Vinton County",
+      "lat": 39.255326,
+      "lng": -82.490699
+    },
+    {
+      "name": "Mc Clure",
+      "slug": "mc-clure",
+      "county": "Henry County",
+      "lat": 41.377309,
+      "lng": -83.942482
+    },
+    {
+      "name": "Mc Comb",
+      "slug": "mc-comb",
+      "county": "Hancock County",
+      "lat": 41.112498,
+      "lng": -83.801423
+    },
+    {
+      "name": "Mc Cutchenville",
+      "slug": "mc-cutchenville",
+      "county": "Wyandot County",
+      "lat": 40.975225,
+      "lng": -83.263669
+    },
+    {
+      "name": "Mc Dermott",
+      "slug": "mc-dermott",
+      "county": "Scioto County",
+      "lat": 38.836203,
+      "lng": -83.068892
+    },
+    {
+      "name": "Mc Donald",
+      "slug": "mc-donald",
+      "county": "Trumbull County",
+      "lat": 41.158026,
+      "lng": -80.731169
+    },
+    {
+      "name": "Mc Guffey",
+      "slug": "mc-guffey",
+      "county": "Hardin County",
+      "lat": 40.693611,
+      "lng": -83.787778
+    },
+    {
+      "name": "Mcconnelsville",
+      "slug": "mcconnelsville",
+      "county": "Morgan County",
+      "lat": 39.670014,
+      "lng": -81.837625
+    },
+    {
+      "name": "Mechanicsburg",
+      "slug": "mechanicsburg",
+      "county": "Champaign County",
+      "lat": 40.064659,
+      "lng": -83.572352
+    },
+    {
+      "name": "Mechanicstown",
+      "slug": "mechanicstown",
+      "county": "Carroll County",
+      "lat": 40.626279,
+      "lng": -80.956025
+    },
+    {
+      "name": "Medina",
+      "slug": "medina",
+      "county": "Medina County",
+      "lat": 41.140415,
+      "lng": -81.858351
+    },
+    {
+      "name": "Medway",
+      "slug": "medway",
+      "county": "Clark County",
+      "lat": 39.879774,
+      "lng": -84.026808
+    },
+    {
+      "name": "Melmore",
+      "slug": "melmore",
+      "county": "Seneca County",
+      "lat": 41.038954,
+      "lng": -83.143238
+    },
+    {
+      "name": "Melrose",
+      "slug": "melrose",
+      "county": "Paulding County",
+      "lat": 41.092222,
+      "lng": -84.419722
+    },
+    {
+      "name": "Mendon",
+      "slug": "mendon",
+      "county": "Mercer County",
+      "lat": 40.677737,
+      "lng": -84.51515
+    },
+    {
+      "name": "Mentor",
+      "slug": "mentor",
+      "county": "Lake County",
+      "lat": 41.689468,
+      "lng": -81.342133
+    },
+    {
+      "name": "Mesopotamia",
+      "slug": "mesopotamia",
+      "county": "Trumbull County",
+      "lat": 41.458333,
+      "lng": -80.955278
+    },
+    {
+      "name": "Metamora",
+      "slug": "metamora",
+      "county": "Fulton County",
+      "lat": 41.695233,
+      "lng": -83.925972
+    },
+    {
+      "name": "Miamisburg",
+      "slug": "miamisburg",
+      "county": "Montgomery County",
+      "lat": 39.632095,
+      "lng": -84.267477
+    },
+    {
+      "name": "Miamitown",
+      "slug": "miamitown",
+      "county": "Hamilton County",
+      "lat": 39.215833,
+      "lng": -84.704167
+    },
+    {
+      "name": "Miamiville",
+      "slug": "miamiville",
+      "county": "Clermont County",
+      "lat": 39.2125,
+      "lng": -84.299444
+    },
+    {
+      "name": "Middle Bass",
+      "slug": "middle-bass",
+      "county": "Ottawa County",
+      "lat": 41.678889,
+      "lng": -82.812222
+    },
+    {
+      "name": "Middle Point",
+      "slug": "middle-point",
+      "county": "Van Wert County",
+      "lat": 40.873147,
+      "lng": -84.417495
+    },
+    {
+      "name": "Middlebranch",
+      "slug": "middlebranch",
+      "county": "Stark County",
+      "lat": 40.89,
+      "lng": -81.328889
+    },
+    {
+      "name": "Middleburg",
+      "slug": "middleburg",
+      "county": "Logan County",
+      "lat": 40.2925,
+      "lng": -83.5825
+    },
+    {
+      "name": "Middlefield",
+      "slug": "middlefield",
+      "county": "Geauga County",
+      "lat": 41.445547,
+      "lng": -81.037338
+    },
+    {
+      "name": "Middleport",
+      "slug": "middleport",
+      "county": "Meigs County",
+      "lat": 38.999312,
+      "lng": -82.060012
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "Butler County",
+      "lat": 39.532121,
+      "lng": -84.389601
+    },
+    {
+      "name": "Midland",
+      "slug": "midland",
+      "county": "Clinton County",
+      "lat": 39.29169,
+      "lng": -83.893131
+    },
+    {
+      "name": "Midvale",
+      "slug": "midvale",
+      "county": "Tuscarawas County",
+      "lat": 40.437778,
+      "lng": -81.373333
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "county": "Erie County",
+      "lat": 41.311065,
+      "lng": -82.612565
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Clermont County",
+      "lat": 39.179987,
+      "lng": -84.243814
+    },
+    {
+      "name": "Milford Center",
+      "slug": "milford-center",
+      "county": "Union County",
+      "lat": 40.181666,
+      "lng": -83.437333
+    },
+    {
+      "name": "Millbury",
+      "slug": "millbury",
+      "county": "Wood County",
+      "lat": 41.56106,
+      "lng": -83.438083
+    },
+    {
+      "name": "Milledgeville",
+      "slug": "milledgeville",
+      "county": "Fayette County",
+      "lat": 39.592778,
+      "lng": -83.5875
+    },
+    {
+      "name": "Miller City",
+      "slug": "miller-city",
+      "county": "Putnam County",
+      "lat": 41.102778,
+      "lng": -84.131389
+    },
+    {
+      "name": "Millersburg",
+      "slug": "millersburg",
+      "county": "Holmes County",
+      "lat": 40.556683,
+      "lng": -81.832383
+    },
+    {
+      "name": "Millersport",
+      "slug": "millersport",
+      "county": "Fairfield County",
+      "lat": 39.899307,
+      "lng": -82.528348
+    },
+    {
+      "name": "Millfield",
+      "slug": "millfield",
+      "county": "Athens County",
+      "lat": 39.407711,
+      "lng": -82.111328
+    },
+    {
+      "name": "Milton Center",
+      "slug": "milton-center",
+      "county": "Wood County",
+      "lat": 41.3025,
+      "lng": -83.828889
+    },
+    {
+      "name": "Mineral City",
+      "slug": "mineral-city",
+      "county": "Tuscarawas County",
+      "lat": 40.625686,
+      "lng": -81.354561
+    },
+    {
+      "name": "Mineral Ridge",
+      "slug": "mineral-ridge",
+      "county": "Trumbull County",
+      "lat": 41.131843,
+      "lng": -80.755293
+    },
+    {
+      "name": "Minerva",
+      "slug": "minerva",
+      "county": "Stark County",
+      "lat": 40.742049,
+      "lng": -81.103076
+    },
+    {
+      "name": "Minford",
+      "slug": "minford",
+      "county": "Scioto County",
+      "lat": 38.875087,
+      "lng": -82.855538
+    },
+    {
+      "name": "Mingo",
+      "slug": "mingo",
+      "county": "Champaign County",
+      "lat": 40.208056,
+      "lng": -83.638333
+    },
+    {
+      "name": "Mingo Junction",
+      "slug": "mingo-junction",
+      "county": "Jefferson County",
+      "lat": 40.320256,
+      "lng": -80.625021
+    },
+    {
+      "name": "Minster",
+      "slug": "minster",
+      "county": "Auglaize County",
+      "lat": 40.390983,
+      "lng": -84.372895
+    },
+    {
+      "name": "Mogadore",
+      "slug": "mogadore",
+      "county": "Portage County",
+      "lat": 41.038196,
+      "lng": -81.358963
+    },
+    {
+      "name": "Monclova",
+      "slug": "monclova",
+      "county": "Lucas County",
+      "lat": 41.568416,
+      "lng": -83.775718
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Butler County",
+      "lat": 39.441285,
+      "lng": -84.365196
+    },
+    {
+      "name": "Monroeville",
+      "slug": "monroeville",
+      "county": "Huron County",
+      "lat": 41.218074,
+      "lng": -82.70233
+    },
+    {
+      "name": "Montezuma",
+      "slug": "montezuma",
+      "county": "Mercer County",
+      "lat": 40.488889,
+      "lng": -84.548611
+    },
+    {
+      "name": "Montpelier",
+      "slug": "montpelier",
+      "county": "Williams County",
+      "lat": 41.59821,
+      "lng": -84.614703
+    },
+    {
+      "name": "Montville",
+      "slug": "montville",
+      "county": "Geauga County",
+      "lat": 41.603446,
+      "lng": -81.057036
+    },
+    {
+      "name": "Morral",
+      "slug": "morral",
+      "county": "Marion County",
+      "lat": 40.695366,
+      "lng": -83.204606
+    },
+    {
+      "name": "Morristown",
+      "slug": "morristown",
+      "county": "Belmont County",
+      "lat": 40.063056,
+      "lng": -81.074444
+    },
+    {
+      "name": "Morrow",
+      "slug": "morrow",
+      "county": "Warren County",
+      "lat": 39.347619,
+      "lng": -84.118085
+    },
+    {
+      "name": "Moscow",
+      "slug": "moscow",
+      "county": "Clermont County",
+      "lat": 38.858255,
+      "lng": -84.195824
+    },
+    {
+      "name": "Mount Blanchard",
+      "slug": "mount-blanchard",
+      "county": "Hancock County",
+      "lat": 40.892929,
+      "lng": -83.555286
+    },
+    {
+      "name": "Mount Cory",
+      "slug": "mount-cory",
+      "county": "Hancock County",
+      "lat": 40.943717,
+      "lng": -83.809285
+    },
+    {
+      "name": "Mount Eaton",
+      "slug": "mount-eaton",
+      "county": "Wayne County",
+      "lat": 40.694444,
+      "lng": -81.703333
+    },
+    {
+      "name": "Mount Gilead",
+      "slug": "mount-gilead",
+      "county": "Morrow County",
+      "lat": 40.538371,
+      "lng": -82.806235
+    },
+    {
+      "name": "Mount Hope",
+      "slug": "mount-hope",
+      "county": "Holmes County",
+      "lat": 40.623889,
+      "lng": -81.784722
+    },
+    {
+      "name": "Mount Liberty",
+      "slug": "mount-liberty",
+      "county": "Knox County",
+      "lat": 40.346667,
+      "lng": -82.630278
+    },
+    {
+      "name": "Mount Orab",
+      "slug": "mount-orab",
+      "county": "Brown County",
+      "lat": 39.045368,
+      "lng": -83.948027
+    },
+    {
+      "name": "Mount Perry",
+      "slug": "mount-perry",
+      "county": "Perry County",
+      "lat": 39.878798,
+      "lng": -82.188039
+    },
+    {
+      "name": "Mount Pleasant",
+      "slug": "mount-pleasant",
+      "county": "Jefferson County",
+      "lat": 40.175278,
+      "lng": -80.798056
+    },
+    {
+      "name": "Mount Saint Joseph",
+      "slug": "mount-saint-joseph",
+      "county": "Hamilton County",
+      "lat": 39.098333,
+      "lng": -84.648333
+    },
+    {
+      "name": "Mount Sterling",
+      "slug": "mount-sterling",
+      "county": "Madison County",
+      "lat": 39.717506,
+      "lng": -83.280618
+    },
+    {
+      "name": "Mount Vernon",
+      "slug": "mount-vernon",
+      "county": "Knox County",
+      "lat": 40.384937,
+      "lng": -82.487286
+    },
+    {
+      "name": "Mount Victory",
+      "slug": "mount-victory",
+      "county": "Hardin County",
+      "lat": 40.52321,
+      "lng": -83.494165
+    },
+    {
+      "name": "Mowrystown",
+      "slug": "mowrystown",
+      "county": "Highland County",
+      "lat": 39.038333,
+      "lng": -83.748611
+    },
+    {
+      "name": "Moxahala",
+      "slug": "moxahala",
+      "county": "Perry County",
+      "lat": 39.6625,
+      "lng": -82.136389
+    },
+    {
+      "name": "Munroe Falls",
+      "slug": "munroe-falls",
+      "county": "Summit County",
+      "lat": 41.14202,
+      "lng": -81.437565
+    },
+    {
+      "name": "Murray City",
+      "slug": "murray-city",
+      "county": "Hocking County",
+      "lat": 39.511389,
+      "lng": -82.163611
+    },
+    {
+      "name": "Nankin",
+      "slug": "nankin",
+      "county": "Ashland County",
+      "lat": 40.921389,
+      "lng": -82.281944
+    },
+    {
+      "name": "Napoleon",
+      "slug": "napoleon",
+      "county": "Henry County",
+      "lat": 41.390969,
+      "lng": -84.143271
+    },
+    {
+      "name": "Nashport",
+      "slug": "nashport",
+      "county": "Muskingum County",
+      "lat": 40.038588,
+      "lng": -82.09976
+    },
+    {
+      "name": "Nashville",
+      "slug": "nashville",
+      "county": "Holmes County",
+      "lat": 40.596111,
+      "lng": -82.112222
+    },
+    {
+      "name": "Navarre",
+      "slug": "navarre",
+      "county": "Stark County",
+      "lat": 40.720405,
+      "lng": -81.533824
+    },
+    {
+      "name": "Neapolis",
+      "slug": "neapolis",
+      "county": "Lucas County",
+      "lat": 41.492778,
+      "lng": -83.873333
+    },
+    {
+      "name": "Neffs",
+      "slug": "neffs",
+      "county": "Belmont County",
+      "lat": 40.027222,
+      "lng": -80.815278
+    },
+    {
+      "name": "Negley",
+      "slug": "negley",
+      "county": "Columbiana County",
+      "lat": 40.774601,
+      "lng": -80.564497
+    },
+    {
+      "name": "Nelsonville",
+      "slug": "nelsonville",
+      "county": "Athens County",
+      "lat": 39.455635,
+      "lng": -82.230883
+    },
+    {
+      "name": "Nevada",
+      "slug": "nevada",
+      "county": "Wyandot County",
+      "lat": 40.825946,
+      "lng": -83.126567
+    },
+    {
+      "name": "Neville",
+      "slug": "neville",
+      "county": "Clermont County",
+      "lat": 38.81,
+      "lng": -84.212222
+    },
+    {
+      "name": "New Albany",
+      "slug": "new-albany",
+      "county": "Franklin County",
+      "lat": 40.084686,
+      "lng": -82.798793
+    },
+    {
+      "name": "New Athens",
+      "slug": "new-athens",
+      "county": "Harrison County",
+      "lat": 40.184722,
+      "lng": -80.995833
+    },
+    {
+      "name": "New Bavaria",
+      "slug": "new-bavaria",
+      "county": "Henry County",
+      "lat": 41.208649,
+      "lng": -84.191336
+    },
+    {
+      "name": "New Bloomington",
+      "slug": "new-bloomington",
+      "county": "Marion County",
+      "lat": 40.607301,
+      "lng": -83.322351
+    },
+    {
+      "name": "New Bremen",
+      "slug": "new-bremen",
+      "county": "Auglaize County",
+      "lat": 40.438917,
+      "lng": -84.3821
+    },
+    {
+      "name": "New Carlisle",
+      "slug": "new-carlisle",
+      "county": "Clark County",
+      "lat": 39.930025,
+      "lng": -84.021704
+    },
+    {
+      "name": "New Concord",
+      "slug": "new-concord",
+      "county": "Muskingum County",
+      "lat": 40.008798,
+      "lng": -81.738727
+    },
+    {
+      "name": "New Hampshire",
+      "slug": "new-hampshire",
+      "county": "Auglaize County",
+      "lat": 40.556111,
+      "lng": -83.952778
+    },
+    {
+      "name": "New Haven",
+      "slug": "new-haven",
+      "county": "Huron County",
+      "lat": 41.031667,
+      "lng": -82.681667
+    },
+    {
+      "name": "New Holland",
+      "slug": "new-holland",
+      "county": "Pickaway County",
+      "lat": 39.558897,
+      "lng": -83.250429
+    },
+    {
+      "name": "New Knoxville",
+      "slug": "new-knoxville",
+      "county": "Auglaize County",
+      "lat": 40.50386,
+      "lng": -84.311797
+    },
+    {
+      "name": "New Lebanon",
+      "slug": "new-lebanon",
+      "county": "Montgomery County",
+      "lat": 39.739798,
+      "lng": -84.395591
+    },
+    {
+      "name": "New Lexington",
+      "slug": "new-lexington",
+      "county": "Perry County",
+      "lat": 39.717438,
+      "lng": -82.201884
+    },
+    {
+      "name": "New London",
+      "slug": "new-london",
+      "county": "Huron County",
+      "lat": 41.090575,
+      "lng": -82.396588
+    },
+    {
+      "name": "New Madison",
+      "slug": "new-madison",
+      "county": "Darke County",
+      "lat": 39.968711,
+      "lng": -84.722211
+    },
+    {
+      "name": "New Marshfield",
+      "slug": "new-marshfield",
+      "county": "Athens County",
+      "lat": 39.338295,
+      "lng": -82.222513
+    },
+    {
+      "name": "New Matamoras",
+      "slug": "new-matamoras",
+      "county": "Washington County",
+      "lat": 39.528819,
+      "lng": -81.093998
+    },
+    {
+      "name": "New Middletown",
+      "slug": "new-middletown",
+      "county": "Mahoning County",
+      "lat": 40.964607,
+      "lng": -80.553415
+    },
+    {
+      "name": "New Paris",
+      "slug": "new-paris",
+      "county": "Preble County",
+      "lat": 39.861718,
+      "lng": -84.779337
+    },
+    {
+      "name": "New Philadelphia",
+      "slug": "new-philadelphia",
+      "county": "Tuscarawas County",
+      "lat": 40.484539,
+      "lng": -81.435827
+    },
+    {
+      "name": "New Plymouth",
+      "slug": "new-plymouth",
+      "county": "Vinton County",
+      "lat": 39.388421,
+      "lng": -82.389172
+    },
+    {
+      "name": "New Richmond",
+      "slug": "new-richmond",
+      "county": "Clermont County",
+      "lat": 38.953663,
+      "lng": -84.237903
+    },
+    {
+      "name": "New Riegel",
+      "slug": "new-riegel",
+      "county": "Seneca County",
+      "lat": 41.036058,
+      "lng": -83.241807
+    },
+    {
+      "name": "New Rumley",
+      "slug": "new-rumley",
+      "county": "Harrison County",
+      "lat": 40.401667,
+      "lng": -81.031111
+    },
+    {
+      "name": "New Springfield",
+      "slug": "new-springfield",
+      "county": "Mahoning County",
+      "lat": 40.926517,
+      "lng": -80.585585
+    },
+    {
+      "name": "New Straitsville",
+      "slug": "new-straitsville",
+      "county": "Perry County",
+      "lat": 39.586872,
+      "lng": -82.248804
+    },
+    {
+      "name": "New Vienna",
+      "slug": "new-vienna",
+      "county": "Clinton County",
+      "lat": 39.332058,
+      "lng": -83.688171
+    },
+    {
+      "name": "New Washington",
+      "slug": "new-washington",
+      "county": "Crawford County",
+      "lat": 40.957076,
+      "lng": -82.850359
+    },
+    {
+      "name": "New Waterford",
+      "slug": "new-waterford",
+      "county": "Columbiana County",
+      "lat": 40.848941,
+      "lng": -80.620855
+    },
+    {
+      "name": "New Weston",
+      "slug": "new-weston",
+      "county": "Darke County",
+      "lat": 40.334923,
+      "lng": -84.630792
+    },
+    {
+      "name": "Newark",
+      "slug": "newark",
+      "county": "Licking County",
+      "lat": 40.072429,
+      "lng": -82.404565
+    },
+    {
+      "name": "Newbury",
+      "slug": "newbury",
+      "county": "Geauga County",
+      "lat": 41.475022,
+      "lng": -81.23452
+    },
+    {
+      "name": "Newcomerstown",
+      "slug": "newcomerstown",
+      "county": "Tuscarawas County",
+      "lat": 40.273895,
+      "lng": -81.593969
+    },
+    {
+      "name": "Newport",
+      "slug": "newport",
+      "county": "Washington County",
+      "lat": 39.39711,
+      "lng": -81.240175
+    },
+    {
+      "name": "Newton Falls",
+      "slug": "newton-falls",
+      "county": "Trumbull County",
+      "lat": 41.191047,
+      "lng": -80.970135
+    },
+    {
+      "name": "Newtonsville",
+      "slug": "newtonsville",
+      "county": "Clermont County",
+      "lat": 39.181944,
+      "lng": -84.086389
+    },
+    {
+      "name": "Ney",
+      "slug": "ney",
+      "county": "Defiance County",
+      "lat": 41.378083,
+      "lng": -84.526921
+    },
+    {
+      "name": "Niles",
+      "slug": "niles",
+      "county": "Trumbull County",
+      "lat": 41.182414,
+      "lng": -80.755775
+    },
+    {
+      "name": "North Baltimore",
+      "slug": "north-baltimore",
+      "county": "Wood County",
+      "lat": 41.186703,
+      "lng": -83.680581
+    },
+    {
+      "name": "North Bend",
+      "slug": "north-bend",
+      "county": "Hamilton County",
+      "lat": 39.153605,
+      "lng": -84.727261
+    },
+    {
+      "name": "North Benton",
+      "slug": "north-benton",
+      "county": "Portage County",
+      "lat": 40.987579,
+      "lng": -81.016168
+    },
+    {
+      "name": "North Bloomfield",
+      "slug": "north-bloomfield",
+      "county": "Trumbull County",
+      "lat": 41.456887,
+      "lng": -80.806835
+    },
+    {
+      "name": "North Canton",
+      "slug": "north-canton",
+      "county": "Stark County",
+      "lat": 40.889919,
+      "lng": -81.413464
+    },
+    {
+      "name": "North Fairfield",
+      "slug": "north-fairfield",
+      "county": "Huron County",
+      "lat": 41.102987,
+      "lng": -82.599801
+    },
+    {
+      "name": "North Georgetown",
+      "slug": "north-georgetown",
+      "county": "Columbiana County",
+      "lat": 40.843056,
+      "lng": -80.986111
+    },
+    {
+      "name": "North Hampton",
+      "slug": "north-hampton",
+      "county": "Clark County",
+      "lat": 39.99,
+      "lng": -83.94
+    },
+    {
+      "name": "North Jackson",
+      "slug": "north-jackson",
+      "county": "Mahoning County",
+      "lat": 41.088044,
+      "lng": -80.86225
+    },
+    {
+      "name": "North Kingsville",
+      "slug": "north-kingsville",
+      "county": "Ashtabula County",
+      "lat": 41.905833,
+      "lng": -80.690556
+    },
+    {
+      "name": "North Lawrence",
+      "slug": "north-lawrence",
+      "county": "Stark County",
+      "lat": 40.838652,
+      "lng": -81.629946
+    },
+    {
+      "name": "North Lewisburg",
+      "slug": "north-lewisburg",
+      "county": "Champaign County",
+      "lat": 40.222871,
+      "lng": -83.561476
+    },
+    {
+      "name": "North Lima",
+      "slug": "north-lima",
+      "county": "Mahoning County",
+      "lat": 40.964866,
+      "lng": -80.654911
+    },
+    {
+      "name": "North Olmsted",
+      "slug": "north-olmsted",
+      "county": "Cuyahoga County",
+      "lat": 41.420129,
+      "lng": -81.913056
+    },
+    {
+      "name": "North Ridgeville",
+      "slug": "north-ridgeville",
+      "county": "Lorain County",
+      "lat": 41.396432,
+      "lng": -82.003323
+    },
+    {
+      "name": "North Robinson",
+      "slug": "north-robinson",
+      "county": "Crawford County",
+      "lat": 40.7925,
+      "lng": -82.857222
+    },
+    {
+      "name": "North Royalton",
+      "slug": "north-royalton",
+      "county": "Cuyahoga County",
+      "lat": 41.323164,
+      "lng": -81.745657
+    },
+    {
+      "name": "North Star",
+      "slug": "north-star",
+      "county": "Darke County",
+      "lat": 40.324722,
+      "lng": -84.570556
+    },
+    {
+      "name": "Northfield",
+      "slug": "northfield",
+      "county": "Summit County",
+      "lat": 41.320821,
+      "lng": -81.542943
+    },
+    {
+      "name": "Northwood",
+      "slug": "northwood",
+      "county": "Wood County",
+      "lat": 41.607986,
+      "lng": -83.48056
+    },
+    {
+      "name": "Norwalk",
+      "slug": "norwalk",
+      "county": "Huron County",
+      "lat": 41.240314,
+      "lng": -82.60785
+    },
+    {
+      "name": "Norwich",
+      "slug": "norwich",
+      "county": "Muskingum County",
+      "lat": 39.993438,
+      "lng": -81.802425
+    },
+    {
+      "name": "Nova",
+      "slug": "nova",
+      "county": "Ashland County",
+      "lat": 41.028215,
+      "lng": -82.338439
+    },
+    {
+      "name": "Novelty",
+      "slug": "novelty",
+      "county": "Geauga County",
+      "lat": 41.476288,
+      "lng": -81.334228
+    },
+    {
+      "name": "Oak Harbor",
+      "slug": "oak-harbor",
+      "county": "Ottawa County",
+      "lat": 41.523556,
+      "lng": -83.127764
+    },
+    {
+      "name": "Oak Hill",
+      "slug": "oak-hill",
+      "county": "Jackson County",
+      "lat": 38.891559,
+      "lng": -82.588343
+    },
+    {
+      "name": "Oakwood",
+      "slug": "oakwood",
+      "county": "Paulding County",
+      "lat": 41.090788,
+      "lng": -84.396923
+    },
+    {
+      "name": "Oberlin",
+      "slug": "oberlin",
+      "county": "Lorain County",
+      "lat": 41.28987,
+      "lng": -82.222863
+    },
+    {
+      "name": "Oceola",
+      "slug": "oceola",
+      "county": "Crawford County",
+      "lat": 40.844722,
+      "lng": -83.093889
+    },
+    {
+      "name": "Ohio City",
+      "slug": "ohio-city",
+      "county": "Van Wert County",
+      "lat": 40.785428,
+      "lng": -84.673063
+    },
+    {
+      "name": "Okeana",
+      "slug": "okeana",
+      "county": "Butler County",
+      "lat": 39.353732,
+      "lng": -84.776149
+    },
+    {
+      "name": "Okolona",
+      "slug": "okolona",
+      "county": "Henry County",
+      "lat": 41.392222,
+      "lng": -84.125278
+    },
+    {
+      "name": "Old Fort",
+      "slug": "old-fort",
+      "county": "Seneca County",
+      "lat": 41.24,
+      "lng": -83.15
+    },
+    {
+      "name": "Old Washington",
+      "slug": "old-washington",
+      "county": "Guernsey County",
+      "lat": 40.038611,
+      "lng": -81.444722
+    },
+    {
+      "name": "Olmsted Falls",
+      "slug": "olmsted-falls",
+      "county": "Cuyahoga County",
+      "lat": 41.373351,
+      "lng": -81.915769
+    },
+    {
+      "name": "Ontario",
+      "slug": "ontario",
+      "county": "Richland County",
+      "lat": 40.759444,
+      "lng": -82.590278
+    },
+    {
+      "name": "Orangeville",
+      "slug": "orangeville",
+      "county": "Trumbull County",
+      "lat": 41.339167,
+      "lng": -80.519167
+    },
+    {
+      "name": "Oregon",
+      "slug": "oregon",
+      "county": "Lucas County",
+      "lat": 41.641842,
+      "lng": -83.471366
+    },
+    {
+      "name": "Oregonia",
+      "slug": "oregonia",
+      "county": "Warren County",
+      "lat": 39.414479,
+      "lng": -84.051136
+    },
+    {
+      "name": "Orient",
+      "slug": "orient",
+      "county": "Pickaway County",
+      "lat": 39.795386,
+      "lng": -83.154317
+    },
+    {
+      "name": "Orrville",
+      "slug": "orrville",
+      "county": "Wayne County",
+      "lat": 40.845836,
+      "lng": -81.774109
+    },
+    {
+      "name": "Orwell",
+      "slug": "orwell",
+      "county": "Ashtabula County",
+      "lat": 41.533456,
+      "lng": -80.839671
+    },
+    {
+      "name": "Osgood",
+      "slug": "osgood",
+      "county": "Darke County",
+      "lat": 40.339722,
+      "lng": -84.495278
+    },
+    {
+      "name": "Ostrander",
+      "slug": "ostrander",
+      "county": "Delaware County",
+      "lat": 40.273971,
+      "lng": -83.197813
+    },
+    {
+      "name": "Ottawa",
+      "slug": "ottawa",
+      "county": "Putnam County",
+      "lat": 41.029747,
+      "lng": -84.047293
+    },
+    {
+      "name": "Ottoville",
+      "slug": "ottoville",
+      "county": "Putnam County",
+      "lat": 40.937218,
+      "lng": -84.347392
+    },
+    {
+      "name": "Otway",
+      "slug": "otway",
+      "county": "Scioto County",
+      "lat": 38.85203,
+      "lng": -83.222172
+    },
+    {
+      "name": "Overpeck",
+      "slug": "overpeck",
+      "county": "Butler County",
+      "lat": 39.450833,
+      "lng": -84.514444
+    },
+    {
+      "name": "Owensville",
+      "slug": "owensville",
+      "county": "Clermont County",
+      "lat": 39.1225,
+      "lng": -84.135833
+    },
+    {
+      "name": "Oxford",
+      "slug": "oxford",
+      "county": "Butler County",
+      "lat": 39.503838,
+      "lng": -84.738518
+    },
+    {
+      "name": "Painesville",
+      "slug": "painesville",
+      "county": "Lake County",
+      "lat": 41.714014,
+      "lng": -81.243665
+    },
+    {
+      "name": "Palestine",
+      "slug": "palestine",
+      "county": "Darke County",
+      "lat": 40.049444,
+      "lng": -84.743333
+    },
+    {
+      "name": "Pandora",
+      "slug": "pandora",
+      "county": "Putnam County",
+      "lat": 40.95087,
+      "lng": -83.952073
+    },
+    {
+      "name": "Paris",
+      "slug": "paris",
+      "county": "Stark County",
+      "lat": 40.801413,
+      "lng": -81.15399
+    },
+    {
+      "name": "Parkman",
+      "slug": "parkman",
+      "county": "Geauga County",
+      "lat": 41.370556,
+      "lng": -81.065278
+    },
+    {
+      "name": "Pataskala",
+      "slug": "pataskala",
+      "county": "Licking County",
+      "lat": 40.000925,
+      "lng": -82.668656
+    },
+    {
+      "name": "Patriot",
+      "slug": "patriot",
+      "county": "Gallia County",
+      "lat": 38.77702,
+      "lng": -82.427491
+    },
+    {
+      "name": "Paulding",
+      "slug": "paulding",
+      "county": "Paulding County",
+      "lat": 41.141016,
+      "lng": -84.572227
+    },
+    {
+      "name": "Payne",
+      "slug": "payne",
+      "county": "Paulding County",
+      "lat": 41.08069,
+      "lng": -84.734127
+    },
+    {
+      "name": "Pedro",
+      "slug": "pedro",
+      "county": "Lawrence County",
+      "lat": 38.650323,
+      "lng": -82.647722
+    },
+    {
+      "name": "Peebles",
+      "slug": "peebles",
+      "county": "Adams County",
+      "lat": 38.986885,
+      "lng": -83.368698
+    },
+    {
+      "name": "Pemberton",
+      "slug": "pemberton",
+      "county": "Shelby County",
+      "lat": 40.294722,
+      "lng": -84.0325
+    },
+    {
+      "name": "Pemberville",
+      "slug": "pemberville",
+      "county": "Wood County",
+      "lat": 41.402258,
+      "lng": -83.473642
+    },
+    {
+      "name": "Peninsula",
+      "slug": "peninsula",
+      "county": "Summit County",
+      "lat": 41.225579,
+      "lng": -81.540013
+    },
+    {
+      "name": "Perry",
+      "slug": "perry",
+      "county": "Lake County",
+      "lat": 41.767916,
+      "lng": -81.143312
+    },
+    {
+      "name": "Perrysburg",
+      "slug": "perrysburg",
+      "county": "Wood County",
+      "lat": 41.542926,
+      "lng": -83.592727
+    },
+    {
+      "name": "Perrysville",
+      "slug": "perrysville",
+      "county": "Ashland County",
+      "lat": 40.660626,
+      "lng": -82.321307
+    },
+    {
+      "name": "Petersburg",
+      "slug": "petersburg",
+      "county": "Mahoning County",
+      "lat": 40.904861,
+      "lng": -80.540031
+    },
+    {
+      "name": "Pettisville",
+      "slug": "pettisville",
+      "county": "Fulton County",
+      "lat": 41.530556,
+      "lng": -84.229722
+    },
+    {
+      "name": "Phillipsburg",
+      "slug": "phillipsburg",
+      "county": "Montgomery County",
+      "lat": 39.904444,
+      "lng": -84.401667
+    },
+    {
+      "name": "Philo",
+      "slug": "philo",
+      "county": "Muskingum County",
+      "lat": 39.845773,
+      "lng": -81.917479
+    },
+    {
+      "name": "Pickerington",
+      "slug": "pickerington",
+      "county": "Fairfield County",
+      "lat": 39.906062,
+      "lng": -82.756267
+    },
+    {
+      "name": "Piedmont",
+      "slug": "piedmont",
+      "county": "Belmont County",
+      "lat": 40.150716,
+      "lng": -81.214494
+    },
+    {
+      "name": "Pierpont",
+      "slug": "pierpont",
+      "county": "Ashtabula County",
+      "lat": 41.767661,
+      "lng": -80.574114
+    },
+    {
+      "name": "Piketon",
+      "slug": "piketon",
+      "county": "Pike County",
+      "lat": 39.040196,
+      "lng": -83.076742
+    },
+    {
+      "name": "Piney Fork",
+      "slug": "piney-fork",
+      "county": "Jefferson County",
+      "lat": 40.207778,
+      "lng": -80.760556
+    },
+    {
+      "name": "Pioneer",
+      "slug": "pioneer",
+      "county": "Williams County",
+      "lat": 41.665619,
+      "lng": -84.536324
+    },
+    {
+      "name": "Piqua",
+      "slug": "piqua",
+      "county": "Miami County",
+      "lat": 40.148621,
+      "lng": -84.253053
+    },
+    {
+      "name": "Pitsburg",
+      "slug": "pitsburg",
+      "county": "Darke County",
+      "lat": 39.9875,
+      "lng": -84.4875
+    },
+    {
+      "name": "Plain City",
+      "slug": "plain-city",
+      "county": "Madison County",
+      "lat": 40.097356,
+      "lng": -83.269049
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Coshocton County",
+      "lat": 40.209444,
+      "lng": -81.719722
+    },
+    {
+      "name": "Pleasant City",
+      "slug": "pleasant-city",
+      "county": "Guernsey County",
+      "lat": 39.909514,
+      "lng": -81.55797
+    },
+    {
+      "name": "Pleasant Hill",
+      "slug": "pleasant-hill",
+      "county": "Miami County",
+      "lat": 40.053136,
+      "lng": -84.343634
+    },
+    {
+      "name": "Pleasant Plain",
+      "slug": "pleasant-plain",
+      "county": "Warren County",
+      "lat": 39.288382,
+      "lng": -84.096736
+    },
+    {
+      "name": "Pleasantville",
+      "slug": "pleasantville",
+      "county": "Fairfield County",
+      "lat": 39.822684,
+      "lng": -82.504268
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Huron County",
+      "lat": 41.00031,
+      "lng": -82.663492
+    },
+    {
+      "name": "Polk",
+      "slug": "polk",
+      "county": "Ashland County",
+      "lat": 40.934293,
+      "lng": -82.212587
+    },
+    {
+      "name": "Pomeroy",
+      "slug": "pomeroy",
+      "county": "Meigs County",
+      "lat": 39.060729,
+      "lng": -82.033145
+    },
+    {
+      "name": "Port Clinton",
+      "slug": "port-clinton",
+      "county": "Ottawa County",
+      "lat": 41.521535,
+      "lng": -82.909368
+    },
+    {
+      "name": "Port Jefferson",
+      "slug": "port-jefferson",
+      "county": "Shelby County",
+      "lat": 40.328611,
+      "lng": -84.094444
+    },
+    {
+      "name": "Port Washington",
+      "slug": "port-washington",
+      "county": "Tuscarawas County",
+      "lat": 40.340359,
+      "lng": -81.521518
+    },
+    {
+      "name": "Port William",
+      "slug": "port-william",
+      "county": "Clinton County",
+      "lat": 39.551944,
+      "lng": -83.786389
+    },
+    {
+      "name": "Portage",
+      "slug": "portage",
+      "county": "Wood County",
+      "lat": 41.312702,
+      "lng": -83.614299
+    },
+    {
+      "name": "Portland",
+      "slug": "portland",
+      "county": "Meigs County",
+      "lat": 38.999919,
+      "lng": -81.813548
+    },
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "county": "Scioto County",
+      "lat": 38.757252,
+      "lng": -82.94864
+    },
+    {
+      "name": "Potsdam",
+      "slug": "potsdam",
+      "county": "Miami County",
+      "lat": 39.963333,
+      "lng": -84.4175
+    },
+    {
+      "name": "Powell",
+      "slug": "powell",
+      "county": "Delaware County",
+      "lat": 40.152652,
+      "lng": -83.074921
+    },
+    {
+      "name": "Powhatan Point",
+      "slug": "powhatan-point",
+      "county": "Belmont County",
+      "lat": 39.867935,
+      "lng": -80.8168
+    },
+    {
+      "name": "Proctorville",
+      "slug": "proctorville",
+      "county": "Lawrence County",
+      "lat": 38.463461,
+      "lng": -82.352294
+    },
+    {
+      "name": "Prospect",
+      "slug": "prospect",
+      "county": "Marion County",
+      "lat": 40.472659,
+      "lng": -83.176295
+    },
+    {
+      "name": "Put In Bay",
+      "slug": "put-in-bay",
+      "county": "Ottawa County",
+      "lat": 41.651356,
+      "lng": -82.822593
+    },
+    {
+      "name": "Quaker City",
+      "slug": "quaker-city",
+      "county": "Guernsey County",
+      "lat": 39.986576,
+      "lng": -81.289883
+    },
+    {
+      "name": "Quincy",
+      "slug": "quincy",
+      "county": "Logan County",
+      "lat": 40.287606,
+      "lng": -83.974411
+    },
+    {
+      "name": "Racine",
+      "slug": "racine",
+      "county": "Meigs County",
+      "lat": 38.978551,
+      "lng": -81.925759
+    },
+    {
+      "name": "Radnor",
+      "slug": "radnor",
+      "county": "Delaware County",
+      "lat": 40.391779,
+      "lng": -83.178074
+    },
+    {
+      "name": "Randolph",
+      "slug": "randolph",
+      "county": "Portage County",
+      "lat": 41.032778,
+      "lng": -81.248611
+    },
+    {
+      "name": "Rarden",
+      "slug": "rarden",
+      "county": "Scioto County",
+      "lat": 38.943388,
+      "lng": -83.237337
+    },
+    {
+      "name": "Ravenna",
+      "slug": "ravenna",
+      "county": "Portage County",
+      "lat": 41.164886,
+      "lng": -81.233656
+    },
+    {
+      "name": "Rawson",
+      "slug": "rawson",
+      "county": "Hancock County",
+      "lat": 41.000135,
+      "lng": -83.806951
+    },
+    {
+      "name": "Ray",
+      "slug": "ray",
+      "county": "Vinton County",
+      "lat": 39.207678,
+      "lng": -82.690801
+    },
+    {
+      "name": "Rayland",
+      "slug": "rayland",
+      "county": "Jefferson County",
+      "lat": 40.208274,
+      "lng": -80.712534
+    },
+    {
+      "name": "Raymond",
+      "slug": "raymond",
+      "county": "Union County",
+      "lat": 40.247321,
+      "lng": -83.364927
+    },
+    {
+      "name": "Reedsville",
+      "slug": "reedsville",
+      "county": "Meigs County",
+      "lat": 39.149002,
+      "lng": -81.792433
+    },
+    {
+      "name": "Reesville",
+      "slug": "reesville",
+      "county": "Clinton County",
+      "lat": 39.482222,
+      "lng": -83.676944
+    },
+    {
+      "name": "Reno",
+      "slug": "reno",
+      "county": "Washington County",
+      "lat": 39.378408,
+      "lng": -81.38043
+    },
+    {
+      "name": "Republic",
+      "slug": "republic",
+      "county": "Seneca County",
+      "lat": 41.125876,
+      "lng": -83.019407
+    },
+    {
+      "name": "Reynoldsburg",
+      "slug": "reynoldsburg",
+      "county": "Franklin County",
+      "lat": 39.955145,
+      "lng": -82.803454
+    },
+    {
+      "name": "Richfield",
+      "slug": "richfield",
+      "county": "Summit County",
+      "lat": 41.23712,
+      "lng": -81.646668
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "county": "Jefferson County",
+      "lat": 40.426061,
+      "lng": -80.76128
+    },
+    {
+      "name": "Richmond Dale",
+      "slug": "richmond-dale",
+      "county": "Ross County",
+      "lat": 39.203922,
+      "lng": -82.814913
+    },
+    {
+      "name": "Richwood",
+      "slug": "richwood",
+      "county": "Union County",
+      "lat": 40.43698,
+      "lng": -83.313639
+    },
+    {
+      "name": "Ridgeville Corners",
+      "slug": "ridgeville-corners",
+      "county": "Henry County",
+      "lat": 41.437778,
+      "lng": -84.2575
+    },
+    {
+      "name": "Ridgeway",
+      "slug": "ridgeway",
+      "county": "Hardin County",
+      "lat": 40.520923,
+      "lng": -83.570161
+    },
+    {
+      "name": "Rio Grande",
+      "slug": "rio-grande",
+      "county": "Gallia County",
+      "lat": 38.879444,
+      "lng": -82.380556
+    },
+    {
+      "name": "Ripley",
+      "slug": "ripley",
+      "county": "Brown County",
+      "lat": 38.755095,
+      "lng": -83.822677
+    },
+    {
+      "name": "Risingsun",
+      "slug": "risingsun",
+      "county": "Wood County",
+      "lat": 41.270639,
+      "lng": -83.43259
+    },
+    {
+      "name": "Rittman",
+      "slug": "rittman",
+      "county": "Wayne County",
+      "lat": 40.968381,
+      "lng": -81.782599
+    },
+    {
+      "name": "Robertsville",
+      "slug": "robertsville",
+      "county": "Stark County",
+      "lat": 40.763056,
+      "lng": -81.189722
+    },
+    {
+      "name": "Rock Camp",
+      "slug": "rock-camp",
+      "county": "Lawrence County",
+      "lat": 38.522145,
+      "lng": -82.563832
+    },
+    {
+      "name": "Rock Creek",
+      "slug": "rock-creek",
+      "county": "Ashtabula County",
+      "lat": 41.6651,
+      "lng": -80.885134
+    },
+    {
+      "name": "Rockbridge",
+      "slug": "rockbridge",
+      "county": "Hocking County",
+      "lat": 39.550907,
+      "lng": -82.562572
+    },
+    {
+      "name": "Rockford",
+      "slug": "rockford",
+      "county": "Mercer County",
+      "lat": 40.677077,
+      "lng": -84.664174
+    },
+    {
+      "name": "Rocky Ridge",
+      "slug": "rocky-ridge",
+      "county": "Ottawa County",
+      "lat": 41.533333,
+      "lng": -83.2125
+    },
+    {
+      "name": "Rocky River",
+      "slug": "rocky-river",
+      "county": "Cuyahoga County",
+      "lat": 41.469401,
+      "lng": -81.851246
+    },
+    {
+      "name": "Rogers",
+      "slug": "rogers",
+      "county": "Columbiana County",
+      "lat": 40.778943,
+      "lng": -80.620237
+    },
+    {
+      "name": "Rome",
+      "slug": "rome",
+      "county": "Ashtabula County",
+      "lat": 41.602629,
+      "lng": -80.832075
+    },
+    {
+      "name": "Rootstown",
+      "slug": "rootstown",
+      "county": "Portage County",
+      "lat": 41.099534,
+      "lng": -81.202642
+    },
+    {
+      "name": "Roseville",
+      "slug": "roseville",
+      "county": "Muskingum County",
+      "lat": 39.818656,
+      "lng": -82.079212
+    },
+    {
+      "name": "Rosewood",
+      "slug": "rosewood",
+      "county": "Champaign County",
+      "lat": 40.218889,
+      "lng": -83.960833
+    },
+    {
+      "name": "Ross",
+      "slug": "ross",
+      "county": "Butler County",
+      "lat": 39.312222,
+      "lng": -84.650556
+    },
+    {
+      "name": "Rossburg",
+      "slug": "rossburg",
+      "county": "Darke County",
+      "lat": 40.29465,
+      "lng": -84.626419
+    },
+    {
+      "name": "Rossford",
+      "slug": "rossford",
+      "county": "Wood County",
+      "lat": 41.604908,
+      "lng": -83.563793
+    },
+    {
+      "name": "Roundhead",
+      "slug": "roundhead",
+      "county": "Hardin County",
+      "lat": 40.580337,
+      "lng": -83.848502
+    },
+    {
+      "name": "Rudolph",
+      "slug": "rudolph",
+      "county": "Wood County",
+      "lat": 41.296734,
+      "lng": -83.683212
+    },
+    {
+      "name": "Rushsylvania",
+      "slug": "rushsylvania",
+      "county": "Logan County",
+      "lat": 40.465808,
+      "lng": -83.659789
+    },
+    {
+      "name": "Rushville",
+      "slug": "rushville",
+      "county": "Fairfield County",
+      "lat": 39.767375,
+      "lng": -82.427981
+    },
+    {
+      "name": "Russells Point",
+      "slug": "russells-point",
+      "county": "Logan County",
+      "lat": 40.474956,
+      "lng": -83.879825
+    },
+    {
+      "name": "Russellville",
+      "slug": "russellville",
+      "county": "Brown County",
+      "lat": 38.851128,
+      "lng": -83.762459
+    },
+    {
+      "name": "Russia",
+      "slug": "russia",
+      "county": "Shelby County",
+      "lat": 40.234065,
+      "lng": -84.412255
+    },
+    {
+      "name": "Rutland",
+      "slug": "rutland",
+      "county": "Meigs County",
+      "lat": 39.045653,
+      "lng": -82.121914
+    },
+    {
+      "name": "Sabina",
+      "slug": "sabina",
+      "county": "Clinton County",
+      "lat": 39.490022,
+      "lng": -83.650252
+    },
+    {
+      "name": "Saint Clairsville",
+      "slug": "saint-clairsville",
+      "county": "Belmont County",
+      "lat": 40.083439,
+      "lng": -80.902285
+    },
+    {
+      "name": "Saint Henry",
+      "slug": "saint-henry",
+      "county": "Mercer County",
+      "lat": 40.409138,
+      "lng": -84.633338
+    },
+    {
+      "name": "Saint Johns",
+      "slug": "saint-johns",
+      "county": "Auglaize County",
+      "lat": 40.555833,
+      "lng": -84.083611
+    },
+    {
+      "name": "Saint Louisville",
+      "slug": "saint-louisville",
+      "county": "Licking County",
+      "lat": 40.181776,
+      "lng": -82.356015
+    },
+    {
+      "name": "Saint Marys",
+      "slug": "saint-marys",
+      "county": "Auglaize County",
+      "lat": 40.543988,
+      "lng": -84.394399
+    },
+    {
+      "name": "Saint Paris",
+      "slug": "saint-paris",
+      "county": "Champaign County",
+      "lat": 40.105755,
+      "lng": -83.963062
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "Columbiana County",
+      "lat": 40.900024,
+      "lng": -80.861883
+    },
+    {
+      "name": "Salesville",
+      "slug": "salesville",
+      "county": "Guernsey County",
+      "lat": 40.008146,
+      "lng": -81.372793
+    },
+    {
+      "name": "Salineville",
+      "slug": "salineville",
+      "county": "Columbiana County",
+      "lat": 40.619525,
+      "lng": -80.834977
+    },
+    {
+      "name": "Sandusky",
+      "slug": "sandusky",
+      "county": "Erie County",
+      "lat": 41.434878,
+      "lng": -82.70633
+    },
+    {
+      "name": "Sandyville",
+      "slug": "sandyville",
+      "county": "Tuscarawas County",
+      "lat": 40.640278,
+      "lng": -81.3725
+    },
+    {
+      "name": "Sarahsville",
+      "slug": "sarahsville",
+      "county": "Noble County",
+      "lat": 39.793846,
+      "lng": -81.467825
+    },
+    {
+      "name": "Sardinia",
+      "slug": "sardinia",
+      "county": "Brown County",
+      "lat": 38.983232,
+      "lng": -83.796649
+    },
+    {
+      "name": "Sardis",
+      "slug": "sardis",
+      "county": "Monroe County",
+      "lat": 39.652639,
+      "lng": -80.924308
+    },
+    {
+      "name": "Savannah",
+      "slug": "savannah",
+      "county": "Ashland County",
+      "lat": 40.945382,
+      "lng": -82.344272
+    },
+    {
+      "name": "Scio",
+      "slug": "scio",
+      "county": "Harrison County",
+      "lat": 40.40116,
+      "lng": -81.101577
+    },
+    {
+      "name": "Scioto Furnace",
+      "slug": "scioto-furnace",
+      "county": "Scioto County",
+      "lat": 38.798611,
+      "lng": -82.765
+    },
+    {
+      "name": "Scott",
+      "slug": "scott",
+      "county": "Van Wert County",
+      "lat": 40.989238,
+      "lng": -84.584455
+    },
+    {
+      "name": "Scottown",
+      "slug": "scottown",
+      "county": "Lawrence County",
+      "lat": 38.594034,
+      "lng": -82.396685
+    },
+    {
+      "name": "Seaman",
+      "slug": "seaman",
+      "county": "Adams County",
+      "lat": 38.962072,
+      "lng": -83.593625
+    },
+    {
+      "name": "Sebring",
+      "slug": "sebring",
+      "county": "Mahoning County",
+      "lat": 40.922694,
+      "lng": -81.023191
+    },
+    {
+      "name": "Sedalia",
+      "slug": "sedalia",
+      "county": "Madison County",
+      "lat": 39.7325,
+      "lng": -83.475278
+    },
+    {
+      "name": "Senecaville",
+      "slug": "senecaville",
+      "county": "Guernsey County",
+      "lat": 39.933719,
+      "lng": -81.458043
+    },
+    {
+      "name": "Seven Mile",
+      "slug": "seven-mile",
+      "county": "Butler County",
+      "lat": 39.48,
+      "lng": -84.551944
+    },
+    {
+      "name": "Seville",
+      "slug": "seville",
+      "county": "Medina County",
+      "lat": 41.022731,
+      "lng": -81.856199
+    },
+    {
+      "name": "Shade",
+      "slug": "shade",
+      "county": "Athens County",
+      "lat": 39.212862,
+      "lng": -82.021755
+    },
+    {
+      "name": "Shadyside",
+      "slug": "shadyside",
+      "county": "Belmont County",
+      "lat": 39.967497,
+      "lng": -80.764309
+    },
+    {
+      "name": "Shandon",
+      "slug": "shandon",
+      "county": "Butler County",
+      "lat": 39.326389,
+      "lng": -84.714722
+    },
+    {
+      "name": "Sharon Center",
+      "slug": "sharon-center",
+      "county": "Medina County",
+      "lat": 41.099722,
+      "lng": -81.735833
+    },
+    {
+      "name": "Sharpsburg",
+      "slug": "sharpsburg",
+      "county": "Athens County",
+      "lat": 39.435833,
+      "lng": -81.911667
+    },
+    {
+      "name": "Shauck",
+      "slug": "shauck",
+      "county": "Morrow County",
+      "lat": 40.620833,
+      "lng": -82.661944
+    },
+    {
+      "name": "Shawnee",
+      "slug": "shawnee",
+      "county": "Perry County",
+      "lat": 39.610984,
+      "lng": -82.208459
+    },
+    {
+      "name": "Sheffield Lake",
+      "slug": "sheffield-lake",
+      "county": "Lorain County",
+      "lat": 41.482276,
+      "lng": -82.096497
+    },
+    {
+      "name": "Shelby",
+      "slug": "shelby",
+      "county": "Richland County",
+      "lat": 40.878432,
+      "lng": -82.654949
+    },
+    {
+      "name": "Sherrodsville",
+      "slug": "sherrodsville",
+      "county": "Carroll County",
+      "lat": 40.518418,
+      "lng": -81.233945
+    },
+    {
+      "name": "Sherwood",
+      "slug": "sherwood",
+      "county": "Defiance County",
+      "lat": 41.294593,
+      "lng": -84.541674
+    },
+    {
+      "name": "Shiloh",
+      "slug": "shiloh",
+      "county": "Richland County",
+      "lat": 40.934015,
+      "lng": -82.522155
+    },
+    {
+      "name": "Shreve",
+      "slug": "shreve",
+      "county": "Wayne County",
+      "lat": 40.692584,
+      "lng": -82.032451
+    },
+    {
+      "name": "Sidney",
+      "slug": "sidney",
+      "county": "Shelby County",
+      "lat": 40.287357,
+      "lng": -84.162223
+    },
+    {
+      "name": "Sinking Spring",
+      "slug": "sinking-spring",
+      "county": "Highland County",
+      "lat": 39.072778,
+      "lng": -83.386944
+    },
+    {
+      "name": "Smithfield",
+      "slug": "smithfield",
+      "county": "Jefferson County",
+      "lat": 40.270833,
+      "lng": -80.781667
+    },
+    {
+      "name": "Smithville",
+      "slug": "smithville",
+      "county": "Wayne County",
+      "lat": 40.859228,
+      "lng": -81.863328
+    },
+    {
+      "name": "Solon",
+      "slug": "solon",
+      "county": "Cuyahoga County",
+      "lat": 41.386597,
+      "lng": -81.442082
+    },
+    {
+      "name": "Somerdale",
+      "slug": "somerdale",
+      "county": "Tuscarawas County",
+      "lat": 40.566389,
+      "lng": -81.360833
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "Perry County",
+      "lat": 39.793615,
+      "lng": -82.29911
+    },
+    {
+      "name": "Somerville",
+      "slug": "somerville",
+      "county": "Butler County",
+      "lat": 39.555366,
+      "lng": -84.621911
+    },
+    {
+      "name": "South Bloomingville",
+      "slug": "south-bloomingville",
+      "county": "Hocking County",
+      "lat": 39.374145,
+      "lng": -82.639404
+    },
+    {
+      "name": "South Charleston",
+      "slug": "south-charleston",
+      "county": "Clark County",
+      "lat": 39.846939,
+      "lng": -83.660787
+    },
+    {
+      "name": "South Lebanon",
+      "slug": "south-lebanon",
+      "county": "Warren County",
+      "lat": 39.371451,
+      "lng": -84.210783
+    },
+    {
+      "name": "South Point",
+      "slug": "south-point",
+      "county": "Lawrence County",
+      "lat": 38.433856,
+      "lng": -82.552883
+    },
+    {
+      "name": "South Salem",
+      "slug": "south-salem",
+      "county": "Ross County",
+      "lat": 39.302137,
+      "lng": -83.271953
+    },
+    {
+      "name": "South Solon",
+      "slug": "south-solon",
+      "county": "Madison County",
+      "lat": 39.742295,
+      "lng": -83.596984
+    },
+    {
+      "name": "South Vienna",
+      "slug": "south-vienna",
+      "county": "Clark County",
+      "lat": 39.94732,
+      "lng": -83.615704
+    },
+    {
+      "name": "South Webster",
+      "slug": "south-webster",
+      "county": "Scioto County",
+      "lat": 38.819967,
+      "lng": -82.720151
+    },
+    {
+      "name": "Southington",
+      "slug": "southington",
+      "county": "Trumbull County",
+      "lat": 41.298312,
+      "lng": -80.948474
+    },
+    {
+      "name": "Sparta",
+      "slug": "sparta",
+      "county": "Morrow County",
+      "lat": 40.373492,
+      "lng": -82.697034
+    },
+    {
+      "name": "Spencer",
+      "slug": "spencer",
+      "county": "Medina County",
+      "lat": 41.098287,
+      "lng": -82.099907
+    },
+    {
+      "name": "Spencerville",
+      "slug": "spencerville",
+      "county": "Allen County",
+      "lat": 40.703767,
+      "lng": -84.34125
+    },
+    {
+      "name": "Spring Valley",
+      "slug": "spring-valley",
+      "county": "Greene County",
+      "lat": 39.602761,
+      "lng": -84.101583
+    },
+    {
+      "name": "Springboro",
+      "slug": "springboro",
+      "county": "Warren County",
+      "lat": 39.562975,
+      "lng": -84.228774
+    },
+    {
+      "name": "Springfield",
+      "slug": "springfield",
+      "county": "Clark County",
+      "lat": 39.924167,
+      "lng": -83.808889
+    },
+    {
+      "name": "Stafford",
+      "slug": "stafford",
+      "county": "Monroe County",
+      "lat": 39.713333,
+      "lng": -81.276389
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Wayne County",
+      "lat": 40.953263,
+      "lng": -81.851914
+    },
+    {
+      "name": "Steubenville",
+      "slug": "steubenville",
+      "county": "Jefferson County",
+      "lat": 40.370638,
+      "lng": -80.66115
+    },
+    {
+      "name": "Stewart",
+      "slug": "stewart",
+      "county": "Athens County",
+      "lat": 39.32133,
+      "lng": -81.892884
+    },
+    {
+      "name": "Stillwater",
+      "slug": "stillwater",
+      "county": "Tuscarawas County",
+      "lat": 40.323333,
+      "lng": -81.308611
+    },
+    {
+      "name": "Stockdale",
+      "slug": "stockdale",
+      "county": "Pike County",
+      "lat": 38.956389,
+      "lng": -82.858333
+    },
+    {
+      "name": "Stockport",
+      "slug": "stockport",
+      "county": "Morgan County",
+      "lat": 39.561434,
+      "lng": -81.825251
+    },
+    {
+      "name": "Stone Creek",
+      "slug": "stone-creek",
+      "county": "Tuscarawas County",
+      "lat": 40.405188,
+      "lng": -81.589018
+    },
+    {
+      "name": "Stony Ridge",
+      "slug": "stony-ridge",
+      "county": "Wood County",
+      "lat": 41.510278,
+      "lng": -83.507222
+    },
+    {
+      "name": "Stout",
+      "slug": "stout",
+      "county": "Adams County",
+      "lat": 38.654588,
+      "lng": -83.208984
+    },
+    {
+      "name": "Stoutsville",
+      "slug": "stoutsville",
+      "county": "Fairfield County",
+      "lat": 39.60672,
+      "lng": -82.819279
+    },
+    {
+      "name": "Stow",
+      "slug": "stow",
+      "county": "Summit County",
+      "lat": 41.174808,
+      "lng": -81.438017
+    },
+    {
+      "name": "Strasburg",
+      "slug": "strasburg",
+      "county": "Tuscarawas County",
+      "lat": 40.60028,
+      "lng": -81.536646
+    },
+    {
+      "name": "Stratton",
+      "slug": "stratton",
+      "county": "Jefferson County",
+      "lat": 40.521667,
+      "lng": -80.626389
+    },
+    {
+      "name": "Streetsboro",
+      "slug": "streetsboro",
+      "county": "Portage County",
+      "lat": 41.249099,
+      "lng": -81.338298
+    },
+    {
+      "name": "Strongsville",
+      "slug": "strongsville",
+      "county": "Cuyahoga County",
+      "lat": 41.313218,
+      "lng": -81.828457
+    },
+    {
+      "name": "Struthers",
+      "slug": "struthers",
+      "county": "Mahoning County",
+      "lat": 41.050847,
+      "lng": -80.598487
+    },
+    {
+      "name": "Stryker",
+      "slug": "stryker",
+      "county": "Williams County",
+      "lat": 41.486123,
+      "lng": -84.408914
+    },
+    {
+      "name": "Sugar Grove",
+      "slug": "sugar-grove",
+      "county": "Fairfield County",
+      "lat": 39.627699,
+      "lng": -82.532113
+    },
+    {
+      "name": "Sugarcreek",
+      "slug": "sugarcreek",
+      "county": "Tuscarawas County",
+      "lat": 40.514785,
+      "lng": -81.660356
+    },
+    {
+      "name": "Sullivan",
+      "slug": "sullivan",
+      "county": "Ashland County",
+      "lat": 41.036818,
+      "lng": -82.217217
+    },
+    {
+      "name": "Sulphur Springs",
+      "slug": "sulphur-springs",
+      "county": "Crawford County",
+      "lat": 40.870833,
+      "lng": -82.877222
+    },
+    {
+      "name": "Summerfield",
+      "slug": "summerfield",
+      "county": "Noble County",
+      "lat": 39.803597,
+      "lng": -81.331993
+    },
+    {
+      "name": "Summit Station",
+      "slug": "summit-station",
+      "county": "Licking County",
+      "lat": 39.996944,
+      "lng": -82.752222
+    },
+    {
+      "name": "Summitville",
+      "slug": "summitville",
+      "county": "Columbiana County",
+      "lat": 40.678056,
+      "lng": -80.886389
+    },
+    {
+      "name": "Sunbury",
+      "slug": "sunbury",
+      "county": "Delaware County",
+      "lat": 40.265499,
+      "lng": -82.851051
+    },
+    {
+      "name": "Swanton",
+      "slug": "swanton",
+      "county": "Fulton County",
+      "lat": 41.594497,
+      "lng": -83.871821
+    },
+    {
+      "name": "Sycamore",
+      "slug": "sycamore",
+      "county": "Wyandot County",
+      "lat": 40.941299,
+      "lng": -83.149176
+    },
+    {
+      "name": "Sycamore Valley",
+      "slug": "sycamore-valley",
+      "county": "Monroe County",
+      "lat": 39.666389,
+      "lng": -81.243611
+    },
+    {
+      "name": "Sylvania",
+      "slug": "sylvania",
+      "county": "Lucas County",
+      "lat": 41.707985,
+      "lng": -83.706825
+    },
+    {
+      "name": "Syracuse",
+      "slug": "syracuse",
+      "county": "Meigs County",
+      "lat": 38.9975,
+      "lng": -81.974167
+    },
+    {
+      "name": "Tallmadge",
+      "slug": "tallmadge",
+      "county": "Summit County",
+      "lat": 41.097492,
+      "lng": -81.425966
+    },
+    {
+      "name": "Tarlton",
+      "slug": "tarlton",
+      "county": "Pickaway County",
+      "lat": 39.555833,
+      "lng": -82.776111
+    },
+    {
+      "name": "Terrace Park",
+      "slug": "terrace-park",
+      "county": "Hamilton County",
+      "lat": 39.160155,
+      "lng": -84.309762
+    },
+    {
+      "name": "The Plains",
+      "slug": "the-plains",
+      "county": "Athens County",
+      "lat": 39.366177,
+      "lng": -82.134148
+    },
+    {
+      "name": "Thompson",
+      "slug": "thompson",
+      "county": "Geauga County",
+      "lat": 41.676189,
+      "lng": -81.057318
+    },
+    {
+      "name": "Thornville",
+      "slug": "thornville",
+      "county": "Perry County",
+      "lat": 39.897364,
+      "lng": -82.407059
+    },
+    {
+      "name": "Thurman",
+      "slug": "thurman",
+      "county": "Gallia County",
+      "lat": 38.898786,
+      "lng": -82.404996
+    },
+    {
+      "name": "Thurston",
+      "slug": "thurston",
+      "county": "Fairfield County",
+      "lat": 39.840278,
+      "lng": -82.546111
+    },
+    {
+      "name": "Tiffin",
+      "slug": "tiffin",
+      "county": "Seneca County",
+      "lat": 41.123822,
+      "lng": -83.184356
+    },
+    {
+      "name": "Tiltonsville",
+      "slug": "tiltonsville",
+      "county": "Jefferson County",
+      "lat": 40.168075,
+      "lng": -80.699647
+    },
+    {
+      "name": "Tipp City",
+      "slug": "tipp-city",
+      "county": "Miami County",
+      "lat": 39.943577,
+      "lng": -84.171501
+    },
+    {
+      "name": "Tippecanoe",
+      "slug": "tippecanoe",
+      "county": "Harrison County",
+      "lat": 40.279748,
+      "lng": -81.291937
+    },
+    {
+      "name": "Tiro",
+      "slug": "tiro",
+      "county": "Crawford County",
+      "lat": 40.880992,
+      "lng": -82.797032
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "county": "Lucas County",
+      "lat": 41.642,
+      "lng": -83.5438
+    },
+    {
+      "name": "Tontogany",
+      "slug": "tontogany",
+      "county": "Wood County",
+      "lat": 41.419167,
+      "lng": -83.740833
+    },
+    {
+      "name": "Toronto",
+      "slug": "toronto",
+      "county": "Jefferson County",
+      "lat": 40.473298,
+      "lng": -80.632504
+    },
+    {
+      "name": "Tremont City",
+      "slug": "tremont-city",
+      "county": "Clark County",
+      "lat": 40.011111,
+      "lng": -83.836111
+    },
+    {
+      "name": "Trenton",
+      "slug": "trenton",
+      "county": "Butler County",
+      "lat": 39.479937,
+      "lng": -84.459769
+    },
+    {
+      "name": "Trimble",
+      "slug": "trimble",
+      "county": "Athens County",
+      "lat": 39.484722,
+      "lng": -82.079167
+    },
+    {
+      "name": "Trinway",
+      "slug": "trinway",
+      "county": "Muskingum County",
+      "lat": 40.141111,
+      "lng": -82.01
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "county": "Miami County",
+      "lat": 40.037394,
+      "lng": -84.203151
+    },
+    {
+      "name": "Tuppers Plains",
+      "slug": "tuppers-plains",
+      "county": "Meigs County",
+      "lat": 39.168611,
+      "lng": -81.846667
+    },
+    {
+      "name": "Tuscarawas",
+      "slug": "tuscarawas",
+      "county": "Tuscarawas County",
+      "lat": 40.394722,
+      "lng": -81.407222
+    },
+    {
+      "name": "Twinsburg",
+      "slug": "twinsburg",
+      "county": "Summit County",
+      "lat": 41.328851,
+      "lng": -81.455912
+    },
+    {
+      "name": "Uhrichsville",
+      "slug": "uhrichsville",
+      "county": "Tuscarawas County",
+      "lat": 40.390502,
+      "lng": -81.337365
+    },
+    {
+      "name": "Union City",
+      "slug": "union-city",
+      "county": "Darke County",
+      "lat": 40.201773,
+      "lng": -84.783209
+    },
+    {
+      "name": "Union Furnace",
+      "slug": "union-furnace",
+      "county": "Hocking County",
+      "lat": 39.461667,
+      "lng": -82.356389
+    },
+    {
+      "name": "Uniontown",
+      "slug": "uniontown",
+      "county": "Stark County",
+      "lat": 40.963694,
+      "lng": -81.421108
+    },
+    {
+      "name": "Unionville",
+      "slug": "unionville",
+      "county": "Ashtabula County",
+      "lat": 41.780833,
+      "lng": -80.989167
+    },
+    {
+      "name": "Unionville Center",
+      "slug": "unionville-center",
+      "county": "Union County",
+      "lat": 40.138333,
+      "lng": -83.34
+    },
+    {
+      "name": "Uniopolis",
+      "slug": "uniopolis",
+      "county": "Auglaize County",
+      "lat": 40.602222,
+      "lng": -84.086667
+    },
+    {
+      "name": "Upper Sandusky",
+      "slug": "upper-sandusky",
+      "county": "Wyandot County",
+      "lat": 40.824876,
+      "lng": -83.297711
+    },
+    {
+      "name": "Urbana",
+      "slug": "urbana",
+      "county": "Champaign County",
+      "lat": 40.106639,
+      "lng": -83.767142
+    },
+    {
+      "name": "Utica",
+      "slug": "utica",
+      "county": "Licking County",
+      "lat": 40.244137,
+      "lng": -82.413459
+    },
+    {
+      "name": "Valley City",
+      "slug": "valley-city",
+      "county": "Medina County",
+      "lat": 41.236806,
+      "lng": -81.924467
+    },
+    {
+      "name": "Van Buren",
+      "slug": "van-buren",
+      "county": "Hancock County",
+      "lat": 41.132691,
+      "lng": -83.647302
+    },
+    {
+      "name": "Van Wert",
+      "slug": "van-wert",
+      "county": "Van Wert County",
+      "lat": 40.868927,
+      "lng": -84.590364
+    },
+    {
+      "name": "Vandalia",
+      "slug": "vandalia",
+      "county": "Montgomery County",
+      "lat": 39.888273,
+      "lng": -84.202266
+    },
+    {
+      "name": "Vanlue",
+      "slug": "vanlue",
+      "county": "Hancock County",
+      "lat": 40.958314,
+      "lng": -83.497062
+    },
+    {
+      "name": "Vaughnsville",
+      "slug": "vaughnsville",
+      "county": "Putnam County",
+      "lat": 40.881667,
+      "lng": -84.150556
+    },
+    {
+      "name": "Venedocia",
+      "slug": "venedocia",
+      "county": "Van Wert County",
+      "lat": 40.768454,
+      "lng": -84.46204
+    },
+    {
+      "name": "Vermilion",
+      "slug": "vermilion",
+      "county": "Erie County",
+      "lat": 41.409989,
+      "lng": -82.355417
+    },
+    {
+      "name": "Verona",
+      "slug": "verona",
+      "county": "Preble County",
+      "lat": 39.903333,
+      "lng": -84.485556
+    },
+    {
+      "name": "Versailles",
+      "slug": "versailles",
+      "county": "Darke County",
+      "lat": 40.227284,
+      "lng": -84.495697
+    },
+    {
+      "name": "Vickery",
+      "slug": "vickery",
+      "county": "Sandusky County",
+      "lat": 41.39099,
+      "lng": -82.898953
+    },
+    {
+      "name": "Vienna",
+      "slug": "vienna",
+      "county": "Trumbull County",
+      "lat": 41.217478,
+      "lng": -80.654998
+    },
+    {
+      "name": "Vincent",
+      "slug": "vincent",
+      "county": "Washington County",
+      "lat": 39.337446,
+      "lng": -81.674265
+    },
+    {
+      "name": "Vinton",
+      "slug": "vinton",
+      "county": "Gallia County",
+      "lat": 38.978338,
+      "lng": -82.357014
+    },
+    {
+      "name": "Wadsworth",
+      "slug": "wadsworth",
+      "county": "Medina County",
+      "lat": 41.038375,
+      "lng": -81.737373
+    },
+    {
+      "name": "Wakefield",
+      "slug": "wakefield",
+      "county": "Pike County",
+      "lat": 38.970278,
+      "lng": -83.02
+    },
+    {
+      "name": "Wakeman",
+      "slug": "wakeman",
+      "county": "Huron County",
+      "lat": 41.263748,
+      "lng": -82.378168
+    },
+    {
+      "name": "Walbridge",
+      "slug": "walbridge",
+      "county": "Wood County",
+      "lat": 41.586067,
+      "lng": -83.493008
+    },
+    {
+      "name": "Waldo",
+      "slug": "waldo",
+      "county": "Marion County",
+      "lat": 40.460544,
+      "lng": -83.070609
+    },
+    {
+      "name": "Walhonding",
+      "slug": "walhonding",
+      "county": "Coshocton County",
+      "lat": 40.362037,
+      "lng": -82.209359
+    },
+    {
+      "name": "Walnut Creek",
+      "slug": "walnut-creek",
+      "county": "Holmes County",
+      "lat": 40.541389,
+      "lng": -81.721944
+    },
+    {
+      "name": "Wapakoneta",
+      "slug": "wapakoneta",
+      "county": "Auglaize County",
+      "lat": 40.568978,
+      "lng": -84.177378
+    },
+    {
+      "name": "Warnock",
+      "slug": "warnock",
+      "county": "Belmont County",
+      "lat": 40.0225,
+      "lng": -80.9375
+    },
+    {
+      "name": "Warren",
+      "slug": "warren",
+      "county": "Trumbull County",
+      "lat": 41.172426,
+      "lng": -80.871806
+    },
+    {
+      "name": "Warsaw",
+      "slug": "warsaw",
+      "county": "Coshocton County",
+      "lat": 40.317243,
+      "lng": -82.055989
+    },
+    {
+      "name": "Washington Court House",
+      "slug": "washington-court-house",
+      "county": "Fayette County",
+      "lat": 39.534346,
+      "lng": -83.438817
+    },
+    {
+      "name": "Washingtonville",
+      "slug": "washingtonville",
+      "county": "Columbiana County",
+      "lat": 40.897331,
+      "lng": -80.763137
+    },
+    {
+      "name": "Waterford",
+      "slug": "waterford",
+      "county": "Washington County",
+      "lat": 39.515904,
+      "lng": -81.655917
+    },
+    {
+      "name": "Waterloo",
+      "slug": "waterloo",
+      "county": "Lawrence County",
+      "lat": 38.718152,
+      "lng": -82.517399
+    },
+    {
+      "name": "Watertown",
+      "slug": "watertown",
+      "county": "Washington County",
+      "lat": 39.465833,
+      "lng": -81.633333
+    },
+    {
+      "name": "Waterville",
+      "slug": "waterville",
+      "county": "Lucas County",
+      "lat": 41.502248,
+      "lng": -83.733142
+    },
+    {
+      "name": "Wauseon",
+      "slug": "wauseon",
+      "county": "Fulton County",
+      "lat": 41.566796,
+      "lng": -84.153745
+    },
+    {
+      "name": "Waverly",
+      "slug": "waverly",
+      "county": "Pike County",
+      "lat": 39.126445,
+      "lng": -83.004874
+    },
+    {
+      "name": "Wayland",
+      "slug": "wayland",
+      "county": "Portage County",
+      "lat": 41.160556,
+      "lng": -81.071389
+    },
+    {
+      "name": "Wayne",
+      "slug": "wayne",
+      "county": "Wood County",
+      "lat": 41.299312,
+      "lng": -83.470065
+    },
+    {
+      "name": "Waynesburg",
+      "slug": "waynesburg",
+      "county": "Stark County",
+      "lat": 40.682881,
+      "lng": -81.265891
+    },
+    {
+      "name": "Waynesfield",
+      "slug": "waynesfield",
+      "county": "Auglaize County",
+      "lat": 40.607185,
+      "lng": -83.958475
+    },
+    {
+      "name": "Waynesville",
+      "slug": "waynesville",
+      "county": "Warren County",
+      "lat": 39.528489,
+      "lng": -84.081518
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "county": "Lorain County",
+      "lat": 41.171178,
+      "lng": -82.226915
+    },
+    {
+      "name": "Wellston",
+      "slug": "wellston",
+      "county": "Jackson County",
+      "lat": 39.118897,
+      "lng": -82.548474
+    },
+    {
+      "name": "Wellsville",
+      "slug": "wellsville",
+      "county": "Columbiana County",
+      "lat": 40.617099,
+      "lng": -80.662095
+    },
+    {
+      "name": "West Alexandria",
+      "slug": "west-alexandria",
+      "county": "Preble County",
+      "lat": 39.725898,
+      "lng": -84.535214
+    },
+    {
+      "name": "West Chester",
+      "slug": "west-chester",
+      "county": "Butler County",
+      "lat": 39.340243,
+      "lng": -84.399786
+    },
+    {
+      "name": "West Elkton",
+      "slug": "west-elkton",
+      "county": "Preble County",
+      "lat": 39.587778,
+      "lng": -84.554444
+    },
+    {
+      "name": "West Farmington",
+      "slug": "west-farmington",
+      "county": "Trumbull County",
+      "lat": 41.350849,
+      "lng": -80.967245
+    },
+    {
+      "name": "West Jefferson",
+      "slug": "west-jefferson",
+      "county": "Madison County",
+      "lat": 39.942409,
+      "lng": -83.285306
+    },
+    {
+      "name": "West Lafayette",
+      "slug": "west-lafayette",
+      "county": "Coshocton County",
+      "lat": 40.271829,
+      "lng": -81.736102
+    },
+    {
+      "name": "West Liberty",
+      "slug": "west-liberty",
+      "county": "Logan County",
+      "lat": 40.262541,
+      "lng": -83.752763
+    },
+    {
+      "name": "West Manchester",
+      "slug": "west-manchester",
+      "county": "Preble County",
+      "lat": 39.902564,
+      "lng": -84.619383
+    },
+    {
+      "name": "West Mansfield",
+      "slug": "west-mansfield",
+      "county": "Logan County",
+      "lat": 40.404284,
+      "lng": -83.524274
+    },
+    {
+      "name": "West Millgrove",
+      "slug": "west-millgrove",
+      "county": "Wood County",
+      "lat": 41.243889,
+      "lng": -83.491389
+    },
+    {
+      "name": "West Milton",
+      "slug": "west-milton",
+      "county": "Miami County",
+      "lat": 39.953077,
+      "lng": -84.324237
+    },
+    {
+      "name": "West Point",
+      "slug": "west-point",
+      "county": "Columbiana County",
+      "lat": 40.708333,
+      "lng": -80.7025
+    },
+    {
+      "name": "West Portsmouth",
+      "slug": "west-portsmouth",
+      "county": "Scioto County",
+      "lat": 38.749222,
+      "lng": -83.047657
+    },
+    {
+      "name": "West Rushville",
+      "slug": "west-rushville",
+      "county": "Fairfield County",
+      "lat": 39.763889,
+      "lng": -82.4475
+    },
+    {
+      "name": "West Salem",
+      "slug": "west-salem",
+      "county": "Wayne County",
+      "lat": 40.948514,
+      "lng": -82.106638
+    },
+    {
+      "name": "West Union",
+      "slug": "west-union",
+      "county": "Adams County",
+      "lat": 38.801702,
+      "lng": -83.533349
+    },
+    {
+      "name": "West Unity",
+      "slug": "west-unity",
+      "county": "Williams County",
+      "lat": 41.575645,
+      "lng": -84.442066
+    },
+    {
+      "name": "Westerville",
+      "slug": "westerville",
+      "county": "Delaware County",
+      "lat": 40.1545,
+      "lng": -82.9097
+    },
+    {
+      "name": "Westfield Center",
+      "slug": "westfield-center",
+      "county": "Medina County",
+      "lat": 41.026389,
+      "lng": -81.933333
+    },
+    {
+      "name": "Westlake",
+      "slug": "westlake",
+      "county": "Cuyahoga County",
+      "lat": 41.453459,
+      "lng": -81.921771
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Wood County",
+      "lat": 41.351593,
+      "lng": -83.797336
+    },
+    {
+      "name": "Westville",
+      "slug": "westville",
+      "county": "Champaign County",
+      "lat": 40.109444,
+      "lng": -83.838056
+    },
+    {
+      "name": "Wharton",
+      "slug": "wharton",
+      "county": "Wyandot County",
+      "lat": 40.861216,
+      "lng": -83.463016
+    },
+    {
+      "name": "Wheelersburg",
+      "slug": "wheelersburg",
+      "county": "Scioto County",
+      "lat": 38.741793,
+      "lng": -82.820434
+    },
+    {
+      "name": "Whipple",
+      "slug": "whipple",
+      "county": "Washington County",
+      "lat": 39.480975,
+      "lng": -81.363639
+    },
+    {
+      "name": "White Cottage",
+      "slug": "white-cottage",
+      "county": "Muskingum County",
+      "lat": 39.871667,
+      "lng": -82.097778
+    },
+    {
+      "name": "Whitehouse",
+      "slug": "whitehouse",
+      "county": "Lucas County",
+      "lat": 41.519432,
+      "lng": -83.81151
+    },
+    {
+      "name": "Wickliffe",
+      "slug": "wickliffe",
+      "county": "Lake County",
+      "lat": 41.604565,
+      "lng": -81.469175
+    },
+    {
+      "name": "Wilberforce",
+      "slug": "wilberforce",
+      "county": "Greene County",
+      "lat": 39.716111,
+      "lng": -83.877778
+    },
+    {
+      "name": "Wilkesville",
+      "slug": "wilkesville",
+      "county": "Vinton County",
+      "lat": 39.140833,
+      "lng": -82.376944
+    },
+    {
+      "name": "Willard",
+      "slug": "willard",
+      "county": "Huron County",
+      "lat": 41.053056,
+      "lng": -82.726389
+    },
+    {
+      "name": "Williamsburg",
+      "slug": "williamsburg",
+      "county": "Clermont County",
+      "lat": 39.075345,
+      "lng": -84.043167
+    },
+    {
+      "name": "Williamsfield",
+      "slug": "williamsfield",
+      "county": "Ashtabula County",
+      "lat": 41.538296,
+      "lng": -80.596378
+    },
+    {
+      "name": "Williamsport",
+      "slug": "williamsport",
+      "county": "Pickaway County",
+      "lat": 39.611739,
+      "lng": -83.125053
+    },
+    {
+      "name": "Williamstown",
+      "slug": "williamstown",
+      "county": "Hancock County",
+      "lat": 40.833889,
+      "lng": -83.650833
+    },
+    {
+      "name": "Williston",
+      "slug": "williston",
+      "county": "Ottawa County",
+      "lat": 41.603611,
+      "lng": -83.34
+    },
+    {
+      "name": "Willoughby",
+      "slug": "willoughby",
+      "county": "Lake County",
+      "lat": 41.630229,
+      "lng": -81.407619
+    },
+    {
+      "name": "Willow Wood",
+      "slug": "willow-wood",
+      "county": "Lawrence County",
+      "lat": 38.593976,
+      "lng": -82.453
+    },
+    {
+      "name": "Willshire",
+      "slug": "willshire",
+      "county": "Van Wert County",
+      "lat": 40.734618,
+      "lng": -84.77773
+    },
+    {
+      "name": "Wilmington",
+      "slug": "wilmington",
+      "county": "Clinton County",
+      "lat": 39.448788,
+      "lng": -83.841653
+    },
+    {
+      "name": "Wilmot",
+      "slug": "wilmot",
+      "county": "Stark County",
+      "lat": 40.656723,
+      "lng": -81.635247
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Adams County",
+      "lat": 38.935283,
+      "lng": -83.666137
+    },
+    {
+      "name": "Windham",
+      "slug": "windham",
+      "county": "Portage County",
+      "lat": 41.239244,
+      "lng": -81.053451
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Ashtabula County",
+      "lat": 41.56233,
+      "lng": -80.966745
+    },
+    {
+      "name": "Winesburg",
+      "slug": "winesburg",
+      "county": "Holmes County",
+      "lat": 40.616389,
+      "lng": -81.695278
+    },
+    {
+      "name": "Wingett Run",
+      "slug": "wingett-run",
+      "county": "Washington County",
+      "lat": 39.542813,
+      "lng": -81.283999
+    },
+    {
+      "name": "Winona",
+      "slug": "winona",
+      "county": "Columbiana County",
+      "lat": 40.828056,
+      "lng": -80.896389
+    },
+    {
+      "name": "Wolf Run",
+      "slug": "wolf-run",
+      "county": "Jefferson County",
+      "lat": 40.467222,
+      "lng": -80.889444
+    },
+    {
+      "name": "Woodsfield",
+      "slug": "woodsfield",
+      "county": "Monroe County",
+      "lat": 39.753063,
+      "lng": -81.10336
+    },
+    {
+      "name": "Woodstock",
+      "slug": "woodstock",
+      "county": "Champaign County",
+      "lat": 40.181644,
+      "lng": -83.546149
+    },
+    {
+      "name": "Woodville",
+      "slug": "woodville",
+      "county": "Sandusky County",
+      "lat": 41.451206,
+      "lng": -83.364643
+    },
+    {
+      "name": "Wooster",
+      "slug": "wooster",
+      "county": "Wayne County",
+      "lat": 40.809354,
+      "lng": -81.948272
+    },
+    {
+      "name": "Wren",
+      "slug": "wren",
+      "county": "Van Wert County",
+      "lat": 40.800833,
+      "lng": -84.775278
+    },
+    {
+      "name": "Xenia",
+      "slug": "xenia",
+      "county": "Greene County",
+      "lat": 39.684204,
+      "lng": -83.936878
+    },
+    {
+      "name": "Yellow Springs",
+      "slug": "yellow-springs",
+      "county": "Greene County",
+      "lat": 39.799569,
+      "lng": -83.889066
+    },
+    {
+      "name": "Yorkshire",
+      "slug": "yorkshire",
+      "county": "Darke County",
+      "lat": 40.328328,
+      "lng": -84.483587
+    },
+    {
+      "name": "Yorkville",
+      "slug": "yorkville",
+      "county": "Jefferson County",
+      "lat": 40.158051,
+      "lng": -80.707737
+    },
+    {
+      "name": "Youngstown",
+      "slug": "youngstown",
+      "county": "Mahoning County",
+      "lat": 41.0986,
+      "lng": -80.6474
+    },
+    {
+      "name": "Zaleski",
+      "slug": "zaleski",
+      "county": "Vinton County",
+      "lat": 39.282222,
+      "lng": -82.395
+    },
+    {
+      "name": "Zanesfield",
+      "slug": "zanesfield",
+      "county": "Logan County",
+      "lat": 40.302396,
+      "lng": -83.664832
+    },
+    {
+      "name": "Zanesville",
+      "slug": "zanesville",
+      "county": "Muskingum County",
+      "lat": 39.944265,
+      "lng": -82.008898
+    },
+    {
+      "name": "Zoar",
+      "slug": "zoar",
+      "county": "Tuscarawas County",
+      "lat": 40.614167,
+      "lng": -81.4225
+    }
+  ]
+}

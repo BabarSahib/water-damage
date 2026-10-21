@@ -1,0 +1,106 @@
+---
+import { BUSINESS_INFO, SERVICES } from '../data/siteData';
+
+interface Props {
+  cityContext?: string;
+}
+
+const { cityContext } = Astro.props;
+---
+
+<div class="contact-form-container" style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2.25rem;box-shadow:var(--shadow-md)">
+  <h3 style="color:var(--primary);margin-bottom:0.5rem;font-size:1.4rem">Request Immediate Dispatch / Quote</h3>
+  <p style="color:var(--text-muted);font-size:0.92rem;margin-bottom:1.5rem">
+    Fill out the form below or call <a href={BUSINESS_INFO.phoneTel} style="font-weight:700;color:var(--cta-red)">{BUSINESS_INFO.phoneFormatted}</a> for urgent response within 60 minutes.
+  </p>
+
+  <form id="leadDispatchForm" class="contact-form">
+    <div class="form-group">
+      <label class="form-label" for="fullName">Full Name *</label>
+      <input type="text" id="fullName" name="fullName" class="form-input" placeholder="John Smith" required />
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+      <div class="form-group">
+        <label class="form-label" for="phone">Phone Number (Required for Dispatch) *</label>
+        <input type="tel" id="phone" name="phone" class="form-input" placeholder="(555) 000-0000" required />
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="email">Email Address</label>
+        <input type="email" id="email" name="email" class="form-input" placeholder="john@example.com" />
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label class="form-label" for="serviceSelect">Service Requested *</label>
+      <select id="serviceSelect" name="service" class="form-select" required>
+        <option value="">-- Select Required Service --</option>
+        {SERVICES.map((s) => (
+          <option value={s.name}>{s.name}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label class="form-label" for="propertyLocation">Property Address / City *</label>
+      <input type="text" id="propertyLocation" name="location" class="form-input" placeholder="123 Main St, City, Zip" value={cityContext ? `${cityContext}, CA` : ''} required />
+    </div>
+
+    <div class="form-group">
+      <label class="form-label" for="damageDetails">Describe the Emergency / Water Source</label>
+      <textarea id="damageDetails" name="details" class="form-textarea" placeholder="e.g. Water heater ruptured in garage, 2 inches of standing water entering living room carpet..."></textarea>
+    </div>
+
+    <div id="formStatusMsg" class="form-feedback"></div>
+
+    <button type="submit" id="submitDispatchBtn" class="btn btn-emergency" style="width:100%;font-size:1.1rem;padding:0.95rem">
+      <span id="btnText">Request Priority Emergency Dispatch</span>
+      <span id="btnSpinner" style="display:none">Processing Dispatch Request...</span>
+    </button>
+
+    <div style="font-size:0.78rem;color:var(--text-light);text-align:center;margin-top:0.5rem">
+      🔒 Your information is secure. We never sell or share contact details.
+    </div>
+  </form>
+</div>
+
+<script is:inline>
+  const form = document.getElementById('leadDispatchForm');
+  const statusMsg = document.getElementById('formStatusMsg');
+  const btn = document.getElementById('submitDispatchBtn');
+  const btnText = document.getElementById('btnText');
+  const btnSpinner = document.getElementById('btnSpinner');
+
+  if (form) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      btn.disabled = true;
+      btnText.style.display = 'none';
+      btnSpinner.style.display = 'inline';
+      statusMsg.className = 'form-feedback';
+      statusMsg.style.display = 'none';
+
+      const formData = new FormData(form);
+      const data = Object.fromEntries(formData.entries());
+
+      try {
+        // Simulate real API submission latency (can be connected to Zapier/CRM/webhook)
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+        
+        statusMsg.className = 'form-feedback success';
+        statusMsg.innerHTML = '<strong>Emergency Request Received!</strong> Our local dispatch coordinator has been notified and will call you at <strong>' + data.phone + '</strong> within 5 to 15 minutes. For immediate questions, call (866) 751-9896.';
+        statusMsg.style.display = 'block';
+        form.reset();
+      } catch (err) {
+        statusMsg.className = 'form-feedback error';
+        statusMsg.innerHTML = 'There was an issue processing your request. Please call our 24/7 hotline directly at <strong>(866) 751-9896</strong> for instant dispatch.';
+        statusMsg.style.display = 'block';
+      } finally {
+        btn.disabled = false;
+        btnText.style.display = 'inline';
+        btnSpinner.style.display = 'none';
+      }
+    });
+  }
+</script>

@@ -1,0 +1,8680 @@
+{
+  "stateName": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "cities": [
+    {
+      "name": "Acampo",
+      "slug": "acampo",
+      "county": "San Joaquin County",
+      "lat": 38.200413,
+      "lng": -121.218576
+    },
+    {
+      "name": "Acton",
+      "slug": "acton",
+      "county": "Los Angeles County",
+      "lat": 34.483541,
+      "lng": -118.195929
+    },
+    {
+      "name": "Adelanto",
+      "slug": "adelanto",
+      "county": "San Bernardino County",
+      "lat": 34.584128,
+      "lng": -117.424189
+    },
+    {
+      "name": "Adin",
+      "slug": "adin",
+      "county": "Modoc County",
+      "lat": 41.21751,
+      "lng": -120.943193
+    },
+    {
+      "name": "Agoura Hills",
+      "slug": "agoura-hills",
+      "county": "Los Angeles County",
+      "lat": 34.157163,
+      "lng": -118.75718
+    },
+    {
+      "name": "Aguanga",
+      "slug": "aguanga",
+      "county": "Riverside County",
+      "lat": 33.447306,
+      "lng": -116.799693
+    },
+    {
+      "name": "Ahwahnee",
+      "slug": "ahwahnee",
+      "county": "Madera County",
+      "lat": 37.407631,
+      "lng": -119.723251
+    },
+    {
+      "name": "Alameda",
+      "slug": "alameda",
+      "county": "Alameda County",
+      "lat": 37.764783,
+      "lng": -122.260516
+    },
+    {
+      "name": "Alamo",
+      "slug": "alamo",
+      "county": "Contra Costa County",
+      "lat": 37.853695,
+      "lng": -122.022868
+    },
+    {
+      "name": "Albany",
+      "slug": "albany",
+      "county": "Alameda County",
+      "lat": 37.890045,
+      "lng": -122.295394
+    },
+    {
+      "name": "Albion",
+      "slug": "albion",
+      "county": "Mendocino County",
+      "lat": 39.215934,
+      "lng": -123.721366
+    },
+    {
+      "name": "Alderpoint",
+      "slug": "alderpoint",
+      "county": "Humboldt County",
+      "lat": 40.176389,
+      "lng": -123.610556
+    },
+    {
+      "name": "Alhambra",
+      "slug": "alhambra",
+      "county": "Los Angeles County",
+      "lat": 34.091436,
+      "lng": -118.129288
+    },
+    {
+      "name": "Aliso Viejo",
+      "slug": "aliso-viejo",
+      "county": "Orange County",
+      "lat": 33.572367,
+      "lng": -117.708906
+    },
+    {
+      "name": "Alleghany",
+      "slug": "alleghany",
+      "county": "Sierra County",
+      "lat": 39.512698,
+      "lng": -120.727176
+    },
+    {
+      "name": "Alpaugh",
+      "slug": "alpaugh",
+      "county": "Tulare County",
+      "lat": 35.887778,
+      "lng": -119.486389
+    },
+    {
+      "name": "Alpine",
+      "slug": "alpine",
+      "county": "San Diego County",
+      "lat": 32.828161,
+      "lng": -116.754328
+    },
+    {
+      "name": "Alta",
+      "slug": "alta",
+      "county": "Placer County",
+      "lat": 39.228032,
+      "lng": -120.773165
+    },
+    {
+      "name": "Altadena",
+      "slug": "altadena",
+      "county": "Los Angeles County",
+      "lat": 34.191187,
+      "lng": -118.13919
+    },
+    {
+      "name": "Altaville",
+      "slug": "altaville",
+      "county": "Calaveras County",
+      "lat": 38.076944,
+      "lng": -120.552222
+    },
+    {
+      "name": "Alturas",
+      "slug": "alturas",
+      "county": "Modoc County",
+      "lat": 41.476742,
+      "lng": -120.545584
+    },
+    {
+      "name": "Alviso",
+      "slug": "alviso",
+      "county": "Santa Clara County",
+      "lat": 37.427659,
+      "lng": -121.968597
+    },
+    {
+      "name": "Amador City",
+      "slug": "amador-city",
+      "county": "Amador County",
+      "lat": 38.419444,
+      "lng": -120.823056
+    },
+    {
+      "name": "Amboy",
+      "slug": "amboy",
+      "county": "San Bernardino County",
+      "lat": 34.599012,
+      "lng": -115.774907
+    },
+    {
+      "name": "American Canyon",
+      "slug": "american-canyon",
+      "county": "Napa County",
+      "lat": 38.175,
+      "lng": -122.259722
+    },
+    {
+      "name": "Anaheim",
+      "slug": "anaheim",
+      "county": "Orange County",
+      "lat": 33.842679,
+      "lng": -117.954035
+    },
+    {
+      "name": "Anderson",
+      "slug": "anderson",
+      "county": "Shasta County",
+      "lat": 40.457432,
+      "lng": -122.328218
+    },
+    {
+      "name": "Angels Camp",
+      "slug": "angels-camp",
+      "county": "Calaveras County",
+      "lat": 38.064011,
+      "lng": -120.55437
+    },
+    {
+      "name": "Angelus Oaks",
+      "slug": "angelus-oaks",
+      "county": "San Bernardino County",
+      "lat": 34.153149,
+      "lng": -116.948482
+    },
+    {
+      "name": "Angwin",
+      "slug": "angwin",
+      "county": "Napa County",
+      "lat": 38.576906,
+      "lng": -122.447732
+    },
+    {
+      "name": "Annapolis",
+      "slug": "annapolis",
+      "county": "Sonoma County",
+      "lat": 38.714485,
+      "lng": -123.314214
+    },
+    {
+      "name": "Antelope",
+      "slug": "antelope",
+      "county": "Sacramento County",
+      "lat": 38.708333,
+      "lng": -121.328889
+    },
+    {
+      "name": "Antioch",
+      "slug": "antioch",
+      "county": "Contra Costa County",
+      "lat": 37.993917,
+      "lng": -121.808906
+    },
+    {
+      "name": "Anza",
+      "slug": "anza",
+      "county": "Riverside County",
+      "lat": 33.568812,
+      "lng": -116.71355
+    },
+    {
+      "name": "Apple Valley",
+      "slug": "apple-valley",
+      "county": "San Bernardino County",
+      "lat": 34.529081,
+      "lng": -117.2132
+    },
+    {
+      "name": "Applegate",
+      "slug": "applegate",
+      "county": "Placer County",
+      "lat": 38.995487,
+      "lng": -120.990511
+    },
+    {
+      "name": "Aptos",
+      "slug": "aptos",
+      "county": "Santa Cruz County",
+      "lat": 36.977222,
+      "lng": -121.898333
+    },
+    {
+      "name": "Arbuckle",
+      "slug": "arbuckle",
+      "county": "Colusa County",
+      "lat": 39.013787,
+      "lng": -122.027405
+    },
+    {
+      "name": "Arcadia",
+      "slug": "arcadia",
+      "county": "Los Angeles County",
+      "lat": 34.132389,
+      "lng": -118.026374
+    },
+    {
+      "name": "Arcata",
+      "slug": "arcata",
+      "county": "Humboldt County",
+      "lat": 40.866667,
+      "lng": -124.081667
+    },
+    {
+      "name": "Armona",
+      "slug": "armona",
+      "county": "Kings County",
+      "lat": 36.309459,
+      "lng": -119.705279
+    },
+    {
+      "name": "Arnold",
+      "slug": "arnold",
+      "county": "Calaveras County",
+      "lat": 38.24175,
+      "lng": -120.342231
+    },
+    {
+      "name": "Aromas",
+      "slug": "aromas",
+      "county": "Monterey County",
+      "lat": 36.878522,
+      "lng": -121.639781
+    },
+    {
+      "name": "Arroyo Grande",
+      "slug": "arroyo-grande",
+      "county": "San Luis Obispo County",
+      "lat": 35.11449,
+      "lng": -120.57289
+    },
+    {
+      "name": "Artesia",
+      "slug": "artesia",
+      "county": "Los Angeles County",
+      "lat": 33.866568,
+      "lng": -118.068046
+    },
+    {
+      "name": "Artois",
+      "slug": "artois",
+      "county": "Glenn County",
+      "lat": 39.619722,
+      "lng": -122.192778
+    },
+    {
+      "name": "Arvin",
+      "slug": "arvin",
+      "county": "Kern County",
+      "lat": 35.196629,
+      "lng": -118.8336
+    },
+    {
+      "name": "Atascadero",
+      "slug": "atascadero",
+      "county": "San Luis Obispo County",
+      "lat": 35.475439,
+      "lng": -120.663838
+    },
+    {
+      "name": "Atherton",
+      "slug": "atherton",
+      "county": "San Mateo County",
+      "lat": 37.456255,
+      "lng": -122.200198
+    },
+    {
+      "name": "Atwater",
+      "slug": "atwater",
+      "county": "Merced County",
+      "lat": 37.353154,
+      "lng": -120.600837
+    },
+    {
+      "name": "Atwood",
+      "slug": "atwood",
+      "county": "Orange County",
+      "lat": 33.865556,
+      "lng": -117.83
+    },
+    {
+      "name": "Auberry",
+      "slug": "auberry",
+      "county": "Fresno County",
+      "lat": 37.072635,
+      "lng": -119.457202
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "county": "Placer County",
+      "lat": 38.9828,
+      "lng": -121.0938
+    },
+    {
+      "name": "Avalon",
+      "slug": "avalon",
+      "county": "Los Angeles County",
+      "lat": 33.331963,
+      "lng": -118.343706
+    },
+    {
+      "name": "Avenal",
+      "slug": "avenal",
+      "county": "Kings County",
+      "lat": 35.987667,
+      "lng": -120.122716
+    },
+    {
+      "name": "Avery",
+      "slug": "avery",
+      "county": "Calaveras County",
+      "lat": 38.204444,
+      "lng": -120.368889
+    },
+    {
+      "name": "Avila Beach",
+      "slug": "avila-beach",
+      "county": "San Luis Obispo County",
+      "lat": 35.18,
+      "lng": -120.730833
+    },
+    {
+      "name": "Azusa",
+      "slug": "azusa",
+      "county": "Los Angeles County",
+      "lat": 34.12476,
+      "lng": -117.903083
+    },
+    {
+      "name": "Badger",
+      "slug": "badger",
+      "county": "Tulare County",
+      "lat": 36.631389,
+      "lng": -119.012222
+    },
+    {
+      "name": "Baker",
+      "slug": "baker",
+      "county": "San Bernardino County",
+      "lat": 35.360573,
+      "lng": -116.063754
+    },
+    {
+      "name": "Bakersfield",
+      "slug": "bakersfield",
+      "county": "Kern County",
+      "lat": 35.386611,
+      "lng": -119.017063
+    },
+    {
+      "name": "Baldwin Park",
+      "slug": "baldwin-park",
+      "county": "Los Angeles County",
+      "lat": 34.084245,
+      "lng": -117.969539
+    },
+    {
+      "name": "Ballico",
+      "slug": "ballico",
+      "county": "Merced County",
+      "lat": 37.452455,
+      "lng": -120.700152
+    },
+    {
+      "name": "Bangor",
+      "slug": "bangor",
+      "county": "Butte County",
+      "lat": 39.424862,
+      "lng": -121.350499
+    },
+    {
+      "name": "Banning",
+      "slug": "banning",
+      "county": "Riverside County",
+      "lat": 33.92816,
+      "lng": -116.889928
+    },
+    {
+      "name": "Bard",
+      "slug": "bard",
+      "county": "Imperial County",
+      "lat": 32.789167,
+      "lng": -114.555278
+    },
+    {
+      "name": "Barstow",
+      "slug": "barstow",
+      "county": "San Bernardino County",
+      "lat": 34.89145,
+      "lng": -117.038702
+    },
+    {
+      "name": "Bass Lake",
+      "slug": "bass-lake",
+      "county": "Madera County",
+      "lat": 37.324359,
+      "lng": -119.556839
+    },
+    {
+      "name": "Bayside",
+      "slug": "bayside",
+      "county": "Humboldt County",
+      "lat": 40.822381,
+      "lng": -124.027305
+    },
+    {
+      "name": "Beale Afb",
+      "slug": "beale-afb",
+      "county": "Yuba County",
+      "lat": 39.145833,
+      "lng": -121.590278
+    },
+    {
+      "name": "Beaumont",
+      "slug": "beaumont",
+      "county": "Riverside County",
+      "lat": 33.950429,
+      "lng": -116.970079
+    },
+    {
+      "name": "Beckwourth",
+      "slug": "beckwourth",
+      "county": "Plumas County",
+      "lat": 39.820278,
+      "lng": -120.377778
+    },
+    {
+      "name": "Belden",
+      "slug": "belden",
+      "county": "Plumas County",
+      "lat": 39.921746,
+      "lng": -121.325924
+    },
+    {
+      "name": "Bell",
+      "slug": "bell",
+      "county": "Los Angeles County",
+      "lat": 33.969177,
+      "lng": -118.17205
+    },
+    {
+      "name": "Bell Gardens",
+      "slug": "bell-gardens",
+      "county": "Los Angeles County",
+      "lat": 33.9775,
+      "lng": -118.186111
+    },
+    {
+      "name": "Bella Vista",
+      "slug": "bella-vista",
+      "county": "Shasta County",
+      "lat": 40.740945,
+      "lng": -122.07245
+    },
+    {
+      "name": "Bellflower",
+      "slug": "bellflower",
+      "county": "Los Angeles County",
+      "lat": 33.886676,
+      "lng": -118.126527
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
+      "county": "San Mateo County",
+      "lat": 37.517433,
+      "lng": -122.292671
+    },
+    {
+      "name": "Belvedere Tiburon",
+      "slug": "belvedere-tiburon",
+      "county": "Marin County",
+      "lat": 37.889885,
+      "lng": -122.472627
+    },
+    {
+      "name": "Ben Lomond",
+      "slug": "ben-lomond",
+      "county": "Santa Cruz County",
+      "lat": 37.086183,
+      "lng": -122.083869
+    },
+    {
+      "name": "Benicia",
+      "slug": "benicia",
+      "county": "Solano County",
+      "lat": 38.068459,
+      "lng": -122.161392
+    },
+    {
+      "name": "Benton",
+      "slug": "benton",
+      "county": "Mono County",
+      "lat": 37.798099,
+      "lng": -118.498526
+    },
+    {
+      "name": "Berkeley",
+      "slug": "berkeley",
+      "county": "Alameda County",
+      "lat": 37.8691,
+      "lng": -122.2696
+    },
+    {
+      "name": "Berry Creek",
+      "slug": "berry-creek",
+      "county": "Butte County",
+      "lat": 39.638394,
+      "lng": -121.385467
+    },
+    {
+      "name": "Bethel Island",
+      "slug": "bethel-island",
+      "county": "Contra Costa County",
+      "lat": 38.015,
+      "lng": -121.639444
+    },
+    {
+      "name": "Beverly Hills",
+      "slug": "beverly-hills",
+      "county": "Los Angeles County",
+      "lat": 34.0732,
+      "lng": -118.3927
+    },
+    {
+      "name": "Bieber",
+      "slug": "bieber",
+      "county": "Lassen County",
+      "lat": 41.121389,
+      "lng": -121.143056
+    },
+    {
+      "name": "Big Bar",
+      "slug": "big-bar",
+      "county": "Trinity County",
+      "lat": 40.74796,
+      "lng": -123.229006
+    },
+    {
+      "name": "Big Bear City",
+      "slug": "big-bear-city",
+      "county": "San Bernardino County",
+      "lat": 34.242233,
+      "lng": -116.920412
+    },
+    {
+      "name": "Big Bear Lake",
+      "slug": "big-bear-lake",
+      "county": "San Bernardino County",
+      "lat": 34.243889,
+      "lng": -116.910556
+    },
+    {
+      "name": "Big Bend",
+      "slug": "big-bend",
+      "county": "Shasta County",
+      "lat": 41.020833,
+      "lng": -121.91
+    },
+    {
+      "name": "Big Creek",
+      "slug": "big-creek",
+      "county": "Fresno County",
+      "lat": 37.205,
+      "lng": -119.245
+    },
+    {
+      "name": "Big Oak Flat",
+      "slug": "big-oak-flat",
+      "county": "Tuolumne County",
+      "lat": 37.823611,
+      "lng": -120.257222
+    },
+    {
+      "name": "Big Pine",
+      "slug": "big-pine",
+      "county": "Inyo County",
+      "lat": 37.167857,
+      "lng": -118.291597
+    },
+    {
+      "name": "Big Sur",
+      "slug": "big-sur",
+      "county": "Monterey County",
+      "lat": 36.245798,
+      "lng": -121.700897
+    },
+    {
+      "name": "Biggs",
+      "slug": "biggs",
+      "county": "Butte County",
+      "lat": 39.414918,
+      "lng": -121.695873
+    },
+    {
+      "name": "Biola",
+      "slug": "biola",
+      "county": "Fresno County",
+      "lat": 36.802222,
+      "lng": -120.015278
+    },
+    {
+      "name": "Birds Landing",
+      "slug": "birds-landing",
+      "county": "Solano County",
+      "lat": 38.150402,
+      "lng": -121.844318
+    },
+    {
+      "name": "Bishop",
+      "slug": "bishop",
+      "county": "Inyo County",
+      "lat": 37.386301,
+      "lng": -118.44156
+    },
+    {
+      "name": "Blairsden-graeagle",
+      "slug": "blairsden-graeagle",
+      "county": "Plumas County",
+      "lat": 39.784745,
+      "lng": -120.627397
+    },
+    {
+      "name": "Blocksburg",
+      "slug": "blocksburg",
+      "county": "Humboldt County",
+      "lat": 40.276111,
+      "lng": -123.635278
+    },
+    {
+      "name": "Bloomington",
+      "slug": "bloomington",
+      "county": "San Bernardino County",
+      "lat": 34.066198,
+      "lng": -117.399295
+    },
+    {
+      "name": "Blue Jay",
+      "slug": "blue-jay",
+      "county": "San Bernardino County",
+      "lat": 34.246111,
+      "lng": -117.208889
+    },
+    {
+      "name": "Blue Lake",
+      "slug": "blue-lake",
+      "county": "Humboldt County",
+      "lat": 40.928701,
+      "lng": -123.896696
+    },
+    {
+      "name": "Blythe",
+      "slug": "blythe",
+      "county": "Riverside County",
+      "lat": 33.605715,
+      "lng": -114.597131
+    },
+    {
+      "name": "Bodega",
+      "slug": "bodega",
+      "county": "Sonoma County",
+      "lat": 38.339264,
+      "lng": -122.951364
+    },
+    {
+      "name": "Bodega Bay",
+      "slug": "bodega-bay",
+      "county": "Sonoma County",
+      "lat": 38.330921,
+      "lng": -123.037308
+    },
+    {
+      "name": "Bodfish",
+      "slug": "bodfish",
+      "county": "Kern County",
+      "lat": 35.587046,
+      "lng": -118.484656
+    },
+    {
+      "name": "Bolinas",
+      "slug": "bolinas",
+      "county": "Marin County",
+      "lat": 37.907875,
+      "lng": -122.694655
+    },
+    {
+      "name": "Bonita",
+      "slug": "bonita",
+      "county": "San Diego County",
+      "lat": 32.667143,
+      "lng": -117.022065
+    },
+    {
+      "name": "Bonsall",
+      "slug": "bonsall",
+      "county": "San Diego County",
+      "lat": 33.294033,
+      "lng": -117.18969
+    },
+    {
+      "name": "Boonville",
+      "slug": "boonville",
+      "county": "Mendocino County",
+      "lat": 39.035007,
+      "lng": -123.401954
+    },
+    {
+      "name": "Boron",
+      "slug": "boron",
+      "county": "Kern County",
+      "lat": 35.003748,
+      "lng": -117.662921
+    },
+    {
+      "name": "Borrego Springs",
+      "slug": "borrego-springs",
+      "county": "San Diego County",
+      "lat": 33.238649,
+      "lng": -116.351394
+    },
+    {
+      "name": "Boulder Creek",
+      "slug": "boulder-creek",
+      "county": "Santa Cruz County",
+      "lat": 37.149934,
+      "lng": -122.133053
+    },
+    {
+      "name": "Boulevard",
+      "slug": "boulevard",
+      "county": "San Diego County",
+      "lat": 32.671934,
+      "lng": -116.319982
+    },
+    {
+      "name": "Boyes Hot Springs",
+      "slug": "boyes-hot-springs",
+      "county": "Sonoma County",
+      "lat": 38.313889,
+      "lng": -122.480833
+    },
+    {
+      "name": "Bradley",
+      "slug": "bradley",
+      "county": "Monterey County",
+      "lat": 35.809255,
+      "lng": -120.972793
+    },
+    {
+      "name": "Brandeis",
+      "slug": "brandeis",
+      "county": "Ventura County",
+      "lat": 34.3216,
+      "lng": -118.7027
+    },
+    {
+      "name": "Branscomb",
+      "slug": "branscomb",
+      "county": "Mendocino County",
+      "lat": 39.700531,
+      "lng": -123.554982
+    },
+    {
+      "name": "Brawley",
+      "slug": "brawley",
+      "county": "Imperial County",
+      "lat": 32.979181,
+      "lng": -115.529613
+    },
+    {
+      "name": "Brea",
+      "slug": "brea",
+      "county": "Orange County",
+      "lat": 33.9252,
+      "lng": -117.8895
+    },
+    {
+      "name": "Brentwood",
+      "slug": "brentwood",
+      "county": "Contra Costa County",
+      "lat": 37.932415,
+      "lng": -121.689427
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Mono County",
+      "lat": 38.256601,
+      "lng": -119.208025
+    },
+    {
+      "name": "Bridgeville",
+      "slug": "bridgeville",
+      "county": "Humboldt County",
+      "lat": 40.468566,
+      "lng": -123.549351
+    },
+    {
+      "name": "Brisbane",
+      "slug": "brisbane",
+      "county": "San Mateo County",
+      "lat": 37.681104,
+      "lng": -122.400118
+    },
+    {
+      "name": "Brookdale",
+      "slug": "brookdale",
+      "county": "Santa Cruz County",
+      "lat": 37.106389,
+      "lng": -122.105
+    },
+    {
+      "name": "Brooks",
+      "slug": "brooks",
+      "county": "Yolo County",
+      "lat": 38.739277,
+      "lng": -122.133391
+    },
+    {
+      "name": "Browns Valley",
+      "slug": "browns-valley",
+      "county": "Yuba County",
+      "lat": 39.284428,
+      "lng": -121.346482
+    },
+    {
+      "name": "Brownsville",
+      "slug": "brownsville",
+      "county": "Yuba County",
+      "lat": 39.452534,
+      "lng": -121.261179
+    },
+    {
+      "name": "Bryn Mawr",
+      "slug": "bryn-mawr",
+      "county": "San Bernardino County",
+      "lat": 34.048333,
+      "lng": -117.23
+    },
+    {
+      "name": "Buellton",
+      "slug": "buellton",
+      "county": "Santa Barbara County",
+      "lat": 34.62093,
+      "lng": -120.192233
+    },
+    {
+      "name": "Buena Park",
+      "slug": "buena-park",
+      "county": "Orange County",
+      "lat": 33.840607,
+      "lng": -118.011359
+    },
+    {
+      "name": "Burbank",
+      "slug": "burbank",
+      "county": "Los Angeles County",
+      "lat": 34.186238,
+      "lng": -118.300898
+    },
+    {
+      "name": "Burlingame",
+      "slug": "burlingame",
+      "county": "San Mateo County",
+      "lat": 37.575884,
+      "lng": -122.362952
+    },
+    {
+      "name": "Burney",
+      "slug": "burney",
+      "county": "Shasta County",
+      "lat": 40.894927,
+      "lng": -121.655036
+    },
+    {
+      "name": "Burnt Ranch",
+      "slug": "burnt-ranch",
+      "county": "Trinity County",
+      "lat": 40.772238,
+      "lng": -123.461248
+    },
+    {
+      "name": "Burrel",
+      "slug": "burrel",
+      "county": "Fresno County",
+      "lat": 36.488333,
+      "lng": -119.984167
+    },
+    {
+      "name": "Burson",
+      "slug": "burson",
+      "county": "Calaveras County",
+      "lat": 38.183889,
+      "lng": -120.889444
+    },
+    {
+      "name": "Butte City",
+      "slug": "butte-city",
+      "county": "Glenn County",
+      "lat": 39.456348,
+      "lng": -121.978046
+    },
+    {
+      "name": "Buttonwillow",
+      "slug": "buttonwillow",
+      "county": "Kern County",
+      "lat": 35.403268,
+      "lng": -119.465926
+    },
+    {
+      "name": "Byron",
+      "slug": "byron",
+      "county": "Contra Costa County",
+      "lat": 37.902616,
+      "lng": -121.602211
+    },
+    {
+      "name": "Cabazon",
+      "slug": "cabazon",
+      "county": "Riverside County",
+      "lat": 33.908583,
+      "lng": -116.773948
+    },
+    {
+      "name": "Calabasas",
+      "slug": "calabasas",
+      "county": "Los Angeles County",
+      "lat": 34.141854,
+      "lng": -118.664103
+    },
+    {
+      "name": "Calexico",
+      "slug": "calexico",
+      "county": "Imperial County",
+      "lat": 32.683227,
+      "lng": -115.502815
+    },
+    {
+      "name": "Caliente",
+      "slug": "caliente",
+      "county": "Kern County",
+      "lat": 35.356798,
+      "lng": -118.410264
+    },
+    {
+      "name": "California City",
+      "slug": "california-city",
+      "county": "Kern County",
+      "lat": 35.125833,
+      "lng": -117.985
+    },
+    {
+      "name": "California Hot Springs",
+      "slug": "california-hot-springs",
+      "county": "Tulare County",
+      "lat": 35.892422,
+      "lng": -118.646317
+    },
+    {
+      "name": "Calimesa",
+      "slug": "calimesa",
+      "county": "Riverside County",
+      "lat": 33.994586,
+      "lng": -117.04304
+    },
+    {
+      "name": "Calipatria",
+      "slug": "calipatria",
+      "county": "Imperial County",
+      "lat": 33.166956,
+      "lng": -115.511402
+    },
+    {
+      "name": "Calistoga",
+      "slug": "calistoga",
+      "county": "Napa County",
+      "lat": 38.582305,
+      "lng": -122.581384
+    },
+    {
+      "name": "Callahan",
+      "slug": "callahan",
+      "county": "Siskiyou County",
+      "lat": 41.383257,
+      "lng": -122.764046
+    },
+    {
+      "name": "Calpella",
+      "slug": "calpella",
+      "county": "Mendocino County",
+      "lat": 39.150278,
+      "lng": -123.206667
+    },
+    {
+      "name": "Calpine",
+      "slug": "calpine",
+      "county": "Sierra County",
+      "lat": 39.651699,
+      "lng": -120.4442
+    },
+    {
+      "name": "Camarillo",
+      "slug": "camarillo",
+      "county": "Ventura County",
+      "lat": 34.231328,
+      "lng": -119.046361
+    },
+    {
+      "name": "Cambria",
+      "slug": "cambria",
+      "county": "San Luis Obispo County",
+      "lat": 35.556568,
+      "lng": -121.084029
+    },
+    {
+      "name": "Camino",
+      "slug": "camino",
+      "county": "El Dorado County",
+      "lat": 38.744938,
+      "lng": -120.671979
+    },
+    {
+      "name": "Camp Meeker",
+      "slug": "camp-meeker",
+      "county": "Sonoma County",
+      "lat": 38.425278,
+      "lng": -122.958333
+    },
+    {
+      "name": "Camp Nelson",
+      "slug": "camp-nelson",
+      "county": "Tulare County",
+      "lat": 36.130278,
+      "lng": -118.817222
+    },
+    {
+      "name": "Camp Pendleton",
+      "slug": "camp-pendleton",
+      "county": "San Diego County",
+      "lat": 33.327929,
+      "lng": -117.409452
+    },
+    {
+      "name": "Campbell",
+      "slug": "campbell",
+      "county": "Santa Clara County",
+      "lat": 37.280007,
+      "lng": -121.95539
+    },
+    {
+      "name": "Campo",
+      "slug": "campo",
+      "county": "San Diego County",
+      "lat": 32.660491,
+      "lng": -116.490459
+    },
+    {
+      "name": "Campo Seco",
+      "slug": "campo-seco",
+      "county": "Calaveras County",
+      "lat": 38.227222,
+      "lng": -120.852222
+    },
+    {
+      "name": "Camptonville",
+      "slug": "camptonville",
+      "county": "Yuba County",
+      "lat": 39.450784,
+      "lng": -121.023066
+    },
+    {
+      "name": "Canby",
+      "slug": "canby",
+      "county": "Modoc County",
+      "lat": 41.466358,
+      "lng": -120.921769
+    },
+    {
+      "name": "Canoga Park",
+      "slug": "canoga-park",
+      "county": "Los Angeles County",
+      "lat": 34.199257,
+      "lng": -118.59828
+    },
+    {
+      "name": "Cantil",
+      "slug": "cantil",
+      "county": "Kern County",
+      "lat": 35.282558,
+      "lng": -117.993868
+    },
+    {
+      "name": "Cantua Creek",
+      "slug": "cantua-creek",
+      "county": "Fresno County",
+      "lat": 36.492123,
+      "lng": -120.335252
+    },
+    {
+      "name": "Canyon",
+      "slug": "canyon",
+      "county": "Contra Costa County",
+      "lat": 37.831667,
+      "lng": -122.186667
+    },
+    {
+      "name": "Canyon Country",
+      "slug": "canyon-country",
+      "county": "Los Angeles County",
+      "lat": 34.426203,
+      "lng": -118.449011
+    },
+    {
+      "name": "Canyon Dam",
+      "slug": "canyon-dam",
+      "county": "Plumas County",
+      "lat": 40.207958,
+      "lng": -121.156324
+    },
+    {
+      "name": "Capay",
+      "slug": "capay",
+      "county": "Yolo County",
+      "lat": 38.696964,
+      "lng": -122.100993
+    },
+    {
+      "name": "Capistrano Beach",
+      "slug": "capistrano-beach",
+      "county": "Orange County",
+      "lat": 33.459115,
+      "lng": -117.662657
+    },
+    {
+      "name": "Capitola",
+      "slug": "capitola",
+      "county": "Santa Cruz County",
+      "lat": 36.977359,
+      "lng": -121.952145
+    },
+    {
+      "name": "Cardiff By The Sea",
+      "slug": "cardiff-by-the-sea",
+      "county": "San Diego County",
+      "lat": 33.025265,
+      "lng": -117.274371
+    },
+    {
+      "name": "Carlotta",
+      "slug": "carlotta",
+      "county": "Humboldt County",
+      "lat": 40.507027,
+      "lng": -123.974287
+    },
+    {
+      "name": "Carlsbad",
+      "slug": "carlsbad",
+      "county": "San Diego County",
+      "lat": 33.160241,
+      "lng": -117.324998
+    },
+    {
+      "name": "Carmel",
+      "slug": "carmel",
+      "county": "Monterey County",
+      "lat": 36.4478,
+      "lng": -121.8395
+    },
+    {
+      "name": "Carmel By The Sea",
+      "slug": "carmel-by-the-sea",
+      "county": "Monterey County",
+      "lat": 36.5546,
+      "lng": -121.9203
+    },
+    {
+      "name": "Carmel Valley",
+      "slug": "carmel-valley",
+      "county": "Monterey County",
+      "lat": 36.478709,
+      "lng": -121.724356
+    },
+    {
+      "name": "Carmichael",
+      "slug": "carmichael",
+      "county": "Sacramento County",
+      "lat": 38.628393,
+      "lng": -121.328683
+    },
+    {
+      "name": "Carnelian Bay",
+      "slug": "carnelian-bay",
+      "county": "Placer County",
+      "lat": 39.231937,
+      "lng": -120.075328
+    },
+    {
+      "name": "Carpinteria",
+      "slug": "carpinteria",
+      "county": "Santa Barbara County",
+      "lat": 34.403589,
+      "lng": -119.518257
+    },
+    {
+      "name": "Carson",
+      "slug": "carson",
+      "county": "Los Angeles County",
+      "lat": 33.822968,
+      "lng": -118.268352
+    },
+    {
+      "name": "Caruthers",
+      "slug": "caruthers",
+      "county": "Fresno County",
+      "lat": 36.535847,
+      "lng": -119.844581
+    },
+    {
+      "name": "Casmalia",
+      "slug": "casmalia",
+      "county": "Santa Barbara County",
+      "lat": 34.838056,
+      "lng": -120.530278
+    },
+    {
+      "name": "Caspar",
+      "slug": "caspar",
+      "county": "Mendocino County",
+      "lat": 39.365102,
+      "lng": -123.798489
+    },
+    {
+      "name": "Cassel",
+      "slug": "cassel",
+      "county": "Shasta County",
+      "lat": 40.907832,
+      "lng": -121.524497
+    },
+    {
+      "name": "Castaic",
+      "slug": "castaic",
+      "county": "Los Angeles County",
+      "lat": 34.488889,
+      "lng": -118.621944
+    },
+    {
+      "name": "Castella",
+      "slug": "castella",
+      "county": "Shasta County",
+      "lat": 41.138611,
+      "lng": -122.316667
+    },
+    {
+      "name": "Castro Valley",
+      "slug": "castro-valley",
+      "county": "Alameda County",
+      "lat": 37.701527,
+      "lng": -122.078183
+    },
+    {
+      "name": "Castroville",
+      "slug": "castroville",
+      "county": "Monterey County",
+      "lat": 36.77142,
+      "lng": -121.747368
+    },
+    {
+      "name": "Cathedral City",
+      "slug": "cathedral-city",
+      "county": "Riverside County",
+      "lat": 33.809839,
+      "lng": -116.466497
+    },
+    {
+      "name": "Catheys Valley",
+      "slug": "catheys-valley",
+      "county": "Mariposa County",
+      "lat": 37.441409,
+      "lng": -120.069017
+    },
+    {
+      "name": "Cayucos",
+      "slug": "cayucos",
+      "county": "San Luis Obispo County",
+      "lat": 35.444606,
+      "lng": -120.890791
+    },
+    {
+      "name": "Cazadero",
+      "slug": "cazadero",
+      "county": "Sonoma County",
+      "lat": 38.566335,
+      "lng": -123.182896
+    },
+    {
+      "name": "Cedar Glen",
+      "slug": "cedar-glen",
+      "county": "San Bernardino County",
+      "lat": 34.253889,
+      "lng": -117.163889
+    },
+    {
+      "name": "Cedar Ridge",
+      "slug": "cedar-ridge",
+      "county": "Nevada County",
+      "lat": 39.198889,
+      "lng": -121.02
+    },
+    {
+      "name": "Cedarpines Park",
+      "slug": "cedarpines-park",
+      "county": "San Bernardino County",
+      "lat": 34.25,
+      "lng": -117.325
+    },
+    {
+      "name": "Cedarville",
+      "slug": "cedarville",
+      "county": "Modoc County",
+      "lat": 41.475871,
+      "lng": -120.151551
+    },
+    {
+      "name": "Ceres",
+      "slug": "ceres",
+      "county": "Stanislaus County",
+      "lat": 37.588097,
+      "lng": -120.949936
+    },
+    {
+      "name": "Cerritos",
+      "slug": "cerritos",
+      "county": "Los Angeles County",
+      "lat": 33.858333,
+      "lng": -118.063889
+    },
+    {
+      "name": "Challenge",
+      "slug": "challenge",
+      "county": "Yuba County",
+      "lat": 39.4875,
+      "lng": -121.2225
+    },
+    {
+      "name": "Chatsworth",
+      "slug": "chatsworth",
+      "county": "Los Angeles County",
+      "lat": 34.258253,
+      "lng": -118.591357
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Plumas County",
+      "lat": 40.297457,
+      "lng": -121.227338
+    },
+    {
+      "name": "Chicago Park",
+      "slug": "chicago-park",
+      "county": "Nevada County",
+      "lat": 39.145278,
+      "lng": -120.966111
+    },
+    {
+      "name": "Chico",
+      "slug": "chico",
+      "county": "Butte County",
+      "lat": 39.756466,
+      "lng": -121.851806
+    },
+    {
+      "name": "Chilcoot",
+      "slug": "chilcoot",
+      "county": "Plumas County",
+      "lat": 39.805683,
+      "lng": -120.175212
+    },
+    {
+      "name": "Chinese Camp",
+      "slug": "chinese-camp",
+      "county": "Tuolumne County",
+      "lat": 37.856829,
+      "lng": -120.406673
+    },
+    {
+      "name": "Chino",
+      "slug": "chino",
+      "county": "San Bernardino County",
+      "lat": 34.012222,
+      "lng": -117.688056
+    },
+    {
+      "name": "Chino Hills",
+      "slug": "chino-hills",
+      "county": "San Bernardino County",
+      "lat": 33.979735,
+      "lng": -117.730791
+    },
+    {
+      "name": "Chowchilla",
+      "slug": "chowchilla",
+      "county": "Madera County",
+      "lat": 37.101371,
+      "lng": -120.269077
+    },
+    {
+      "name": "Chualar",
+      "slug": "chualar",
+      "county": "Monterey County",
+      "lat": 36.595042,
+      "lng": -121.431964
+    },
+    {
+      "name": "Chula Vista",
+      "slug": "chula-vista",
+      "county": "San Diego County",
+      "lat": 32.64,
+      "lng": -117.0833
+    },
+    {
+      "name": "Cima",
+      "slug": "cima",
+      "county": "San Bernardino County",
+      "lat": 35.237778,
+      "lng": -115.498333
+    },
+    {
+      "name": "Citrus Heights",
+      "slug": "citrus-heights",
+      "county": "Sacramento County",
+      "lat": 38.694571,
+      "lng": -121.269211
+    },
+    {
+      "name": "City Of Industry",
+      "slug": "city-of-industry",
+      "county": "Los Angeles County",
+      "lat": 34.0197,
+      "lng": -117.9577
+    },
+    {
+      "name": "Claremont",
+      "slug": "claremont",
+      "county": "Los Angeles County",
+      "lat": 34.109167,
+      "lng": -117.718293
+    },
+    {
+      "name": "Clarksburg",
+      "slug": "clarksburg",
+      "county": "Yolo County",
+      "lat": 38.395963,
+      "lng": -121.556853
+    },
+    {
+      "name": "Clayton",
+      "slug": "clayton",
+      "county": "Contra Costa County",
+      "lat": 37.915442,
+      "lng": -121.909967
+    },
+    {
+      "name": "Clearlake",
+      "slug": "clearlake",
+      "county": "Lake County",
+      "lat": 38.957138,
+      "lng": -122.636089
+    },
+    {
+      "name": "Clearlake Oaks",
+      "slug": "clearlake-oaks",
+      "county": "Lake County",
+      "lat": 39.034838,
+      "lng": -122.66873
+    },
+    {
+      "name": "Clearlake Park",
+      "slug": "clearlake-park",
+      "county": "Lake County",
+      "lat": 38.967778,
+      "lng": -122.653889
+    },
+    {
+      "name": "Clements",
+      "slug": "clements",
+      "county": "San Joaquin County",
+      "lat": 38.190833,
+      "lng": -121.087222
+    },
+    {
+      "name": "Clio",
+      "slug": "clio",
+      "county": "Plumas County",
+      "lat": 39.74326,
+      "lng": -120.560458
+    },
+    {
+      "name": "Clipper Mills",
+      "slug": "clipper-mills",
+      "county": "Butte County",
+      "lat": 39.532778,
+      "lng": -121.156389
+    },
+    {
+      "name": "Cloverdale",
+      "slug": "cloverdale",
+      "county": "Sonoma County",
+      "lat": 38.799396,
+      "lng": -123.011725
+    },
+    {
+      "name": "Clovis",
+      "slug": "clovis",
+      "county": "Fresno County",
+      "lat": 36.8243,
+      "lng": -119.6824
+    },
+    {
+      "name": "Coachella",
+      "slug": "coachella",
+      "county": "Riverside County",
+      "lat": 33.674965,
+      "lng": -116.177231
+    },
+    {
+      "name": "Coalinga",
+      "slug": "coalinga",
+      "county": "Fresno County",
+      "lat": 36.162435,
+      "lng": -120.348928
+    },
+    {
+      "name": "Coarsegold",
+      "slug": "coarsegold",
+      "county": "Madera County",
+      "lat": 37.221378,
+      "lng": -119.745545
+    },
+    {
+      "name": "Cobb",
+      "slug": "cobb",
+      "county": "Lake County",
+      "lat": 38.822222,
+      "lng": -122.721944
+    },
+    {
+      "name": "Coleville",
+      "slug": "coleville",
+      "county": "Mono County",
+      "lat": 38.502903,
+      "lng": -119.482784
+    },
+    {
+      "name": "Colfax",
+      "slug": "colfax",
+      "county": "Placer County",
+      "lat": 39.076936,
+      "lng": -120.960163
+    },
+    {
+      "name": "Coloma",
+      "slug": "coloma",
+      "county": "El Dorado County",
+      "lat": 38.8,
+      "lng": -120.889167
+    },
+    {
+      "name": "Colton",
+      "slug": "colton",
+      "county": "San Bernardino County",
+      "lat": 34.057964,
+      "lng": -117.318577
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "county": "Tuolumne County",
+      "lat": 38.03975,
+      "lng": -120.405552
+    },
+    {
+      "name": "Colusa",
+      "slug": "colusa",
+      "county": "Colusa County",
+      "lat": 39.21311,
+      "lng": -122.011563
+    },
+    {
+      "name": "Comptche",
+      "slug": "comptche",
+      "county": "Mendocino County",
+      "lat": 39.249919,
+      "lng": -123.585652
+    },
+    {
+      "name": "Compton",
+      "slug": "compton",
+      "county": "Los Angeles County",
+      "lat": 33.890654,
+      "lng": -118.239044
+    },
+    {
+      "name": "Concord",
+      "slug": "concord",
+      "county": "Contra Costa County",
+      "lat": 37.950434,
+      "lng": -122.026296
+    },
+    {
+      "name": "Cool",
+      "slug": "cool",
+      "county": "El Dorado County",
+      "lat": 38.903633,
+      "lng": -120.972963
+    },
+    {
+      "name": "Copperopolis",
+      "slug": "copperopolis",
+      "county": "Calaveras County",
+      "lat": 37.937246,
+      "lng": -120.638374
+    },
+    {
+      "name": "Corcoran",
+      "slug": "corcoran",
+      "county": "Kings County",
+      "lat": 36.086455,
+      "lng": -119.560665
+    },
+    {
+      "name": "Corning",
+      "slug": "corning",
+      "county": "Tehama County",
+      "lat": 39.929566,
+      "lng": -122.195991
+    },
+    {
+      "name": "Corona",
+      "slug": "corona",
+      "county": "Riverside County",
+      "lat": 33.8815,
+      "lng": -117.6078
+    },
+    {
+      "name": "Corona Del Mar",
+      "slug": "corona-del-mar",
+      "county": "Orange County",
+      "lat": 33.602066,
+      "lng": -117.874331
+    },
+    {
+      "name": "Coronado",
+      "slug": "coronado",
+      "county": "San Diego County",
+      "lat": 32.68069,
+      "lng": -117.169823
+    },
+    {
+      "name": "Corte Madera",
+      "slug": "corte-madera",
+      "county": "Marin County",
+      "lat": 37.922256,
+      "lng": -122.513202
+    },
+    {
+      "name": "Costa Mesa",
+      "slug": "costa-mesa",
+      "county": "Orange County",
+      "lat": 33.677711,
+      "lng": -117.909623
+    },
+    {
+      "name": "Cotati",
+      "slug": "cotati",
+      "county": "Sonoma County",
+      "lat": 38.325918,
+      "lng": -122.704831
+    },
+    {
+      "name": "Cottonwood",
+      "slug": "cottonwood",
+      "county": "Shasta County",
+      "lat": 40.369072,
+      "lng": -122.337463
+    },
+    {
+      "name": "Coulterville",
+      "slug": "coulterville",
+      "county": "Mariposa County",
+      "lat": 37.738642,
+      "lng": -119.985813
+    },
+    {
+      "name": "Courtland",
+      "slug": "courtland",
+      "county": "Sacramento County",
+      "lat": 38.305756,
+      "lng": -121.554297
+    },
+    {
+      "name": "Covelo",
+      "slug": "covelo",
+      "county": "Mendocino County",
+      "lat": 39.801864,
+      "lng": -123.215015
+    },
+    {
+      "name": "Covina",
+      "slug": "covina",
+      "county": "Los Angeles County",
+      "lat": 34.097162,
+      "lng": -117.906544
+    },
+    {
+      "name": "Coyote",
+      "slug": "coyote",
+      "county": "Santa Clara County",
+      "lat": 37.216721,
+      "lng": -121.746021
+    },
+    {
+      "name": "Crescent City",
+      "slug": "crescent-city",
+      "county": "Del Norte County",
+      "lat": 41.785402,
+      "lng": -124.178448
+    },
+    {
+      "name": "Crescent Mills",
+      "slug": "crescent-mills",
+      "county": "Plumas County",
+      "lat": 40.081915,
+      "lng": -120.881993
+    },
+    {
+      "name": "Cressey",
+      "slug": "cressey",
+      "county": "Merced County",
+      "lat": 37.419722,
+      "lng": -120.666389
+    },
+    {
+      "name": "Crest Park",
+      "slug": "crest-park",
+      "county": "San Bernardino County",
+      "lat": 34.233889,
+      "lng": -117.195556
+    },
+    {
+      "name": "Crestline",
+      "slug": "crestline",
+      "county": "San Bernardino County",
+      "lat": 34.241944,
+      "lng": -117.284722
+    },
+    {
+      "name": "Creston",
+      "slug": "creston",
+      "county": "San Luis Obispo County",
+      "lat": 35.491543,
+      "lng": -120.554238
+    },
+    {
+      "name": "Crockett",
+      "slug": "crockett",
+      "county": "Contra Costa County",
+      "lat": 38.051865,
+      "lng": -122.217659
+    },
+    {
+      "name": "Crows Landing",
+      "slug": "crows-landing",
+      "county": "Stanislaus County",
+      "lat": 37.438956,
+      "lng": -121.019893
+    },
+    {
+      "name": "Culver City",
+      "slug": "culver-city",
+      "county": "Los Angeles County",
+      "lat": 33.994927,
+      "lng": -118.399115
+    },
+    {
+      "name": "Cupertino",
+      "slug": "cupertino",
+      "county": "Santa Clara County",
+      "lat": 37.317363,
+      "lng": -122.038604
+    },
+    {
+      "name": "Cutler",
+      "slug": "cutler",
+      "county": "Tulare County",
+      "lat": 36.524266,
+      "lng": -119.287023
+    },
+    {
+      "name": "Cutten",
+      "slug": "cutten",
+      "county": "Humboldt County",
+      "lat": 40.77,
+      "lng": -124.141667
+    },
+    {
+      "name": "Cypress",
+      "slug": "cypress",
+      "county": "Orange County",
+      "lat": 33.818613,
+      "lng": -118.038696
+    },
+    {
+      "name": "Daggett",
+      "slug": "daggett",
+      "county": "San Bernardino County",
+      "lat": 34.86677,
+      "lng": -116.887555
+    },
+    {
+      "name": "Daly City",
+      "slug": "daly-city",
+      "county": "San Mateo County",
+      "lat": 37.7074,
+      "lng": -122.4587
+    },
+    {
+      "name": "Dana Point",
+      "slug": "dana-point",
+      "county": "Orange County",
+      "lat": 33.476964,
+      "lng": -117.700483
+    },
+    {
+      "name": "Danville",
+      "slug": "danville",
+      "county": "Contra Costa County",
+      "lat": 37.820833,
+      "lng": -121.906667
+    },
+    {
+      "name": "Dardanelle",
+      "slug": "dardanelle",
+      "county": "Tuolumne County",
+      "lat": 38.341111,
+      "lng": -119.832778
+    },
+    {
+      "name": "Darwin",
+      "slug": "darwin",
+      "county": "Inyo County",
+      "lat": 36.268056,
+      "lng": -117.590833
+    },
+    {
+      "name": "Davenport",
+      "slug": "davenport",
+      "county": "Santa Cruz County",
+      "lat": 37.06306,
+      "lng": -122.225735
+    },
+    {
+      "name": "Davis",
+      "slug": "davis",
+      "county": "Yolo County",
+      "lat": 38.554817,
+      "lng": -121.748495
+    },
+    {
+      "name": "Davis Creek",
+      "slug": "davis-creek",
+      "county": "Modoc County",
+      "lat": 41.862555,
+      "lng": -120.323549
+    },
+    {
+      "name": "Death Valley",
+      "slug": "death-valley",
+      "county": "Inyo County",
+      "lat": 36.467165,
+      "lng": -116.893682
+    },
+    {
+      "name": "Deer Park",
+      "slug": "deer-park",
+      "county": "Napa County",
+      "lat": 38.575833,
+      "lng": -122.448889
+    },
+    {
+      "name": "Del Mar",
+      "slug": "del-mar",
+      "county": "San Diego County",
+      "lat": 32.971474,
+      "lng": -117.237314
+    },
+    {
+      "name": "Del Rey",
+      "slug": "del-rey",
+      "county": "Fresno County",
+      "lat": 36.654306,
+      "lng": -119.59291
+    },
+    {
+      "name": "Delano",
+      "slug": "delano",
+      "county": "Kern County",
+      "lat": 35.771511,
+      "lng": -119.24594
+    },
+    {
+      "name": "Delhi",
+      "slug": "delhi",
+      "county": "Merced County",
+      "lat": 37.428629,
+      "lng": -120.775489
+    },
+    {
+      "name": "Denair",
+      "slug": "denair",
+      "county": "Stanislaus County",
+      "lat": 37.538419,
+      "lng": -120.796474
+    },
+    {
+      "name": "Descanso",
+      "slug": "descanso",
+      "county": "San Diego County",
+      "lat": 32.872971,
+      "lng": -116.602732
+    },
+    {
+      "name": "Desert Center",
+      "slug": "desert-center",
+      "county": "Riverside County",
+      "lat": 33.604941,
+      "lng": -115.052603
+    },
+    {
+      "name": "Desert Hot Springs",
+      "slug": "desert-hot-springs",
+      "county": "Riverside County",
+      "lat": 33.904973,
+      "lng": -116.366222
+    },
+    {
+      "name": "Diablo",
+      "slug": "diablo",
+      "county": "Contra Costa County",
+      "lat": 37.83883,
+      "lng": -121.960951
+    },
+    {
+      "name": "Diamond Bar",
+      "slug": "diamond-bar",
+      "county": "Los Angeles County",
+      "lat": 34.006585,
+      "lng": -117.809822
+    },
+    {
+      "name": "Diamond Springs",
+      "slug": "diamond-springs",
+      "county": "El Dorado County",
+      "lat": 38.66302,
+      "lng": -120.836071
+    },
+    {
+      "name": "Dillon Beach",
+      "slug": "dillon-beach",
+      "county": "Marin County",
+      "lat": 38.250833,
+      "lng": -122.964167
+    },
+    {
+      "name": "Dinuba",
+      "slug": "dinuba",
+      "county": "Tulare County",
+      "lat": 36.534931,
+      "lng": -119.39087
+    },
+    {
+      "name": "Discovery Bay",
+      "slug": "discovery-bay",
+      "county": "Contra Costa County",
+      "lat": 37.9085357,
+      "lng": -121.6002291
+    },
+    {
+      "name": "Dixon",
+      "slug": "dixon",
+      "county": "Solano County",
+      "lat": 38.458691,
+      "lng": -121.815825
+    },
+    {
+      "name": "Dobbins",
+      "slug": "dobbins",
+      "county": "Yuba County",
+      "lat": 39.371469,
+      "lng": -121.234386
+    },
+    {
+      "name": "Dorris",
+      "slug": "dorris",
+      "county": "Siskiyou County",
+      "lat": 41.9675,
+      "lng": -121.916944
+    },
+    {
+      "name": "Dos Palos",
+      "slug": "dos-palos",
+      "county": "Merced County",
+      "lat": 37.00253,
+      "lng": -120.633348
+    },
+    {
+      "name": "Dos Rios",
+      "slug": "dos-rios",
+      "county": "Mendocino County",
+      "lat": 39.709298,
+      "lng": -123.298294
+    },
+    {
+      "name": "Douglas City",
+      "slug": "douglas-city",
+      "county": "Trinity County",
+      "lat": 40.634151,
+      "lng": -122.923867
+    },
+    {
+      "name": "Douglas Flat",
+      "slug": "douglas-flat",
+      "county": "Calaveras County",
+      "lat": 38.087222,
+      "lng": -120.471944
+    },
+    {
+      "name": "Downey",
+      "slug": "downey",
+      "county": "Los Angeles County",
+      "lat": 33.94,
+      "lng": -118.131667
+    },
+    {
+      "name": "Downieville",
+      "slug": "downieville",
+      "county": "Sierra County",
+      "lat": 39.570265,
+      "lng": -120.677767
+    },
+    {
+      "name": "Doyle",
+      "slug": "doyle",
+      "county": "Lassen County",
+      "lat": 40.000799,
+      "lng": -120.107693
+    },
+    {
+      "name": "Drytown",
+      "slug": "drytown",
+      "county": "Amador County",
+      "lat": 38.393056,
+      "lng": -120.801389
+    },
+    {
+      "name": "Duarte",
+      "slug": "duarte",
+      "county": "Los Angeles County",
+      "lat": 34.139444,
+      "lng": -117.976389
+    },
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "county": "Alameda County",
+      "lat": 37.716597,
+      "lng": -121.922589
+    },
+    {
+      "name": "Ducor",
+      "slug": "ducor",
+      "county": "Tulare County",
+      "lat": 35.891667,
+      "lng": -119.046389
+    },
+    {
+      "name": "Dulzura",
+      "slug": "dulzura",
+      "county": "San Diego County",
+      "lat": 32.615172,
+      "lng": -116.728523
+    },
+    {
+      "name": "Duncans Mills",
+      "slug": "duncans-mills",
+      "county": "Sonoma County",
+      "lat": 38.453889,
+      "lng": -123.053889
+    },
+    {
+      "name": "Dunlap",
+      "slug": "dunlap",
+      "county": "Fresno County",
+      "lat": 36.744635,
+      "lng": -119.089931
+    },
+    {
+      "name": "Dunnigan",
+      "slug": "dunnigan",
+      "county": "Yolo County",
+      "lat": 38.893671,
+      "lng": -121.996577
+    },
+    {
+      "name": "Dunsmuir",
+      "slug": "dunsmuir",
+      "county": "Siskiyou County",
+      "lat": 41.212439,
+      "lng": -122.273397
+    },
+    {
+      "name": "Durham",
+      "slug": "durham",
+      "county": "Butte County",
+      "lat": 39.641599,
+      "lng": -121.791983
+    },
+    {
+      "name": "Dutch Flat",
+      "slug": "dutch-flat",
+      "county": "Placer County",
+      "lat": 39.197788,
+      "lng": -120.826224
+    },
+    {
+      "name": "Eagleville",
+      "slug": "eagleville",
+      "county": "Modoc County",
+      "lat": 41.316389,
+      "lng": -120.114722
+    },
+    {
+      "name": "Earlimart",
+      "slug": "earlimart",
+      "county": "Tulare County",
+      "lat": 35.854195,
+      "lng": -119.253406
+    },
+    {
+      "name": "Earp",
+      "slug": "earp",
+      "county": "San Bernardino County",
+      "lat": 34.149142,
+      "lng": -114.33928
+    },
+    {
+      "name": "East Irvine",
+      "slug": "east-irvine",
+      "county": "Orange County",
+      "lat": 33.675833,
+      "lng": -117.758889
+    },
+    {
+      "name": "Echo Lake",
+      "slug": "echo-lake",
+      "county": "El Dorado County",
+      "lat": 38.810254,
+      "lng": -120.070498
+    },
+    {
+      "name": "Edison",
+      "slug": "edison",
+      "county": "Kern County",
+      "lat": 35.3475,
+      "lng": -118.870833
+    },
+    {
+      "name": "Edwards",
+      "slug": "edwards",
+      "county": "Kern County",
+      "lat": 34.930507,
+      "lng": -117.915384
+    },
+    {
+      "name": "El Cajon",
+      "slug": "el-cajon",
+      "county": "San Diego County",
+      "lat": 32.777726,
+      "lng": -116.919055
+    },
+    {
+      "name": "El Centro",
+      "slug": "el-centro",
+      "county": "Imperial County",
+      "lat": 32.789332,
+      "lng": -115.566508
+    },
+    {
+      "name": "El Cerrito",
+      "slug": "el-cerrito",
+      "county": "Contra Costa County",
+      "lat": 37.915633,
+      "lng": -122.298521
+    },
+    {
+      "name": "El Dorado",
+      "slug": "el-dorado",
+      "county": "El Dorado County",
+      "lat": 38.682778,
+      "lng": -120.846667
+    },
+    {
+      "name": "El Dorado Hills",
+      "slug": "el-dorado-hills",
+      "county": "El Dorado County",
+      "lat": 38.6851,
+      "lng": -121.0685
+    },
+    {
+      "name": "El Granada",
+      "slug": "el-granada",
+      "county": "San Mateo County",
+      "lat": 37.502778,
+      "lng": -122.468333
+    },
+    {
+      "name": "El Monte",
+      "slug": "el-monte",
+      "county": "Los Angeles County",
+      "lat": 34.079142,
+      "lng": -118.037108
+    },
+    {
+      "name": "El Nido",
+      "slug": "el-nido",
+      "county": "Merced County",
+      "lat": 37.13452,
+      "lng": -120.483235
+    },
+    {
+      "name": "El Portal",
+      "slug": "el-portal",
+      "county": "Mariposa County",
+      "lat": 37.674722,
+      "lng": -119.783056
+    },
+    {
+      "name": "El Segundo",
+      "slug": "el-segundo",
+      "county": "Los Angeles County",
+      "lat": 33.924275,
+      "lng": -118.411924
+    },
+    {
+      "name": "El Sobrante",
+      "slug": "el-sobrante",
+      "county": "Contra Costa County",
+      "lat": 37.969287,
+      "lng": -122.290092
+    },
+    {
+      "name": "El Toro",
+      "slug": "el-toro",
+      "county": "Orange County",
+      "lat": 33.625833,
+      "lng": -117.692778
+    },
+    {
+      "name": "El Verano",
+      "slug": "el-verano",
+      "county": "Sonoma County",
+      "lat": 38.297778,
+      "lng": -122.490556
+    },
+    {
+      "name": "Eldridge",
+      "slug": "eldridge",
+      "county": "Sonoma County",
+      "lat": 38.348889,
+      "lng": -122.509722
+    },
+    {
+      "name": "Elk",
+      "slug": "elk",
+      "county": "Mendocino County",
+      "lat": 39.160402,
+      "lng": -123.723961
+    },
+    {
+      "name": "Elk Creek",
+      "slug": "elk-creek",
+      "county": "Glenn County",
+      "lat": 39.598914,
+      "lng": -122.557244
+    },
+    {
+      "name": "Elk Grove",
+      "slug": "elk-grove",
+      "county": "Sacramento County",
+      "lat": 38.412744,
+      "lng": -121.359914
+    },
+    {
+      "name": "Elmira",
+      "slug": "elmira",
+      "county": "Solano County",
+      "lat": 38.348333,
+      "lng": -121.908889
+    },
+    {
+      "name": "Elverta",
+      "slug": "elverta",
+      "county": "Sacramento County",
+      "lat": 38.716424,
+      "lng": -121.431038
+    },
+    {
+      "name": "Emeryville",
+      "slug": "emeryville",
+      "county": "Alameda County",
+      "lat": 37.836466,
+      "lng": -122.280363
+    },
+    {
+      "name": "Emigrant Gap",
+      "slug": "emigrant-gap",
+      "county": "Placer County",
+      "lat": 39.286907,
+      "lng": -120.662902
+    },
+    {
+      "name": "Empire",
+      "slug": "empire",
+      "county": "Stanislaus County",
+      "lat": 37.638333,
+      "lng": -120.901111
+    },
+    {
+      "name": "Encinitas",
+      "slug": "encinitas",
+      "county": "San Diego County",
+      "lat": 33.036944,
+      "lng": -117.291111
+    },
+    {
+      "name": "Encino",
+      "slug": "encino",
+      "county": "Los Angeles County",
+      "lat": 34.165479,
+      "lng": -118.517542
+    },
+    {
+      "name": "Escalon",
+      "slug": "escalon",
+      "county": "San Joaquin County",
+      "lat": 37.804428,
+      "lng": -120.990044
+    },
+    {
+      "name": "Escondido",
+      "slug": "escondido",
+      "county": "San Diego County",
+      "lat": 33.110117,
+      "lng": -117.069987
+    },
+    {
+      "name": "Esparto",
+      "slug": "esparto",
+      "county": "Yolo County",
+      "lat": 38.694191,
+      "lng": -122.021391
+    },
+    {
+      "name": "Essex",
+      "slug": "essex",
+      "county": "San Bernardino County",
+      "lat": 34.560626,
+      "lng": -115.280344
+    },
+    {
+      "name": "Etna",
+      "slug": "etna",
+      "county": "Siskiyou County",
+      "lat": 41.468303,
+      "lng": -122.914189
+    },
+    {
+      "name": "Eureka",
+      "slug": "eureka",
+      "county": "Humboldt County",
+      "lat": 40.776237,
+      "lng": -124.155892
+    },
+    {
+      "name": "Exeter",
+      "slug": "exeter",
+      "county": "Tulare County",
+      "lat": 36.304055,
+      "lng": -119.12928
+    },
+    {
+      "name": "Fair Oaks",
+      "slug": "fair-oaks",
+      "county": "Sacramento County",
+      "lat": 38.655408,
+      "lng": -121.261065
+    },
+    {
+      "name": "Fairfax",
+      "slug": "fairfax",
+      "county": "Marin County",
+      "lat": 37.988289,
+      "lng": -122.593711
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Solano County",
+      "lat": 38.267084,
+      "lng": -122.03565
+    },
+    {
+      "name": "Fall River Mills",
+      "slug": "fall-river-mills",
+      "county": "Shasta County",
+      "lat": 41.03931,
+      "lng": -121.460562
+    },
+    {
+      "name": "Fallbrook",
+      "slug": "fallbrook",
+      "county": "San Diego County",
+      "lat": 33.369015,
+      "lng": -117.228952
+    },
+    {
+      "name": "Farmersville",
+      "slug": "farmersville",
+      "county": "Tulare County",
+      "lat": 36.300169,
+      "lng": -119.205357
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "San Joaquin County",
+      "lat": 37.944771,
+      "lng": -120.852343
+    },
+    {
+      "name": "Fawnskin",
+      "slug": "fawnskin",
+      "county": "San Bernardino County",
+      "lat": 34.268056,
+      "lng": -116.941667
+    },
+    {
+      "name": "Feather Falls",
+      "slug": "feather-falls",
+      "county": "Butte County",
+      "lat": 39.593333,
+      "lng": -121.255278
+    },
+    {
+      "name": "Fellows",
+      "slug": "fellows",
+      "county": "Kern County",
+      "lat": 35.202579,
+      "lng": -119.564757
+    },
+    {
+      "name": "Felton",
+      "slug": "felton",
+      "county": "Santa Cruz County",
+      "lat": 37.063124,
+      "lng": -122.062162
+    },
+    {
+      "name": "Ferndale",
+      "slug": "ferndale",
+      "county": "Humboldt County",
+      "lat": 40.574488,
+      "lng": -124.252268
+    },
+    {
+      "name": "Fiddletown",
+      "slug": "fiddletown",
+      "county": "Amador County",
+      "lat": 38.53141,
+      "lng": -120.715926
+    },
+    {
+      "name": "Fields Landing",
+      "slug": "fields-landing",
+      "county": "Humboldt County",
+      "lat": 40.724722,
+      "lng": -124.213889
+    },
+    {
+      "name": "Fillmore",
+      "slug": "fillmore",
+      "county": "Ventura County",
+      "lat": 34.402557,
+      "lng": -118.904071
+    },
+    {
+      "name": "Finley",
+      "slug": "finley",
+      "county": "Lake County",
+      "lat": 39.004444,
+      "lng": -122.874444
+    },
+    {
+      "name": "Firebaugh",
+      "slug": "firebaugh",
+      "county": "Fresno County",
+      "lat": 36.8651,
+      "lng": -120.470048
+    },
+    {
+      "name": "Fish Camp",
+      "slug": "fish-camp",
+      "county": "Mariposa County",
+      "lat": 37.51692,
+      "lng": -119.642005
+    },
+    {
+      "name": "Five Points",
+      "slug": "five-points",
+      "county": "Fresno County",
+      "lat": 36.429444,
+      "lng": -120.101944
+    },
+    {
+      "name": "Floriston",
+      "slug": "floriston",
+      "county": "Nevada County",
+      "lat": 39.445746,
+      "lng": -120.025421
+    },
+    {
+      "name": "Flournoy",
+      "slug": "flournoy",
+      "county": "Tehama County",
+      "lat": 39.920556,
+      "lng": -122.435
+    },
+    {
+      "name": "Folsom",
+      "slug": "folsom",
+      "county": "Sacramento County",
+      "lat": 38.687885,
+      "lng": -121.140927
+    },
+    {
+      "name": "Fontana",
+      "slug": "fontana",
+      "county": "San Bernardino County",
+      "lat": 34.0589,
+      "lng": -117.4383
+    },
+    {
+      "name": "Foothill Ranch",
+      "slug": "foothill-ranch",
+      "county": "Orange County",
+      "lat": 33.666822,
+      "lng": -117.664995
+    },
+    {
+      "name": "Forbestown",
+      "slug": "forbestown",
+      "county": "Butte County",
+      "lat": 39.541712,
+      "lng": -121.213443
+    },
+    {
+      "name": "Forest Falls",
+      "slug": "forest-falls",
+      "county": "San Bernardino County",
+      "lat": 34.08805,
+      "lng": -116.914147
+    },
+    {
+      "name": "Forest Knolls",
+      "slug": "forest-knolls",
+      "county": "Marin County",
+      "lat": 38.012178,
+      "lng": -122.69074
+    },
+    {
+      "name": "Forest Ranch",
+      "slug": "forest-ranch",
+      "county": "Butte County",
+      "lat": 40.129931,
+      "lng": -121.500205
+    },
+    {
+      "name": "Foresthill",
+      "slug": "foresthill",
+      "county": "Placer County",
+      "lat": 39.00229,
+      "lng": -120.861127
+    },
+    {
+      "name": "Forestville",
+      "slug": "forestville",
+      "county": "Sonoma County",
+      "lat": 38.489442,
+      "lng": -122.896683
+    },
+    {
+      "name": "Forks Of Salmon",
+      "slug": "forks-of-salmon",
+      "county": "Siskiyou County",
+      "lat": 41.256978,
+      "lng": -123.09781
+    },
+    {
+      "name": "Fort Bidwell",
+      "slug": "fort-bidwell",
+      "county": "Modoc County",
+      "lat": 41.864441,
+      "lng": -120.161983
+    },
+    {
+      "name": "Fort Bragg",
+      "slug": "fort-bragg",
+      "county": "Mendocino County",
+      "lat": 39.437452,
+      "lng": -123.78835
+    },
+    {
+      "name": "Fort Dick",
+      "slug": "fort-dick",
+      "county": "Del Norte County",
+      "lat": 41.8382,
+      "lng": -124.166
+    },
+    {
+      "name": "Fort Irwin",
+      "slug": "fort-irwin",
+      "county": "San Bernardino County",
+      "lat": 35.40148,
+      "lng": -116.644759
+    },
+    {
+      "name": "Fort Jones",
+      "slug": "fort-jones",
+      "county": "Siskiyou County",
+      "lat": 41.617027,
+      "lng": -122.883207
+    },
+    {
+      "name": "Fortuna",
+      "slug": "fortuna",
+      "county": "Humboldt County",
+      "lat": 40.584931,
+      "lng": -124.140654
+    },
+    {
+      "name": "Fountain Valley",
+      "slug": "fountain-valley",
+      "county": "Orange County",
+      "lat": 33.710762,
+      "lng": -117.952318
+    },
+    {
+      "name": "Fowler",
+      "slug": "fowler",
+      "county": "Fresno County",
+      "lat": 36.628153,
+      "lng": -119.671025
+    },
+    {
+      "name": "Frazier Park",
+      "slug": "frazier-park",
+      "county": "Kern County",
+      "lat": 34.822778,
+      "lng": -118.943889
+    },
+    {
+      "name": "Freedom",
+      "slug": "freedom",
+      "county": "Santa Cruz County",
+      "lat": 36.936483,
+      "lng": -121.776761
+    },
+    {
+      "name": "Fremont",
+      "slug": "fremont",
+      "county": "Alameda County",
+      "lat": 37.560493,
+      "lng": -121.999935
+    },
+    {
+      "name": "French Camp",
+      "slug": "french-camp",
+      "county": "San Joaquin County",
+      "lat": 37.877982,
+      "lng": -121.282704
+    },
+    {
+      "name": "French Gulch",
+      "slug": "french-gulch",
+      "county": "Shasta County",
+      "lat": 40.703517,
+      "lng": -122.622868
+    },
+    {
+      "name": "Fresno",
+      "slug": "fresno",
+      "county": "Fresno County",
+      "lat": 36.841107,
+      "lng": -119.800359
+    },
+    {
+      "name": "Friant",
+      "slug": "friant",
+      "county": "Fresno County",
+      "lat": 37.002416,
+      "lng": -119.696501
+    },
+    {
+      "name": "Fullerton",
+      "slug": "fullerton",
+      "county": "Orange County",
+      "lat": 33.8796,
+      "lng": -117.8951
+    },
+    {
+      "name": "Fulton",
+      "slug": "fulton",
+      "county": "Sonoma County",
+      "lat": 38.494732,
+      "lng": -122.77608
+    },
+    {
+      "name": "Galt",
+      "slug": "galt",
+      "county": "Sacramento County",
+      "lat": 38.269846,
+      "lng": -121.29383
+    },
+    {
+      "name": "Garberville",
+      "slug": "garberville",
+      "county": "Humboldt County",
+      "lat": 40.100278,
+      "lng": -123.793889
+    },
+    {
+      "name": "Garden Grove",
+      "slug": "garden-grove",
+      "county": "Orange County",
+      "lat": 33.7857,
+      "lng": -117.9318
+    },
+    {
+      "name": "Garden Valley",
+      "slug": "garden-valley",
+      "county": "El Dorado County",
+      "lat": 38.866495,
+      "lng": -120.856672
+    },
+    {
+      "name": "Gardena",
+      "slug": "gardena",
+      "county": "Los Angeles County",
+      "lat": 33.892463,
+      "lng": -118.296122
+    },
+    {
+      "name": "Gasquet",
+      "slug": "gasquet",
+      "county": "Del Norte County",
+      "lat": 41.862768,
+      "lng": -123.912467
+    },
+    {
+      "name": "Gazelle",
+      "slug": "gazelle",
+      "county": "Siskiyou County",
+      "lat": 41.510485,
+      "lng": -122.537122
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "El Dorado County",
+      "lat": 38.919892,
+      "lng": -120.793388
+    },
+    {
+      "name": "Gerber",
+      "slug": "gerber",
+      "county": "Tehama County",
+      "lat": 40.042997,
+      "lng": -122.164937
+    },
+    {
+      "name": "Geyserville",
+      "slug": "geyserville",
+      "county": "Sonoma County",
+      "lat": 38.700398,
+      "lng": -122.888921
+    },
+    {
+      "name": "Gilroy",
+      "slug": "gilroy",
+      "county": "Santa Clara County",
+      "lat": 37.016005,
+      "lng": -121.57825
+    },
+    {
+      "name": "Glen Ellen",
+      "slug": "glen-ellen",
+      "county": "Sonoma County",
+      "lat": 38.362538,
+      "lng": -122.521002
+    },
+    {
+      "name": "Glencoe",
+      "slug": "glencoe",
+      "county": "Calaveras County",
+      "lat": 38.351557,
+      "lng": -120.594546
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Los Angeles County",
+      "lat": 34.171606,
+      "lng": -118.289892
+    },
+    {
+      "name": "Glendora",
+      "slug": "glendora",
+      "county": "Los Angeles County",
+      "lat": 34.128663,
+      "lng": -117.855155
+    },
+    {
+      "name": "Glenhaven",
+      "slug": "glenhaven",
+      "county": "Lake County",
+      "lat": 38.99008,
+      "lng": -122.522035
+    },
+    {
+      "name": "Glenn",
+      "slug": "glenn",
+      "county": "Glenn County",
+      "lat": 39.606871,
+      "lng": -122.038443
+    },
+    {
+      "name": "Glennville",
+      "slug": "glennville",
+      "county": "Kern County",
+      "lat": 35.737677,
+      "lng": -118.71693
+    },
+    {
+      "name": "Gold Run",
+      "slug": "gold-run",
+      "county": "Placer County",
+      "lat": 39.175102,
+      "lng": -120.856909
+    },
+    {
+      "name": "Goleta",
+      "slug": "goleta",
+      "county": "Santa Barbara County",
+      "lat": 34.4901,
+      "lng": -120.0384
+    },
+    {
+      "name": "Gonzales",
+      "slug": "gonzales",
+      "county": "Monterey County",
+      "lat": 36.490038,
+      "lng": -121.410347
+    },
+    {
+      "name": "Goodyears Bar",
+      "slug": "goodyears-bar",
+      "county": "Sierra County",
+      "lat": 39.572891,
+      "lng": -120.820698
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Tulare County",
+      "lat": 36.351111,
+      "lng": -119.419167
+    },
+    {
+      "name": "Granada Hills",
+      "slug": "granada-hills",
+      "county": "Los Angeles County",
+      "lat": 34.277068,
+      "lng": -118.4992
+    },
+    {
+      "name": "Grand Terrace",
+      "slug": "grand-terrace",
+      "county": "San Bernardino County",
+      "lat": 34.033889,
+      "lng": -117.312778
+    },
+    {
+      "name": "Granite Bay",
+      "slug": "granite-bay",
+      "county": "Placer County",
+      "lat": 38.7438,
+      "lng": -121.1898
+    },
+    {
+      "name": "Grass Valley",
+      "slug": "grass-valley",
+      "county": "Nevada County",
+      "lat": 39.207617,
+      "lng": -121.037401
+    },
+    {
+      "name": "Graton",
+      "slug": "graton",
+      "county": "Sonoma County",
+      "lat": 38.434971,
+      "lng": -122.866766
+    },
+    {
+      "name": "Green Valley Lake",
+      "slug": "green-valley-lake",
+      "county": "San Bernardino County",
+      "lat": 34.237778,
+      "lng": -117.079722
+    },
+    {
+      "name": "Greenbrae",
+      "slug": "greenbrae",
+      "county": "Marin County",
+      "lat": 37.950599,
+      "lng": -122.535501
+    },
+    {
+      "name": "Greenfield",
+      "slug": "greenfield",
+      "county": "Monterey County",
+      "lat": 36.320178,
+      "lng": -121.24507
+    },
+    {
+      "name": "Greenview",
+      "slug": "greenview",
+      "county": "Siskiyou County",
+      "lat": 41.550833,
+      "lng": -122.904444
+    },
+    {
+      "name": "Greenville",
+      "slug": "greenville",
+      "county": "Plumas County",
+      "lat": 40.142404,
+      "lng": -120.927299
+    },
+    {
+      "name": "Greenwood",
+      "slug": "greenwood",
+      "county": "El Dorado County",
+      "lat": 38.936234,
+      "lng": -120.916589
+    },
+    {
+      "name": "Grenada",
+      "slug": "grenada",
+      "county": "Siskiyou County",
+      "lat": 41.612512,
+      "lng": -122.525829
+    },
+    {
+      "name": "Gridley",
+      "slug": "gridley",
+      "county": "Butte County",
+      "lat": 39.358855,
+      "lng": -121.689777
+    },
+    {
+      "name": "Grimes",
+      "slug": "grimes",
+      "county": "Colusa County",
+      "lat": 39.074444,
+      "lng": -121.892778
+    },
+    {
+      "name": "Grizzly Flats",
+      "slug": "grizzly-flats",
+      "county": "El Dorado County",
+      "lat": 38.628665,
+      "lng": -120.542508
+    },
+    {
+      "name": "Groveland",
+      "slug": "groveland",
+      "county": "Tuolumne County",
+      "lat": 37.840899,
+      "lng": -120.191809
+    },
+    {
+      "name": "Grover Beach",
+      "slug": "grover-beach",
+      "county": "San Luis Obispo County",
+      "lat": 35.120969,
+      "lng": -120.617348
+    },
+    {
+      "name": "Guadalupe",
+      "slug": "guadalupe",
+      "county": "Santa Barbara County",
+      "lat": 34.959989,
+      "lng": -120.570329
+    },
+    {
+      "name": "Gualala",
+      "slug": "gualala",
+      "county": "Mendocino County",
+      "lat": 38.803619,
+      "lng": -123.553975
+    },
+    {
+      "name": "Guasti",
+      "slug": "guasti",
+      "county": "San Bernardino County",
+      "lat": 34.065,
+      "lng": -117.585556
+    },
+    {
+      "name": "Guatay",
+      "slug": "guatay",
+      "county": "San Diego County",
+      "lat": 32.848889,
+      "lng": -116.556389
+    },
+    {
+      "name": "Guerneville",
+      "slug": "guerneville",
+      "county": "Sonoma County",
+      "lat": 38.509573,
+      "lng": -122.994416
+    },
+    {
+      "name": "Guinda",
+      "slug": "guinda",
+      "county": "Yolo County",
+      "lat": 38.816568,
+      "lng": -122.189659
+    },
+    {
+      "name": "Gustine",
+      "slug": "gustine",
+      "county": "Merced County",
+      "lat": 37.242456,
+      "lng": -121.003965
+    },
+    {
+      "name": "Hacienda Heights",
+      "slug": "hacienda-heights",
+      "county": "Los Angeles County",
+      "lat": 33.997741,
+      "lng": -117.965205
+    },
+    {
+      "name": "Half Moon Bay",
+      "slug": "half-moon-bay",
+      "county": "San Mateo County",
+      "lat": 37.479057,
+      "lng": -122.445929
+    },
+    {
+      "name": "Hamilton City",
+      "slug": "hamilton-city",
+      "county": "Glenn County",
+      "lat": 39.742778,
+      "lng": -122.0125
+    },
+    {
+      "name": "Hanford",
+      "slug": "hanford",
+      "county": "Kings County",
+      "lat": 36.331419,
+      "lng": -119.649094
+    },
+    {
+      "name": "Happy Camp",
+      "slug": "happy-camp",
+      "county": "Siskiyou County",
+      "lat": 41.801802,
+      "lng": -123.388045
+    },
+    {
+      "name": "Harbor City",
+      "slug": "harbor-city",
+      "county": "Los Angeles County",
+      "lat": 33.797006,
+      "lng": -118.299114
+    },
+    {
+      "name": "Harmony",
+      "slug": "harmony",
+      "county": "San Luis Obispo County",
+      "lat": 35.508611,
+      "lng": -121.021667
+    },
+    {
+      "name": "Hat Creek",
+      "slug": "hat-creek",
+      "county": "Shasta County",
+      "lat": 40.767673,
+      "lng": -121.463687
+    },
+    {
+      "name": "Hathaway Pines",
+      "slug": "hathaway-pines",
+      "county": "Calaveras County",
+      "lat": 38.191944,
+      "lng": -120.364444
+    },
+    {
+      "name": "Hawaiian Gardens",
+      "slug": "hawaiian-gardens",
+      "county": "Los Angeles County",
+      "lat": 33.82958,
+      "lng": -118.072964
+    },
+    {
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "county": "Los Angeles County",
+      "lat": 33.913214,
+      "lng": -118.346978
+    },
+    {
+      "name": "Hayfork",
+      "slug": "hayfork",
+      "county": "Trinity County",
+      "lat": 40.550431,
+      "lng": -123.163416
+    },
+    {
+      "name": "Hayward",
+      "slug": "hayward",
+      "county": "Alameda County",
+      "lat": 37.6564,
+      "lng": -122.0957
+    },
+    {
+      "name": "Healdsburg",
+      "slug": "healdsburg",
+      "county": "Sonoma County",
+      "lat": 38.61553,
+      "lng": -122.856529
+    },
+    {
+      "name": "Heber",
+      "slug": "heber",
+      "county": "Imperial County",
+      "lat": 32.698918,
+      "lng": -115.428281
+    },
+    {
+      "name": "Helendale",
+      "slug": "helendale",
+      "county": "San Bernardino County",
+      "lat": 34.749859,
+      "lng": -117.33666
+    },
+    {
+      "name": "Helm",
+      "slug": "helm",
+      "county": "Fresno County",
+      "lat": 36.499231,
+      "lng": -120.093598
+    },
+    {
+      "name": "Hemet",
+      "slug": "hemet",
+      "county": "Riverside County",
+      "lat": 33.741613,
+      "lng": -116.972974
+    },
+    {
+      "name": "Herald",
+      "slug": "herald",
+      "county": "Sacramento County",
+      "lat": 38.31282,
+      "lng": -121.158898
+    },
+    {
+      "name": "Hercules",
+      "slug": "hercules",
+      "county": "Contra Costa County",
+      "lat": 38.006649,
+      "lng": -122.263702
+    },
+    {
+      "name": "Herlong",
+      "slug": "herlong",
+      "county": "Lassen County",
+      "lat": 40.148492,
+      "lng": -120.171271
+    },
+    {
+      "name": "Hermosa Beach",
+      "slug": "hermosa-beach",
+      "county": "Los Angeles County",
+      "lat": 33.864309,
+      "lng": -118.395511
+    },
+    {
+      "name": "Hesperia",
+      "slug": "hesperia",
+      "county": "San Bernardino County",
+      "lat": 34.426389,
+      "lng": -117.3
+    },
+    {
+      "name": "Hickman",
+      "slug": "hickman",
+      "county": "Stanislaus County",
+      "lat": 37.619989,
+      "lng": -120.71722
+    },
+    {
+      "name": "Hidden Valley Lake",
+      "slug": "hidden-valley-lake",
+      "county": "Lake County",
+      "lat": 39.962583,
+      "lng": -123.814656
+    },
+    {
+      "name": "Highland",
+      "slug": "highland",
+      "county": "San Bernardino County",
+      "lat": 34.126969,
+      "lng": -117.208717
+    },
+    {
+      "name": "Hilmar",
+      "slug": "hilmar",
+      "county": "Merced County",
+      "lat": 37.408377,
+      "lng": -120.856144
+    },
+    {
+      "name": "Hinkley",
+      "slug": "hinkley",
+      "county": "San Bernardino County",
+      "lat": 34.92788,
+      "lng": -117.180867
+    },
+    {
+      "name": "Hollister",
+      "slug": "hollister",
+      "county": "San Benito County",
+      "lat": 36.848404,
+      "lng": -121.387101
+    },
+    {
+      "name": "Holt",
+      "slug": "holt",
+      "county": "San Joaquin County",
+      "lat": 37.934444,
+      "lng": -121.426111
+    },
+    {
+      "name": "Holtville",
+      "slug": "holtville",
+      "county": "Imperial County",
+      "lat": 32.810387,
+      "lng": -115.377456
+    },
+    {
+      "name": "Holy City",
+      "slug": "holy-city",
+      "county": "Santa Clara County",
+      "lat": 37.156944,
+      "lng": -121.977778
+    },
+    {
+      "name": "Homeland",
+      "slug": "homeland",
+      "county": "Riverside County",
+      "lat": 33.74528,
+      "lng": -117.111845
+    },
+    {
+      "name": "Homewood",
+      "slug": "homewood",
+      "county": "Placer County",
+      "lat": 39.078157,
+      "lng": -120.179035
+    },
+    {
+      "name": "Honeydew",
+      "slug": "honeydew",
+      "county": "Humboldt County",
+      "lat": 40.244444,
+      "lng": -124.121667
+    },
+    {
+      "name": "Hood",
+      "slug": "hood",
+      "county": "Sacramento County",
+      "lat": 38.368333,
+      "lng": -121.516389
+    },
+    {
+      "name": "Hoopa",
+      "slug": "hoopa",
+      "county": "Humboldt County",
+      "lat": 41.105937,
+      "lng": -123.692754
+    },
+    {
+      "name": "Hopland",
+      "slug": "hopland",
+      "county": "Mendocino County",
+      "lat": 38.972056,
+      "lng": -123.116956
+    },
+    {
+      "name": "Hornbrook",
+      "slug": "hornbrook",
+      "county": "Siskiyou County",
+      "lat": 41.907738,
+      "lng": -122.526528
+    },
+    {
+      "name": "Hornitos",
+      "slug": "hornitos",
+      "county": "Mariposa County",
+      "lat": 37.492226,
+      "lng": -120.226443
+    },
+    {
+      "name": "Hughson",
+      "slug": "hughson",
+      "county": "Stanislaus County",
+      "lat": 37.594364,
+      "lng": -120.865281
+    },
+    {
+      "name": "Hume",
+      "slug": "hume",
+      "county": "Fresno County",
+      "lat": 36.785,
+      "lng": -118.912778
+    },
+    {
+      "name": "Huntington Beach",
+      "slug": "huntington-beach",
+      "county": "Orange County",
+      "lat": 33.7152,
+      "lng": -118.0088
+    },
+    {
+      "name": "Huntington Park",
+      "slug": "huntington-park",
+      "county": "Los Angeles County",
+      "lat": 33.976879,
+      "lng": -118.216053
+    },
+    {
+      "name": "Huron",
+      "slug": "huron",
+      "county": "Fresno County",
+      "lat": 36.237144,
+      "lng": -120.101964
+    },
+    {
+      "name": "Hyampom",
+      "slug": "hyampom",
+      "county": "Trinity County",
+      "lat": 40.6175,
+      "lng": -123.451389
+    },
+    {
+      "name": "Hydesville",
+      "slug": "hydesville",
+      "county": "Humboldt County",
+      "lat": 40.549576,
+      "lng": -124.084489
+    },
+    {
+      "name": "Idyllwild",
+      "slug": "idyllwild",
+      "county": "Riverside County",
+      "lat": 33.730433,
+      "lng": -116.710665
+    },
+    {
+      "name": "Igo",
+      "slug": "igo",
+      "county": "Shasta County",
+      "lat": 40.431795,
+      "lng": -122.654023
+    },
+    {
+      "name": "Imperial",
+      "slug": "imperial",
+      "county": "Imperial County",
+      "lat": 32.846954,
+      "lng": -115.572984
+    },
+    {
+      "name": "Imperial Beach",
+      "slug": "imperial-beach",
+      "county": "San Diego County",
+      "lat": 32.578289,
+      "lng": -117.11478
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "county": "Inyo County",
+      "lat": 36.839578,
+      "lng": -118.204808
+    },
+    {
+      "name": "Indian Wells",
+      "slug": "indian-wells",
+      "county": "Riverside County",
+      "lat": 33.716334,
+      "lng": -116.338129
+    },
+    {
+      "name": "Indio",
+      "slug": "indio",
+      "county": "Riverside County",
+      "lat": 33.721899,
+      "lng": -116.235729
+    },
+    {
+      "name": "Inglewood",
+      "slug": "inglewood",
+      "county": "Los Angeles County",
+      "lat": 33.955048,
+      "lng": -118.355575
+    },
+    {
+      "name": "Inverness",
+      "slug": "inverness",
+      "county": "Marin County",
+      "lat": 38.083514,
+      "lng": -122.856774
+    },
+    {
+      "name": "Inyokern",
+      "slug": "inyokern",
+      "county": "Kern County",
+      "lat": 35.674498,
+      "lng": -117.834844
+    },
+    {
+      "name": "Ione",
+      "slug": "ione",
+      "county": "Amador County",
+      "lat": 38.351882,
+      "lng": -120.943265
+    },
+    {
+      "name": "Irvine",
+      "slug": "irvine",
+      "county": "Orange County",
+      "lat": 33.7357,
+      "lng": -117.7672
+    },
+    {
+      "name": "Isleton",
+      "slug": "isleton",
+      "county": "Sacramento County",
+      "lat": 38.155392,
+      "lng": -121.604858
+    },
+    {
+      "name": "Ivanhoe",
+      "slug": "ivanhoe",
+      "county": "Tulare County",
+      "lat": 36.385622,
+      "lng": -119.218884
+    },
+    {
+      "name": "Jackson",
+      "slug": "jackson",
+      "county": "Amador County",
+      "lat": 38.357514,
+      "lng": -120.754877
+    },
+    {
+      "name": "Jacumba",
+      "slug": "jacumba",
+      "county": "San Diego County",
+      "lat": 32.624934,
+      "lng": -116.195184
+    },
+    {
+      "name": "Jamestown",
+      "slug": "jamestown",
+      "county": "Tuolumne County",
+      "lat": 37.906544,
+      "lng": -120.494567
+    },
+    {
+      "name": "Jamul",
+      "slug": "jamul",
+      "county": "San Diego County",
+      "lat": 32.716289,
+      "lng": -116.832332
+    },
+    {
+      "name": "Janesville",
+      "slug": "janesville",
+      "county": "Lassen County",
+      "lat": 40.296325,
+      "lng": -120.50982
+    },
+    {
+      "name": "Jenner",
+      "slug": "jenner",
+      "county": "Sonoma County",
+      "lat": 38.474093,
+      "lng": -123.135379
+    },
+    {
+      "name": "Johannesburg",
+      "slug": "johannesburg",
+      "county": "Kern County",
+      "lat": 35.370655,
+      "lng": -117.637325
+    },
+    {
+      "name": "Jolon",
+      "slug": "jolon",
+      "county": "Monterey County",
+      "lat": 35.970833,
+      "lng": -121.175
+    },
+    {
+      "name": "Joshua Tree",
+      "slug": "joshua-tree",
+      "county": "San Bernardino County",
+      "lat": 34.150163,
+      "lng": -116.303763
+    },
+    {
+      "name": "Julian",
+      "slug": "julian",
+      "county": "San Diego County",
+      "lat": 33.053355,
+      "lng": -116.565812
+    },
+    {
+      "name": "Junction City",
+      "slug": "junction-city",
+      "county": "Trinity County",
+      "lat": 40.768187,
+      "lng": -123.062671
+    },
+    {
+      "name": "June Lake",
+      "slug": "june-lake",
+      "county": "Mono County",
+      "lat": 37.777324,
+      "lng": -119.082492
+    },
+    {
+      "name": "Kaweah",
+      "slug": "kaweah",
+      "county": "Tulare County",
+      "lat": 36.469722,
+      "lng": -118.9175
+    },
+    {
+      "name": "Keeler",
+      "slug": "keeler",
+      "county": "Inyo County",
+      "lat": 36.487222,
+      "lng": -117.873056
+    },
+    {
+      "name": "Keene",
+      "slug": "keene",
+      "county": "Kern County",
+      "lat": 35.237502,
+      "lng": -118.607563
+    },
+    {
+      "name": "Kelseyville",
+      "slug": "kelseyville",
+      "county": "Lake County",
+      "lat": 38.946164,
+      "lng": -122.781707
+    },
+    {
+      "name": "Kentfield",
+      "slug": "kentfield",
+      "county": "Marin County",
+      "lat": 37.952222,
+      "lng": -122.556111
+    },
+    {
+      "name": "Kenwood",
+      "slug": "kenwood",
+      "county": "Sonoma County",
+      "lat": 38.416794,
+      "lng": -122.554679
+    },
+    {
+      "name": "Kerman",
+      "slug": "kerman",
+      "county": "Fresno County",
+      "lat": 36.730576,
+      "lng": -120.072444
+    },
+    {
+      "name": "Kernville",
+      "slug": "kernville",
+      "county": "Kern County",
+      "lat": 35.755005,
+      "lng": -118.404723
+    },
+    {
+      "name": "Kettleman City",
+      "slug": "kettleman-city",
+      "county": "Kings County",
+      "lat": 36.021501,
+      "lng": -119.964361
+    },
+    {
+      "name": "Keyes",
+      "slug": "keyes",
+      "county": "Stanislaus County",
+      "lat": 37.556667,
+      "lng": -120.914444
+    },
+    {
+      "name": "King City",
+      "slug": "king-city",
+      "county": "Monterey County",
+      "lat": 36.202776,
+      "lng": -121.127329
+    },
+    {
+      "name": "Kings Beach",
+      "slug": "kings-beach",
+      "county": "Placer County",
+      "lat": 39.240119,
+      "lng": -120.023287
+    },
+    {
+      "name": "Kings Canyon National Pk",
+      "slug": "kings-canyon-national-pk",
+      "county": "Tulare County",
+      "lat": 36.780601,
+      "lng": -119.068201
+    },
+    {
+      "name": "Kingsburg",
+      "slug": "kingsburg",
+      "county": "Fresno County",
+      "lat": 36.508047,
+      "lng": -119.543298
+    },
+    {
+      "name": "Kirkwood",
+      "slug": "kirkwood",
+      "county": "Alpine County",
+      "lat": 38.702778,
+      "lng": -120.071667
+    },
+    {
+      "name": "Kit Carson",
+      "slug": "kit-carson",
+      "county": "Amador County",
+      "lat": 38.431944,
+      "lng": -120.570833
+    },
+    {
+      "name": "Klamath",
+      "slug": "klamath",
+      "county": "Del Norte County",
+      "lat": 41.542075,
+      "lng": -124.033907
+    },
+    {
+      "name": "Klamath River",
+      "slug": "klamath-river",
+      "county": "Siskiyou County",
+      "lat": 41.863699,
+      "lng": -122.819693
+    },
+    {
+      "name": "Kneeland",
+      "slug": "kneeland",
+      "county": "Humboldt County",
+      "lat": 40.71262,
+      "lng": -123.946421
+    },
+    {
+      "name": "Knights Landing",
+      "slug": "knights-landing",
+      "county": "Yolo County",
+      "lat": 38.822032,
+      "lng": -121.720003
+    },
+    {
+      "name": "Knightsen",
+      "slug": "knightsen",
+      "county": "Contra Costa County",
+      "lat": 37.9818,
+      "lng": -121.672149
+    },
+    {
+      "name": "Korbel",
+      "slug": "korbel",
+      "county": "Humboldt County",
+      "lat": 40.824369,
+      "lng": -123.859413
+    },
+    {
+      "name": "Kyburz",
+      "slug": "kyburz",
+      "county": "El Dorado County",
+      "lat": 38.780036,
+      "lng": -120.25529
+    },
+    {
+      "name": "La Canada Flintridge",
+      "slug": "la-canada-flintridge",
+      "county": "Los Angeles County",
+      "lat": 34.209282,
+      "lng": -118.199008
+    },
+    {
+      "name": "La Crescenta",
+      "slug": "la-crescenta",
+      "county": "Los Angeles County",
+      "lat": 34.231619,
+      "lng": -118.245687
+    },
+    {
+      "name": "La Grange",
+      "slug": "la-grange",
+      "county": "Stanislaus County",
+      "lat": 37.678915,
+      "lng": -120.358131
+    },
+    {
+      "name": "La Habra",
+      "slug": "la-habra",
+      "county": "Orange County",
+      "lat": 33.932173,
+      "lng": -117.949703
+    },
+    {
+      "name": "La Honda",
+      "slug": "la-honda",
+      "county": "San Mateo County",
+      "lat": 37.272285,
+      "lng": -122.293889
+    },
+    {
+      "name": "La Jolla",
+      "slug": "la-jolla",
+      "county": "San Diego County",
+      "lat": 32.845488,
+      "lng": -117.25208
+    },
+    {
+      "name": "La Mesa",
+      "slug": "la-mesa",
+      "county": "San Diego County",
+      "lat": 32.760431,
+      "lng": -117.011541
+    },
+    {
+      "name": "La Mirada",
+      "slug": "la-mirada",
+      "county": "Los Angeles County",
+      "lat": 33.8953,
+      "lng": -118.0024
+    },
+    {
+      "name": "La Palma",
+      "slug": "la-palma",
+      "county": "Orange County",
+      "lat": 33.849017,
+      "lng": -118.040618
+    },
+    {
+      "name": "La Puente",
+      "slug": "la-puente",
+      "county": "Los Angeles County",
+      "lat": 34.029428,
+      "lng": -117.934098
+    },
+    {
+      "name": "La Quinta",
+      "slug": "la-quinta",
+      "county": "Riverside County",
+      "lat": 34.3278,
+      "lng": -118.6406
+    },
+    {
+      "name": "La Verne",
+      "slug": "la-verne",
+      "county": "Los Angeles County",
+      "lat": 34.115905,
+      "lng": -117.77077
+    },
+    {
+      "name": "Ladera Ranch",
+      "slug": "ladera-ranch",
+      "county": "Orange County",
+      "lat": 33.5554,
+      "lng": -117.6384
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "county": "Contra Costa County",
+      "lat": 37.896105,
+      "lng": -122.11194
+    },
+    {
+      "name": "Laguna Beach",
+      "slug": "laguna-beach",
+      "county": "Orange County",
+      "lat": 33.542927,
+      "lng": -117.772351
+    },
+    {
+      "name": "Laguna Hills",
+      "slug": "laguna-hills",
+      "county": "Orange County",
+      "lat": 33.60028,
+      "lng": -117.70854
+    },
+    {
+      "name": "Laguna Niguel",
+      "slug": "laguna-niguel",
+      "county": "Orange County",
+      "lat": 33.5225,
+      "lng": -117.706667
+    },
+    {
+      "name": "Laguna Woods",
+      "slug": "laguna-woods",
+      "county": "Orange County",
+      "lat": 33.6087,
+      "lng": -117.7311
+    },
+    {
+      "name": "Lagunitas",
+      "slug": "lagunitas",
+      "county": "Marin County",
+      "lat": 38.013929,
+      "lng": -122.701576
+    },
+    {
+      "name": "Lake Arrowhead",
+      "slug": "lake-arrowhead",
+      "county": "San Bernardino County",
+      "lat": 34.248333,
+      "lng": -117.188333
+    },
+    {
+      "name": "Lake City",
+      "slug": "lake-city",
+      "county": "Modoc County",
+      "lat": 41.668208,
+      "lng": -120.181424
+    },
+    {
+      "name": "Lake Elsinore",
+      "slug": "lake-elsinore",
+      "county": "Riverside County",
+      "lat": 33.659816,
+      "lng": -117.348535
+    },
+    {
+      "name": "Lake Forest",
+      "slug": "lake-forest",
+      "county": "Orange County",
+      "lat": 33.640015,
+      "lng": -117.68819
+    },
+    {
+      "name": "Lake Hughes",
+      "slug": "lake-hughes",
+      "county": "Los Angeles County",
+      "lat": 34.668297,
+      "lng": -118.444719
+    },
+    {
+      "name": "Lake Isabella",
+      "slug": "lake-isabella",
+      "county": "Kern County",
+      "lat": 35.617889,
+      "lng": -118.441256
+    },
+    {
+      "name": "Lakehead",
+      "slug": "lakehead",
+      "county": "Shasta County",
+      "lat": 40.958775,
+      "lng": -122.359281
+    },
+    {
+      "name": "Lakeport",
+      "slug": "lakeport",
+      "county": "Lake County",
+      "lat": 39.055147,
+      "lng": -122.915082
+    },
+    {
+      "name": "Lakeshore",
+      "slug": "lakeshore",
+      "county": "Fresno County",
+      "lat": 37.253,
+      "lng": -119.1738
+    },
+    {
+      "name": "Lakeside",
+      "slug": "lakeside",
+      "county": "San Diego County",
+      "lat": 32.856181,
+      "lng": -116.920089
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "county": "Los Angeles County",
+      "lat": 33.8517,
+      "lng": -118.1328
+    },
+    {
+      "name": "Lamont",
+      "slug": "lamont",
+      "county": "Kern County",
+      "lat": 35.257059,
+      "lng": -118.912419
+    },
+    {
+      "name": "Lancaster",
+      "slug": "lancaster",
+      "county": "Los Angeles County",
+      "lat": 34.690888,
+      "lng": -118.149129
+    },
+    {
+      "name": "Landers",
+      "slug": "landers",
+      "county": "San Bernardino County",
+      "lat": 34.403056,
+      "lng": -116.591667
+    },
+    {
+      "name": "Larkspur",
+      "slug": "larkspur",
+      "county": "Marin County",
+      "lat": 37.936743,
+      "lng": -122.536202
+    },
+    {
+      "name": "Lathrop",
+      "slug": "lathrop",
+      "county": "San Joaquin County",
+      "lat": 37.820897,
+      "lng": -121.282652
+    },
+    {
+      "name": "Laton",
+      "slug": "laton",
+      "county": "Fresno County",
+      "lat": 36.437834,
+      "lng": -119.715565
+    },
+    {
+      "name": "Lawndale",
+      "slug": "lawndale",
+      "county": "Los Angeles County",
+      "lat": 33.887908,
+      "lng": -118.351014
+    },
+    {
+      "name": "Laytonville",
+      "slug": "laytonville",
+      "county": "Mendocino County",
+      "lat": 39.667811,
+      "lng": -123.486862
+    },
+    {
+      "name": "Le Grand",
+      "slug": "le-grand",
+      "county": "Merced County",
+      "lat": 37.234175,
+      "lng": -120.251737
+    },
+    {
+      "name": "Lebec",
+      "slug": "lebec",
+      "county": "Kern County",
+      "lat": 34.828862,
+      "lng": -118.879126
+    },
+    {
+      "name": "Lee Vining",
+      "slug": "lee-vining",
+      "county": "Mono County",
+      "lat": 37.988988,
+      "lng": -119.123413
+    },
+    {
+      "name": "Leggett",
+      "slug": "leggett",
+      "county": "Mendocino County",
+      "lat": 39.865833,
+      "lng": -123.713056
+    },
+    {
+      "name": "Lemon Cove",
+      "slug": "lemon-cove",
+      "county": "Tulare County",
+      "lat": 36.396084,
+      "lng": -119.004986
+    },
+    {
+      "name": "Lemon Grove",
+      "slug": "lemon-grove",
+      "county": "San Diego County",
+      "lat": 32.73323,
+      "lng": -117.032646
+    },
+    {
+      "name": "Lemoore",
+      "slug": "lemoore",
+      "county": "Kings County",
+      "lat": 36.309535,
+      "lng": -119.831017
+    },
+    {
+      "name": "Lewiston",
+      "slug": "lewiston",
+      "county": "Trinity County",
+      "lat": 40.745986,
+      "lng": -122.842591
+    },
+    {
+      "name": "Likely",
+      "slug": "likely",
+      "county": "Modoc County",
+      "lat": 41.230556,
+      "lng": -120.503056
+    },
+    {
+      "name": "Lincoln",
+      "slug": "lincoln",
+      "county": "Placer County",
+      "lat": 38.904035,
+      "lng": -121.295541
+    },
+    {
+      "name": "Lincoln Acres",
+      "slug": "lincoln-acres",
+      "county": "San Diego County",
+      "lat": 32.667778,
+      "lng": -117.071944
+    },
+    {
+      "name": "Linden",
+      "slug": "linden",
+      "county": "San Joaquin County",
+      "lat": 38.021869,
+      "lng": -121.074442
+    },
+    {
+      "name": "Lindsay",
+      "slug": "lindsay",
+      "county": "Tulare County",
+      "lat": 36.209551,
+      "lng": -119.088427
+    },
+    {
+      "name": "Litchfield",
+      "slug": "litchfield",
+      "county": "Lassen County",
+      "lat": 40.362788,
+      "lng": -120.253975
+    },
+    {
+      "name": "Little Lake",
+      "slug": "little-lake",
+      "county": "Inyo County",
+      "lat": 35.936667,
+      "lng": -117.905833
+    },
+    {
+      "name": "Little River",
+      "slug": "little-river",
+      "county": "Mendocino County",
+      "lat": 39.271042,
+      "lng": -123.753089
+    },
+    {
+      "name": "Littlerock",
+      "slug": "littlerock",
+      "county": "Los Angeles County",
+      "lat": 34.547372,
+      "lng": -117.957405
+    },
+    {
+      "name": "Live Oak",
+      "slug": "live-oak",
+      "county": "Sutter County",
+      "lat": 39.266904,
+      "lng": -121.66393
+    },
+    {
+      "name": "Livermore",
+      "slug": "livermore",
+      "county": "Alameda County",
+      "lat": 37.68299,
+      "lng": -121.762983
+    },
+    {
+      "name": "Livingston",
+      "slug": "livingston",
+      "county": "Merced County",
+      "lat": 37.376168,
+      "lng": -120.716156
+    },
+    {
+      "name": "Llano",
+      "slug": "llano",
+      "county": "Los Angeles County",
+      "lat": 34.495914,
+      "lng": -117.798841
+    },
+    {
+      "name": "Lockeford",
+      "slug": "lockeford",
+      "county": "San Joaquin County",
+      "lat": 38.162436,
+      "lng": -121.135611
+    },
+    {
+      "name": "Lockwood",
+      "slug": "lockwood",
+      "county": "Monterey County",
+      "lat": 35.989287,
+      "lng": -121.205946
+    },
+    {
+      "name": "Lodi",
+      "slug": "lodi",
+      "county": "San Joaquin County",
+      "lat": 38.123579,
+      "lng": -121.263034
+    },
+    {
+      "name": "Loleta",
+      "slug": "loleta",
+      "county": "Humboldt County",
+      "lat": 40.6531,
+      "lng": -124.228826
+    },
+    {
+      "name": "Loma Linda",
+      "slug": "loma-linda",
+      "county": "San Bernardino County",
+      "lat": 34.0524,
+      "lng": -117.2618
+    },
+    {
+      "name": "Loma Mar",
+      "slug": "loma-mar",
+      "county": "San Mateo County",
+      "lat": 37.254437,
+      "lng": -122.281996
+    },
+    {
+      "name": "Lomita",
+      "slug": "lomita",
+      "county": "Los Angeles County",
+      "lat": 33.793339,
+      "lng": -118.31693
+    },
+    {
+      "name": "Lompoc",
+      "slug": "lompoc",
+      "county": "Santa Barbara County",
+      "lat": 34.658349,
+      "lng": -120.450605
+    },
+    {
+      "name": "Lone Pine",
+      "slug": "lone-pine",
+      "county": "Inyo County",
+      "lat": 36.579781,
+      "lng": -118.057824
+    },
+    {
+      "name": "Long Barn",
+      "slug": "long-barn",
+      "county": "Tuolumne County",
+      "lat": 38.20336,
+      "lng": -120.001159
+    },
+    {
+      "name": "Long Beach",
+      "slug": "long-beach",
+      "county": "Los Angeles County",
+      "lat": 33.7705,
+      "lng": -118.1885
+    },
+    {
+      "name": "Lookout",
+      "slug": "lookout",
+      "county": "Modoc County",
+      "lat": 41.208056,
+      "lng": -121.154167
+    },
+    {
+      "name": "Loomis",
+      "slug": "loomis",
+      "county": "Placer County",
+      "lat": 38.80711,
+      "lng": -121.169826
+    },
+    {
+      "name": "Los Alamitos",
+      "slug": "los-alamitos",
+      "county": "Orange County",
+      "lat": 33.795291,
+      "lng": -118.069891
+    },
+    {
+      "name": "Los Alamos",
+      "slug": "los-alamos",
+      "county": "Santa Barbara County",
+      "lat": 34.744444,
+      "lng": -120.277222
+    },
+    {
+      "name": "Los Altos",
+      "slug": "los-altos",
+      "county": "Santa Clara County",
+      "lat": 37.381432,
+      "lng": -122.125754
+    },
+    {
+      "name": "Los Angeles",
+      "slug": "los-angeles",
+      "county": "Los Angeles County",
+      "lat": 33.973093,
+      "lng": -118.247896
+    },
+    {
+      "name": "Los Banos",
+      "slug": "los-banos",
+      "county": "Merced County",
+      "lat": 37.06266,
+      "lng": -120.854387
+    },
+    {
+      "name": "Los Gatos",
+      "slug": "los-gatos",
+      "county": "Santa Clara County",
+      "lat": 37.211677,
+      "lng": -121.978684
+    },
+    {
+      "name": "Los Molinos",
+      "slug": "los-molinos",
+      "county": "Tehama County",
+      "lat": 40.049735,
+      "lng": -122.099175
+    },
+    {
+      "name": "Los Olivos",
+      "slug": "los-olivos",
+      "county": "Santa Barbara County",
+      "lat": 34.667778,
+      "lng": -120.113889
+    },
+    {
+      "name": "Los Osos",
+      "slug": "los-osos",
+      "county": "San Luis Obispo County",
+      "lat": 35.317203,
+      "lng": -120.833261
+    },
+    {
+      "name": "Lost Hills",
+      "slug": "lost-hills",
+      "county": "Kern County",
+      "lat": 35.613111,
+      "lng": -119.721573
+    },
+    {
+      "name": "Lotus",
+      "slug": "lotus",
+      "county": "El Dorado County",
+      "lat": 38.801712,
+      "lng": -120.928864
+    },
+    {
+      "name": "Lower Lake",
+      "slug": "lower-lake",
+      "county": "Lake County",
+      "lat": 38.860682,
+      "lng": -122.575426
+    },
+    {
+      "name": "Loyalton",
+      "slug": "loyalton",
+      "county": "Sierra County",
+      "lat": 39.662974,
+      "lng": -120.229662
+    },
+    {
+      "name": "Lucerne",
+      "slug": "lucerne",
+      "county": "Lake County",
+      "lat": 39.083393,
+      "lng": -122.785125
+    },
+    {
+      "name": "Lucerne Valley",
+      "slug": "lucerne-valley",
+      "county": "San Bernardino County",
+      "lat": 34.44695,
+      "lng": -116.918857
+    },
+    {
+      "name": "Ludlow",
+      "slug": "ludlow",
+      "county": "San Bernardino County",
+      "lat": 34.901779,
+      "lng": -116.386202
+    },
+    {
+      "name": "Lynwood",
+      "slug": "lynwood",
+      "county": "Los Angeles County",
+      "lat": 33.924076,
+      "lng": -118.201289
+    },
+    {
+      "name": "Lytle Creek",
+      "slug": "lytle-creek",
+      "county": "San Bernardino County",
+      "lat": 34.255755,
+      "lng": -117.518613
+    },
+    {
+      "name": "Macdoel",
+      "slug": "macdoel",
+      "county": "Siskiyou County",
+      "lat": 41.883028,
+      "lng": -121.944472
+    },
+    {
+      "name": "Mad River",
+      "slug": "mad-river",
+      "county": "Trinity County",
+      "lat": 40.352352,
+      "lng": -123.413994
+    },
+    {
+      "name": "Madeline",
+      "slug": "madeline",
+      "county": "Lassen County",
+      "lat": 41.051111,
+      "lng": -120.474444
+    },
+    {
+      "name": "Madera",
+      "slug": "madera",
+      "county": "Madera County",
+      "lat": 36.9528,
+      "lng": -119.8806
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "Yolo County",
+      "lat": 38.680164,
+      "lng": -121.972129
+    },
+    {
+      "name": "Magalia",
+      "slug": "magalia",
+      "county": "Butte County",
+      "lat": 39.831728,
+      "lng": -121.597455
+    },
+    {
+      "name": "Malibu",
+      "slug": "malibu",
+      "county": "Los Angeles County",
+      "lat": 34.0382,
+      "lng": -118.7082
+    },
+    {
+      "name": "Mammoth Lakes",
+      "slug": "mammoth-lakes",
+      "county": "Mono County",
+      "lat": 37.642361,
+      "lng": -118.976383
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Mendocino County",
+      "lat": 38.992088,
+      "lng": -123.670962
+    },
+    {
+      "name": "Manhattan Beach",
+      "slug": "manhattan-beach",
+      "county": "Los Angeles County",
+      "lat": 33.889594,
+      "lng": -118.399562
+    },
+    {
+      "name": "Manteca",
+      "slug": "manteca",
+      "county": "San Joaquin County",
+      "lat": 37.80875,
+      "lng": -121.21856
+    },
+    {
+      "name": "Manton",
+      "slug": "manton",
+      "county": "Tehama County",
+      "lat": 40.433125,
+      "lng": -121.836521
+    },
+    {
+      "name": "March Air Reserve Base",
+      "slug": "march-air-reserve-base",
+      "county": "Riverside County",
+      "lat": 33.895556,
+      "lng": -117.276111
+    },
+    {
+      "name": "Maricopa",
+      "slug": "maricopa",
+      "county": "Kern County",
+      "lat": 35.038353,
+      "lng": -119.407661
+    },
+    {
+      "name": "Marina",
+      "slug": "marina",
+      "county": "Monterey County",
+      "lat": 36.684922,
+      "lng": -121.793383
+    },
+    {
+      "name": "Marina Del Rey",
+      "slug": "marina-del-rey",
+      "county": "Los Angeles County",
+      "lat": 33.977876,
+      "lng": -118.452475
+    },
+    {
+      "name": "Mariposa",
+      "slug": "mariposa",
+      "county": "Mariposa County",
+      "lat": 37.503918,
+      "lng": -119.892496
+    },
+    {
+      "name": "Markleeville",
+      "slug": "markleeville",
+      "county": "Alpine County",
+      "lat": 38.76473,
+      "lng": -119.807275
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "county": "Marin County",
+      "lat": 38.176221,
+      "lng": -122.890011
+    },
+    {
+      "name": "Martell",
+      "slug": "martell",
+      "county": "Amador County",
+      "lat": 38.366944,
+      "lng": -120.795
+    },
+    {
+      "name": "Martinez",
+      "slug": "martinez",
+      "county": "Contra Costa County",
+      "lat": 37.993246,
+      "lng": -122.111693
+    },
+    {
+      "name": "Marysville",
+      "slug": "marysville",
+      "county": "Yuba County",
+      "lat": 39.141653,
+      "lng": -121.522467
+    },
+    {
+      "name": "Mather",
+      "slug": "mather",
+      "county": "Sacramento County",
+      "lat": 38.549224,
+      "lng": -121.282394
+    },
+    {
+      "name": "Maxwell",
+      "slug": "maxwell",
+      "county": "Colusa County",
+      "lat": 39.292494,
+      "lng": -122.195161
+    },
+    {
+      "name": "Maywood",
+      "slug": "maywood",
+      "county": "Los Angeles County",
+      "lat": 33.988992,
+      "lng": -118.187685
+    },
+    {
+      "name": "Mc Farland",
+      "slug": "mc-farland",
+      "county": "Kern County",
+      "lat": 35.675779,
+      "lng": -119.227156
+    },
+    {
+      "name": "Mc Kittrick",
+      "slug": "mc-kittrick",
+      "county": "Kern County",
+      "lat": 35.303097,
+      "lng": -119.636627
+    },
+    {
+      "name": "Mcarthur",
+      "slug": "mcarthur",
+      "county": "Lassen County",
+      "lat": 41.111407,
+      "lng": -121.214896
+    },
+    {
+      "name": "Mcclellan",
+      "slug": "mcclellan",
+      "county": "Sacramento County",
+      "lat": 38.655416,
+      "lng": -121.40311
+    },
+    {
+      "name": "Mccloud",
+      "slug": "mccloud",
+      "county": "Siskiyou County",
+      "lat": 41.252108,
+      "lng": -122.13562
+    },
+    {
+      "name": "Mckinleyville",
+      "slug": "mckinleyville",
+      "county": "Humboldt County",
+      "lat": 40.875833,
+      "lng": -124.083056
+    },
+    {
+      "name": "Meadow Valley",
+      "slug": "meadow-valley",
+      "county": "Plumas County",
+      "lat": 39.918488,
+      "lng": -121.05629
+    },
+    {
+      "name": "Meadow Vista",
+      "slug": "meadow-vista",
+      "county": "Placer County",
+      "lat": 39.003101,
+      "lng": -121.029155
+    },
+    {
+      "name": "Mecca",
+      "slug": "mecca",
+      "county": "Riverside County",
+      "lat": 33.571667,
+      "lng": -116.076389
+    },
+    {
+      "name": "Mendocino",
+      "slug": "mendocino",
+      "county": "Mendocino County",
+      "lat": 39.323212,
+      "lng": -123.78846
+    },
+    {
+      "name": "Mendota",
+      "slug": "mendota",
+      "county": "Fresno County",
+      "lat": 36.742365,
+      "lng": -120.409287
+    },
+    {
+      "name": "Menifee",
+      "slug": "menifee",
+      "county": "Riverside County",
+      "lat": 33.664744,
+      "lng": -117.1743
+    },
+    {
+      "name": "Menlo Park",
+      "slug": "menlo-park",
+      "county": "San Mateo County",
+      "lat": 37.453401,
+      "lng": -122.179136
+    },
+    {
+      "name": "Mentone",
+      "slug": "mentone",
+      "county": "San Bernardino County",
+      "lat": 34.077372,
+      "lng": -117.112581
+    },
+    {
+      "name": "Merced",
+      "slug": "merced",
+      "county": "Merced County",
+      "lat": 37.300724,
+      "lng": -120.461668
+    },
+    {
+      "name": "Meridian",
+      "slug": "meridian",
+      "county": "Sutter County",
+      "lat": 39.116812,
+      "lng": -121.88138
+    },
+    {
+      "name": "Mi Wuk Village",
+      "slug": "mi-wuk-village",
+      "county": "Tuolumne County",
+      "lat": 38.105576,
+      "lng": -120.131762
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "Lake County",
+      "lat": 38.782504,
+      "lng": -122.64352
+    },
+    {
+      "name": "Midpines",
+      "slug": "midpines",
+      "county": "Mariposa County",
+      "lat": 37.571009,
+      "lng": -119.946548
+    },
+    {
+      "name": "Midway City",
+      "slug": "midway-city",
+      "county": "Orange County",
+      "lat": 33.744794,
+      "lng": -117.983539
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "Lassen County",
+      "lat": 40.182763,
+      "lng": -120.389508
+    },
+    {
+      "name": "Mill Creek",
+      "slug": "mill-creek",
+      "county": "Tehama County",
+      "lat": 40.326389,
+      "lng": -121.521667
+    },
+    {
+      "name": "Mill Valley",
+      "slug": "mill-valley",
+      "county": "Marin County",
+      "lat": 37.895757,
+      "lng": -122.533885
+    },
+    {
+      "name": "Millbrae",
+      "slug": "millbrae",
+      "county": "San Mateo County",
+      "lat": 37.600382,
+      "lng": -122.401985
+    },
+    {
+      "name": "Millville",
+      "slug": "millville",
+      "county": "Shasta County",
+      "lat": 40.565316,
+      "lng": -122.111088
+    },
+    {
+      "name": "Milpitas",
+      "slug": "milpitas",
+      "county": "Santa Clara County",
+      "lat": 37.436491,
+      "lng": -121.892885
+    },
+    {
+      "name": "Mineral",
+      "slug": "mineral",
+      "county": "Tehama County",
+      "lat": 40.328826,
+      "lng": -121.524807
+    },
+    {
+      "name": "Mira Loma",
+      "slug": "mira-loma",
+      "county": "Riverside County",
+      "lat": 33.993845,
+      "lng": -117.523574
+    },
+    {
+      "name": "Miramonte",
+      "slug": "miramonte",
+      "county": "Fresno County",
+      "lat": 36.68938,
+      "lng": -119.047718
+    },
+    {
+      "name": "Miranda",
+      "slug": "miranda",
+      "county": "Humboldt County",
+      "lat": 40.234722,
+      "lng": -123.8225
+    },
+    {
+      "name": "Mission Hills",
+      "slug": "mission-hills",
+      "county": "Los Angeles County",
+      "lat": 34.261873,
+      "lng": -118.458659
+    },
+    {
+      "name": "Mission Viejo",
+      "slug": "mission-viejo",
+      "county": "Orange County",
+      "lat": 33.6,
+      "lng": -117.6711
+    },
+    {
+      "name": "Moccasin",
+      "slug": "moccasin",
+      "county": "Tuolumne County",
+      "lat": 37.810833,
+      "lng": -120.298889
+    },
+    {
+      "name": "Modesto",
+      "slug": "modesto",
+      "county": "Stanislaus County",
+      "lat": 37.674649,
+      "lng": -121.011303
+    },
+    {
+      "name": "Mojave",
+      "slug": "mojave",
+      "county": "Kern County",
+      "lat": 35.047767,
+      "lng": -118.173475
+    },
+    {
+      "name": "Mokelumne Hill",
+      "slug": "mokelumne-hill",
+      "county": "Calaveras County",
+      "lat": 38.328918,
+      "lng": -120.567705
+    },
+    {
+      "name": "Mono Hot Springs",
+      "slug": "mono-hot-springs",
+      "county": "Fresno County",
+      "lat": 37.168,
+      "lng": -119.2095
+    },
+    {
+      "name": "Monrovia",
+      "slug": "monrovia",
+      "county": "Los Angeles County",
+      "lat": 34.143959,
+      "lng": -118.001376
+    },
+    {
+      "name": "Montague",
+      "slug": "montague",
+      "county": "Siskiyou County",
+      "lat": 41.724294,
+      "lng": -122.463799
+    },
+    {
+      "name": "Montara",
+      "slug": "montara",
+      "county": "San Mateo County",
+      "lat": 37.542222,
+      "lng": -122.515
+    },
+    {
+      "name": "Montclair",
+      "slug": "montclair",
+      "county": "San Bernardino County",
+      "lat": 34.073298,
+      "lng": -117.698669
+    },
+    {
+      "name": "Monte Rio",
+      "slug": "monte-rio",
+      "county": "Sonoma County",
+      "lat": 38.462668,
+      "lng": -123.00447
+    },
+    {
+      "name": "Montebello",
+      "slug": "montebello",
+      "county": "Los Angeles County",
+      "lat": 34.013342,
+      "lng": -118.112986
+    },
+    {
+      "name": "Monterey",
+      "slug": "monterey",
+      "county": "Monterey County",
+      "lat": 36.595642,
+      "lng": -121.8848
+    },
+    {
+      "name": "Monterey Park",
+      "slug": "monterey-park",
+      "county": "Los Angeles County",
+      "lat": 34.053409,
+      "lng": -118.127144
+    },
+    {
+      "name": "Montgomery Creek",
+      "slug": "montgomery-creek",
+      "county": "Shasta County",
+      "lat": 40.912378,
+      "lng": -121.923313
+    },
+    {
+      "name": "Montrose",
+      "slug": "montrose",
+      "county": "Los Angeles County",
+      "lat": 34.211425,
+      "lng": -118.230529
+    },
+    {
+      "name": "Moorpark",
+      "slug": "moorpark",
+      "county": "Ventura County",
+      "lat": 34.285556,
+      "lng": -118.881111
+    },
+    {
+      "name": "Moraga",
+      "slug": "moraga",
+      "county": "Contra Costa County",
+      "lat": 37.843653,
+      "lng": -122.124185
+    },
+    {
+      "name": "Moreno Valley",
+      "slug": "moreno-valley",
+      "county": "Riverside County",
+      "lat": 33.8858,
+      "lng": -117.2211
+    },
+    {
+      "name": "Morgan Hill",
+      "slug": "morgan-hill",
+      "county": "Santa Clara County",
+      "lat": 37.129171,
+      "lng": -121.64636
+    },
+    {
+      "name": "Morongo Valley",
+      "slug": "morongo-valley",
+      "county": "San Bernardino County",
+      "lat": 34.060646,
+      "lng": -116.565641
+    },
+    {
+      "name": "Morro Bay",
+      "slug": "morro-bay",
+      "county": "San Luis Obispo County",
+      "lat": 35.37953,
+      "lng": -120.844745
+    },
+    {
+      "name": "Moss Beach",
+      "slug": "moss-beach",
+      "county": "San Mateo County",
+      "lat": 37.531039,
+      "lng": -122.50683
+    },
+    {
+      "name": "Moss Landing",
+      "slug": "moss-landing",
+      "county": "Monterey County",
+      "lat": 36.804444,
+      "lng": -121.785833
+    },
+    {
+      "name": "Mount Aukum",
+      "slug": "mount-aukum",
+      "county": "El Dorado County",
+      "lat": 38.55,
+      "lng": -120.7304
+    },
+    {
+      "name": "Mount Hamilton",
+      "slug": "mount-hamilton",
+      "county": "Santa Clara County",
+      "lat": 37.316087,
+      "lng": -121.639948
+    },
+    {
+      "name": "Mount Hermon",
+      "slug": "mount-hermon",
+      "county": "Santa Cruz County",
+      "lat": 37.051111,
+      "lng": -122.0575
+    },
+    {
+      "name": "Mount Laguna",
+      "slug": "mount-laguna",
+      "county": "San Diego County",
+      "lat": 32.872222,
+      "lng": -116.4175
+    },
+    {
+      "name": "Mount Shasta",
+      "slug": "mount-shasta",
+      "county": "Siskiyou County",
+      "lat": 41.317435,
+      "lng": -122.324017
+    },
+    {
+      "name": "Mount Wilson",
+      "slug": "mount-wilson",
+      "county": "Los Angeles County",
+      "lat": 34.226389,
+      "lng": -118.065278
+    },
+    {
+      "name": "Mountain Center",
+      "slug": "mountain-center",
+      "county": "Riverside County",
+      "lat": 33.531667,
+      "lng": -116.581954
+    },
+    {
+      "name": "Mountain Pass",
+      "slug": "mountain-pass",
+      "county": "San Bernardino County",
+      "lat": 35.470278,
+      "lng": -115.544167
+    },
+    {
+      "name": "Mountain Ranch",
+      "slug": "mountain-ranch",
+      "county": "Calaveras County",
+      "lat": 38.220363,
+      "lng": -120.548137
+    },
+    {
+      "name": "Mountain View",
+      "slug": "mountain-view",
+      "county": "Santa Clara County",
+      "lat": 37.41001,
+      "lng": -122.051944
+    },
+    {
+      "name": "Mt Baldy",
+      "slug": "mt-baldy",
+      "county": "Los Angeles County",
+      "lat": 34.218082,
+      "lng": -117.580219
+    },
+    {
+      "name": "Murphys",
+      "slug": "murphys",
+      "county": "Calaveras County",
+      "lat": 38.126896,
+      "lng": -120.461772
+    },
+    {
+      "name": "Murrieta",
+      "slug": "murrieta",
+      "county": "Riverside County",
+      "lat": 33.563071,
+      "lng": -117.273838
+    },
+    {
+      "name": "Myers Flat",
+      "slug": "myers-flat",
+      "county": "Humboldt County",
+      "lat": 40.194758,
+      "lng": -123.822713
+    },
+    {
+      "name": "Napa",
+      "slug": "napa",
+      "county": "Napa County",
+      "lat": 38.328137,
+      "lng": -122.305518
+    },
+    {
+      "name": "National City",
+      "slug": "national-city",
+      "county": "San Diego County",
+      "lat": 32.674916,
+      "lng": -117.089747
+    },
+    {
+      "name": "Navarro",
+      "slug": "navarro",
+      "county": "Mendocino County",
+      "lat": 39.065833,
+      "lng": -123.443889
+    },
+    {
+      "name": "Needles",
+      "slug": "needles",
+      "county": "San Bernardino County",
+      "lat": 34.782369,
+      "lng": -114.587134
+    },
+    {
+      "name": "Nelson",
+      "slug": "nelson",
+      "county": "Butte County",
+      "lat": 39.552222,
+      "lng": -121.764444
+    },
+    {
+      "name": "Nevada City",
+      "slug": "nevada-city",
+      "county": "Nevada County",
+      "lat": 39.275395,
+      "lng": -121.019634
+    },
+    {
+      "name": "New Almaden",
+      "slug": "new-almaden",
+      "county": "Santa Clara County",
+      "lat": 37.176111,
+      "lng": -121.819722
+    },
+    {
+      "name": "New Cuyama",
+      "slug": "new-cuyama",
+      "county": "Santa Barbara County",
+      "lat": 34.996709,
+      "lng": -119.823806
+    },
+    {
+      "name": "Newark",
+      "slug": "newark",
+      "county": "Alameda County",
+      "lat": 37.536812,
+      "lng": -122.031956
+    },
+    {
+      "name": "Newberry Springs",
+      "slug": "newberry-springs",
+      "county": "San Bernardino County",
+      "lat": 34.885001,
+      "lng": -116.746373
+    },
+    {
+      "name": "Newbury Park",
+      "slug": "newbury-park",
+      "county": "Ventura County",
+      "lat": 34.184167,
+      "lng": -118.909722
+    },
+    {
+      "name": "Newcastle",
+      "slug": "newcastle",
+      "county": "Placer County",
+      "lat": 38.872467,
+      "lng": -121.142616
+    },
+    {
+      "name": "Newhall",
+      "slug": "newhall",
+      "county": "Los Angeles County",
+      "lat": 34.379519,
+      "lng": -118.523005
+    },
+    {
+      "name": "Newman",
+      "slug": "newman",
+      "county": "Stanislaus County",
+      "lat": 37.317591,
+      "lng": -121.025943
+    },
+    {
+      "name": "Newport Beach",
+      "slug": "newport-beach",
+      "county": "Orange County",
+      "lat": 33.6398,
+      "lng": -117.8643
+    },
+    {
+      "name": "Newport Coast",
+      "slug": "newport-coast",
+      "county": "Orange County",
+      "lat": 33.596382,
+      "lng": -117.855317
+    },
+    {
+      "name": "Nicasio",
+      "slug": "nicasio",
+      "county": "Marin County",
+      "lat": 38.054622,
+      "lng": -122.696402
+    },
+    {
+      "name": "Nice",
+      "slug": "nice",
+      "county": "Lake County",
+      "lat": 39.122341,
+      "lng": -122.842409
+    },
+    {
+      "name": "Nicolaus",
+      "slug": "nicolaus",
+      "county": "Sutter County",
+      "lat": 38.882726,
+      "lng": -121.553043
+    },
+    {
+      "name": "Niland",
+      "slug": "niland",
+      "county": "Imperial County",
+      "lat": 33.378373,
+      "lng": -115.696455
+    },
+    {
+      "name": "Nipomo",
+      "slug": "nipomo",
+      "county": "San Luis Obispo County",
+      "lat": 35.029806,
+      "lng": -120.489413
+    },
+    {
+      "name": "Nipton",
+      "slug": "nipton",
+      "county": "San Bernardino County",
+      "lat": 35.46761,
+      "lng": -115.481436
+    },
+    {
+      "name": "Norco",
+      "slug": "norco",
+      "county": "Riverside County",
+      "lat": 33.94,
+      "lng": -117.553333
+    },
+    {
+      "name": "Norden",
+      "slug": "norden",
+      "county": "Nevada County",
+      "lat": 39.319566,
+      "lng": -120.400876
+    },
+    {
+      "name": "North Fork",
+      "slug": "north-fork",
+      "county": "Madera County",
+      "lat": 37.212531,
+      "lng": -119.514324
+    },
+    {
+      "name": "North Highlands",
+      "slug": "north-highlands",
+      "county": "Sacramento County",
+      "lat": 38.68855,
+      "lng": -121.374913
+    },
+    {
+      "name": "North Hills",
+      "slug": "north-hills",
+      "county": "Los Angeles County",
+      "lat": 34.236636,
+      "lng": -118.47582
+    },
+    {
+      "name": "North Hollywood",
+      "slug": "north-hollywood",
+      "county": "Los Angeles County",
+      "lat": 34.16867,
+      "lng": -118.371274
+    },
+    {
+      "name": "North Palm Springs",
+      "slug": "north-palm-springs",
+      "county": "Riverside County",
+      "lat": 33.900278,
+      "lng": -116.527222
+    },
+    {
+      "name": "North San Juan",
+      "slug": "north-san-juan",
+      "county": "Nevada County",
+      "lat": 39.354037,
+      "lng": -121.13498
+    },
+    {
+      "name": "Northridge",
+      "slug": "northridge",
+      "county": "Los Angeles County",
+      "lat": 34.236743,
+      "lng": -118.546595
+    },
+    {
+      "name": "Norwalk",
+      "slug": "norwalk",
+      "county": "Los Angeles County",
+      "lat": 33.90564,
+      "lng": -118.081767
+    },
+    {
+      "name": "Novato",
+      "slug": "novato",
+      "county": "Marin County",
+      "lat": 38.1163,
+      "lng": -122.571416
+    },
+    {
+      "name": "Nubieber",
+      "slug": "nubieber",
+      "county": "Lassen County",
+      "lat": 41.095833,
+      "lng": -121.181944
+    },
+    {
+      "name": "Nuevo",
+      "slug": "nuevo",
+      "county": "Riverside County",
+      "lat": 33.807712,
+      "lng": -117.118704
+    },
+    {
+      "name": "O Neals",
+      "slug": "o-neals",
+      "county": "Madera County",
+      "lat": 37.086874,
+      "lng": -119.745369
+    },
+    {
+      "name": "Oak Park",
+      "slug": "oak-park",
+      "county": "Ventura County",
+      "lat": 34.136389,
+      "lng": -118.773611
+    },
+    {
+      "name": "Oak Run",
+      "slug": "oak-run",
+      "county": "Shasta County",
+      "lat": 40.68631,
+      "lng": -122.040932
+    },
+    {
+      "name": "Oak View",
+      "slug": "oak-view",
+      "county": "Ventura County",
+      "lat": 34.402021,
+      "lng": -119.298168
+    },
+    {
+      "name": "Oakdale",
+      "slug": "oakdale",
+      "county": "Stanislaus County",
+      "lat": 37.775323,
+      "lng": -120.849474
+    },
+    {
+      "name": "Oakhurst",
+      "slug": "oakhurst",
+      "county": "Madera County",
+      "lat": 37.347561,
+      "lng": -119.644854
+    },
+    {
+      "name": "Oakland",
+      "slug": "oakland",
+      "county": "Alameda County",
+      "lat": 37.780595,
+      "lng": -122.216587
+    },
+    {
+      "name": "Oakley",
+      "slug": "oakley",
+      "county": "Contra Costa County",
+      "lat": 37.994034,
+      "lng": -121.703623
+    },
+    {
+      "name": "Oakville",
+      "slug": "oakville",
+      "county": "Napa County",
+      "lat": 38.436944,
+      "lng": -122.401111
+    },
+    {
+      "name": "Obrien",
+      "slug": "obrien",
+      "county": "Shasta County",
+      "lat": 40.812222,
+      "lng": -122.323056
+    },
+    {
+      "name": "Occidental",
+      "slug": "occidental",
+      "county": "Sonoma County",
+      "lat": 38.396911,
+      "lng": -122.988194
+    },
+    {
+      "name": "Oceano",
+      "slug": "oceano",
+      "county": "San Luis Obispo County",
+      "lat": 35.10187,
+      "lng": -120.608044
+    },
+    {
+      "name": "Oceanside",
+      "slug": "oceanside",
+      "county": "San Diego County",
+      "lat": 33.1951,
+      "lng": -117.3776
+    },
+    {
+      "name": "Ocotillo",
+      "slug": "ocotillo",
+      "county": "Imperial County",
+      "lat": 32.738611,
+      "lng": -115.993333
+    },
+    {
+      "name": "Ojai",
+      "slug": "ojai",
+      "county": "Ventura County",
+      "lat": 34.44512,
+      "lng": -119.256477
+    },
+    {
+      "name": "Olancha",
+      "slug": "olancha",
+      "county": "Inyo County",
+      "lat": 36.320833,
+      "lng": -118.025556
+    },
+    {
+      "name": "Old Station",
+      "slug": "old-station",
+      "county": "Shasta County",
+      "lat": 40.62557,
+      "lng": -121.458476
+    },
+    {
+      "name": "Olema",
+      "slug": "olema",
+      "county": "Marin County",
+      "lat": 38.040833,
+      "lng": -122.786944
+    },
+    {
+      "name": "Olivehurst",
+      "slug": "olivehurst",
+      "county": "Yuba County",
+      "lat": 39.089483,
+      "lng": -121.550059
+    },
+    {
+      "name": "Olympic Valley",
+      "slug": "olympic-valley",
+      "county": "Placer County",
+      "lat": 39.155556,
+      "lng": -120.215
+    },
+    {
+      "name": "Ontario",
+      "slug": "ontario",
+      "county": "San Bernardino County",
+      "lat": 34.0631,
+      "lng": -117.6197
+    },
+    {
+      "name": "Onyx",
+      "slug": "onyx",
+      "county": "Kern County",
+      "lat": 35.713584,
+      "lng": -118.190227
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "county": "Orange County",
+      "lat": 33.7877,
+      "lng": -117.8755
+    },
+    {
+      "name": "Orange Cove",
+      "slug": "orange-cove",
+      "county": "Fresno County",
+      "lat": 36.624283,
+      "lng": -119.313502
+    },
+    {
+      "name": "Orangevale",
+      "slug": "orangevale",
+      "county": "Sacramento County",
+      "lat": 38.682384,
+      "lng": -121.222902
+    },
+    {
+      "name": "Oregon House",
+      "slug": "oregon-house",
+      "county": "Yuba County",
+      "lat": 39.314388,
+      "lng": -121.209229
+    },
+    {
+      "name": "Orick",
+      "slug": "orick",
+      "county": "Humboldt County",
+      "lat": 41.30724,
+      "lng": -124.050319
+    },
+    {
+      "name": "Orinda",
+      "slug": "orinda",
+      "county": "Contra Costa County",
+      "lat": 37.878659,
+      "lng": -122.172848
+    },
+    {
+      "name": "Orland",
+      "slug": "orland",
+      "county": "Glenn County",
+      "lat": 39.744578,
+      "lng": -122.157885
+    },
+    {
+      "name": "Orleans",
+      "slug": "orleans",
+      "county": "Humboldt County",
+      "lat": 41.318092,
+      "lng": -123.529564
+    },
+    {
+      "name": "Oro Grande",
+      "slug": "oro-grande",
+      "county": "San Bernardino County",
+      "lat": 34.617832,
+      "lng": -117.332733
+    },
+    {
+      "name": "Orosi",
+      "slug": "orosi",
+      "county": "Tulare County",
+      "lat": 36.546368,
+      "lng": -119.281522
+    },
+    {
+      "name": "Oroville",
+      "slug": "oroville",
+      "county": "Butte County",
+      "lat": 39.532967,
+      "lng": -121.578396
+    },
+    {
+      "name": "Oxnard",
+      "slug": "oxnard",
+      "county": "Ventura County",
+      "lat": 34.214142,
+      "lng": -119.174952
+    },
+    {
+      "name": "Pacific Grove",
+      "slug": "pacific-grove",
+      "county": "Monterey County",
+      "lat": 36.616737,
+      "lng": -121.921957
+    },
+    {
+      "name": "Pacific Palisades",
+      "slug": "pacific-palisades",
+      "county": "Los Angeles County",
+      "lat": 34.054097,
+      "lng": -118.536874
+    },
+    {
+      "name": "Pacifica",
+      "slug": "pacifica",
+      "county": "San Mateo County",
+      "lat": 37.619559,
+      "lng": -122.481607
+    },
+    {
+      "name": "Pacoima",
+      "slug": "pacoima",
+      "county": "Los Angeles County",
+      "lat": 34.258081,
+      "lng": -118.420692
+    },
+    {
+      "name": "Paicines",
+      "slug": "paicines",
+      "county": "San Benito County",
+      "lat": 36.49478,
+      "lng": -121.032853
+    },
+    {
+      "name": "Pala",
+      "slug": "pala",
+      "county": "San Diego County",
+      "lat": 33.377662,
+      "lng": -117.071725
+    },
+    {
+      "name": "Palermo",
+      "slug": "palermo",
+      "county": "Butte County",
+      "lat": 39.436148,
+      "lng": -121.545389
+    },
+    {
+      "name": "Palm Desert",
+      "slug": "palm-desert",
+      "county": "Riverside County",
+      "lat": 33.7611,
+      "lng": -116.3249
+    },
+    {
+      "name": "Palm Springs",
+      "slug": "palm-springs",
+      "county": "Riverside County",
+      "lat": 33.841406,
+      "lng": -116.53466
+    },
+    {
+      "name": "Palmdale",
+      "slug": "palmdale",
+      "county": "Los Angeles County",
+      "lat": 34.571483,
+      "lng": -118.061306
+    },
+    {
+      "name": "Palo Alto",
+      "slug": "palo-alto",
+      "county": "Santa Clara County",
+      "lat": 37.444324,
+      "lng": -122.149685
+    },
+    {
+      "name": "Palo Cedro",
+      "slug": "palo-cedro",
+      "county": "Shasta County",
+      "lat": 40.576661,
+      "lng": -122.239805
+    },
+    {
+      "name": "Palo Verde",
+      "slug": "palo-verde",
+      "county": "Imperial County",
+      "lat": 33.432778,
+      "lng": -114.731389
+    },
+    {
+      "name": "Palomar Mountain",
+      "slug": "palomar-mountain",
+      "county": "San Diego County",
+      "lat": 33.322778,
+      "lng": -116.877778
+    },
+    {
+      "name": "Palos Verdes Peninsula",
+      "slug": "palos-verdes-peninsula",
+      "county": "Los Angeles County",
+      "lat": 33.770094,
+      "lng": -118.374763
+    },
+    {
+      "name": "Panorama City",
+      "slug": "panorama-city",
+      "county": "Los Angeles County",
+      "lat": 34.226158,
+      "lng": -118.447009
+    },
+    {
+      "name": "Paradise",
+      "slug": "paradise",
+      "county": "Butte County",
+      "lat": 39.746389,
+      "lng": -121.636111
+    },
+    {
+      "name": "Paramount",
+      "slug": "paramount",
+      "county": "Los Angeles County",
+      "lat": 33.896867,
+      "lng": -118.163152
+    },
+    {
+      "name": "Parker Dam",
+      "slug": "parker-dam",
+      "county": "San Bernardino County",
+      "lat": 34.297977,
+      "lng": -114.155969
+    },
+    {
+      "name": "Parlier",
+      "slug": "parlier",
+      "county": "Fresno County",
+      "lat": 36.610265,
+      "lng": -119.537482
+    },
+    {
+      "name": "Pasadena",
+      "slug": "pasadena",
+      "county": "Los Angeles County",
+      "lat": 34.146762,
+      "lng": -118.139119
+    },
+    {
+      "name": "Paskenta",
+      "slug": "paskenta",
+      "county": "Tehama County",
+      "lat": 39.884722,
+      "lng": -122.544722
+    },
+    {
+      "name": "Paso Robles",
+      "slug": "paso-robles",
+      "county": "San Luis Obispo County",
+      "lat": 35.635248,
+      "lng": -120.670676
+    },
+    {
+      "name": "Patterson",
+      "slug": "patterson",
+      "county": "Stanislaus County",
+      "lat": 37.490592,
+      "lng": -121.140732
+    },
+    {
+      "name": "Patton",
+      "slug": "patton",
+      "county": "San Bernardino County",
+      "lat": 34.135833,
+      "lng": -117.223056
+    },
+    {
+      "name": "Pauma Valley",
+      "slug": "pauma-valley",
+      "county": "San Diego County",
+      "lat": 33.306285,
+      "lng": -116.959552
+    },
+    {
+      "name": "Paynes Creek",
+      "slug": "paynes-creek",
+      "county": "Tehama County",
+      "lat": 40.351415,
+      "lng": -121.764952
+    },
+    {
+      "name": "Pearblossom",
+      "slug": "pearblossom",
+      "county": "Los Angeles County",
+      "lat": 34.491124,
+      "lng": -117.902893
+    },
+    {
+      "name": "Pebble Beach",
+      "slug": "pebble-beach",
+      "county": "Monterey County",
+      "lat": 36.590735,
+      "lng": -121.942044
+    },
+    {
+      "name": "Penn Valley",
+      "slug": "penn-valley",
+      "county": "Nevada County",
+      "lat": 39.218778,
+      "lng": -121.193519
+    },
+    {
+      "name": "Penngrove",
+      "slug": "penngrove",
+      "county": "Sonoma County",
+      "lat": 38.315948,
+      "lng": -122.671772
+    },
+    {
+      "name": "Penryn",
+      "slug": "penryn",
+      "county": "Placer County",
+      "lat": 38.856654,
+      "lng": -121.179149
+    },
+    {
+      "name": "Perris",
+      "slug": "perris",
+      "county": "Riverside County",
+      "lat": 33.797535,
+      "lng": -117.280005
+    },
+    {
+      "name": "Pescadero",
+      "slug": "pescadero",
+      "county": "San Mateo County",
+      "lat": 37.206518,
+      "lng": -122.364876
+    },
+    {
+      "name": "Petaluma",
+      "slug": "petaluma",
+      "county": "Sonoma County",
+      "lat": 38.240349,
+      "lng": -122.677727
+    },
+    {
+      "name": "Petrolia",
+      "slug": "petrolia",
+      "county": "Humboldt County",
+      "lat": 40.300558,
+      "lng": -124.251236
+    },
+    {
+      "name": "Phelan",
+      "slug": "phelan",
+      "county": "San Bernardino County",
+      "lat": 34.426111,
+      "lng": -117.571389
+    },
+    {
+      "name": "Phillipsville",
+      "slug": "phillipsville",
+      "county": "Humboldt County",
+      "lat": 40.209167,
+      "lng": -123.784722
+    },
+    {
+      "name": "Philo",
+      "slug": "philo",
+      "county": "Mendocino County",
+      "lat": 39.120005,
+      "lng": -123.538218
+    },
+    {
+      "name": "Pico Rivera",
+      "slug": "pico-rivera",
+      "county": "Los Angeles County",
+      "lat": 33.98857,
+      "lng": -118.088269
+    },
+    {
+      "name": "Piedmont",
+      "slug": "piedmont",
+      "county": "Alameda County",
+      "lat": 37.8276,
+      "lng": -122.2507
+    },
+    {
+      "name": "Piedra",
+      "slug": "piedra",
+      "county": "Fresno County",
+      "lat": 36.810278,
+      "lng": -119.381111
+    },
+    {
+      "name": "Piercy",
+      "slug": "piercy",
+      "county": "Mendocino County",
+      "lat": 39.966389,
+      "lng": -123.794167
+    },
+    {
+      "name": "Pilot Hill",
+      "slug": "pilot-hill",
+      "county": "El Dorado County",
+      "lat": 38.826312,
+      "lng": -121.029765
+    },
+    {
+      "name": "Pine Grove",
+      "slug": "pine-grove",
+      "county": "Amador County",
+      "lat": 38.396783,
+      "lng": -120.643713
+    },
+    {
+      "name": "Pine Valley",
+      "slug": "pine-valley",
+      "county": "San Diego County",
+      "lat": 32.835047,
+      "lng": -116.512733
+    },
+    {
+      "name": "Pinecrest",
+      "slug": "pinecrest",
+      "county": "Tuolumne County",
+      "lat": 38.341062,
+      "lng": -119.865195
+    },
+    {
+      "name": "Pinole",
+      "slug": "pinole",
+      "county": "Contra Costa County",
+      "lat": 37.996903,
+      "lng": -122.287477
+    },
+    {
+      "name": "Pinon Hills",
+      "slug": "pinon-hills",
+      "county": "San Bernardino County",
+      "lat": 34.442937,
+      "lng": -117.640262
+    },
+    {
+      "name": "Pioneer",
+      "slug": "pioneer",
+      "county": "Amador County",
+      "lat": 38.460271,
+      "lng": -120.531815
+    },
+    {
+      "name": "Pioneertown",
+      "slug": "pioneertown",
+      "county": "San Bernardino County",
+      "lat": 34.156667,
+      "lng": -116.495278
+    },
+    {
+      "name": "Piru",
+      "slug": "piru",
+      "county": "Ventura County",
+      "lat": 34.415278,
+      "lng": -118.793056
+    },
+    {
+      "name": "Pismo Beach",
+      "slug": "pismo-beach",
+      "county": "San Luis Obispo County",
+      "lat": 35.142778,
+      "lng": -120.640278
+    },
+    {
+      "name": "Pittsburg",
+      "slug": "pittsburg",
+      "county": "Contra Costa County",
+      "lat": 38.016887,
+      "lng": -121.908178
+    },
+    {
+      "name": "Pixley",
+      "slug": "pixley",
+      "county": "Tulare County",
+      "lat": 35.955286,
+      "lng": -119.256427
+    },
+    {
+      "name": "Placentia",
+      "slug": "placentia",
+      "county": "Orange County",
+      "lat": 33.881,
+      "lng": -117.8553
+    },
+    {
+      "name": "Placerville",
+      "slug": "placerville",
+      "county": "El Dorado County",
+      "lat": 38.719479,
+      "lng": -120.804564
+    },
+    {
+      "name": "Planada",
+      "slug": "planada",
+      "county": "Merced County",
+      "lat": 37.290833,
+      "lng": -120.3175
+    },
+    {
+      "name": "Platina",
+      "slug": "platina",
+      "county": "Shasta County",
+      "lat": 40.316528,
+      "lng": -122.918013
+    },
+    {
+      "name": "Playa Del Rey",
+      "slug": "playa-del-rey",
+      "county": "Los Angeles County",
+      "lat": 33.957745,
+      "lng": -118.437314
+    },
+    {
+      "name": "Pleasant Grove",
+      "slug": "pleasant-grove",
+      "county": "Sutter County",
+      "lat": 38.787773,
+      "lng": -121.507967
+    },
+    {
+      "name": "Pleasant Hill",
+      "slug": "pleasant-hill",
+      "county": "Contra Costa County",
+      "lat": 37.954002,
+      "lng": -122.07371
+    },
+    {
+      "name": "Pleasanton",
+      "slug": "pleasanton",
+      "county": "Alameda County",
+      "lat": 37.665804,
+      "lng": -121.8755
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Amador County",
+      "lat": 38.48811,
+      "lng": -120.870258
+    },
+    {
+      "name": "Point Arena",
+      "slug": "point-arena",
+      "county": "Mendocino County",
+      "lat": 38.915264,
+      "lng": -123.660756
+    },
+    {
+      "name": "Point Mugu Nawc",
+      "slug": "point-mugu-nawc",
+      "county": "Ventura County",
+      "lat": 34.123432,
+      "lng": -119.09931
+    },
+    {
+      "name": "Point Reyes Station",
+      "slug": "point-reyes-station",
+      "county": "Marin County",
+      "lat": 38.064794,
+      "lng": -122.81621
+    },
+    {
+      "name": "Pollock Pines",
+      "slug": "pollock-pines",
+      "county": "El Dorado County",
+      "lat": 38.745581,
+      "lng": -120.585114
+    },
+    {
+      "name": "Pomona",
+      "slug": "pomona",
+      "county": "Los Angeles County",
+      "lat": 34.043268,
+      "lng": -117.752086
+    },
+    {
+      "name": "Pope Valley",
+      "slug": "pope-valley",
+      "county": "Napa County",
+      "lat": 38.678192,
+      "lng": -122.472244
+    },
+    {
+      "name": "Port Costa",
+      "slug": "port-costa",
+      "county": "Contra Costa County",
+      "lat": 38.046013,
+      "lng": -122.186649
+    },
+    {
+      "name": "Port Hueneme",
+      "slug": "port-hueneme",
+      "county": "Ventura County",
+      "lat": 34.162572,
+      "lng": -119.197317
+    },
+    {
+      "name": "Port Hueneme Cbc Base",
+      "slug": "port-hueneme-cbc-base",
+      "county": "Ventura County",
+      "lat": 34.16212,
+      "lng": -119.206008
+    },
+    {
+      "name": "Porter Ranch",
+      "slug": "porter-ranch",
+      "county": "Los Angeles County",
+      "lat": 34.274191,
+      "lng": -118.541235
+    },
+    {
+      "name": "Porterville",
+      "slug": "porterville",
+      "county": "Tulare County",
+      "lat": 36.068636,
+      "lng": -119.031549
+    },
+    {
+      "name": "Portola",
+      "slug": "portola",
+      "county": "Plumas County",
+      "lat": 39.810883,
+      "lng": -120.466858
+    },
+    {
+      "name": "Portola Vally",
+      "slug": "portola-vally",
+      "county": "San Mateo County",
+      "lat": 37.378859,
+      "lng": -122.208131
+    },
+    {
+      "name": "Posey",
+      "slug": "posey",
+      "county": "Tulare County",
+      "lat": 35.813496,
+      "lng": -118.664286
+    },
+    {
+      "name": "Potrero",
+      "slug": "potrero",
+      "county": "San Diego County",
+      "lat": 32.620477,
+      "lng": -116.603748
+    },
+    {
+      "name": "Potter Valley",
+      "slug": "potter-valley",
+      "county": "Mendocino County",
+      "lat": 39.329639,
+      "lng": -123.104181
+    },
+    {
+      "name": "Poway",
+      "slug": "poway",
+      "county": "San Diego County",
+      "lat": 32.975619,
+      "lng": -117.040223
+    },
+    {
+      "name": "Prather",
+      "slug": "prather",
+      "county": "Fresno County",
+      "lat": 36.993799,
+      "lng": -119.526771
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "county": "Colusa County",
+      "lat": 39.428313,
+      "lng": -122.030181
+    },
+    {
+      "name": "Proberta",
+      "slug": "proberta",
+      "county": "Tehama County",
+      "lat": 40.081667,
+      "lng": -122.169444
+    },
+    {
+      "name": "Quincy",
+      "slug": "quincy",
+      "county": "Plumas County",
+      "lat": 39.940504,
+      "lng": -120.928493
+    },
+    {
+      "name": "Rackerby",
+      "slug": "rackerby",
+      "county": "Yuba County",
+      "lat": 39.4059,
+      "lng": -121.336192
+    },
+    {
+      "name": "Rail Road Flat",
+      "slug": "rail-road-flat",
+      "county": "Calaveras County",
+      "lat": 38.343333,
+      "lng": -120.511111
+    },
+    {
+      "name": "Raisin City",
+      "slug": "raisin-city",
+      "county": "Fresno County",
+      "lat": 36.598928,
+      "lng": -119.903158
+    },
+    {
+      "name": "Ramona",
+      "slug": "ramona",
+      "county": "San Diego County",
+      "lat": 33.029349,
+      "lng": -116.853548
+    },
+    {
+      "name": "Ranchita",
+      "slug": "ranchita",
+      "county": "San Diego County",
+      "lat": 33.24055,
+      "lng": -116.539121
+    },
+    {
+      "name": "Rancho Cordova",
+      "slug": "rancho-cordova",
+      "county": "Sacramento County",
+      "lat": 38.601897,
+      "lng": -121.289434
+    },
+    {
+      "name": "Rancho Cucamonga",
+      "slug": "rancho-cucamonga",
+      "county": "San Bernardino County",
+      "lat": 34.133922,
+      "lng": -117.599149
+    },
+    {
+      "name": "Rancho Mirage",
+      "slug": "rancho-mirage",
+      "county": "Riverside County",
+      "lat": 33.764284,
+      "lng": -116.422451
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "slug": "rancho-palos-verdes",
+      "county": "Los Angeles County",
+      "lat": 33.787778,
+      "lng": -118.357222
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "slug": "rancho-santa-fe",
+      "county": "San Diego County",
+      "lat": 33.0231,
+      "lng": -117.1996
+    },
+    {
+      "name": "Rancho Santa Margarita",
+      "slug": "rancho-santa-margarita",
+      "county": "Orange County",
+      "lat": 33.651822,
+      "lng": -117.588388
+    },
+    {
+      "name": "Randsburg",
+      "slug": "randsburg",
+      "county": "Kern County",
+      "lat": 35.352176,
+      "lng": -117.726396
+    },
+    {
+      "name": "Ravendale",
+      "slug": "ravendale",
+      "county": "Lassen County",
+      "lat": 40.831705,
+      "lng": -120.16001
+    },
+    {
+      "name": "Raymond",
+      "slug": "raymond",
+      "county": "Madera County",
+      "lat": 37.27898,
+      "lng": -119.876567
+    },
+    {
+      "name": "Red Bluff",
+      "slug": "red-bluff",
+      "county": "Tehama County",
+      "lat": 40.179535,
+      "lng": -122.238281
+    },
+    {
+      "name": "Red Mountain",
+      "slug": "red-mountain",
+      "county": "San Bernardino County",
+      "lat": 35.372778,
+      "lng": -117.633889
+    },
+    {
+      "name": "Redcrest",
+      "slug": "redcrest",
+      "county": "Humboldt County",
+      "lat": 40.406458,
+      "lng": -123.94205
+    },
+    {
+      "name": "Redding",
+      "slug": "redding",
+      "county": "Shasta County",
+      "lat": 40.560493,
+      "lng": -122.411627
+    },
+    {
+      "name": "Redlands",
+      "slug": "redlands",
+      "county": "San Bernardino County",
+      "lat": 34.039659,
+      "lng": -117.180352
+    },
+    {
+      "name": "Redondo Beach",
+      "slug": "redondo-beach",
+      "county": "Los Angeles County",
+      "lat": 33.830656,
+      "lng": -118.383221
+    },
+    {
+      "name": "Redway",
+      "slug": "redway",
+      "county": "Humboldt County",
+      "lat": 40.110081,
+      "lng": -123.844194
+    },
+    {
+      "name": "Redwood City",
+      "slug": "redwood-city",
+      "county": "San Mateo County",
+      "lat": 37.464661,
+      "lng": -122.230406
+    },
+    {
+      "name": "Redwood Estates",
+      "slug": "redwood-estates",
+      "county": "Santa Clara County",
+      "lat": 37.156389,
+      "lng": -121.985556
+    },
+    {
+      "name": "Redwood Valley",
+      "slug": "redwood-valley",
+      "county": "Mendocino County",
+      "lat": 39.269446,
+      "lng": -123.213289
+    },
+    {
+      "name": "Reedley",
+      "slug": "reedley",
+      "county": "Fresno County",
+      "lat": 36.604406,
+      "lng": -119.437785
+    },
+    {
+      "name": "Represa",
+      "slug": "represa",
+      "county": "Sacramento County",
+      "lat": 38.688333,
+      "lng": -121.447778
+    },
+    {
+      "name": "Rescue",
+      "slug": "rescue",
+      "county": "El Dorado County",
+      "lat": 38.719353,
+      "lng": -120.994526
+    },
+    {
+      "name": "Reseda",
+      "slug": "reseda",
+      "county": "Los Angeles County",
+      "lat": 34.200663,
+      "lng": -118.539071
+    },
+    {
+      "name": "Rialto",
+      "slug": "rialto",
+      "county": "San Bernardino County",
+      "lat": 34.113155,
+      "lng": -117.377133
+    },
+    {
+      "name": "Richgrove",
+      "slug": "richgrove",
+      "county": "Tulare County",
+      "lat": 35.796667,
+      "lng": -119.106944
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "county": "Contra Costa County",
+      "lat": 37.940039,
+      "lng": -122.36201
+    },
+    {
+      "name": "Richvale",
+      "slug": "richvale",
+      "county": "Butte County",
+      "lat": 39.493889,
+      "lng": -121.743611
+    },
+    {
+      "name": "Ridgecrest",
+      "slug": "ridgecrest",
+      "county": "Kern County",
+      "lat": 35.631376,
+      "lng": -117.679733
+    },
+    {
+      "name": "Rimforest",
+      "slug": "rimforest",
+      "county": "San Bernardino County",
+      "lat": 34.229722,
+      "lng": -117.224167
+    },
+    {
+      "name": "Rio Dell",
+      "slug": "rio-dell",
+      "county": "Humboldt County",
+      "lat": 40.495147,
+      "lng": -124.104386
+    },
+    {
+      "name": "Rio Linda",
+      "slug": "rio-linda",
+      "county": "Sacramento County",
+      "lat": 38.689311,
+      "lng": -121.445152
+    },
+    {
+      "name": "Rio Nido",
+      "slug": "rio-nido",
+      "county": "Sonoma County",
+      "lat": 38.521111,
+      "lng": -122.975833
+    },
+    {
+      "name": "Rio Oso",
+      "slug": "rio-oso",
+      "county": "Sutter County",
+      "lat": 38.960998,
+      "lng": -121.505305
+    },
+    {
+      "name": "Rio Vista",
+      "slug": "rio-vista",
+      "county": "Solano County",
+      "lat": 38.163734,
+      "lng": -121.701635
+    },
+    {
+      "name": "Ripon",
+      "slug": "ripon",
+      "county": "San Joaquin County",
+      "lat": 37.753286,
+      "lng": -121.122909
+    },
+    {
+      "name": "River Pines",
+      "slug": "river-pines",
+      "county": "Amador County",
+      "lat": 38.5463,
+      "lng": -120.743
+    },
+    {
+      "name": "Riverbank",
+      "slug": "riverbank",
+      "county": "Stanislaus County",
+      "lat": 37.732809,
+      "lng": -120.943019
+    },
+    {
+      "name": "Riverdale",
+      "slug": "riverdale",
+      "county": "Fresno County",
+      "lat": 36.429525,
+      "lng": -119.871953
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Riverside County",
+      "lat": 33.9924,
+      "lng": -117.369421
+    },
+    {
+      "name": "Robbins",
+      "slug": "robbins",
+      "county": "Sutter County",
+      "lat": 38.870278,
+      "lng": -121.705278
+    },
+    {
+      "name": "Rocklin",
+      "slug": "rocklin",
+      "county": "Placer County",
+      "lat": 38.791898,
+      "lng": -121.243406
+    },
+    {
+      "name": "Rodeo",
+      "slug": "rodeo",
+      "county": "Contra Costa County",
+      "lat": 38.03069,
+      "lng": -122.258139
+    },
+    {
+      "name": "Rohnert Park",
+      "slug": "rohnert-park",
+      "county": "Sonoma County",
+      "lat": 38.3269,
+      "lng": -122.7061
+    },
+    {
+      "name": "Rosamond",
+      "slug": "rosamond",
+      "county": "Kern County",
+      "lat": 34.863117,
+      "lng": -118.19636
+    },
+    {
+      "name": "Rosemead",
+      "slug": "rosemead",
+      "county": "Los Angeles County",
+      "lat": 34.065767,
+      "lng": -118.08529
+    },
+    {
+      "name": "Roseville",
+      "slug": "roseville",
+      "county": "Placer County",
+      "lat": 38.734612,
+      "lng": -121.233968
+    },
+    {
+      "name": "Ross",
+      "slug": "ross",
+      "county": "Marin County",
+      "lat": 37.9625,
+      "lng": -122.553889
+    },
+    {
+      "name": "Rough And Ready",
+      "slug": "rough-and-ready",
+      "county": "Nevada County",
+      "lat": 39.228585,
+      "lng": -121.150856
+    },
+    {
+      "name": "Round Mountain",
+      "slug": "round-mountain",
+      "county": "Shasta County",
+      "lat": 40.794167,
+      "lng": -121.940833
+    },
+    {
+      "name": "Rowland Heights",
+      "slug": "rowland-heights",
+      "county": "Los Angeles County",
+      "lat": 33.981777,
+      "lng": -117.896946
+    },
+    {
+      "name": "Rumsey",
+      "slug": "rumsey",
+      "county": "Yolo County",
+      "lat": 38.8762,
+      "lng": -122.253738
+    },
+    {
+      "name": "Running Springs",
+      "slug": "running-springs",
+      "county": "San Bernardino County",
+      "lat": 34.207778,
+      "lng": -117.108333
+    },
+    {
+      "name": "Rutherford",
+      "slug": "rutherford",
+      "county": "Napa County",
+      "lat": 38.458611,
+      "lng": -122.421389
+    },
+    {
+      "name": "Ryde",
+      "slug": "ryde",
+      "county": "Sacramento County",
+      "lat": 38.238611,
+      "lng": -121.559444
+    },
+    {
+      "name": "Sacramento",
+      "slug": "sacramento",
+      "county": "Sacramento County",
+      "lat": 38.5816,
+      "lng": -121.4933
+    },
+    {
+      "name": "Saint Helena",
+      "slug": "saint-helena",
+      "county": "Napa County",
+      "lat": 38.513776,
+      "lng": -122.461921
+    },
+    {
+      "name": "Salida",
+      "slug": "salida",
+      "county": "Stanislaus County",
+      "lat": 37.70713,
+      "lng": -121.090484
+    },
+    {
+      "name": "Salinas",
+      "slug": "salinas",
+      "county": "Monterey County",
+      "lat": 36.667693,
+      "lng": -121.659589
+    },
+    {
+      "name": "Salton City",
+      "slug": "salton-city",
+      "county": "Imperial County",
+      "lat": 33.298611,
+      "lng": -115.955278
+    },
+    {
+      "name": "Salyer",
+      "slug": "salyer",
+      "county": "Trinity County",
+      "lat": 40.89095,
+      "lng": -123.547833
+    },
+    {
+      "name": "Samoa",
+      "slug": "samoa",
+      "county": "Humboldt County",
+      "lat": 40.803712,
+      "lng": -124.193571
+    },
+    {
+      "name": "San Andreas",
+      "slug": "san-andreas",
+      "county": "Calaveras County",
+      "lat": 38.186732,
+      "lng": -120.668703
+    },
+    {
+      "name": "San Anselmo",
+      "slug": "san-anselmo",
+      "county": "Marin County",
+      "lat": 37.984579,
+      "lng": -122.571062
+    },
+    {
+      "name": "San Ardo",
+      "slug": "san-ardo",
+      "county": "Monterey County",
+      "lat": 35.985685,
+      "lng": -120.861191
+    },
+    {
+      "name": "San Bernardino",
+      "slug": "san-bernardino",
+      "county": "San Bernardino County",
+      "lat": 34.110521,
+      "lng": -117.289753
+    },
+    {
+      "name": "San Bruno",
+      "slug": "san-bruno",
+      "county": "San Mateo County",
+      "lat": 37.624742,
+      "lng": -122.429021
+    },
+    {
+      "name": "San Carlos",
+      "slug": "san-carlos",
+      "county": "San Mateo County",
+      "lat": 37.496859,
+      "lng": -122.267356
+    },
+    {
+      "name": "San Clemente",
+      "slug": "san-clemente",
+      "county": "Orange County",
+      "lat": 33.430809,
+      "lng": -117.610139
+    },
+    {
+      "name": "San Diego",
+      "slug": "san-diego",
+      "county": "San Diego County",
+      "lat": 32.71852,
+      "lng": -117.159316
+    },
+    {
+      "name": "San Dimas",
+      "slug": "san-dimas",
+      "county": "Los Angeles County",
+      "lat": 34.102263,
+      "lng": -117.81694
+    },
+    {
+      "name": "San Fernando",
+      "slug": "san-fernando",
+      "county": "Los Angeles County",
+      "lat": 34.287509,
+      "lng": -118.435242
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "county": "San Francisco County",
+      "lat": 37.775,
+      "lng": -122.4183
+    },
+    {
+      "name": "San Gabriel",
+      "slug": "san-gabriel",
+      "county": "Los Angeles County",
+      "lat": 34.115486,
+      "lng": -118.085658
+    },
+    {
+      "name": "San Geronimo",
+      "slug": "san-geronimo",
+      "county": "Marin County",
+      "lat": 38.017155,
+      "lng": -122.67784
+    },
+    {
+      "name": "San Gregorio",
+      "slug": "san-gregorio",
+      "county": "San Mateo County",
+      "lat": 37.325513,
+      "lng": -122.355552
+    },
+    {
+      "name": "San Jacinto",
+      "slug": "san-jacinto",
+      "county": "Riverside County",
+      "lat": 33.783889,
+      "lng": -116.957778
+    },
+    {
+      "name": "San Joaquin",
+      "slug": "san-joaquin",
+      "county": "Fresno County",
+      "lat": 36.605869,
+      "lng": -120.188934
+    },
+    {
+      "name": "San Jose",
+      "slug": "san-jose",
+      "county": "Santa Clara County",
+      "lat": 37.3894,
+      "lng": -121.8868
+    },
+    {
+      "name": "San Juan Bautista",
+      "slug": "san-juan-bautista",
+      "county": "San Benito County",
+      "lat": 36.849856,
+      "lng": -121.532721
+    },
+    {
+      "name": "San Juan Capistrano",
+      "slug": "san-juan-capistrano",
+      "county": "Orange County",
+      "lat": 33.511714,
+      "lng": -117.657409
+    },
+    {
+      "name": "San Leandro",
+      "slug": "san-leandro",
+      "county": "Alameda County",
+      "lat": 37.720467,
+      "lng": -122.158705
+    },
+    {
+      "name": "San Lorenzo",
+      "slug": "san-lorenzo",
+      "county": "Alameda County",
+      "lat": 37.678671,
+      "lng": -122.129547
+    },
+    {
+      "name": "San Lucas",
+      "slug": "san-lucas",
+      "county": "Monterey County",
+      "lat": 36.128889,
+      "lng": -121.019444
+    },
+    {
+      "name": "San Luis Obispo",
+      "slug": "san-luis-obispo",
+      "county": "San Luis Obispo County",
+      "lat": 35.263453,
+      "lng": -120.650933
+    },
+    {
+      "name": "San Luis Rey",
+      "slug": "san-luis-rey",
+      "county": "San Diego County",
+      "lat": 33.294367,
+      "lng": -117.306403
+    },
+    {
+      "name": "San Marcos",
+      "slug": "san-marcos",
+      "county": "San Diego County",
+      "lat": 33.144386,
+      "lng": -117.169716
+    },
+    {
+      "name": "San Marino",
+      "slug": "san-marino",
+      "county": "Los Angeles County",
+      "lat": 34.120698,
+      "lng": -118.111745
+    },
+    {
+      "name": "San Martin",
+      "slug": "san-martin",
+      "county": "Santa Clara County",
+      "lat": 37.091118,
+      "lng": -121.599901
+    },
+    {
+      "name": "San Mateo",
+      "slug": "san-mateo",
+      "county": "San Mateo County",
+      "lat": 37.572271,
+      "lng": -122.320262
+    },
+    {
+      "name": "San Miguel",
+      "slug": "san-miguel",
+      "county": "San Luis Obispo County",
+      "lat": 35.753209,
+      "lng": -120.696532
+    },
+    {
+      "name": "San Pablo",
+      "slug": "san-pablo",
+      "county": "Contra Costa County",
+      "lat": 37.972374,
+      "lng": -122.336929
+    },
+    {
+      "name": "San Pedro",
+      "slug": "san-pedro",
+      "county": "Los Angeles County",
+      "lat": 33.733894,
+      "lng": -118.291425
+    },
+    {
+      "name": "San Quentin",
+      "slug": "san-quentin",
+      "county": "Marin County",
+      "lat": 37.9428,
+      "lng": -122.4894
+    },
+    {
+      "name": "San Rafael",
+      "slug": "san-rafael",
+      "county": "Marin County",
+      "lat": 37.969144,
+      "lng": -122.510502
+    },
+    {
+      "name": "San Ramon",
+      "slug": "san-ramon",
+      "county": "Contra Costa County",
+      "lat": 37.78,
+      "lng": -121.976944
+    },
+    {
+      "name": "San Simeon",
+      "slug": "san-simeon",
+      "county": "San Luis Obispo County",
+      "lat": 35.666815,
+      "lng": -121.144033
+    },
+    {
+      "name": "San Ysidro",
+      "slug": "san-ysidro",
+      "county": "San Diego County",
+      "lat": 32.551944,
+      "lng": -117.042222
+    },
+    {
+      "name": "Sanger",
+      "slug": "sanger",
+      "county": "Fresno County",
+      "lat": 36.7243,
+      "lng": -119.547796
+    },
+    {
+      "name": "Santa Ana",
+      "slug": "santa-ana",
+      "county": "Orange County",
+      "lat": 33.75016,
+      "lng": -117.857665
+    },
+    {
+      "name": "Santa Barbara",
+      "slug": "santa-barbara",
+      "county": "Santa Barbara County",
+      "lat": 34.419668,
+      "lng": -119.70782
+    },
+    {
+      "name": "Santa Clara",
+      "slug": "santa-clara",
+      "county": "Santa Clara County",
+      "lat": 37.34732,
+      "lng": -121.954079
+    },
+    {
+      "name": "Santa Clarita",
+      "slug": "santa-clarita",
+      "county": "Los Angeles County",
+      "lat": 34.459742,
+      "lng": -118.488955
+    },
+    {
+      "name": "Santa Cruz",
+      "slug": "santa-cruz",
+      "county": "Santa Cruz County",
+      "lat": 36.982946,
+      "lng": -122.043612
+    },
+    {
+      "name": "Santa Fe Springs",
+      "slug": "santa-fe-springs",
+      "county": "Los Angeles County",
+      "lat": 33.946407,
+      "lng": -118.083801
+    },
+    {
+      "name": "Santa Margarita",
+      "slug": "santa-margarita",
+      "county": "San Luis Obispo County",
+      "lat": 35.341254,
+      "lng": -120.3202
+    },
+    {
+      "name": "Santa Maria",
+      "slug": "santa-maria",
+      "county": "Santa Barbara County",
+      "lat": 34.954538,
+      "lng": -120.43245
+    },
+    {
+      "name": "Santa Monica",
+      "slug": "santa-monica",
+      "county": "Los Angeles County",
+      "lat": 34.017628,
+      "lng": -118.490708
+    },
+    {
+      "name": "Santa Paula",
+      "slug": "santa-paula",
+      "county": "Ventura County",
+      "lat": 34.354718,
+      "lng": -119.071328
+    },
+    {
+      "name": "Santa Rita Park",
+      "slug": "santa-rita-park",
+      "county": "Merced County",
+      "lat": 37.0475,
+      "lng": -120.594167
+    },
+    {
+      "name": "Santa Rosa",
+      "slug": "santa-rosa",
+      "county": "Sonoma County",
+      "lat": 38.443123,
+      "lng": -122.751722
+    },
+    {
+      "name": "Santa Ynez",
+      "slug": "santa-ynez",
+      "county": "Santa Barbara County",
+      "lat": 34.623966,
+      "lng": -120.071332
+    },
+    {
+      "name": "Santa Ysabel",
+      "slug": "santa-ysabel",
+      "county": "San Diego County",
+      "lat": 33.147579,
+      "lng": -116.69635
+    },
+    {
+      "name": "Santee",
+      "slug": "santee",
+      "county": "San Diego County",
+      "lat": 32.848636,
+      "lng": -116.986154
+    },
+    {
+      "name": "Saratoga",
+      "slug": "saratoga",
+      "county": "Santa Clara County",
+      "lat": 37.272871,
+      "lng": -122.018238
+    },
+    {
+      "name": "Sausalito",
+      "slug": "sausalito",
+      "county": "Marin County",
+      "lat": 37.860147,
+      "lng": -122.494555
+    },
+    {
+      "name": "Scotia",
+      "slug": "scotia",
+      "county": "Humboldt County",
+      "lat": 40.454665,
+      "lng": -124.039074
+    },
+    {
+      "name": "Scott Bar",
+      "slug": "scott-bar",
+      "county": "Siskiyou County",
+      "lat": 41.77364,
+      "lng": -122.988183
+    },
+    {
+      "name": "Scotts Valley",
+      "slug": "scotts-valley",
+      "county": "Santa Cruz County",
+      "lat": 37.057841,
+      "lng": -122.014961
+    },
+    {
+      "name": "Seal Beach",
+      "slug": "seal-beach",
+      "county": "Orange County",
+      "lat": 33.760971,
+      "lng": -118.08428
+    },
+    {
+      "name": "Seaside",
+      "slug": "seaside",
+      "county": "Monterey County",
+      "lat": 36.609208,
+      "lng": -121.835724
+    },
+    {
+      "name": "Sebastopol",
+      "slug": "sebastopol",
+      "county": "Sonoma County",
+      "lat": 38.391543,
+      "lng": -122.838503
+    },
+    {
+      "name": "Seeley",
+      "slug": "seeley",
+      "county": "Imperial County",
+      "lat": 32.793056,
+      "lng": -115.690278
+    },
+    {
+      "name": "Seiad Valley",
+      "slug": "seiad-valley",
+      "county": "Siskiyou County",
+      "lat": 41.886589,
+      "lng": -123.243762
+    },
+    {
+      "name": "Selma",
+      "slug": "selma",
+      "county": "Fresno County",
+      "lat": 36.569524,
+      "lng": -119.617026
+    },
+    {
+      "name": "Sequoia National Park",
+      "slug": "sequoia-national-park",
+      "county": "Tulare County",
+      "lat": 36.573878,
+      "lng": -118.772271
+    },
+    {
+      "name": "Shafter",
+      "slug": "shafter",
+      "county": "Kern County",
+      "lat": 35.496994,
+      "lng": -119.280075
+    },
+    {
+      "name": "Shandon",
+      "slug": "shandon",
+      "county": "San Luis Obispo County",
+      "lat": 35.651273,
+      "lng": -120.372047
+    },
+    {
+      "name": "Shasta",
+      "slug": "shasta",
+      "county": "Shasta County",
+      "lat": 40.610896,
+      "lng": -122.49685
+    },
+    {
+      "name": "Shasta Lake",
+      "slug": "shasta-lake",
+      "county": "Shasta County",
+      "lat": 40.680262,
+      "lng": -122.365395
+    },
+    {
+      "name": "Shaver Lake",
+      "slug": "shaver-lake",
+      "county": "Fresno County",
+      "lat": 37.139695,
+      "lng": -119.273031
+    },
+    {
+      "name": "Sheep Ranch",
+      "slug": "sheep-ranch",
+      "county": "Calaveras County",
+      "lat": 38.209444,
+      "lng": -120.463056
+    },
+    {
+      "name": "Sheridan",
+      "slug": "sheridan",
+      "county": "Placer County",
+      "lat": 38.99153,
+      "lng": -121.362062
+    },
+    {
+      "name": "Sherman Oaks",
+      "slug": "sherman-oaks",
+      "county": "Los Angeles County",
+      "lat": 34.151407,
+      "lng": -118.460325
+    },
+    {
+      "name": "Shingle Springs",
+      "slug": "shingle-springs",
+      "county": "El Dorado County",
+      "lat": 38.665616,
+      "lng": -120.975925
+    },
+    {
+      "name": "Shingletown",
+      "slug": "shingletown",
+      "county": "Shasta County",
+      "lat": 40.504959,
+      "lng": -121.885668
+    },
+    {
+      "name": "Shoshone",
+      "slug": "shoshone",
+      "county": "Inyo County",
+      "lat": 35.899239,
+      "lng": -116.264476
+    },
+    {
+      "name": "Sierra City",
+      "slug": "sierra-city",
+      "county": "Sierra County",
+      "lat": 39.559248,
+      "lng": -120.624135
+    },
+    {
+      "name": "Sierra Madre",
+      "slug": "sierra-madre",
+      "county": "Los Angeles County",
+      "lat": 34.165101,
+      "lng": -118.051916
+    },
+    {
+      "name": "Sierraville",
+      "slug": "sierraville",
+      "county": "Sierra County",
+      "lat": 39.594294,
+      "lng": -120.347789
+    },
+    {
+      "name": "Signal Hill",
+      "slug": "signal-hill",
+      "county": "Los Angeles County",
+      "lat": 33.8037,
+      "lng": -118.1688
+    },
+    {
+      "name": "Silverado",
+      "slug": "silverado",
+      "county": "Orange County",
+      "lat": 33.746111,
+      "lng": -117.636111
+    },
+    {
+      "name": "Simi Valley",
+      "slug": "simi-valley",
+      "county": "Ventura County",
+      "lat": 34.2694,
+      "lng": -118.7805
+    },
+    {
+      "name": "Skyforest",
+      "slug": "skyforest",
+      "county": "San Bernardino County",
+      "lat": 34.235278,
+      "lng": -117.178333
+    },
+    {
+      "name": "Sloughhouse",
+      "slug": "sloughhouse",
+      "county": "Sacramento County",
+      "lat": 38.507475,
+      "lng": -121.094089
+    },
+    {
+      "name": "Smartville",
+      "slug": "smartville",
+      "county": "Nevada County",
+      "lat": 39.204305,
+      "lng": -121.266716
+    },
+    {
+      "name": "Smith River",
+      "slug": "smith-river",
+      "county": "Del Norte County",
+      "lat": 41.936218,
+      "lng": -124.166115
+    },
+    {
+      "name": "Snelling",
+      "slug": "snelling",
+      "county": "Merced County",
+      "lat": 37.514359,
+      "lng": -120.481615
+    },
+    {
+      "name": "Soda Springs",
+      "slug": "soda-springs",
+      "county": "Nevada County",
+      "lat": 39.338467,
+      "lng": -120.465493
+    },
+    {
+      "name": "Solana Beach",
+      "slug": "solana-beach",
+      "county": "San Diego County",
+      "lat": 32.993739,
+      "lng": -117.2598
+    },
+    {
+      "name": "Soledad",
+      "slug": "soledad",
+      "county": "Monterey County",
+      "lat": 36.41964,
+      "lng": -121.324286
+    },
+    {
+      "name": "Solvang",
+      "slug": "solvang",
+      "county": "Santa Barbara County",
+      "lat": 34.609931,
+      "lng": -120.129286
+    },
+    {
+      "name": "Somerset",
+      "slug": "somerset",
+      "county": "El Dorado County",
+      "lat": 38.607414,
+      "lng": -120.666306
+    },
+    {
+      "name": "Somes Bar",
+      "slug": "somes-bar",
+      "county": "Siskiyou County",
+      "lat": 41.43304,
+      "lng": -123.475928
+    },
+    {
+      "name": "Somis",
+      "slug": "somis",
+      "county": "Ventura County",
+      "lat": 34.279753,
+      "lng": -119.011537
+    },
+    {
+      "name": "Sonoma",
+      "slug": "sonoma",
+      "county": "Sonoma County",
+      "lat": 38.295659,
+      "lng": -122.472843
+    },
+    {
+      "name": "Sonora",
+      "slug": "sonora",
+      "county": "Tuolumne County",
+      "lat": 37.995692,
+      "lng": -120.338498
+    },
+    {
+      "name": "Soquel",
+      "slug": "soquel",
+      "county": "Santa Cruz County",
+      "lat": 37.003525,
+      "lng": -121.950255
+    },
+    {
+      "name": "Soulsbyville",
+      "slug": "soulsbyville",
+      "county": "Tuolumne County",
+      "lat": 37.992794,
+      "lng": -120.259892
+    },
+    {
+      "name": "South Dos Palos",
+      "slug": "south-dos-palos",
+      "county": "Merced County",
+      "lat": 36.964444,
+      "lng": -120.652222
+    },
+    {
+      "name": "South El Monte",
+      "slug": "south-el-monte",
+      "county": "Los Angeles County",
+      "lat": 34.055676,
+      "lng": -118.044381
+    },
+    {
+      "name": "South Gate",
+      "slug": "south-gate",
+      "county": "Los Angeles County",
+      "lat": 33.94617,
+      "lng": -118.201349
+    },
+    {
+      "name": "South Lake Tahoe",
+      "slug": "south-lake-tahoe",
+      "county": "El Dorado County",
+      "lat": 38.916976,
+      "lng": -119.986469
+    },
+    {
+      "name": "South Pasadena",
+      "slug": "south-pasadena",
+      "county": "Los Angeles County",
+      "lat": 34.110939,
+      "lng": -118.154696
+    },
+    {
+      "name": "South San Francisco",
+      "slug": "south-san-francisco",
+      "county": "San Mateo County",
+      "lat": 37.65382,
+      "lng": -122.4347
+    },
+    {
+      "name": "Spreckels",
+      "slug": "spreckels",
+      "county": "Monterey County",
+      "lat": 36.621944,
+      "lng": -121.645833
+    },
+    {
+      "name": "Spring Valley",
+      "slug": "spring-valley",
+      "county": "San Diego County",
+      "lat": 32.7447,
+      "lng": -116.998
+    },
+    {
+      "name": "Springville",
+      "slug": "springville",
+      "county": "Tulare County",
+      "lat": 36.136314,
+      "lng": -118.796059
+    },
+    {
+      "name": "Squaw Valley",
+      "slug": "squaw-valley",
+      "county": "Fresno County",
+      "lat": 36.707146,
+      "lng": -119.181449
+    },
+    {
+      "name": "Standard",
+      "slug": "standard",
+      "county": "Tuolumne County",
+      "lat": 37.984167,
+      "lng": -120.381111
+    },
+    {
+      "name": "Standish",
+      "slug": "standish",
+      "county": "Lassen County",
+      "lat": 40.350863,
+      "lng": -120.406847
+    },
+    {
+      "name": "Stanford",
+      "slug": "stanford",
+      "county": "Santa Clara County",
+      "lat": 37.423573,
+      "lng": -122.161867
+    },
+    {
+      "name": "Stanton",
+      "slug": "stanton",
+      "county": "Orange County",
+      "lat": 33.803029,
+      "lng": -117.994709
+    },
+    {
+      "name": "Stevenson Ranch",
+      "slug": "stevenson-ranch",
+      "county": "Los Angeles County",
+      "lat": 34.381067,
+      "lng": -118.582134
+    },
+    {
+      "name": "Stevinson",
+      "slug": "stevinson",
+      "county": "Merced County",
+      "lat": 37.32575,
+      "lng": -120.869856
+    },
+    {
+      "name": "Stewarts Point",
+      "slug": "stewarts-point",
+      "county": "Sonoma County",
+      "lat": 38.651944,
+      "lng": -123.398056
+    },
+    {
+      "name": "Stinson Beach",
+      "slug": "stinson-beach",
+      "county": "Marin County",
+      "lat": 37.901992,
+      "lng": -122.639305
+    },
+    {
+      "name": "Stirling City",
+      "slug": "stirling-city",
+      "county": "Butte County",
+      "lat": 39.907778,
+      "lng": -121.526944
+    },
+    {
+      "name": "Stockton",
+      "slug": "stockton",
+      "county": "San Joaquin County",
+      "lat": 37.958,
+      "lng": -121.2876
+    },
+    {
+      "name": "Stonyford",
+      "slug": "stonyford",
+      "county": "Colusa County",
+      "lat": 39.333652,
+      "lng": -122.517811
+    },
+    {
+      "name": "Storrie",
+      "slug": "storrie",
+      "county": "Plumas County",
+      "lat": 39.513889,
+      "lng": -121.555278
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Kings County",
+      "lat": 36.178976,
+      "lng": -119.823564
+    },
+    {
+      "name": "Strathmore",
+      "slug": "strathmore",
+      "county": "Tulare County",
+      "lat": 36.147237,
+      "lng": -119.079163
+    },
+    {
+      "name": "Strawberry",
+      "slug": "strawberry",
+      "county": "Tuolumne County",
+      "lat": 38.201667,
+      "lng": -119.997778
+    },
+    {
+      "name": "Strawberry Valley",
+      "slug": "strawberry-valley",
+      "county": "Yuba County",
+      "lat": 39.604136,
+      "lng": -121.074566
+    },
+    {
+      "name": "Studio City",
+      "slug": "studio-city",
+      "county": "Los Angeles County",
+      "lat": 34.143025,
+      "lng": -118.391311
+    },
+    {
+      "name": "Sugarloaf",
+      "slug": "sugarloaf",
+      "county": "San Bernardino County",
+      "lat": 34.261111,
+      "lng": -116.844167
+    },
+    {
+      "name": "Suisun City",
+      "slug": "suisun-city",
+      "county": "Solano County",
+      "lat": 38.240834,
+      "lng": -122.042003
+    },
+    {
+      "name": "Sultana",
+      "slug": "sultana",
+      "county": "Tulare County",
+      "lat": 36.545556,
+      "lng": -119.339167
+    },
+    {
+      "name": "Summerland",
+      "slug": "summerland",
+      "county": "Santa Barbara County",
+      "lat": 34.424541,
+      "lng": -119.596016
+    },
+    {
+      "name": "Sun City",
+      "slug": "sun-city",
+      "county": "Riverside County",
+      "lat": 33.744518,
+      "lng": -117.171899
+    },
+    {
+      "name": "Sun Valley",
+      "slug": "sun-valley",
+      "county": "Los Angeles County",
+      "lat": 34.220907,
+      "lng": -118.369853
+    },
+    {
+      "name": "Sunland",
+      "slug": "sunland",
+      "county": "Los Angeles County",
+      "lat": 34.261025,
+      "lng": -118.321359
+    },
+    {
+      "name": "Sunnyvale",
+      "slug": "sunnyvale",
+      "county": "Santa Clara County",
+      "lat": 37.368889,
+      "lng": -122.035278
+    },
+    {
+      "name": "Sunol",
+      "slug": "sunol",
+      "county": "Alameda County",
+      "lat": 37.609403,
+      "lng": -121.898636
+    },
+    {
+      "name": "Sunset Beach",
+      "slug": "sunset-beach",
+      "county": "Orange County",
+      "lat": 33.716389,
+      "lng": -118.068056
+    },
+    {
+      "name": "Surfside",
+      "slug": "surfside",
+      "county": "Orange County",
+      "lat": 33.727778,
+      "lng": -118.081389
+    },
+    {
+      "name": "Susanville",
+      "slug": "susanville",
+      "county": "Lassen County",
+      "lat": 40.416389,
+      "lng": -120.651944
+    },
+    {
+      "name": "Sutter",
+      "slug": "sutter",
+      "county": "Sutter County",
+      "lat": 39.168114,
+      "lng": -121.756527
+    },
+    {
+      "name": "Sutter Creek",
+      "slug": "sutter-creek",
+      "county": "Amador County",
+      "lat": 38.418569,
+      "lng": -120.785454
+    },
+    {
+      "name": "Sylmar",
+      "slug": "sylmar",
+      "county": "Los Angeles County",
+      "lat": 34.30538,
+      "lng": -118.432181
+    },
+    {
+      "name": "Taft",
+      "slug": "taft",
+      "county": "Kern County",
+      "lat": 35.148164,
+      "lng": -119.455674
+    },
+    {
+      "name": "Tahoe City",
+      "slug": "tahoe-city",
+      "county": "Placer County",
+      "lat": 39.180618,
+      "lng": -120.144532
+    },
+    {
+      "name": "Tahoe Vista",
+      "slug": "tahoe-vista",
+      "county": "Placer County",
+      "lat": 39.24475,
+      "lng": -120.052128
+    },
+    {
+      "name": "Tahoma",
+      "slug": "tahoma",
+      "county": "El Dorado County",
+      "lat": 39.064406,
+      "lng": -120.135747
+    },
+    {
+      "name": "Talmage",
+      "slug": "talmage",
+      "county": "Mendocino County",
+      "lat": 39.130833,
+      "lng": -123.165
+    },
+    {
+      "name": "Tarzana",
+      "slug": "tarzana",
+      "county": "Los Angeles County",
+      "lat": 34.16708,
+      "lng": -118.541354
+    },
+    {
+      "name": "Taylorsville",
+      "slug": "taylorsville",
+      "county": "Plumas County",
+      "lat": 40.064911,
+      "lng": -120.801797
+    },
+    {
+      "name": "Tecate",
+      "slug": "tecate",
+      "county": "San Diego County",
+      "lat": 32.592205,
+      "lng": -116.606397
+    },
+    {
+      "name": "Tecopa",
+      "slug": "tecopa",
+      "county": "Inyo County",
+      "lat": 35.897925,
+      "lng": -115.829824
+    },
+    {
+      "name": "Tehachapi",
+      "slug": "tehachapi",
+      "county": "Kern County",
+      "lat": 35.129776,
+      "lng": -118.522227
+    },
+    {
+      "name": "Tehama",
+      "slug": "tehama",
+      "county": "Tehama County",
+      "lat": 40.027222,
+      "lng": -122.122222
+    },
+    {
+      "name": "Temecula",
+      "slug": "temecula",
+      "county": "Riverside County",
+      "lat": 33.4936,
+      "lng": -117.1475
+    },
+    {
+      "name": "Temple City",
+      "slug": "temple-city",
+      "county": "Los Angeles County",
+      "lat": 34.101586,
+      "lng": -118.053652
+    },
+    {
+      "name": "Templeton",
+      "slug": "templeton",
+      "county": "San Luis Obispo County",
+      "lat": 35.555082,
+      "lng": -120.710737
+    },
+    {
+      "name": "Termo",
+      "slug": "termo",
+      "county": "Lassen County",
+      "lat": 40.946667,
+      "lng": -120.517378
+    },
+    {
+      "name": "Terra Bella",
+      "slug": "terra-bella",
+      "county": "Tulare County",
+      "lat": 35.95698,
+      "lng": -119.031239
+    },
+    {
+      "name": "The Sea Ranch",
+      "slug": "the-sea-ranch",
+      "county": "Sonoma County",
+      "lat": 38.725627,
+      "lng": -123.467486
+    },
+    {
+      "name": "Thermal",
+      "slug": "thermal",
+      "county": "Riverside County",
+      "lat": 33.543418,
+      "lng": -116.11584
+    },
+    {
+      "name": "Thornton",
+      "slug": "thornton",
+      "county": "San Joaquin County",
+      "lat": 38.226111,
+      "lng": -121.423611
+    },
+    {
+      "name": "Thousand Oaks",
+      "slug": "thousand-oaks",
+      "county": "Ventura County",
+      "lat": 34.170556,
+      "lng": -118.836667
+    },
+    {
+      "name": "Thousand Palms",
+      "slug": "thousand-palms",
+      "county": "Riverside County",
+      "lat": 33.808158,
+      "lng": -116.371305
+    },
+    {
+      "name": "Three Rivers",
+      "slug": "three-rivers",
+      "county": "Tulare County",
+      "lat": 36.437686,
+      "lng": -118.88754
+    },
+    {
+      "name": "Tipton",
+      "slug": "tipton",
+      "county": "Tulare County",
+      "lat": 36.054567,
+      "lng": -119.30781
+    },
+    {
+      "name": "Tollhouse",
+      "slug": "tollhouse",
+      "county": "Fresno County",
+      "lat": 36.99434,
+      "lng": -119.391415
+    },
+    {
+      "name": "Toluca Lake",
+      "slug": "toluca-lake",
+      "county": "Los Angeles County",
+      "lat": 34.1578,
+      "lng": -118.3794
+    },
+    {
+      "name": "Tomales",
+      "slug": "tomales",
+      "county": "Marin County",
+      "lat": 38.246389,
+      "lng": -122.904444
+    },
+    {
+      "name": "Topanga",
+      "slug": "topanga",
+      "county": "Los Angeles County",
+      "lat": 34.10759,
+      "lng": -118.602268
+    },
+    {
+      "name": "Topaz",
+      "slug": "topaz",
+      "county": "Mono County",
+      "lat": 38.64151,
+      "lng": -119.512164
+    },
+    {
+      "name": "Torrance",
+      "slug": "torrance",
+      "county": "Los Angeles County",
+      "lat": 33.826817,
+      "lng": -118.31183
+    },
+    {
+      "name": "Trabuco Canyon",
+      "slug": "trabuco-canyon",
+      "county": "Orange County",
+      "lat": 33.663889,
+      "lng": -117.589444
+    },
+    {
+      "name": "Tracy",
+      "slug": "tracy",
+      "county": "San Joaquin County",
+      "lat": 37.754444,
+      "lng": -121.369722
+    },
+    {
+      "name": "Tranquillity",
+      "slug": "tranquillity",
+      "county": "Fresno County",
+      "lat": 36.658376,
+      "lng": -120.261655
+    },
+    {
+      "name": "Traver",
+      "slug": "traver",
+      "county": "Tulare County",
+      "lat": 36.455278,
+      "lng": -119.483889
+    },
+    {
+      "name": "Travis Afb",
+      "slug": "travis-afb",
+      "county": "Solano County",
+      "lat": 38.274313,
+      "lng": -121.946317
+    },
+    {
+      "name": "Tres Pinos",
+      "slug": "tres-pinos",
+      "county": "San Benito County",
+      "lat": 36.79,
+      "lng": -121.32
+    },
+    {
+      "name": "Trinidad",
+      "slug": "trinidad",
+      "county": "Humboldt County",
+      "lat": 41.087949,
+      "lng": -124.101253
+    },
+    {
+      "name": "Trinity Center",
+      "slug": "trinity-center",
+      "county": "Trinity County",
+      "lat": 41.061548,
+      "lng": -122.723919
+    },
+    {
+      "name": "Trona",
+      "slug": "trona",
+      "county": "San Bernardino County",
+      "lat": 35.760817,
+      "lng": -117.382992
+    },
+    {
+      "name": "Truckee",
+      "slug": "truckee",
+      "county": "Nevada County",
+      "lat": 39.328056,
+      "lng": -120.182222
+    },
+    {
+      "name": "Tujunga",
+      "slug": "tujunga",
+      "county": "Los Angeles County",
+      "lat": 34.254389,
+      "lng": -118.284856
+    },
+    {
+      "name": "Tulare",
+      "slug": "tulare",
+      "county": "Tulare County",
+      "lat": 36.202155,
+      "lng": -119.33802
+    },
+    {
+      "name": "Tulelake",
+      "slug": "tulelake",
+      "county": "Siskiyou County",
+      "lat": 41.931621,
+      "lng": -121.434688
+    },
+    {
+      "name": "Tuolumne",
+      "slug": "tuolumne",
+      "county": "Tuolumne County",
+      "lat": 37.971339,
+      "lng": -120.237496
+    },
+    {
+      "name": "Tupman",
+      "slug": "tupman",
+      "county": "Kern County",
+      "lat": 35.288547,
+      "lng": -119.341994
+    },
+    {
+      "name": "Turlock",
+      "slug": "turlock",
+      "county": "Stanislaus County",
+      "lat": 37.503605,
+      "lng": -120.850511
+    },
+    {
+      "name": "Tustin",
+      "slug": "tustin",
+      "county": "Orange County",
+      "lat": 33.7382,
+      "lng": -117.8207
+    },
+    {
+      "name": "Twain",
+      "slug": "twain",
+      "county": "Plumas County",
+      "lat": 40.002769,
+      "lng": -121.150729
+    },
+    {
+      "name": "Twain Harte",
+      "slug": "twain-harte",
+      "county": "Tuolumne County",
+      "lat": 38.044722,
+      "lng": -120.2155
+    },
+    {
+      "name": "Twentynine Palms",
+      "slug": "twentynine-palms",
+      "county": "San Bernardino County",
+      "lat": 34.145509,
+      "lng": -116.060133
+    },
+    {
+      "name": "Twin Bridges",
+      "slug": "twin-bridges",
+      "county": "El Dorado County",
+      "lat": 38.808615,
+      "lng": -120.128851
+    },
+    {
+      "name": "Twin Peaks",
+      "slug": "twin-peaks",
+      "county": "San Bernardino County",
+      "lat": 34.238889,
+      "lng": -117.232778
+    },
+    {
+      "name": "Ukiah",
+      "slug": "ukiah",
+      "county": "Mendocino County",
+      "lat": 39.151917,
+      "lng": -123.200692
+    },
+    {
+      "name": "Union City",
+      "slug": "union-city",
+      "county": "Alameda County",
+      "lat": 37.589458,
+      "lng": -122.049702
+    },
+    {
+      "name": "Universal City",
+      "slug": "universal-city",
+      "county": "Los Angeles County",
+      "lat": 34.1378,
+      "lng": -118.3563
+    },
+    {
+      "name": "Upland",
+      "slug": "upland",
+      "county": "San Bernardino County",
+      "lat": 34.1368,
+      "lng": -117.6598
+    },
+    {
+      "name": "Upper Lake",
+      "slug": "upper-lake",
+      "county": "Lake County",
+      "lat": 39.160829,
+      "lng": -122.896114
+    },
+    {
+      "name": "Vacaville",
+      "slug": "vacaville",
+      "county": "Solano County",
+      "lat": 38.341915,
+      "lng": -121.962285
+    },
+    {
+      "name": "Valencia",
+      "slug": "valencia",
+      "county": "Los Angeles County",
+      "lat": 34.446608,
+      "lng": -118.537437
+    },
+    {
+      "name": "Vallecito",
+      "slug": "vallecito",
+      "county": "Calaveras County",
+      "lat": 38.101472,
+      "lng": -120.467879
+    },
+    {
+      "name": "Vallejo",
+      "slug": "vallejo",
+      "county": "Solano County",
+      "lat": 38.148345,
+      "lng": -122.249333
+    },
+    {
+      "name": "Valley Center",
+      "slug": "valley-center",
+      "county": "San Diego County",
+      "lat": 33.249046,
+      "lng": -117.012232
+    },
+    {
+      "name": "Valley Ford",
+      "slug": "valley-ford",
+      "county": "Sonoma County",
+      "lat": 38.315729,
+      "lng": -122.924457
+    },
+    {
+      "name": "Valley Springs",
+      "slug": "valley-springs",
+      "county": "Calaveras County",
+      "lat": 38.154355,
+      "lng": -120.859742
+    },
+    {
+      "name": "Valley Village",
+      "slug": "valley-village",
+      "county": "Los Angeles County",
+      "lat": 34.167217,
+      "lng": -118.398905
+    },
+    {
+      "name": "Valyermo",
+      "slug": "valyermo",
+      "county": "Los Angeles County",
+      "lat": 34.339014,
+      "lng": -117.8271
+    },
+    {
+      "name": "Van Nuys",
+      "slug": "van-nuys",
+      "county": "Los Angeles County",
+      "lat": 34.2012,
+      "lng": -118.4742
+    },
+    {
+      "name": "Venice",
+      "slug": "venice",
+      "county": "Los Angeles County",
+      "lat": 33.993772,
+      "lng": -118.463463
+    },
+    {
+      "name": "Ventura",
+      "slug": "ventura",
+      "county": "Ventura County",
+      "lat": 34.290531,
+      "lng": -119.28882
+    },
+    {
+      "name": "Verdugo City",
+      "slug": "verdugo-city",
+      "county": "Los Angeles County",
+      "lat": 34.211389,
+      "lng": -118.238611
+    },
+    {
+      "name": "Vernalis",
+      "slug": "vernalis",
+      "county": "San Joaquin County",
+      "lat": 37.6185,
+      "lng": -121.259
+    },
+    {
+      "name": "Victor",
+      "slug": "victor",
+      "county": "San Joaquin County",
+      "lat": 38.138056,
+      "lng": -121.205
+    },
+    {
+      "name": "Victorville",
+      "slug": "victorville",
+      "county": "San Bernardino County",
+      "lat": 34.503917,
+      "lng": -117.319235
+    },
+    {
+      "name": "Vidal",
+      "slug": "vidal",
+      "county": "San Bernardino County",
+      "lat": 34.156109,
+      "lng": -114.565602
+    },
+    {
+      "name": "Villa Grande",
+      "slug": "villa-grande",
+      "county": "Sonoma County",
+      "lat": 38.473056,
+      "lng": -123.024444
+    },
+    {
+      "name": "Villa Park",
+      "slug": "villa-park",
+      "county": "Orange County",
+      "lat": 33.8165,
+      "lng": -117.8112
+    },
+    {
+      "name": "Vina",
+      "slug": "vina",
+      "county": "Tehama County",
+      "lat": 39.933056,
+      "lng": -122.052778
+    },
+    {
+      "name": "Vineburg",
+      "slug": "vineburg",
+      "county": "Sonoma County",
+      "lat": 38.2725,
+      "lng": -122.4375
+    },
+    {
+      "name": "Vinton",
+      "slug": "vinton",
+      "county": "Plumas County",
+      "lat": 39.720719,
+      "lng": -120.204994
+    },
+    {
+      "name": "Visalia",
+      "slug": "visalia",
+      "county": "Tulare County",
+      "lat": 36.311379,
+      "lng": -119.306471
+    },
+    {
+      "name": "Vista",
+      "slug": "vista",
+      "county": "San Diego County",
+      "lat": 33.1694,
+      "lng": -117.242
+    },
+    {
+      "name": "Volcano",
+      "slug": "volcano",
+      "county": "Amador County",
+      "lat": 38.477319,
+      "lng": -120.617761
+    },
+    {
+      "name": "Wallace",
+      "slug": "wallace",
+      "county": "Calaveras County",
+      "lat": 38.194167,
+      "lng": -120.976944
+    },
+    {
+      "name": "Walnut",
+      "slug": "walnut",
+      "county": "Los Angeles County",
+      "lat": 34.0176,
+      "lng": -117.8636
+    },
+    {
+      "name": "Walnut Creek",
+      "slug": "walnut-creek",
+      "county": "Contra Costa County",
+      "lat": 37.875317,
+      "lng": -122.070259
+    },
+    {
+      "name": "Walnut Grove",
+      "slug": "walnut-grove",
+      "county": "Sacramento County",
+      "lat": 38.236362,
+      "lng": -121.524849
+    },
+    {
+      "name": "Warner Springs",
+      "slug": "warner-springs",
+      "county": "San Diego County",
+      "lat": 33.303666,
+      "lng": -116.721385
+    },
+    {
+      "name": "Wasco",
+      "slug": "wasco",
+      "county": "Kern County",
+      "lat": 35.593375,
+      "lng": -119.344728
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Nevada County",
+      "lat": 39.359444,
+      "lng": -120.798056
+    },
+    {
+      "name": "Waterford",
+      "slug": "waterford",
+      "county": "Stanislaus County",
+      "lat": 37.650988,
+      "lng": -120.753862
+    },
+    {
+      "name": "Watsonville",
+      "slug": "watsonville",
+      "county": "Santa Cruz County",
+      "lat": 36.920515,
+      "lng": -121.763437
+    },
+    {
+      "name": "Waukena",
+      "slug": "waukena",
+      "county": "Tulare County",
+      "lat": 36.098056,
+      "lng": -119.559444
+    },
+    {
+      "name": "Weaverville",
+      "slug": "weaverville",
+      "county": "Trinity County",
+      "lat": 40.731701,
+      "lng": -122.935303
+    },
+    {
+      "name": "Weed",
+      "slug": "weed",
+      "county": "Siskiyou County",
+      "lat": 41.439466,
+      "lng": -122.384803
+    },
+    {
+      "name": "Weimar",
+      "slug": "weimar",
+      "county": "Placer County",
+      "lat": 39.0375,
+      "lng": -120.971389
+    },
+    {
+      "name": "Weldon",
+      "slug": "weldon",
+      "county": "Kern County",
+      "lat": 35.639076,
+      "lng": -118.285856
+    },
+    {
+      "name": "Wendel",
+      "slug": "wendel",
+      "county": "Lassen County",
+      "lat": 40.346233,
+      "lng": -120.352156
+    },
+    {
+      "name": "Weott",
+      "slug": "weott",
+      "county": "Humboldt County",
+      "lat": 40.321944,
+      "lng": -123.920556
+    },
+    {
+      "name": "West Covina",
+      "slug": "west-covina",
+      "county": "Los Angeles County",
+      "lat": 34.067336,
+      "lng": -117.936643
+    },
+    {
+      "name": "West Hills",
+      "slug": "west-hills",
+      "county": "Los Angeles County",
+      "lat": 34.196343,
+      "lng": -118.638892
+    },
+    {
+      "name": "West Hollywood",
+      "slug": "west-hollywood",
+      "county": "Los Angeles County",
+      "lat": 34.090573,
+      "lng": -118.378753
+    },
+    {
+      "name": "West Point",
+      "slug": "west-point",
+      "county": "Calaveras County",
+      "lat": 38.406201,
+      "lng": -120.515862
+    },
+    {
+      "name": "West Sacramento",
+      "slug": "west-sacramento",
+      "county": "Yolo County",
+      "lat": 38.592424,
+      "lng": -121.526377
+    },
+    {
+      "name": "Westlake Village",
+      "slug": "westlake-village",
+      "county": "Los Angeles County",
+      "lat": 34.1462,
+      "lng": -118.8013
+    },
+    {
+      "name": "Westley",
+      "slug": "westley",
+      "county": "Stanislaus County",
+      "lat": 37.549444,
+      "lng": -121.198056
+    },
+    {
+      "name": "Westminster",
+      "slug": "westminster",
+      "county": "Orange County",
+      "lat": 33.752756,
+      "lng": -117.991312
+    },
+    {
+      "name": "Westmorland",
+      "slug": "westmorland",
+      "county": "Imperial County",
+      "lat": 33.041058,
+      "lng": -115.630723
+    },
+    {
+      "name": "Westport",
+      "slug": "westport",
+      "county": "Mendocino County",
+      "lat": 39.644059,
+      "lng": -123.76426
+    },
+    {
+      "name": "Westwood",
+      "slug": "westwood",
+      "county": "Lassen County",
+      "lat": 40.270359,
+      "lng": -121.109224
+    },
+    {
+      "name": "Wheatland",
+      "slug": "wheatland",
+      "county": "Yuba County",
+      "lat": 39.019197,
+      "lng": -121.422126
+    },
+    {
+      "name": "Whiskeytown",
+      "slug": "whiskeytown",
+      "county": "Shasta County",
+      "lat": 40.638889,
+      "lng": -122.558611
+    },
+    {
+      "name": "White Water",
+      "slug": "white-water",
+      "county": "Riverside County",
+      "lat": 33.927591,
+      "lng": -116.693154
+    },
+    {
+      "name": "Whitethorn",
+      "slug": "whitethorn",
+      "county": "Humboldt County",
+      "lat": 40.023889,
+      "lng": -123.941944
+    },
+    {
+      "name": "Whitmore",
+      "slug": "whitmore",
+      "county": "Shasta County",
+      "lat": 40.65255,
+      "lng": -121.877076
+    },
+    {
+      "name": "Whittier",
+      "slug": "whittier",
+      "county": "Los Angeles County",
+      "lat": 34.001119,
+      "lng": -118.037139
+    },
+    {
+      "name": "Wildomar",
+      "slug": "wildomar",
+      "county": "Riverside County",
+      "lat": 33.602115,
+      "lng": -117.263953
+    },
+    {
+      "name": "Williams",
+      "slug": "williams",
+      "county": "Colusa County",
+      "lat": 39.148855,
+      "lng": -122.162375
+    },
+    {
+      "name": "Willits",
+      "slug": "willits",
+      "county": "Mendocino County",
+      "lat": 39.411426,
+      "lng": -123.350271
+    },
+    {
+      "name": "Willow Creek",
+      "slug": "willow-creek",
+      "county": "Humboldt County",
+      "lat": 40.938894,
+      "lng": -123.631062
+    },
+    {
+      "name": "Willows",
+      "slug": "willows",
+      "county": "Glenn County",
+      "lat": 39.523751,
+      "lng": -122.199204
+    },
+    {
+      "name": "Wilmington",
+      "slug": "wilmington",
+      "county": "Los Angeles County",
+      "lat": 33.785475,
+      "lng": -118.264451
+    },
+    {
+      "name": "Wilseyville",
+      "slug": "wilseyville",
+      "county": "Calaveras County",
+      "lat": 38.384566,
+      "lng": -120.442356
+    },
+    {
+      "name": "Wilton",
+      "slug": "wilton",
+      "county": "Sacramento County",
+      "lat": 38.412069,
+      "lng": -121.225656
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Riverside County",
+      "lat": 33.624269,
+      "lng": -117.088518
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Sonoma County",
+      "lat": 38.543182,
+      "lng": -122.804375
+    },
+    {
+      "name": "Winnetka",
+      "slug": "winnetka",
+      "county": "Los Angeles County",
+      "lat": 34.2092,
+      "lng": -118.57492
+    },
+    {
+      "name": "Winterhaven",
+      "slug": "winterhaven",
+      "county": "Imperial County",
+      "lat": 32.832922,
+      "lng": -114.636634
+    },
+    {
+      "name": "Winters",
+      "slug": "winters",
+      "county": "Yolo County",
+      "lat": 38.529462,
+      "lng": -121.974544
+    },
+    {
+      "name": "Winton",
+      "slug": "winton",
+      "county": "Merced County",
+      "lat": 37.39233,
+      "lng": -120.6132
+    },
+    {
+      "name": "Wishon",
+      "slug": "wishon",
+      "county": "Madera County",
+      "lat": 37.281028,
+      "lng": -119.557014
+    },
+    {
+      "name": "Witter Springs",
+      "slug": "witter-springs",
+      "county": "Lake County",
+      "lat": 39.182118,
+      "lng": -122.97105
+    },
+    {
+      "name": "Wofford Heights",
+      "slug": "wofford-heights",
+      "county": "Kern County",
+      "lat": 35.724556,
+      "lng": -118.455877
+    },
+    {
+      "name": "Woodacre",
+      "slug": "woodacre",
+      "county": "Marin County",
+      "lat": 38.006933,
+      "lng": -122.638247
+    },
+    {
+      "name": "Woodbridge",
+      "slug": "woodbridge",
+      "county": "San Joaquin County",
+      "lat": 38.155124,
+      "lng": -121.308632
+    },
+    {
+      "name": "Woodlake",
+      "slug": "woodlake",
+      "county": "Tulare County",
+      "lat": 36.431334,
+      "lng": -119.091764
+    },
+    {
+      "name": "Woodland",
+      "slug": "woodland",
+      "county": "Yolo County",
+      "lat": 38.674294,
+      "lng": -121.77932
+    },
+    {
+      "name": "Woodland Hills",
+      "slug": "woodland-hills",
+      "county": "Los Angeles County",
+      "lat": 34.155652,
+      "lng": -118.600019
+    },
+    {
+      "name": "Woody",
+      "slug": "woody",
+      "county": "Kern County",
+      "lat": 35.70681,
+      "lng": -118.843872
+    },
+    {
+      "name": "Wrightwood",
+      "slug": "wrightwood",
+      "county": "San Bernardino County",
+      "lat": 34.362839,
+      "lng": -117.6249
+    },
+    {
+      "name": "Yermo",
+      "slug": "yermo",
+      "county": "San Bernardino County",
+      "lat": 34.905,
+      "lng": -116.819444
+    },
+    {
+      "name": "Yettem",
+      "slug": "yettem",
+      "county": "Tulare County",
+      "lat": 36.486389,
+      "lng": -119.258611
+    },
+    {
+      "name": "Yolo",
+      "slug": "yolo",
+      "county": "Yolo County",
+      "lat": 38.731944,
+      "lng": -121.806667
+    },
+    {
+      "name": "Yorba Linda",
+      "slug": "yorba-linda",
+      "county": "Orange County",
+      "lat": 33.8913,
+      "lng": -117.8191
+    },
+    {
+      "name": "Yorkville",
+      "slug": "yorkville",
+      "county": "Mendocino County",
+      "lat": 38.908945,
+      "lng": -123.233867
+    },
+    {
+      "name": "Yosemite National Park",
+      "slug": "yosemite-national-park",
+      "county": "Mariposa County",
+      "lat": 37.746667,
+      "lng": -119.583611
+    },
+    {
+      "name": "Yountville",
+      "slug": "yountville",
+      "county": "Napa County",
+      "lat": 38.403813,
+      "lng": -122.358506
+    },
+    {
+      "name": "Yreka",
+      "slug": "yreka",
+      "county": "Siskiyou County",
+      "lat": 41.720558,
+      "lng": -122.637604
+    },
+    {
+      "name": "Yuba City",
+      "slug": "yuba-city",
+      "county": "Sutter County",
+      "lat": 39.128619,
+      "lng": -121.621599
+    },
+    {
+      "name": "Yucaipa",
+      "slug": "yucaipa",
+      "county": "San Bernardino County",
+      "lat": 34.028197,
+      "lng": -117.048925
+    },
+    {
+      "name": "Yucca Valley",
+      "slug": "yucca-valley",
+      "county": "San Bernardino County",
+      "lat": 34.155936,
+      "lng": -116.431313
+    },
+    {
+      "name": "Zamora",
+      "slug": "zamora",
+      "county": "Yolo County",
+      "lat": 38.799896,
+      "lng": -121.90654
+    },
+    {
+      "name": "Zenia",
+      "slug": "zenia",
+      "county": "Trinity County",
+      "lat": 40.205556,
+      "lng": -123.490833
+    }
+  ]
+}

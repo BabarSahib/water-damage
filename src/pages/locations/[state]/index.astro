@@ -1,0 +1,311 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import TrustStrip from '../../../components/TrustStrip.astro';
+import FAQAccordion from '../../../components/FAQAccordion.astro';
+import CTABand from '../../../components/CTABand.astro';
+import ContactForm from '../../../components/ContactForm.astro';
+import { BUSINESS_INFO, SERVICES, ALL_STATES, PROCESS_STEPS } from '../../../data/siteData';
+import { getStateCities } from '../../../data/citiesHelper';
+import { getRegionalProfile } from '../../../data/regionalClimate';
+
+export async function getStaticPaths() {
+  return ALL_STATES.map((state) => ({
+    params: { state: state.slug },
+    props: { currentState: state }
+  }));
+}
+
+const { currentState } = Astro.props;
+const stateData = getStateCities(currentState.slug);
+const stateCities = stateData ? stateData.cities : [];
+const regional = getRegionalProfile(currentState.slug);
+
+// Top featured cities (first 8 or top population hubs)
+const featuredCities = stateCities.slice(0, 8);
+
+const stateFaqs = [
+  {
+    q: `How quickly can technicians arrive for water emergencies in ${currentState.name}?`,
+    a: `Our emergency dispatch vehicles are positioned throughout ${currentState.name} near key transit corridors, maintaining an average arrival time under 60 minutes for water heater ruptures and severe flooding.`
+  },
+  {
+    q: `Are your water extraction technicians licensed and insured in ${currentState.name}?`,
+    a: `Yes. All service personnel operating in ${currentState.name} carry comprehensive commercial liability insurance, full state licensing, and IICRC S500 certifications for structural water damage mitigation.`
+  },
+  {
+    q: `What causes water emergencies and water heater failures most frequently in ${currentState.name}?`,
+    a: `${regional.climateTitle}: ${regional.climateDesc} ${regional.localFaqAnswer}`
+  },
+  {
+    q: `Do you work with ${currentState.name} homeowners insurance companies?`,
+    a: `Yes. We work directly with all major insurance providers serving ${currentState.name}, including State Farm, Farmers, Allstate, Travelers, and USAA. We provide thermal moisture maps, itemized estimates, and direct billing.`
+  },
+  {
+    q: `Do you haul away and dispose of broken water heaters and flood debris in ${currentState.name}?`,
+    a: `Yes. Our service includes complete disconnection of water, gas, or electrical lines, draining internal sediment, unstrapping the unit, and transporting it to a certified appliance recycling facility.`
+  }
+];
+
+const pageTitle = `Emergency Water Extraction & Water Heater Removal in ${currentState.name}, ${currentState.abbr} | Rapid Water Rescue Pros`;
+const pageDesc = `Fast 24/7 water heater removal, emergency water extraction, and flood cleanup across ${currentState.name}. Serving ${stateCities.length} cities. Under 60-min response. Call (866) 751-9896!`;
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath={`/locations/${currentState.slug}/`} localState={currentState.abbr}>
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Locations", url: "/locations/" },
+    { label: currentState.name, url: `/locations/${currentState.slug}/` }
+  ]} />
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(229,57,85,0.2);border:1px solid rgba(229,57,85,0.4);color:#ff94a4;padding:0.4rem 1rem;border-radius:var(--radius-full);font-size:0.85rem;font-weight:700;margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--cta-red);box-shadow:0 0 10px var(--cta-red)"></span>
+          24/7 {currentState.name} Dispatch Fleet · {stateCities.length} Cities Covered
+        </div>
+
+        <h1>Emergency Water Extraction & Flood Damage Mitigation in {currentState.name}</h1>
+        
+        <p class="hero-subtitle">
+          When an indoor water heater ruptures, frozen pipes burst, or heavy rains flood your property in {currentState.name}, our certified extraction specialists arrive on site in 60 minutes or less. We pump out standing water, disconnect failed tanks safely, and dry structural framing to prevent toxic mold.
+        </p>
+
+        <div class="hero-actions">
+          <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="font-size:1.15rem;padding:0.95rem 1.8rem">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span>Call {currentState.name} Hotline: {BUSINESS_INFO.phoneFormatted}</span>
+          </a>
+          <a href="#state-form" class="btn btn-outline-white">
+            <span>Request Fast Estimate</span>
+          </a>
+        </div>
+
+        <div class="hero-highlights">
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>{stateCities.length} Communities Served Statewide</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Under 60-Minute Response Guarantee</span>
+          </div>
+          <div class="hero-highlight-item">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--secondary)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            <span>Direct Home Insurance Billing</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <h3>{currentState.name} Emergency Desk</h3>
+        <p>Live coordinators standing by 24/7 to mobilize water extraction and water heater removal crews across {currentState.name}.</p>
+        <div style="background:var(--bg-light);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:1.5rem;border-left:4px solid var(--cta-red)">
+          <div style="font-size:0.85rem;color:var(--text-muted);font-weight:600">{currentState.abbr.toUpperCase()} EMERGENCY PHONE</div>
+          <a href={BUSINESS_INFO.phoneTel} style="font-size:1.5rem;font-weight:800;color:var(--cta-red);text-decoration:none">
+            {BUSINESS_INFO.phoneFormatted}
+          </a>
+          <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.25rem">Serving all {stateCities.length} cities across {currentState.name}</div>
+        </div>
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="width:100%;text-align:center">
+          Speak with a {currentState.name} Coordinator
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Regional Environmental & Climate Risk Profile -->
+  <section class="section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1.2fr 0.8fr;gap:3.5rem;align-items:start">
+        <div>
+          <span class="badge badge-secondary" style="margin-bottom:0.75rem">{currentState.name} Environmental Profile</span>
+          <h2>Regional Water Damage & Plumbing Factors in {currentState.name}</h2>
+          <p style="font-size:1.05rem;line-height:1.7;color:var(--text-body);margin-bottom:1.25rem">
+            Mitigating water damage across {currentState.name} requires equipment calibrated to local housing construction and seasonal weather patterns. From sudden thermal shock during seasonal shifts to heavy atmospheric runoff, our crews deploy specialized high-lift extraction units and desiccant dehumidifiers built to restore homes quickly.
+          </p>
+
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:1.75rem;margin-bottom:1.75rem">
+            <h3 style="color:var(--primary);margin-bottom:0.5rem;font-size:1.25rem">{regional.climateTitle}</h3>
+            <p style="color:var(--text-body);font-size:0.95rem;line-height:1.7;margin-bottom:1rem">
+              {regional.climateDesc}
+            </p>
+            <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.9rem;color:var(--text-dark)">
+              <div><strong>Primary Inundation Threat:</strong> {regional.primaryRisk}</div>
+              <div><strong>Typical Regional Construction:</strong> {regional.housingType}</div>
+              <div><strong>Seasonal Risk Windows:</strong> {regional.seasonalNotes}</div>
+            </div>
+          </div>
+
+          <div style="margin-top:2rem">
+            <h3>Common Plumbing Failures in {currentState.name}</h3>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem">
+              {regional.commonProblems.map((prob) => (
+                <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-md);padding:1rem;border-left:3px solid var(--cta-red);font-size:0.88rem;color:var(--text-body)">
+                  {prob}
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <div id="state-form">
+          <ContactForm stateContext={currentState.name} />
+
+          <div style="background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:1.75rem;margin-top:2rem">
+            <h4 style="color:var(--primary);margin-bottom:0.75rem">{currentState.name} Service Standards</h4>
+            <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.9rem;color:var(--text-body)">
+              <li style="display:flex;align-items:center;gap:0.5rem"><span style="color:#10B981">✓</span> Rapid dispatch to all {stateCities.length} municipalities</li>
+              <li style="display:flex;align-items:center;gap:0.5rem"><span style="color:#10B981">✓</span> IICRC S500 certified mitigation protocols</li>
+              <li style="display:flex;align-items:center;gap:0.5rem"><span style="color:#10B981">✓</span> FLIR infrared thermal moisture mapping</li>
+              <li style="display:flex;align-items:center;gap:0.5rem"><span style="color:#10B981">✓</span> Direct insurance billing with zero out-of-pocket delays</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Metropolitan Service Hubs -->
+  {featuredCities.length > 0 && (
+    <section class="section bg-light">
+      <div class="container">
+        <div class="text-center section-header">
+          <span class="badge badge-secondary">Metro Corridors</span>
+          <h2>Featured Service Hubs in {currentState.name}</h2>
+          <p style="max-width:650px;margin:0.5rem auto 0;color:var(--text-muted)">
+            Key metropolitan centers with dedicated mobile response teams stationed around the clock.
+          </p>
+        </div>
+
+        <div class="cards-grid">
+          {featuredCities.map((c) => (
+            <div class="service-card" style="display:flex;flex-direction:column;justify-content:space-between">
+              <div>
+                <h3>{c.name}</h3>
+                <div style="font-size:0.85rem;color:var(--secondary);font-weight:700;margin-bottom:0.5rem">{c.county}</div>
+                <p style="font-size:0.9rem;color:var(--text-muted)">
+                  24/7 emergency water extraction, water heater removal, and structural drying throughout {c.name} and neighboring communities.
+                </p>
+              </div>
+              <a href={`/locations/${currentState.slug}/${c.slug}/`} class="btn btn-outline-primary" style="margin-top:1rem;font-size:0.88rem;text-align:center">
+                Explore {c.name} Services →
+              </a>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- All Cities & Communities Directory with Live Search Filter -->
+  <section class="section" id="all-cities">
+    <div class="container">
+      <div style="background:#fff;border:1px solid var(--border-light);border-radius:var(--radius-lg);padding:2.5rem;box-shadow:var(--shadow-sm)">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1.5rem;border-bottom:1px solid var(--border-light);padding-bottom:1.5rem;margin-bottom:2rem">
+          <div>
+            <span class="badge badge-secondary" style="margin-bottom:0.5rem">Complete Directory</span>
+            <h2 style="margin:0;font-size:1.85rem">All Cities & Communities in {currentState.name}</h2>
+            <p style="color:var(--text-muted);font-size:0.95rem;margin-top:0.25rem">
+              Browse our complete statewide database of <strong>{stateCities.length}</strong> service locations in {currentState.name}.
+            </p>
+          </div>
+
+          <!-- Live Search Input -->
+          <div style="position:relative;width:100%;max-width:320px">
+            <input
+              type="text"
+              id="citySearchInput"
+              placeholder={`Search ${stateCities.length} cities...`}
+              style="width:100%;padding:0.75rem 1rem;border:1px solid var(--border-light);border-radius:var(--radius-md);font-size:0.9rem;outline:none"
+            />
+          </div>
+        </div>
+
+        <!-- City Links Grid -->
+        <div id="cityListGrid" style="display:grid;grid-template-columns:repeat(auto-fill, minmax(180px, 1fr));gap:0.75rem;max-height:600px;overflow-y:auto;padding-right:0.5rem">
+          {stateCities.map((c) => (
+            <a
+              href={`/locations/${currentState.slug}/${c.slug}/`}
+              class="city-link-item"
+              data-city-name={c.name.toLowerCase()}
+              style="display:block;padding:0.6rem 0.85rem;background:var(--bg-light);border:1px solid var(--border-light);border-radius:var(--radius-sm);text-decoration:none;color:var(--text-dark);font-size:0.85rem;transition:all 0.15s ease;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"
+            >
+              📍 {c.name}
+            </a>
+          ))}
+        </div>
+
+        <div id="noResultsMsg" style="display:none;text-align:center;padding:2rem;color:var(--text-muted);font-size:0.95rem">
+          No matching cities found. Call <a href={BUSINESS_INFO.phoneTel} style="color:var(--cta-red);font-weight:700">{BUSINESS_INFO.phoneFormatted}</a> for dispatch to your location.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Process Steps -->
+  <section class="section bg-light">
+    <div class="container">
+      <div class="text-center section-header">
+        <span class="badge badge-secondary">Structured Approach</span>
+        <h2>Our {currentState.name} Emergency Water Mitigation Protocol</h2>
+        <p style="max-width:600px;margin:0.5rem auto 0;color:var(--text-muted)">
+          From immediate live telephone triage to final psychrometric dry certification.
+        </p>
+      </div>
+
+      <div class="process-grid">
+        {PROCESS_STEPS.map((step) => (
+          <div class="process-step">
+            <div class="process-number">{step.step}</div>
+            <h3>{step.title}</h3>
+            <p>{step.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- State FAQs -->
+  <FAQAccordion
+    title={`${currentState.name} Water Extraction FAQs`}
+    subtitle={`Common inquiries from homeowners and commercial property managers throughout ${currentState.name}.`}
+    faqs={stateFaqs}
+  />
+
+  <CTABand
+    headline={`Water Emergency in ${currentState.name}?`}
+    subtext={`Call our 24/7 statewide dispatch line directly at ${BUSINESS_INFO.phoneFormatted} for under 60-minute response.`}
+  />
+</BaseLayout>
+
+<script>
+  // Client-side instant filter for cities list
+  const searchInput = document.getElementById('citySearchInput') as HTMLInputElement;
+  const grid = document.getElementById('cityListGrid');
+  const noResults = document.getElementById('noResultsMsg');
+
+  if (searchInput && grid) {
+    const items = grid.querySelectorAll<HTMLAnchorElement>('.city-link-item');
+    searchInput.addEventListener('input', () => {
+      const q = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+      items.forEach((item) => {
+        const name = item.getAttribute('data-city-name') || '';
+        if (!q || name.includes(q)) {
+          item.style.display = 'block';
+          visibleCount++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+      if (noResults) {
+        noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+      }
+    });
+  }
+</script>

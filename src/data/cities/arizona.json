@@ -1,0 +1,1855 @@
+{
+  "stateName": "Arizona",
+  "stateCode": "AZ",
+  "stateSlug": "arizona",
+  "cities": [
+    {
+      "name": "Aguila",
+      "slug": "aguila",
+      "county": "Maricopa County",
+      "lat": 33.942778,
+      "lng": -113.173333
+    },
+    {
+      "name": "Ajo",
+      "slug": "ajo",
+      "county": "Pima County",
+      "lat": 32.373485,
+      "lng": -112.858681
+    },
+    {
+      "name": "Alpine",
+      "slug": "alpine",
+      "county": "Apache County",
+      "lat": 33.827878,
+      "lng": -109.12829
+    },
+    {
+      "name": "Amado",
+      "slug": "amado",
+      "county": "Santa Cruz County",
+      "lat": 31.643759,
+      "lng": -111.072233
+    },
+    {
+      "name": "Apache Junction",
+      "slug": "apache-junction",
+      "county": "Pinal County",
+      "lat": 33.3277,
+      "lng": -111.3259
+    },
+    {
+      "name": "Arivaca",
+      "slug": "arivaca",
+      "county": "Pima County",
+      "lat": 31.574722,
+      "lng": -111.331667
+    },
+    {
+      "name": "Arizona City",
+      "slug": "arizona-city",
+      "county": "Pinal County",
+      "lat": 32.755833,
+      "lng": -111.670278
+    },
+    {
+      "name": "Arlington",
+      "slug": "arlington",
+      "county": "Maricopa County",
+      "lat": 33.313317,
+      "lng": -112.789058
+    },
+    {
+      "name": "Ash Fork",
+      "slug": "ash-fork",
+      "county": "Yavapai County",
+      "lat": 35.214998,
+      "lng": -112.502681
+    },
+    {
+      "name": "Avondale",
+      "slug": "avondale",
+      "county": "Maricopa County",
+      "lat": 33.432114,
+      "lng": -112.343754
+    },
+    {
+      "name": "Bagdad",
+      "slug": "bagdad",
+      "county": "Yavapai County",
+      "lat": 34.578484,
+      "lng": -113.175535
+    },
+    {
+      "name": "Bapchule",
+      "slug": "bapchule",
+      "county": "Pinal County",
+      "lat": 33.136389,
+      "lng": -111.8725
+    },
+    {
+      "name": "Bellemont",
+      "slug": "bellemont",
+      "county": "Coconino County",
+      "lat": 35.238056,
+      "lng": -111.832778
+    },
+    {
+      "name": "Benson",
+      "slug": "benson",
+      "county": "Cochise County",
+      "lat": 31.98826,
+      "lng": -110.294113
+    },
+    {
+      "name": "Bisbee",
+      "slug": "bisbee",
+      "county": "Cochise County",
+      "lat": 31.408557,
+      "lng": -109.911736
+    },
+    {
+      "name": "Black Canyon City",
+      "slug": "black-canyon-city",
+      "county": "Yavapai County",
+      "lat": 34.073197,
+      "lng": -112.130956
+    },
+    {
+      "name": "Blue",
+      "slug": "blue",
+      "county": "Greenlee County",
+      "lat": 33.651245,
+      "lng": -109.06849
+    },
+    {
+      "name": "Blue Gap",
+      "slug": "blue-gap",
+      "county": "Navajo County",
+      "lat": 36.100833,
+      "lng": -110.225278
+    },
+    {
+      "name": "Bouse",
+      "slug": "bouse",
+      "county": "La Paz County",
+      "lat": 33.9325,
+      "lng": -114.005
+    },
+    {
+      "name": "Bowie",
+      "slug": "bowie",
+      "county": "Cochise County",
+      "lat": 32.326389,
+      "lng": -109.486389
+    },
+    {
+      "name": "Buckeye",
+      "slug": "buckeye",
+      "county": "Maricopa County",
+      "lat": 33.38896,
+      "lng": -112.607728
+    },
+    {
+      "name": "Bullhead City",
+      "slug": "bullhead-city",
+      "county": "Mohave County",
+      "lat": 35.1678,
+      "lng": -114.543
+    },
+    {
+      "name": "Bylas",
+      "slug": "bylas",
+      "county": "Graham County",
+      "lat": 33.126549,
+      "lng": -110.11702
+    },
+    {
+      "name": "Cameron",
+      "slug": "cameron",
+      "county": "Coconino County",
+      "lat": 35.7163,
+      "lng": -111.4088
+    },
+    {
+      "name": "Camp Verde",
+      "slug": "camp-verde",
+      "county": "Yavapai County",
+      "lat": 34.569733,
+      "lng": -111.855131
+    },
+    {
+      "name": "Carefree",
+      "slug": "carefree",
+      "county": "Maricopa County",
+      "lat": 33.822222,
+      "lng": -111.9175
+    },
+    {
+      "name": "Casa Grande",
+      "slug": "casa-grande",
+      "county": "Pinal County",
+      "lat": 32.892667,
+      "lng": -111.756093
+    },
+    {
+      "name": "Cashion",
+      "slug": "cashion",
+      "county": "Maricopa County",
+      "lat": 33.435278,
+      "lng": -112.297222
+    },
+    {
+      "name": "Catalina",
+      "slug": "catalina",
+      "county": "Pima County",
+      "lat": 32.497222,
+      "lng": -110.923611
+    },
+    {
+      "name": "Cave Creek",
+      "slug": "cave-creek",
+      "county": "Maricopa County",
+      "lat": 33.833333,
+      "lng": -111.95
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "county": "Graham County",
+      "lat": 32.8675,
+      "lng": -109.792222
+    },
+    {
+      "name": "Chambers",
+      "slug": "chambers",
+      "county": "Apache County",
+      "lat": 35.143044,
+      "lng": -109.37389
+    },
+    {
+      "name": "Chandler",
+      "slug": "chandler",
+      "county": "Maricopa County",
+      "lat": 33.330091,
+      "lng": -111.863156
+    },
+    {
+      "name": "Chandler Heights",
+      "slug": "chandler-heights",
+      "county": "Maricopa County",
+      "lat": 33.211944,
+      "lng": -111.685556
+    },
+    {
+      "name": "Chinle",
+      "slug": "chinle",
+      "county": "Apache County",
+      "lat": 36.130367,
+      "lng": -109.603693
+    },
+    {
+      "name": "Chino Valley",
+      "slug": "chino-valley",
+      "county": "Yavapai County",
+      "lat": 34.775739,
+      "lng": -112.473099
+    },
+    {
+      "name": "Chloride",
+      "slug": "chloride",
+      "county": "Mohave County",
+      "lat": 35.414444,
+      "lng": -114.198611
+    },
+    {
+      "name": "Cibecue",
+      "slug": "cibecue",
+      "county": "Navajo County",
+      "lat": 34.044722,
+      "lng": -110.484722
+    },
+    {
+      "name": "Cibola",
+      "slug": "cibola",
+      "county": "La Paz County",
+      "lat": 33.614886,
+      "lng": -114.512204
+    },
+    {
+      "name": "Clarkdale",
+      "slug": "clarkdale",
+      "county": "Yavapai County",
+      "lat": 34.747793,
+      "lng": -112.033417
+    },
+    {
+      "name": "Clay Springs",
+      "slug": "clay-springs",
+      "county": "Navajo County",
+      "lat": 34.361667,
+      "lng": -110.294722
+    },
+    {
+      "name": "Claypool",
+      "slug": "claypool",
+      "county": "Gila County",
+      "lat": 33.411111,
+      "lng": -110.841944
+    },
+    {
+      "name": "Clifton",
+      "slug": "clifton",
+      "county": "Greenlee County",
+      "lat": 33.132343,
+      "lng": -109.246199
+    },
+    {
+      "name": "Cochise",
+      "slug": "cochise",
+      "county": "Cochise County",
+      "lat": 32.097891,
+      "lng": -109.92393
+    },
+    {
+      "name": "Colorado City",
+      "slug": "colorado-city",
+      "county": "Mohave County",
+      "lat": 36.976266,
+      "lng": -112.952427
+    },
+    {
+      "name": "Concho",
+      "slug": "concho",
+      "county": "Apache County",
+      "lat": 34.445787,
+      "lng": -109.674096
+    },
+    {
+      "name": "Congress",
+      "slug": "congress",
+      "county": "Yavapai County",
+      "lat": 34.176425,
+      "lng": -112.76801
+    },
+    {
+      "name": "Coolidge",
+      "slug": "coolidge",
+      "county": "Pinal County",
+      "lat": 32.957399,
+      "lng": -111.534378
+    },
+    {
+      "name": "Cornville",
+      "slug": "cornville",
+      "county": "Yavapai County",
+      "lat": 34.725593,
+      "lng": -111.908556
+    },
+    {
+      "name": "Cortaro",
+      "slug": "cortaro",
+      "county": "Pima County",
+      "lat": 32.356111,
+      "lng": -111.087778
+    },
+    {
+      "name": "Cottonwood",
+      "slug": "cottonwood",
+      "county": "Yavapai County",
+      "lat": 34.705547,
+      "lng": -112.009099
+    },
+    {
+      "name": "Crown King",
+      "slug": "crown-king",
+      "county": "Yavapai County",
+      "lat": 34.224062,
+      "lng": -112.333971
+    },
+    {
+      "name": "Dateland",
+      "slug": "dateland",
+      "county": "Yuma County",
+      "lat": 32.867886,
+      "lng": -113.463126
+    },
+    {
+      "name": "Dennehotso",
+      "slug": "dennehotso",
+      "county": "Apache County",
+      "lat": 36.777286,
+      "lng": -109.861001
+    },
+    {
+      "name": "Dewey",
+      "slug": "dewey",
+      "county": "Yavapai County",
+      "lat": 34.536753,
+      "lng": -112.256665
+    },
+    {
+      "name": "Dolan Springs",
+      "slug": "dolan-springs",
+      "county": "Mohave County",
+      "lat": 35.774789,
+      "lng": -114.547771
+    },
+    {
+      "name": "Douglas",
+      "slug": "douglas",
+      "county": "Cochise County",
+      "lat": 31.35111,
+      "lng": -109.544698
+    },
+    {
+      "name": "Dragoon",
+      "slug": "dragoon",
+      "county": "Cochise County",
+      "lat": 32.028056,
+      "lng": -110.038056
+    },
+    {
+      "name": "Duncan",
+      "slug": "duncan",
+      "county": "Greenlee County",
+      "lat": 32.793976,
+      "lng": -109.129575
+    },
+    {
+      "name": "Eagar",
+      "slug": "eagar",
+      "county": "Apache County",
+      "lat": 33.954571,
+      "lng": -109.246933
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "county": "Graham County",
+      "lat": 33.028629,
+      "lng": -109.953682
+    },
+    {
+      "name": "Ehrenberg",
+      "slug": "ehrenberg",
+      "county": "La Paz County",
+      "lat": 33.604167,
+      "lng": -114.524444
+    },
+    {
+      "name": "El Mirage",
+      "slug": "el-mirage",
+      "county": "Maricopa County",
+      "lat": 33.608153,
+      "lng": -112.324147
+    },
+    {
+      "name": "Elfrida",
+      "slug": "elfrida",
+      "county": "Cochise County",
+      "lat": 31.713891,
+      "lng": -109.619277
+    },
+    {
+      "name": "Elgin",
+      "slug": "elgin",
+      "county": "Santa Cruz County",
+      "lat": 31.66002,
+      "lng": -110.611403
+    },
+    {
+      "name": "Eloy",
+      "slug": "eloy",
+      "county": "Pinal County",
+      "lat": 32.750929,
+      "lng": -111.583275
+    },
+    {
+      "name": "Flagstaff",
+      "slug": "flagstaff",
+      "county": "Coconino County",
+      "lat": 35.185911,
+      "lng": -111.661979
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "county": "Pinal County",
+      "lat": 32.996881,
+      "lng": -111.361234
+    },
+    {
+      "name": "Forest Lakes",
+      "slug": "forest-lakes",
+      "county": "Coconino County",
+      "lat": 34.431389,
+      "lng": -110.593333
+    },
+    {
+      "name": "Fort Apache",
+      "slug": "fort-apache",
+      "county": "Navajo County",
+      "lat": 33.790556,
+      "lng": -109.988056
+    },
+    {
+      "name": "Fort Defiance",
+      "slug": "fort-defiance",
+      "county": "Apache County",
+      "lat": 35.744444,
+      "lng": -109.075833
+    },
+    {
+      "name": "Fort Huachuca",
+      "slug": "fort-huachuca",
+      "county": "Cochise County",
+      "lat": 31.558735,
+      "lng": -110.344131
+    },
+    {
+      "name": "Fort Mcdowell",
+      "slug": "fort-mcdowell",
+      "county": "Maricopa County",
+      "lat": 33.611807,
+      "lng": -111.68062
+    },
+    {
+      "name": "Fort Mohave",
+      "slug": "fort-mohave",
+      "county": "Mohave County",
+      "lat": 35.0112,
+      "lng": -114.5849
+    },
+    {
+      "name": "Fort Thomas",
+      "slug": "fort-thomas",
+      "county": "Graham County",
+      "lat": 33.036944,
+      "lng": -109.964722
+    },
+    {
+      "name": "Fountain Hills",
+      "slug": "fountain-hills",
+      "county": "Maricopa County",
+      "lat": 33.608489,
+      "lng": -111.723685
+    },
+    {
+      "name": "Fredonia",
+      "slug": "fredonia",
+      "county": "Coconino County",
+      "lat": 36.904397,
+      "lng": -112.497864
+    },
+    {
+      "name": "Gadsden",
+      "slug": "gadsden",
+      "county": "Yuma County",
+      "lat": 32.554444,
+      "lng": -114.784167
+    },
+    {
+      "name": "Ganado",
+      "slug": "ganado",
+      "county": "Apache County",
+      "lat": 35.651844,
+      "lng": -109.283168
+    },
+    {
+      "name": "Gila Bend",
+      "slug": "gila-bend",
+      "county": "Maricopa County",
+      "lat": 32.93059,
+      "lng": -112.746832
+    },
+    {
+      "name": "Gilbert",
+      "slug": "gilbert",
+      "county": "Maricopa County",
+      "lat": 33.35,
+      "lng": -111.8092
+    },
+    {
+      "name": "Glendale",
+      "slug": "glendale",
+      "county": "Maricopa County",
+      "lat": 33.531122,
+      "lng": -112.176703
+    },
+    {
+      "name": "Glendale Luke Afb",
+      "slug": "glendale-luke-afb",
+      "county": "Maricopa County",
+      "lat": 33.539993,
+      "lng": -112.356186
+    },
+    {
+      "name": "Globe",
+      "slug": "globe",
+      "county": "Gila County",
+      "lat": 33.402426,
+      "lng": -110.789247
+    },
+    {
+      "name": "Golden Valley",
+      "slug": "golden-valley",
+      "county": "Mohave County",
+      "lat": 35.2102,
+      "lng": -114.2764
+    },
+    {
+      "name": "Goodyear",
+      "slug": "goodyear",
+      "county": "Maricopa County",
+      "lat": 33.436809,
+      "lng": -112.383385
+    },
+    {
+      "name": "Grand Canyon",
+      "slug": "grand-canyon",
+      "county": "Coconino County",
+      "lat": 36.054444,
+      "lng": -112.138611
+    },
+    {
+      "name": "Gray Mountain",
+      "slug": "gray-mountain",
+      "county": "Coconino County",
+      "lat": 35.6679,
+      "lng": -111.484
+    },
+    {
+      "name": "Green Valley",
+      "slug": "green-valley",
+      "county": "Pima County",
+      "lat": 31.854271,
+      "lng": -111.000253
+    },
+    {
+      "name": "Greer",
+      "slug": "greer",
+      "county": "Apache County",
+      "lat": 34.01,
+      "lng": -109.458056
+    },
+    {
+      "name": "Hackberry",
+      "slug": "hackberry",
+      "county": "Mohave County",
+      "lat": 35.369167,
+      "lng": -113.726389
+    },
+    {
+      "name": "Happy Jack",
+      "slug": "happy-jack",
+      "county": "Coconino County",
+      "lat": 34.743333,
+      "lng": -111.406667
+    },
+    {
+      "name": "Hayden",
+      "slug": "hayden",
+      "county": "Gila County",
+      "lat": 33.004722,
+      "lng": -110.784722
+    },
+    {
+      "name": "Heber",
+      "slug": "heber",
+      "county": "Navajo County",
+      "lat": 34.4163,
+      "lng": -110.568647
+    },
+    {
+      "name": "Hereford",
+      "slug": "hereford",
+      "county": "Cochise County",
+      "lat": 31.403545,
+      "lng": -110.204728
+    },
+    {
+      "name": "Higley",
+      "slug": "higley",
+      "county": "Maricopa County",
+      "lat": 33.302382,
+      "lng": -111.696926
+    },
+    {
+      "name": "Holbrook",
+      "slug": "holbrook",
+      "county": "Navajo County",
+      "lat": 34.908451,
+      "lng": -110.143412
+    },
+    {
+      "name": "Hotevilla",
+      "slug": "hotevilla",
+      "county": "Navajo County",
+      "lat": 36.211141,
+      "lng": -110.566107
+    },
+    {
+      "name": "Houck",
+      "slug": "houck",
+      "county": "Apache County",
+      "lat": 35.283,
+      "lng": -109.2063
+    },
+    {
+      "name": "Huachuca City",
+      "slug": "huachuca-city",
+      "county": "Cochise County",
+      "lat": 31.663896,
+      "lng": -110.333414
+    },
+    {
+      "name": "Hualapai",
+      "slug": "hualapai",
+      "county": "Mohave County",
+      "lat": 35.540732,
+      "lng": -113.295324
+    },
+    {
+      "name": "Humboldt",
+      "slug": "humboldt",
+      "county": "Yavapai County",
+      "lat": 34.500833,
+      "lng": -112.236667
+    },
+    {
+      "name": "Indian Wells",
+      "slug": "indian-wells",
+      "county": "Navajo County",
+      "lat": 35.405556,
+      "lng": -110.084167
+    },
+    {
+      "name": "Iron Springs",
+      "slug": "iron-springs",
+      "county": "Yavapai County",
+      "lat": 34.673,
+      "lng": -112.5211
+    },
+    {
+      "name": "Jerome",
+      "slug": "jerome",
+      "county": "Yavapai County",
+      "lat": 34.748889,
+      "lng": -112.113056
+    },
+    {
+      "name": "Joseph City",
+      "slug": "joseph-city",
+      "county": "Navajo County",
+      "lat": 34.955833,
+      "lng": -110.333333
+    },
+    {
+      "name": "Kaibeto",
+      "slug": "kaibeto",
+      "county": "Coconino County",
+      "lat": 36.484798,
+      "lng": -111.136973
+    },
+    {
+      "name": "Kayenta",
+      "slug": "kayenta",
+      "county": "Navajo County",
+      "lat": 36.688327,
+      "lng": -110.265229
+    },
+    {
+      "name": "Keams Canyon",
+      "slug": "keams-canyon",
+      "county": "Navajo County",
+      "lat": 35.808206,
+      "lng": -110.284461
+    },
+    {
+      "name": "Kearny",
+      "slug": "kearny",
+      "county": "Pinal County",
+      "lat": 33.059443,
+      "lng": -110.91227
+    },
+    {
+      "name": "Kingman",
+      "slug": "kingman",
+      "county": "Mohave County",
+      "lat": 35.258379,
+      "lng": -114.05689
+    },
+    {
+      "name": "Kirkland",
+      "slug": "kirkland",
+      "county": "Yavapai County",
+      "lat": 34.454149,
+      "lng": -112.896641
+    },
+    {
+      "name": "Kykotsmovi Village",
+      "slug": "kykotsmovi-village",
+      "county": "Navajo County",
+      "lat": 35.579084,
+      "lng": -110.368805
+    },
+    {
+      "name": "Lake Havasu City",
+      "slug": "lake-havasu-city",
+      "county": "Mohave County",
+      "lat": 34.492879,
+      "lng": -114.308083
+    },
+    {
+      "name": "Lake Montezuma",
+      "slug": "lake-montezuma",
+      "county": "Yavapai County",
+      "lat": 34.632222,
+      "lng": -111.777222
+    },
+    {
+      "name": "Lakeside",
+      "slug": "lakeside",
+      "county": "Navajo County",
+      "lat": 34.166224,
+      "lng": -109.986878
+    },
+    {
+      "name": "Laveen",
+      "slug": "laveen",
+      "county": "Maricopa County",
+      "lat": 33.343572,
+      "lng": -112.171618
+    },
+    {
+      "name": "Leupp",
+      "slug": "leupp",
+      "county": "Coconino County",
+      "lat": 35.336528,
+      "lng": -110.992651
+    },
+    {
+      "name": "Litchfield Park",
+      "slug": "litchfield-park",
+      "county": "Maricopa County",
+      "lat": 33.494127,
+      "lng": -112.380497
+    },
+    {
+      "name": "Littlefield",
+      "slug": "littlefield",
+      "county": "Mohave County",
+      "lat": 36.866524,
+      "lng": -113.913693
+    },
+    {
+      "name": "Lukachukai",
+      "slug": "lukachukai",
+      "county": "Apache County",
+      "lat": 36.418111,
+      "lng": -109.244614
+    },
+    {
+      "name": "Lukeville",
+      "slug": "lukeville",
+      "county": "Pima County",
+      "lat": 31.8825,
+      "lng": -112.815
+    },
+    {
+      "name": "Lupton",
+      "slug": "lupton",
+      "county": "Apache County",
+      "lat": 35.4086,
+      "lng": -109.07
+    },
+    {
+      "name": "Mammoth",
+      "slug": "mammoth",
+      "county": "Pinal County",
+      "lat": 32.723875,
+      "lng": -110.643961
+    },
+    {
+      "name": "Many Farms",
+      "slug": "many-farms",
+      "county": "Apache County",
+      "lat": 36.408259,
+      "lng": -109.634021
+    },
+    {
+      "name": "Marana",
+      "slug": "marana",
+      "county": "Pima County",
+      "lat": 32.404749,
+      "lng": -111.273621
+    },
+    {
+      "name": "Marble Canyon",
+      "slug": "marble-canyon",
+      "county": "Coconino County",
+      "lat": 36.956943,
+      "lng": -111.558166
+    },
+    {
+      "name": "Maricopa",
+      "slug": "maricopa",
+      "county": "Pinal County",
+      "lat": 32.987379,
+      "lng": -112.075228
+    },
+    {
+      "name": "Mayer",
+      "slug": "mayer",
+      "county": "Yavapai County",
+      "lat": 34.365535,
+      "lng": -112.129551
+    },
+    {
+      "name": "Mc Neal",
+      "slug": "mc-neal",
+      "county": "Cochise County",
+      "lat": 31.502969,
+      "lng": -109.630971
+    },
+    {
+      "name": "Mcnary",
+      "slug": "mcnary",
+      "county": "Apache County",
+      "lat": 34.073611,
+      "lng": -109.856389
+    },
+    {
+      "name": "Meadview",
+      "slug": "meadview",
+      "county": "Mohave County",
+      "lat": 35.813733,
+      "lng": -114.327696
+    },
+    {
+      "name": "Mesa",
+      "slug": "mesa",
+      "county": "Maricopa County",
+      "lat": 33.43174,
+      "lng": -111.846931
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "county": "Gila County",
+      "lat": 33.431928,
+      "lng": -110.881182
+    },
+    {
+      "name": "Mohave Valley",
+      "slug": "mohave-valley",
+      "county": "Mohave County",
+      "lat": 34.892942,
+      "lng": -114.595115
+    },
+    {
+      "name": "Morenci",
+      "slug": "morenci",
+      "county": "Greenlee County",
+      "lat": 33.043593,
+      "lng": -109.311517
+    },
+    {
+      "name": "Mormon Lake",
+      "slug": "mormon-lake",
+      "county": "Coconino County",
+      "lat": 34.916896,
+      "lng": -111.454914
+    },
+    {
+      "name": "Morristown",
+      "slug": "morristown",
+      "county": "Maricopa County",
+      "lat": 33.772993,
+      "lng": -112.548331
+    },
+    {
+      "name": "Mount Lemmon",
+      "slug": "mount-lemmon",
+      "county": "Pima County",
+      "lat": 32.438056,
+      "lng": -110.734167
+    },
+    {
+      "name": "Munds Park",
+      "slug": "munds-park",
+      "county": "Coconino County",
+      "lat": 34.945556,
+      "lng": -111.639444
+    },
+    {
+      "name": "Naco",
+      "slug": "naco",
+      "county": "Cochise County",
+      "lat": 31.335278,
+      "lng": -109.9475
+    },
+    {
+      "name": "Nazlini",
+      "slug": "nazlini",
+      "county": "Apache County",
+      "lat": 35.711389,
+      "lng": -109.541389
+    },
+    {
+      "name": "New River",
+      "slug": "new-river",
+      "county": "Maricopa County",
+      "lat": 33.9059,
+      "lng": -112.1345
+    },
+    {
+      "name": "Nogales",
+      "slug": "nogales",
+      "county": "Santa Cruz County",
+      "lat": 31.376969,
+      "lng": -110.943508
+    },
+    {
+      "name": "North Rim",
+      "slug": "north-rim",
+      "county": "Coconino County",
+      "lat": 36.945556,
+      "lng": -112.525833
+    },
+    {
+      "name": "Nutrioso",
+      "slug": "nutrioso",
+      "county": "Apache County",
+      "lat": 33.953056,
+      "lng": -109.208611
+    },
+    {
+      "name": "Oatman",
+      "slug": "oatman",
+      "county": "Mohave County",
+      "lat": 35.026389,
+      "lng": -114.382778
+    },
+    {
+      "name": "Oracle",
+      "slug": "oracle",
+      "county": "Pinal County",
+      "lat": 32.600506,
+      "lng": -110.796126
+    },
+    {
+      "name": "Overgaard",
+      "slug": "overgaard",
+      "county": "Navajo County",
+      "lat": 34.390833,
+      "lng": -110.5525
+    },
+    {
+      "name": "Page",
+      "slug": "page",
+      "county": "Coconino County",
+      "lat": 36.896625,
+      "lng": -111.43847
+    },
+    {
+      "name": "Palo Verde",
+      "slug": "palo-verde",
+      "county": "Maricopa County",
+      "lat": 33.34848,
+      "lng": -112.646662
+    },
+    {
+      "name": "Paradise Valley",
+      "slug": "paradise-valley",
+      "county": "Maricopa County",
+      "lat": 33.549439,
+      "lng": -111.956546
+    },
+    {
+      "name": "Parker",
+      "slug": "parker",
+      "county": "La Paz County",
+      "lat": 34.0254,
+      "lng": -114.266342
+    },
+    {
+      "name": "Parks",
+      "slug": "parks",
+      "county": "Coconino County",
+      "lat": 35.1898,
+      "lng": -112.0187
+    },
+    {
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "county": "Santa Cruz County",
+      "lat": 31.535317,
+      "lng": -110.696774
+    },
+    {
+      "name": "Paulden",
+      "slug": "paulden",
+      "county": "Yavapai County",
+      "lat": 35.03129,
+      "lng": -112.544105
+    },
+    {
+      "name": "Payson",
+      "slug": "payson",
+      "county": "Gila County",
+      "lat": 34.219779,
+      "lng": -111.287774
+    },
+    {
+      "name": "Peach Springs",
+      "slug": "peach-springs",
+      "county": "Mohave County",
+      "lat": 35.537795,
+      "lng": -113.420199
+    },
+    {
+      "name": "Pearce",
+      "slug": "pearce",
+      "county": "Cochise County",
+      "lat": 31.966608,
+      "lng": -109.795032
+    },
+    {
+      "name": "Peoria",
+      "slug": "peoria",
+      "county": "Maricopa County",
+      "lat": 33.576135,
+      "lng": -112.234424
+    },
+    {
+      "name": "Peridot",
+      "slug": "peridot",
+      "county": "Gila County",
+      "lat": 33.478874,
+      "lng": -110.37252
+    },
+    {
+      "name": "Petrified Forest Natl Pk",
+      "slug": "petrified-forest-natl-pk",
+      "county": "Apache County",
+      "lat": 34.773889,
+      "lng": -109.887778
+    },
+    {
+      "name": "Phoenix",
+      "slug": "phoenix",
+      "county": "Maricopa County",
+      "lat": 33.451,
+      "lng": -112.0685
+    },
+    {
+      "name": "Picacho",
+      "slug": "picacho",
+      "county": "Pinal County",
+      "lat": 32.716111,
+      "lng": -111.494722
+    },
+    {
+      "name": "Pima",
+      "slug": "pima",
+      "county": "Graham County",
+      "lat": 32.909661,
+      "lng": -109.856009
+    },
+    {
+      "name": "Pine",
+      "slug": "pine",
+      "county": "Gila County",
+      "lat": 34.390915,
+      "lng": -111.473483
+    },
+    {
+      "name": "Pinedale",
+      "slug": "pinedale",
+      "county": "Navajo County",
+      "lat": 34.3075,
+      "lng": -110.250833
+    },
+    {
+      "name": "Pinetop",
+      "slug": "pinetop",
+      "county": "Navajo County",
+      "lat": 34.117459,
+      "lng": -109.919668
+    },
+    {
+      "name": "Pinon",
+      "slug": "pinon",
+      "county": "Navajo County",
+      "lat": 36.100243,
+      "lng": -110.221077
+    },
+    {
+      "name": "Pirtleville",
+      "slug": "pirtleville",
+      "county": "Cochise County",
+      "lat": 31.356944,
+      "lng": -109.561111
+    },
+    {
+      "name": "Polacca",
+      "slug": "polacca",
+      "county": "Navajo County",
+      "lat": 35.811812,
+      "lng": -110.51114
+    },
+    {
+      "name": "Pomerene",
+      "slug": "pomerene",
+      "county": "Cochise County",
+      "lat": 31.999444,
+      "lng": -110.285556
+    },
+    {
+      "name": "Poston",
+      "slug": "poston",
+      "county": "La Paz County",
+      "lat": 33.990556,
+      "lng": -114.395556
+    },
+    {
+      "name": "Prescott",
+      "slug": "prescott",
+      "county": "Yavapai County",
+      "lat": 34.629909,
+      "lng": -113.022459
+    },
+    {
+      "name": "Prescott Valley",
+      "slug": "prescott-valley",
+      "county": "Yavapai County",
+      "lat": 34.61,
+      "lng": -112.315
+    },
+    {
+      "name": "Quartzsite",
+      "slug": "quartzsite",
+      "county": "La Paz County",
+      "lat": 33.5675,
+      "lng": -114.2731
+    },
+    {
+      "name": "Queen Creek",
+      "slug": "queen-creek",
+      "county": "Maricopa County",
+      "lat": 33.238577,
+      "lng": -111.643596
+    },
+    {
+      "name": "Red Rock",
+      "slug": "red-rock",
+      "county": "Pinal County",
+      "lat": 32.576111,
+      "lng": -111.325
+    },
+    {
+      "name": "Red Valley",
+      "slug": "red-valley",
+      "county": "Apache County",
+      "lat": 35.915556,
+      "lng": -109.029167
+    },
+    {
+      "name": "Rillito",
+      "slug": "rillito",
+      "county": "Pima County",
+      "lat": 32.414722,
+      "lng": -111.155556
+    },
+    {
+      "name": "Rimrock",
+      "slug": "rimrock",
+      "county": "Yavapai County",
+      "lat": 34.63799,
+      "lng": -111.784222
+    },
+    {
+      "name": "Rio Rico",
+      "slug": "rio-rico",
+      "county": "Santa Cruz County",
+      "lat": 31.4851,
+      "lng": -110.9898
+    },
+    {
+      "name": "Rio Verde",
+      "slug": "rio-verde",
+      "county": "Maricopa County",
+      "lat": 33.7316,
+      "lng": -111.6811
+    },
+    {
+      "name": "Rock Point",
+      "slug": "rock-point",
+      "county": "Apache County",
+      "lat": 36.718056,
+      "lng": -109.625278
+    },
+    {
+      "name": "Roll",
+      "slug": "roll",
+      "county": "Yuma County",
+      "lat": 32.936635,
+      "lng": -113.564287
+    },
+    {
+      "name": "Roosevelt",
+      "slug": "roosevelt",
+      "county": "Gila County",
+      "lat": 33.635753,
+      "lng": -110.974884
+    },
+    {
+      "name": "Round Rock",
+      "slug": "round-rock",
+      "county": "Apache County",
+      "lat": 36.502222,
+      "lng": -109.553056
+    },
+    {
+      "name": "Sacaton",
+      "slug": "sacaton",
+      "county": "Pinal County",
+      "lat": 33.097699,
+      "lng": -111.775162
+    },
+    {
+      "name": "Safford",
+      "slug": "safford",
+      "county": "Graham County",
+      "lat": 32.829491,
+      "lng": -109.626641
+    },
+    {
+      "name": "Sahuarita",
+      "slug": "sahuarita",
+      "county": "Pima County",
+      "lat": 31.945169,
+      "lng": -111.000154
+    },
+    {
+      "name": "Saint David",
+      "slug": "saint-david",
+      "county": "Cochise County",
+      "lat": 31.897251,
+      "lng": -110.215377
+    },
+    {
+      "name": "Saint Johns",
+      "slug": "saint-johns",
+      "county": "Apache County",
+      "lat": 34.501008,
+      "lng": -109.379617
+    },
+    {
+      "name": "Saint Michaels",
+      "slug": "saint-michaels",
+      "county": "Apache County",
+      "lat": 35.644722,
+      "lng": -109.095
+    },
+    {
+      "name": "Salome",
+      "slug": "salome",
+      "county": "La Paz County",
+      "lat": 33.748141,
+      "lng": -113.571459
+    },
+    {
+      "name": "San Carlos",
+      "slug": "san-carlos",
+      "county": "Gila County",
+      "lat": 33.310643,
+      "lng": -110.395323
+    },
+    {
+      "name": "San Luis",
+      "slug": "san-luis",
+      "county": "Yuma County",
+      "lat": 32.486944,
+      "lng": -114.781389
+    },
+    {
+      "name": "San Manuel",
+      "slug": "san-manuel",
+      "county": "Pinal County",
+      "lat": 32.695831,
+      "lng": -110.656788
+    },
+    {
+      "name": "San Simon",
+      "slug": "san-simon",
+      "county": "Cochise County",
+      "lat": 32.208167,
+      "lng": -109.367152
+    },
+    {
+      "name": "Sanders",
+      "slug": "sanders",
+      "county": "Apache County",
+      "lat": 35.216389,
+      "lng": -109.333056
+    },
+    {
+      "name": "Sasabe",
+      "slug": "sasabe",
+      "county": "Pima County",
+      "lat": 31.488611,
+      "lng": -111.541389
+    },
+    {
+      "name": "Scottsdale",
+      "slug": "scottsdale",
+      "county": "Maricopa County",
+      "lat": 33.521767,
+      "lng": -111.904926
+    },
+    {
+      "name": "Second Mesa",
+      "slug": "second-mesa",
+      "county": "Navajo County",
+      "lat": 35.903782,
+      "lng": -110.6472
+    },
+    {
+      "name": "Sedona",
+      "slug": "sedona",
+      "county": "Coconino County",
+      "lat": 34.8697,
+      "lng": -111.7602
+    },
+    {
+      "name": "Seligman",
+      "slug": "seligman",
+      "county": "Yavapai County",
+      "lat": 35.321246,
+      "lng": -112.954805
+    },
+    {
+      "name": "Sells",
+      "slug": "sells",
+      "county": "Pima County",
+      "lat": 32.031572,
+      "lng": -111.922207
+    },
+    {
+      "name": "Shonto",
+      "slug": "shonto",
+      "county": "Navajo County",
+      "lat": 36.61594,
+      "lng": -110.647743
+    },
+    {
+      "name": "Show Low",
+      "slug": "show-low",
+      "county": "Navajo County",
+      "lat": 34.060117,
+      "lng": -110.054633
+    },
+    {
+      "name": "Sierra Vista",
+      "slug": "sierra-vista",
+      "county": "Cochise County",
+      "lat": 31.536467,
+      "lng": -110.266565
+    },
+    {
+      "name": "Skull Valley",
+      "slug": "skull-valley",
+      "county": "Yavapai County",
+      "lat": 34.505278,
+      "lng": -112.684722
+    },
+    {
+      "name": "Snowflake",
+      "slug": "snowflake",
+      "county": "Navajo County",
+      "lat": 34.495859,
+      "lng": -110.080742
+    },
+    {
+      "name": "Solomon",
+      "slug": "solomon",
+      "county": "Graham County",
+      "lat": 32.8125,
+      "lng": -109.633333
+    },
+    {
+      "name": "Somerton",
+      "slug": "somerton",
+      "county": "Yuma County",
+      "lat": 32.563398,
+      "lng": -114.7127
+    },
+    {
+      "name": "Sonoita",
+      "slug": "sonoita",
+      "county": "Santa Cruz County",
+      "lat": 31.866154,
+      "lng": -110.724418
+    },
+    {
+      "name": "Springerville",
+      "slug": "springerville",
+      "county": "Apache County",
+      "lat": 34.119333,
+      "lng": -109.304066
+    },
+    {
+      "name": "Stanfield",
+      "slug": "stanfield",
+      "county": "Pinal County",
+      "lat": 32.882321,
+      "lng": -111.965987
+    },
+    {
+      "name": "Sun City",
+      "slug": "sun-city",
+      "county": "Maricopa County",
+      "lat": 33.606104,
+      "lng": -112.279701
+    },
+    {
+      "name": "Sun City West",
+      "slug": "sun-city-west",
+      "county": "Maricopa County",
+      "lat": 33.662576,
+      "lng": -112.255434
+    },
+    {
+      "name": "Sun Valley",
+      "slug": "sun-valley",
+      "county": "Navajo County",
+      "lat": 34.250833,
+      "lng": -111.254444
+    },
+    {
+      "name": "Supai",
+      "slug": "supai",
+      "county": "Coconino County",
+      "lat": 36.224157,
+      "lng": -112.693212
+    },
+    {
+      "name": "Superior",
+      "slug": "superior",
+      "county": "Pinal County",
+      "lat": 33.288716,
+      "lng": -111.09846
+    },
+    {
+      "name": "Surprise",
+      "slug": "surprise",
+      "county": "Maricopa County",
+      "lat": 33.630028,
+      "lng": -112.33143
+    },
+    {
+      "name": "Tacna",
+      "slug": "tacna",
+      "county": "Yuma County",
+      "lat": 32.6975,
+      "lng": -113.952778
+    },
+    {
+      "name": "Taylor",
+      "slug": "taylor",
+      "county": "Navajo County",
+      "lat": 34.465,
+      "lng": -110.090556
+    },
+    {
+      "name": "Teec Nos Pos",
+      "slug": "teec-nos-pos",
+      "county": "Apache County",
+      "lat": 36.779694,
+      "lng": -109.359039
+    },
+    {
+      "name": "Tempe",
+      "slug": "tempe",
+      "county": "Maricopa County",
+      "lat": 33.4273,
+      "lng": -111.9307
+    },
+    {
+      "name": "Temple Bar Marina",
+      "slug": "temple-bar-marina",
+      "county": "Mohave County",
+      "lat": 36.025556,
+      "lng": -114.318056
+    },
+    {
+      "name": "Thatcher",
+      "slug": "thatcher",
+      "county": "Graham County",
+      "lat": 32.819902,
+      "lng": -109.730245
+    },
+    {
+      "name": "Tolleson",
+      "slug": "tolleson",
+      "county": "Maricopa County",
+      "lat": 33.434686,
+      "lng": -112.277444
+    },
+    {
+      "name": "Tombstone",
+      "slug": "tombstone",
+      "county": "Cochise County",
+      "lat": 31.721598,
+      "lng": -110.058449
+    },
+    {
+      "name": "Tonalea",
+      "slug": "tonalea",
+      "county": "Coconino County",
+      "lat": 35.934555,
+      "lng": -110.882042
+    },
+    {
+      "name": "Tonopah",
+      "slug": "tonopah",
+      "county": "Maricopa County",
+      "lat": 33.422797,
+      "lng": -112.952785
+    },
+    {
+      "name": "Tonto Basin",
+      "slug": "tonto-basin",
+      "county": "Gila County",
+      "lat": 33.930278,
+      "lng": -111.308056
+    },
+    {
+      "name": "Topawa",
+      "slug": "topawa",
+      "county": "Pima County",
+      "lat": 31.813889,
+      "lng": -111.825
+    },
+    {
+      "name": "Topock",
+      "slug": "topock",
+      "county": "Mohave County",
+      "lat": 34.778388,
+      "lng": -114.481666
+    },
+    {
+      "name": "Tortilla Flat",
+      "slug": "tortilla-flat",
+      "county": "Maricopa County",
+      "lat": 33.526389,
+      "lng": -111.389167
+    },
+    {
+      "name": "Tsaile",
+      "slug": "tsaile",
+      "county": "Apache County",
+      "lat": 36.307075,
+      "lng": -109.217627
+    },
+    {
+      "name": "Tuba City",
+      "slug": "tuba-city",
+      "county": "Coconino County",
+      "lat": 36.103729,
+      "lng": -111.268566
+    },
+    {
+      "name": "Tubac",
+      "slug": "tubac",
+      "county": "Santa Cruz County",
+      "lat": 31.6125,
+      "lng": -111.045278
+    },
+    {
+      "name": "Tucson",
+      "slug": "tucson",
+      "county": "Pima County",
+      "lat": 32.213873,
+      "lng": -110.969445
+    },
+    {
+      "name": "Tumacacori",
+      "slug": "tumacacori",
+      "county": "Santa Cruz County",
+      "lat": 31.594194,
+      "lng": -111.039693
+    },
+    {
+      "name": "Vail",
+      "slug": "vail",
+      "county": "Pima County",
+      "lat": 32.035926,
+      "lng": -110.88375
+    },
+    {
+      "name": "Valentine",
+      "slug": "valentine",
+      "county": "Mohave County",
+      "lat": 35.3717,
+      "lng": -113.8213
+    },
+    {
+      "name": "Valley Farms",
+      "slug": "valley-farms",
+      "county": "Pinal County",
+      "lat": 32.988333,
+      "lng": -111.446667
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "county": "Apache County",
+      "lat": 34.2575,
+      "lng": -109.692222
+    },
+    {
+      "name": "Waddell",
+      "slug": "waddell",
+      "county": "Maricopa County",
+      "lat": 33.567285,
+      "lng": -112.43869
+    },
+    {
+      "name": "Wellton",
+      "slug": "wellton",
+      "county": "Yuma County",
+      "lat": 32.749251,
+      "lng": -114.176616
+    },
+    {
+      "name": "Wenden",
+      "slug": "wenden",
+      "county": "La Paz County",
+      "lat": 33.8225,
+      "lng": -113.540833
+    },
+    {
+      "name": "White Mountain Lake",
+      "slug": "white-mountain-lake",
+      "county": "Navajo County",
+      "lat": 34.348333,
+      "lng": -109.996944
+    },
+    {
+      "name": "Whiteriver",
+      "slug": "whiteriver",
+      "county": "Navajo County",
+      "lat": 33.836944,
+      "lng": -109.963611
+    },
+    {
+      "name": "Wickenburg",
+      "slug": "wickenburg",
+      "county": "Maricopa County",
+      "lat": 33.968611,
+      "lng": -112.728889
+    },
+    {
+      "name": "Wikieup",
+      "slug": "wikieup",
+      "county": "Mohave County",
+      "lat": 34.703333,
+      "lng": -113.610556
+    },
+    {
+      "name": "Willcox",
+      "slug": "willcox",
+      "county": "Cochise County",
+      "lat": 32.372977,
+      "lng": -109.863111
+    },
+    {
+      "name": "Williams",
+      "slug": "williams",
+      "county": "Coconino County",
+      "lat": 35.249842,
+      "lng": -112.190623
+    },
+    {
+      "name": "Willow Beach",
+      "slug": "willow-beach",
+      "county": "Mohave County",
+      "lat": 35.8316,
+      "lng": -114.4441
+    },
+    {
+      "name": "Window Rock",
+      "slug": "window-rock",
+      "county": "Apache County",
+      "lat": 35.680556,
+      "lng": -109.051944
+    },
+    {
+      "name": "Winkelman",
+      "slug": "winkelman",
+      "county": "Gila County",
+      "lat": 33.00572,
+      "lng": -110.772682
+    },
+    {
+      "name": "Winslow",
+      "slug": "winslow",
+      "county": "Navajo County",
+      "lat": 35.16078,
+      "lng": -110.511382
+    },
+    {
+      "name": "Wittmann",
+      "slug": "wittmann",
+      "county": "Maricopa County",
+      "lat": 33.726425,
+      "lng": -112.446578
+    },
+    {
+      "name": "Woodruff",
+      "slug": "woodruff",
+      "county": "Navajo County",
+      "lat": 34.513333,
+      "lng": -110.077778
+    },
+    {
+      "name": "Yarnell",
+      "slug": "yarnell",
+      "county": "Yavapai County",
+      "lat": 34.414076,
+      "lng": -112.62166
+    },
+    {
+      "name": "Young",
+      "slug": "young",
+      "county": "Gila County",
+      "lat": 34.101389,
+      "lng": -110.963056
+    },
+    {
+      "name": "Youngtown",
+      "slug": "youngtown",
+      "county": "Maricopa County",
+      "lat": 33.590751,
+      "lng": -112.301305
+    },
+    {
+      "name": "Yucca",
+      "slug": "yucca",
+      "county": "Mohave County",
+      "lat": 34.872222,
+      "lng": -114.148611
+    },
+    {
+      "name": "Yuma",
+      "slug": "yuma",
+      "county": "Yuma County",
+      "lat": 32.701507,
+      "lng": -114.642362
+    }
+  ]
+}

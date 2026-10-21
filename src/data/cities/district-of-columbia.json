@@ -1,0 +1,28 @@
+{
+  "stateName": "District of Columbia",
+  "stateCode": "DC",
+  "stateSlug": "district-of-columbia",
+  "cities": [
+    {
+      "name": "Naval Anacost Annex",
+      "slug": "naval-anacost-annex",
+      "county": "District Of Columbia County",
+      "lat": 38.895,
+      "lng": -77.0366
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "District Of Columbia County",
+      "lat": 38.912217,
+      "lng": -77.017691
+    },
+    {
+      "name": "Washington Navy Yard",
+      "slug": "washington-navy-yard",
+      "county": "District Of Columbia County",
+      "lat": 38.8742,
+      "lng": -76.9943
+    }
+  ]
+}

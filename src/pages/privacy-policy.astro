@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const pageTitle = "Privacy Policy | Rapid Water Rescue Pros";
+const pageDesc = "Read our privacy policy regarding customer contact information, data security, and service dispatch protocols.";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/privacy-policy/">
+  <Breadcrumb items={[
+    { label: "Home", url: "/" },
+    { label: "Privacy Policy", url: "/privacy-policy/" }
+  ]} />
+
+  <section class="section">
+    <div class="container container-narrow">
+      <h1 style="margin-bottom:1.5rem">Privacy Policy</h1>
+      <p style="color:var(--text-muted);font-size:0.9rem;margin-bottom:2rem">Effective Date: January 1, 2026</p>
+
+      <div style="font-size:1rem;line-height:1.8;color:var(--text-body);display:flex;flex-direction:column;gap:1.5rem">
+        <p>
+          At Rapid Water Rescue Pros, we respect your privacy and are committed to protecting personal information provided during emergency service requests. This Privacy Policy details how we collect, use, and safeguard your details when using our website and dispatch services.
+        </p>
+
+        <h3>1. Information We Collect</h3>
+        <p>
+          When you request emergency water extraction or mitigation services through our website or telephone dispatch, we collect information including your full name, telephone number, email address, physical property address, and details regarding the nature of the water emergency.
+        </p>
+
+        <h3>2. How We Use Your Information</h3>
+        <p>
+          We use this information strictly to coordinate on-site emergency technician dispatch, communicate estimated arrival times, prepare itemized restoration estimates, and coordinate billing documentation with your property insurance carrier.
+        </p>
+
+        <h3>3. Data Protection and Zero Selling</h3>
+        <p>
+          We never sell, rent, or trade your personal contact details to third-party marketing companies. Information is shared solely with certified field technicians and authorized insurance adjusters directly involved in resolving your water damage claim.
+        </p>
+
+        <h3>4. Contact Us</h3>
+        <p>
+          If you have any questions regarding this Privacy Policy, please contact our administrative desk at dispatch@rapidwaterrescuepros.com or call (866) 751-9896.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

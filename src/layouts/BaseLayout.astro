@@ -1,0 +1,146 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { BUSINESS_INFO } from '../data/siteData';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+  ogImage?: string;
+  schemaType?: 'LocalBusiness' | 'Organization' | 'Service';
+  localCity?: string;
+  localState?: string;
+  localZip?: string;
+}
+
+const {
+  title,
+  description,
+  canonicalPath = Astro.url.pathname,
+  ogImage = "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  schemaType = "LocalBusiness",
+  localCity,
+  localState = "CA",
+  localZip
+} = Astro.props;
+
+// Ensure consistent absolute canonical URL with trailing slash
+const cleanPath = canonicalPath.endsWith('/') ? canonicalPath : `${canonicalPath}/`;
+const canonicalUrl = `https://${BUSINESS_INFO.domain}${cleanPath === '//' ? '/' : cleanPath}`;
+
+// Base Organization Schema
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": BUSINESS_INFO.name,
+  "legalName": BUSINESS_INFO.legalName,
+  "url": BUSINESS_INFO.url,
+  "logo": "https://rapidwaterrescuepros.com/assets/logo.png",
+  "telephone": BUSINESS_INFO.phone,
+  "email": BUSINESS_INFO.email,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": BUSINESS_INFO.address.street,
+    "addressLocality": BUSINESS_INFO.address.city,
+    "addressRegion": BUSINESS_INFO.address.state,
+    "postalCode": BUSINESS_INFO.address.zip,
+    "addressCountry": "US"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": BUSINESS_INFO.phone,
+    "contactType": "emergency",
+    "areaServed": "US",
+    "availableLanguage": "English"
+  }
+};
+
+// LocalBusiness Schema
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": localCity ? `${BUSINESS_INFO.name} - ${localCity}` : BUSINESS_INFO.name,
+  "image": ogImage,
+  "telephone": BUSINESS_INFO.phone,
+  "url": canonicalUrl,
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": localCity ? "Rapid Dispatch Mobile Unit" : BUSINESS_INFO.address.street,
+    "addressLocality": localCity || BUSINESS_INFO.address.city,
+    "addressRegion": localState,
+    "postalCode": localZip || BUSINESS_INFO.address.zip,
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": localCity === "Los Angeles" ? 34.0522 : localCity === "San Diego" ? 32.7157 : 37.7749,
+    "longitude": localCity === "Los Angeles" ? -118.2437 : localCity === "San Diego" ? -117.1611 : -122.4194
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": BUSINESS_INFO.rating.value,
+    "reviewCount": BUSINESS_INFO.rating.count,
+    "bestRating": BUSINESS_INFO.rating.best
+  }
+};
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  
+  <!-- Canonical URL (Self-referencing absolute) -->
+  <link rel="canonical" href={canonicalUrl} />
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23123863'><path d='M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z'/></svg>" />
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:site_name" content={BUSINESS_INFO.name} />
+  
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+  
+  <!-- Structured Data JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+</head>
+<body>
+  <Header activePath={cleanPath} />
+  
+  <main>
+    <slot />
+  </main>
+  
+  <Footer />
+
+  <!-- Mobile Sticky Emergency Call CTA Bar -->
+  <div class="mobile-sticky-bar" role="complementary" aria-label="Emergency Call Bar">
+    <a href={BUSINESS_INFO.phoneTel} class="mobile-sticky-btn">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+      <span>Emergency Call: {BUSINESS_INFO.phoneFormatted}</span>
+    </a>
+  </div>
+</body>
+</html>

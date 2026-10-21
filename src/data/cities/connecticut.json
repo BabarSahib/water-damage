@@ -1,0 +1,1890 @@
+{
+  "stateName": "Connecticut",
+  "stateCode": "CT",
+  "stateSlug": "connecticut",
+  "cities": [
+    {
+      "name": "Abington",
+      "slug": "abington",
+      "county": "Windham County",
+      "lat": 41.860556,
+      "lng": -72.007222
+    },
+    {
+      "name": "Amston",
+      "slug": "amston",
+      "county": "Tolland County",
+      "lat": 41.628969,
+      "lng": -72.364601
+    },
+    {
+      "name": "Andover",
+      "slug": "andover",
+      "county": "Tolland County",
+      "lat": 41.733215,
+      "lng": -72.376719
+    },
+    {
+      "name": "Ansonia",
+      "slug": "ansonia",
+      "county": "New Haven County",
+      "lat": 41.342712,
+      "lng": -73.074211
+    },
+    {
+      "name": "Ashford",
+      "slug": "ashford",
+      "county": "Windham County",
+      "lat": 41.86434,
+      "lng": -72.15873
+    },
+    {
+      "name": "Avon",
+      "slug": "avon",
+      "county": "Hartford County",
+      "lat": 41.790498,
+      "lng": -72.865323
+    },
+    {
+      "name": "Ballouville",
+      "slug": "ballouville",
+      "county": "Windham County",
+      "lat": 41.876667,
+      "lng": -71.861667
+    },
+    {
+      "name": "Baltic",
+      "slug": "baltic",
+      "county": "New London County",
+      "lat": 41.62629,
+      "lng": -72.077499
+    },
+    {
+      "name": "Bantam",
+      "slug": "bantam",
+      "county": "Litchfield County",
+      "lat": 41.721483,
+      "lng": -73.252028
+    },
+    {
+      "name": "Barkhamsted",
+      "slug": "barkhamsted",
+      "county": "Litchfield County",
+      "lat": 41.924873,
+      "lng": -72.982675
+    },
+    {
+      "name": "Beacon Falls",
+      "slug": "beacon-falls",
+      "county": "New Haven County",
+      "lat": 41.436917,
+      "lng": -73.059656
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "county": "Hartford County",
+      "lat": 41.620826,
+      "lng": -72.770482
+    },
+    {
+      "name": "Bethany",
+      "slug": "bethany",
+      "county": "New Haven County",
+      "lat": 41.426194,
+      "lng": -73.000704
+    },
+    {
+      "name": "Bethel",
+      "slug": "bethel",
+      "county": "Fairfield County",
+      "lat": 41.381298,
+      "lng": -73.400827
+    },
+    {
+      "name": "Bethlehem",
+      "slug": "bethlehem",
+      "county": "Litchfield County",
+      "lat": 41.638683,
+      "lng": -73.209098
+    },
+    {
+      "name": "Bloomfield",
+      "slug": "bloomfield",
+      "county": "Hartford County",
+      "lat": 41.831647,
+      "lng": -72.72493
+    },
+    {
+      "name": "Bolton",
+      "slug": "bolton",
+      "county": "Tolland County",
+      "lat": 41.768888,
+      "lng": -72.43958
+    },
+    {
+      "name": "Botsford",
+      "slug": "botsford",
+      "county": "Fairfield County",
+      "lat": 41.366389,
+      "lng": -73.2575
+    },
+    {
+      "name": "Bozrah",
+      "slug": "bozrah",
+      "county": "New London County",
+      "lat": 41.546515,
+      "lng": -72.171078
+    },
+    {
+      "name": "Branford",
+      "slug": "branford",
+      "county": "New Haven County",
+      "lat": 41.279991,
+      "lng": -72.810643
+    },
+    {
+      "name": "Bridgeport",
+      "slug": "bridgeport",
+      "county": "Fairfield County",
+      "lat": 41.1669,
+      "lng": -73.2052
+    },
+    {
+      "name": "Bridgewater",
+      "slug": "bridgewater",
+      "county": "Litchfield County",
+      "lat": 41.528684,
+      "lng": -73.360936
+    },
+    {
+      "name": "Bristol",
+      "slug": "bristol",
+      "county": "Hartford County",
+      "lat": 41.682293,
+      "lng": -72.930193
+    },
+    {
+      "name": "Broad Brook",
+      "slug": "broad-brook",
+      "county": "Hartford County",
+      "lat": 41.911405,
+      "lng": -72.543667
+    },
+    {
+      "name": "Brookfield",
+      "slug": "brookfield",
+      "county": "Fairfield County",
+      "lat": 41.46504,
+      "lng": -73.397986
+    },
+    {
+      "name": "Brooklyn",
+      "slug": "brooklyn",
+      "county": "Windham County",
+      "lat": 41.780747,
+      "lng": -71.954129
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "county": "Hartford County",
+      "lat": 41.757296,
+      "lng": -72.944386
+    },
+    {
+      "name": "Canaan",
+      "slug": "canaan",
+      "county": "Litchfield County",
+      "lat": 42.024821,
+      "lng": -73.323177
+    },
+    {
+      "name": "Canterbury",
+      "slug": "canterbury",
+      "county": "Windham County",
+      "lat": 41.684403,
+      "lng": -72.000985
+    },
+    {
+      "name": "Canton",
+      "slug": "canton",
+      "county": "Hartford County",
+      "lat": 41.838401,
+      "lng": -72.898731
+    },
+    {
+      "name": "Canton Center",
+      "slug": "canton-center",
+      "county": "Hartford County",
+      "lat": 41.871586,
+      "lng": -72.905847
+    },
+    {
+      "name": "Centerbrook",
+      "slug": "centerbrook",
+      "county": "Middlesex County",
+      "lat": 41.34743,
+      "lng": -72.41731
+    },
+    {
+      "name": "Central Village",
+      "slug": "central-village",
+      "county": "Windham County",
+      "lat": 41.722778,
+      "lng": -71.907222
+    },
+    {
+      "name": "Chaplin",
+      "slug": "chaplin",
+      "county": "Windham County",
+      "lat": 41.802584,
+      "lng": -72.137197
+    },
+    {
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "county": "New Haven County",
+      "lat": 41.5104,
+      "lng": -72.9044
+    },
+    {
+      "name": "Chester",
+      "slug": "chester",
+      "county": "Middlesex County",
+      "lat": 41.404903,
+      "lng": -72.464293
+    },
+    {
+      "name": "Clinton",
+      "slug": "clinton",
+      "county": "Middlesex County",
+      "lat": 41.29117,
+      "lng": -72.527973
+    },
+    {
+      "name": "Cobalt",
+      "slug": "cobalt",
+      "county": "Middlesex County",
+      "lat": 41.562222,
+      "lng": -72.555833
+    },
+    {
+      "name": "Colchester",
+      "slug": "colchester",
+      "county": "New London County",
+      "lat": 41.566198,
+      "lng": -72.344123
+    },
+    {
+      "name": "Colebrook",
+      "slug": "colebrook",
+      "county": "Litchfield County",
+      "lat": 42.028217,
+      "lng": -73.104069
+    },
+    {
+      "name": "Collinsville",
+      "slug": "collinsville",
+      "county": "Hartford County",
+      "lat": 41.851319,
+      "lng": -72.92827
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "county": "Tolland County",
+      "lat": 41.697274,
+      "lng": -72.30717
+    },
+    {
+      "name": "Cornwall",
+      "slug": "cornwall",
+      "county": "Litchfield County",
+      "lat": 41.843611,
+      "lng": -73.329722
+    },
+    {
+      "name": "Cornwall Bridge",
+      "slug": "cornwall-bridge",
+      "county": "Litchfield County",
+      "lat": 41.770084,
+      "lng": -73.367472
+    },
+    {
+      "name": "Cos Cob",
+      "slug": "cos-cob",
+      "county": "Fairfield County",
+      "lat": 41.052952,
+      "lng": -73.593498
+    },
+    {
+      "name": "Coventry",
+      "slug": "coventry",
+      "county": "Tolland County",
+      "lat": 41.782195,
+      "lng": -72.333249
+    },
+    {
+      "name": "Cromwell",
+      "slug": "cromwell",
+      "county": "Middlesex County",
+      "lat": 41.61049,
+      "lng": -72.666317
+    },
+    {
+      "name": "Danbury",
+      "slug": "danbury",
+      "county": "Fairfield County",
+      "lat": 41.391663,
+      "lng": -73.453165
+    },
+    {
+      "name": "Danielson",
+      "slug": "danielson",
+      "county": "Windham County",
+      "lat": 41.798246,
+      "lng": -71.880703
+    },
+    {
+      "name": "Darien",
+      "slug": "darien",
+      "county": "Fairfield County",
+      "lat": 41.076759,
+      "lng": -73.485254
+    },
+    {
+      "name": "Dayville",
+      "slug": "dayville",
+      "county": "Windham County",
+      "lat": 41.854045,
+      "lng": -71.868342
+    },
+    {
+      "name": "Deep River",
+      "slug": "deep-river",
+      "county": "Middlesex County",
+      "lat": 41.376478,
+      "lng": -72.448568
+    },
+    {
+      "name": "Derby",
+      "slug": "derby",
+      "county": "New Haven County",
+      "lat": 41.322858,
+      "lng": -73.080035
+    },
+    {
+      "name": "Durham",
+      "slug": "durham",
+      "county": "Middlesex County",
+      "lat": 41.464951,
+      "lng": -72.68752
+    },
+    {
+      "name": "East Berlin",
+      "slug": "east-berlin",
+      "county": "Hartford County",
+      "lat": 41.61277,
+      "lng": -72.719007
+    },
+    {
+      "name": "East Canaan",
+      "slug": "east-canaan",
+      "county": "Litchfield County",
+      "lat": 42.011686,
+      "lng": -73.278462
+    },
+    {
+      "name": "East Glastonbury",
+      "slug": "east-glastonbury",
+      "county": "Hartford County",
+      "lat": 41.694167,
+      "lng": -72.534167
+    },
+    {
+      "name": "East Granby",
+      "slug": "east-granby",
+      "county": "Hartford County",
+      "lat": 41.932215,
+      "lng": -72.745889
+    },
+    {
+      "name": "East Haddam",
+      "slug": "east-haddam",
+      "county": "Middlesex County",
+      "lat": 41.469575,
+      "lng": -72.405876
+    },
+    {
+      "name": "East Hampton",
+      "slug": "east-hampton",
+      "county": "Middlesex County",
+      "lat": 41.576058,
+      "lng": -72.509345
+    },
+    {
+      "name": "East Hartford",
+      "slug": "east-hartford",
+      "county": "Hartford County",
+      "lat": 41.780291,
+      "lng": -72.618014
+    },
+    {
+      "name": "East Hartland",
+      "slug": "east-hartland",
+      "county": "Hartford County",
+      "lat": 42.001617,
+      "lng": -72.924213
+    },
+    {
+      "name": "East Haven",
+      "slug": "east-haven",
+      "county": "New Haven County",
+      "lat": 41.280522,
+      "lng": -72.874144
+    },
+    {
+      "name": "East Killingly",
+      "slug": "east-killingly",
+      "county": "Windham County",
+      "lat": 41.848756,
+      "lng": -71.798534
+    },
+    {
+      "name": "East Lyme",
+      "slug": "east-lyme",
+      "county": "New London County",
+      "lat": 41.366806,
+      "lng": -72.232987
+    },
+    {
+      "name": "East Windsor",
+      "slug": "east-windsor",
+      "county": "Hartford County",
+      "lat": 41.9099,
+      "lng": -72.602945
+    },
+    {
+      "name": "East Windsor Hill",
+      "slug": "east-windsor-hill",
+      "county": "Hartford County",
+      "lat": 41.860278,
+      "lng": -72.603611
+    },
+    {
+      "name": "East Woodstock",
+      "slug": "east-woodstock",
+      "county": "Windham County",
+      "lat": 41.983611,
+      "lng": -71.977778
+    },
+    {
+      "name": "Eastford",
+      "slug": "eastford",
+      "county": "Windham County",
+      "lat": 41.877104,
+      "lng": -72.089451
+    },
+    {
+      "name": "Easton",
+      "slug": "easton",
+      "county": "Fairfield County",
+      "lat": 41.252328,
+      "lng": -73.287108
+    },
+    {
+      "name": "Ellington",
+      "slug": "ellington",
+      "county": "Tolland County",
+      "lat": 41.911417,
+      "lng": -72.462599
+    },
+    {
+      "name": "Enfield",
+      "slug": "enfield",
+      "county": "Hartford County",
+      "lat": 41.989016,
+      "lng": -72.565218
+    },
+    {
+      "name": "Essex",
+      "slug": "essex",
+      "county": "Middlesex County",
+      "lat": 41.354944,
+      "lng": -72.396504
+    },
+    {
+      "name": "Fabyan",
+      "slug": "fabyan",
+      "county": "Windham County",
+      "lat": 42.013611,
+      "lng": -71.940278
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "county": "Fairfield County",
+      "lat": 41.1648,
+      "lng": -73.2657
+    },
+    {
+      "name": "Falls Village",
+      "slug": "falls-village",
+      "county": "Litchfield County",
+      "lat": 41.95784,
+      "lng": -73.351659
+    },
+    {
+      "name": "Farmington",
+      "slug": "farmington",
+      "county": "Hartford County",
+      "lat": 41.7323,
+      "lng": -72.7917
+    },
+    {
+      "name": "Gales Ferry",
+      "slug": "gales-ferry",
+      "county": "New London County",
+      "lat": 41.42852,
+      "lng": -72.06719
+    },
+    {
+      "name": "Gaylordsville",
+      "slug": "gaylordsville",
+      "county": "Litchfield County",
+      "lat": 41.648635,
+      "lng": -73.483524
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "county": "Fairfield County",
+      "lat": 41.255556,
+      "lng": -73.435278
+    },
+    {
+      "name": "Gilman",
+      "slug": "gilman",
+      "county": "New London County",
+      "lat": 41.58117,
+      "lng": -72.126623
+    },
+    {
+      "name": "Glastonbury",
+      "slug": "glastonbury",
+      "county": "Hartford County",
+      "lat": 41.707329,
+      "lng": -72.572705
+    },
+    {
+      "name": "Goshen",
+      "slug": "goshen",
+      "county": "Litchfield County",
+      "lat": 41.833452,
+      "lng": -73.242876
+    },
+    {
+      "name": "Granby",
+      "slug": "granby",
+      "county": "Hartford County",
+      "lat": 41.960227,
+      "lng": -72.799377
+    },
+    {
+      "name": "Greens Farms",
+      "slug": "greens-farms",
+      "county": "Fairfield County",
+      "lat": 41.123889,
+      "lng": -73.319722
+    },
+    {
+      "name": "Greenwich",
+      "slug": "greenwich",
+      "county": "Fairfield County",
+      "lat": 41.030238,
+      "lng": -73.630047
+    },
+    {
+      "name": "Grosvenor Dale",
+      "slug": "grosvenor-dale",
+      "county": "Windham County",
+      "lat": 41.968333,
+      "lng": -71.895278
+    },
+    {
+      "name": "Groton",
+      "slug": "groton",
+      "county": "New London County",
+      "lat": 41.357171,
+      "lng": -72.057947
+    },
+    {
+      "name": "Guilford",
+      "slug": "guilford",
+      "county": "New Haven County",
+      "lat": 41.31537,
+      "lng": -72.69679
+    },
+    {
+      "name": "Haddam",
+      "slug": "haddam",
+      "county": "Middlesex County",
+      "lat": 41.462718,
+      "lng": -72.504988
+    },
+    {
+      "name": "Hadlyme",
+      "slug": "hadlyme",
+      "county": "New London County",
+      "lat": 41.420278,
+      "lng": -72.406944
+    },
+    {
+      "name": "Hamden",
+      "slug": "hamden",
+      "county": "New Haven County",
+      "lat": 41.361987,
+      "lng": -72.93613
+    },
+    {
+      "name": "Hampton",
+      "slug": "hampton",
+      "county": "Windham County",
+      "lat": 41.761668,
+      "lng": -72.067979
+    },
+    {
+      "name": "Hanover",
+      "slug": "hanover",
+      "county": "New London County",
+      "lat": 41.6425,
+      "lng": -72.065833
+    },
+    {
+      "name": "Hartford",
+      "slug": "hartford",
+      "county": "Hartford County",
+      "lat": 41.7636,
+      "lng": -72.6855
+    },
+    {
+      "name": "Harwinton",
+      "slug": "harwinton",
+      "county": "Litchfield County",
+      "lat": 41.770145,
+      "lng": -73.072819
+    },
+    {
+      "name": "Hawleyville",
+      "slug": "hawleyville",
+      "county": "Fairfield County",
+      "lat": 41.4275,
+      "lng": -73.355556
+    },
+    {
+      "name": "Hebron",
+      "slug": "hebron",
+      "county": "Tolland County",
+      "lat": 41.684161,
+      "lng": -72.398553
+    },
+    {
+      "name": "Higganum",
+      "slug": "higganum",
+      "county": "Middlesex County",
+      "lat": 41.468246,
+      "lng": -72.575143
+    },
+    {
+      "name": "Ivoryton",
+      "slug": "ivoryton",
+      "county": "Middlesex County",
+      "lat": 41.342101,
+      "lng": -72.440387
+    },
+    {
+      "name": "Jewett City",
+      "slug": "jewett-city",
+      "county": "New London County",
+      "lat": 41.605182,
+      "lng": -71.980759
+    },
+    {
+      "name": "Kent",
+      "slug": "kent",
+      "county": "Litchfield County",
+      "lat": 41.731619,
+      "lng": -73.458345
+    },
+    {
+      "name": "Killingworth",
+      "slug": "killingworth",
+      "county": "Middlesex County",
+      "lat": 41.369622,
+      "lng": -72.571192
+    },
+    {
+      "name": "Lakeside",
+      "slug": "lakeside",
+      "county": "Litchfield County",
+      "lat": 41.69001,
+      "lng": -73.238235
+    },
+    {
+      "name": "Lakeville",
+      "slug": "lakeville",
+      "county": "Litchfield County",
+      "lat": 41.951631,
+      "lng": -73.43766
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "county": "New London County",
+      "lat": 41.632988,
+      "lng": -72.244035
+    },
+    {
+      "name": "Ledyard",
+      "slug": "ledyard",
+      "county": "New London County",
+      "lat": 41.44014,
+      "lng": -71.995626
+    },
+    {
+      "name": "Litchfield",
+      "slug": "litchfield",
+      "county": "Litchfield County",
+      "lat": 41.754069,
+      "lng": -73.200011
+    },
+    {
+      "name": "Madison",
+      "slug": "madison",
+      "county": "New Haven County",
+      "lat": 41.309019,
+      "lng": -72.615254
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "county": "Hartford County",
+      "lat": 41.777732,
+      "lng": -72.52444
+    },
+    {
+      "name": "Mansfield Center",
+      "slug": "mansfield-center",
+      "county": "Tolland County",
+      "lat": 41.769814,
+      "lng": -72.201112
+    },
+    {
+      "name": "Mansfield Depot",
+      "slug": "mansfield-depot",
+      "county": "Tolland County",
+      "lat": 41.801389,
+      "lng": -72.306944
+    },
+    {
+      "name": "Marion",
+      "slug": "marion",
+      "county": "Hartford County",
+      "lat": 41.563611,
+      "lng": -72.926111
+    },
+    {
+      "name": "Marlborough",
+      "slug": "marlborough",
+      "county": "Hartford County",
+      "lat": 41.641226,
+      "lng": -72.460871
+    },
+    {
+      "name": "Mashantucket",
+      "slug": "mashantucket",
+      "county": "New London County",
+      "lat": 41.4757,
+      "lng": -71.9574
+    },
+    {
+      "name": "Meriden",
+      "slug": "meriden",
+      "county": "New Haven County",
+      "lat": 41.533396,
+      "lng": -72.799734
+    },
+    {
+      "name": "Middle Haddam",
+      "slug": "middle-haddam",
+      "county": "Middlesex County",
+      "lat": 41.553889,
+      "lng": -72.550556
+    },
+    {
+      "name": "Middlebury",
+      "slug": "middlebury",
+      "county": "New Haven County",
+      "lat": 41.534277,
+      "lng": -73.11307
+    },
+    {
+      "name": "Middlefield",
+      "slug": "middlefield",
+      "county": "Middlesex County",
+      "lat": 41.516789,
+      "lng": -72.718624
+    },
+    {
+      "name": "Middletown",
+      "slug": "middletown",
+      "county": "Middlesex County",
+      "lat": 41.556895,
+      "lng": -72.665225
+    },
+    {
+      "name": "Milford",
+      "slug": "milford",
+      "county": "New Haven County",
+      "lat": 41.217466,
+      "lng": -73.054948
+    },
+    {
+      "name": "Milldale",
+      "slug": "milldale",
+      "county": "Hartford County",
+      "lat": 41.565833,
+      "lng": -72.892222
+    },
+    {
+      "name": "Monroe",
+      "slug": "monroe",
+      "county": "Fairfield County",
+      "lat": 41.331171,
+      "lng": -73.224333
+    },
+    {
+      "name": "Montville",
+      "slug": "montville",
+      "county": "New London County",
+      "lat": 41.445331,
+      "lng": -72.126476
+    },
+    {
+      "name": "Moodus",
+      "slug": "moodus",
+      "county": "Middlesex County",
+      "lat": 41.507807,
+      "lng": -72.441879
+    },
+    {
+      "name": "Moosup",
+      "slug": "moosup",
+      "county": "Windham County",
+      "lat": 41.721031,
+      "lng": -71.884962
+    },
+    {
+      "name": "Morris",
+      "slug": "morris",
+      "county": "Litchfield County",
+      "lat": 41.688121,
+      "lng": -73.176509
+    },
+    {
+      "name": "Mystic",
+      "slug": "mystic",
+      "county": "New London County",
+      "lat": 41.361626,
+      "lng": -71.977364
+    },
+    {
+      "name": "Naugatuck",
+      "slug": "naugatuck",
+      "county": "New Haven County",
+      "lat": 41.492039,
+      "lng": -73.049342
+    },
+    {
+      "name": "New Britain",
+      "slug": "new-britain",
+      "county": "Hartford County",
+      "lat": 41.661111,
+      "lng": -72.78
+    },
+    {
+      "name": "New Canaan",
+      "slug": "new-canaan",
+      "county": "Fairfield County",
+      "lat": 41.151024,
+      "lng": -73.494356
+    },
+    {
+      "name": "New Fairfield",
+      "slug": "new-fairfield",
+      "county": "Fairfield County",
+      "lat": 41.472999,
+      "lng": -73.497784
+    },
+    {
+      "name": "New Hartford",
+      "slug": "new-hartford",
+      "county": "Litchfield County",
+      "lat": 41.846797,
+      "lng": -73.010369
+    },
+    {
+      "name": "New Haven",
+      "slug": "new-haven",
+      "county": "New Haven County",
+      "lat": 41.308,
+      "lng": -72.9286
+    },
+    {
+      "name": "New London",
+      "slug": "new-london",
+      "county": "New London County",
+      "lat": 41.350718,
+      "lng": -72.106245
+    },
+    {
+      "name": "New Milford",
+      "slug": "new-milford",
+      "county": "Litchfield County",
+      "lat": 41.581745,
+      "lng": -73.412752
+    },
+    {
+      "name": "New Preston Marble Dale",
+      "slug": "new-preston-marble-dale",
+      "county": "Litchfield County",
+      "lat": 41.689373,
+      "lng": -73.349296
+    },
+    {
+      "name": "Newington",
+      "slug": "newington",
+      "county": "Hartford County",
+      "lat": 41.686402,
+      "lng": -72.729747
+    },
+    {
+      "name": "Newtown",
+      "slug": "newtown",
+      "county": "Fairfield County",
+      "lat": 41.393095,
+      "lng": -73.316744
+    },
+    {
+      "name": "Niantic",
+      "slug": "niantic",
+      "county": "New London County",
+      "lat": 41.3253,
+      "lng": -72.210819
+    },
+    {
+      "name": "Norfolk",
+      "slug": "norfolk",
+      "county": "Litchfield County",
+      "lat": 41.985386,
+      "lng": -73.199197
+    },
+    {
+      "name": "North Branford",
+      "slug": "north-branford",
+      "county": "New Haven County",
+      "lat": 41.327985,
+      "lng": -72.776034
+    },
+    {
+      "name": "North Canton",
+      "slug": "north-canton",
+      "county": "Hartford County",
+      "lat": 41.923516,
+      "lng": -72.90414
+    },
+    {
+      "name": "North Franklin",
+      "slug": "north-franklin",
+      "county": "New London County",
+      "lat": 41.616141,
+      "lng": -72.142544
+    },
+    {
+      "name": "North Granby",
+      "slug": "north-granby",
+      "county": "Hartford County",
+      "lat": 42.021925,
+      "lng": -72.840938
+    },
+    {
+      "name": "North Grosvenordale",
+      "slug": "north-grosvenordale",
+      "county": "Windham County",
+      "lat": 41.987878,
+      "lng": -71.902734
+    },
+    {
+      "name": "North Haven",
+      "slug": "north-haven",
+      "county": "New Haven County",
+      "lat": 41.382156,
+      "lng": -72.85852
+    },
+    {
+      "name": "North Stonington",
+      "slug": "north-stonington",
+      "county": "New London County",
+      "lat": 41.453113,
+      "lng": -71.872701
+    },
+    {
+      "name": "North Westchester",
+      "slug": "north-westchester",
+      "county": "New London County",
+      "lat": 41.580833,
+      "lng": -72.401667
+    },
+    {
+      "name": "North Windham",
+      "slug": "north-windham",
+      "county": "Windham County",
+      "lat": 41.745144,
+      "lng": -72.160106
+    },
+    {
+      "name": "Northfield",
+      "slug": "northfield",
+      "county": "Litchfield County",
+      "lat": 41.707382,
+      "lng": -73.132079
+    },
+    {
+      "name": "Northford",
+      "slug": "northford",
+      "county": "New Haven County",
+      "lat": 41.396219,
+      "lng": -72.780909
+    },
+    {
+      "name": "Norwalk",
+      "slug": "norwalk",
+      "county": "Fairfield County",
+      "lat": 41.12222,
+      "lng": -73.435827
+    },
+    {
+      "name": "Norwich",
+      "slug": "norwich",
+      "county": "New London County",
+      "lat": 41.537055,
+      "lng": -72.08494
+    },
+    {
+      "name": "Oakdale",
+      "slug": "oakdale",
+      "county": "New London County",
+      "lat": 41.470573,
+      "lng": -72.190358
+    },
+    {
+      "name": "Oakville",
+      "slug": "oakville",
+      "county": "Litchfield County",
+      "lat": 41.590932,
+      "lng": -73.087311
+    },
+    {
+      "name": "Old Greenwich",
+      "slug": "old-greenwich",
+      "county": "Fairfield County",
+      "lat": 41.035437,
+      "lng": -73.567253
+    },
+    {
+      "name": "Old Lyme",
+      "slug": "old-lyme",
+      "county": "New London County",
+      "lat": 41.334745,
+      "lng": -72.308562
+    },
+    {
+      "name": "Old Mystic",
+      "slug": "old-mystic",
+      "county": "New London County",
+      "lat": 41.391389,
+      "lng": -71.962222
+    },
+    {
+      "name": "Old Saybrook",
+      "slug": "old-saybrook",
+      "county": "Middlesex County",
+      "lat": 41.291297,
+      "lng": -72.385022
+    },
+    {
+      "name": "Oneco",
+      "slug": "oneco",
+      "county": "Windham County",
+      "lat": 41.693611,
+      "lng": -71.808889
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "county": "New Haven County",
+      "lat": 41.281527,
+      "lng": -73.028725
+    },
+    {
+      "name": "Oxford",
+      "slug": "oxford",
+      "county": "New Haven County",
+      "lat": 41.420237,
+      "lng": -73.12961
+    },
+    {
+      "name": "Pawcatuck",
+      "slug": "pawcatuck",
+      "county": "New London County",
+      "lat": 41.373475,
+      "lng": -71.847761
+    },
+    {
+      "name": "Pequabuck",
+      "slug": "pequabuck",
+      "county": "Litchfield County",
+      "lat": 41.672778,
+      "lng": -72.993611
+    },
+    {
+      "name": "Pine Meadow",
+      "slug": "pine-meadow",
+      "county": "Litchfield County",
+      "lat": 41.876389,
+      "lng": -72.9675
+    },
+    {
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "county": "Windham County",
+      "lat": 41.67753,
+      "lng": -71.921968
+    },
+    {
+      "name": "Plainville",
+      "slug": "plainville",
+      "county": "Hartford County",
+      "lat": 41.672653,
+      "lng": -72.864373
+    },
+    {
+      "name": "Plantsville",
+      "slug": "plantsville",
+      "county": "Hartford County",
+      "lat": 41.579747,
+      "lng": -72.899031
+    },
+    {
+      "name": "Plymouth",
+      "slug": "plymouth",
+      "county": "Litchfield County",
+      "lat": 41.661121,
+      "lng": -73.044887
+    },
+    {
+      "name": "Pomfret",
+      "slug": "pomfret",
+      "county": "Windham County",
+      "lat": 41.8975,
+      "lng": -71.963056
+    },
+    {
+      "name": "Pomfret Center",
+      "slug": "pomfret-center",
+      "county": "Windham County",
+      "lat": 41.869683,
+      "lng": -71.98201
+    },
+    {
+      "name": "Poquonock",
+      "slug": "poquonock",
+      "county": "Hartford County",
+      "lat": 41.904722,
+      "lng": -72.679167
+    },
+    {
+      "name": "Portland",
+      "slug": "portland",
+      "county": "Middlesex County",
+      "lat": 41.585223,
+      "lng": -72.612797
+    },
+    {
+      "name": "Preston",
+      "slug": "preston",
+      "county": "New London County",
+      "lat": 41.522061,
+      "lng": -72.021079
+    },
+    {
+      "name": "Prospect",
+      "slug": "prospect",
+      "county": "New Haven County",
+      "lat": 41.502198,
+      "lng": -72.978803
+    },
+    {
+      "name": "Putnam",
+      "slug": "putnam",
+      "county": "Windham County",
+      "lat": 41.91853,
+      "lng": -71.896804
+    },
+    {
+      "name": "Quaker Hill",
+      "slug": "quaker-hill",
+      "county": "New London County",
+      "lat": 41.40324,
+      "lng": -72.11722
+    },
+    {
+      "name": "Quinebaug",
+      "slug": "quinebaug",
+      "county": "Windham County",
+      "lat": 42.021747,
+      "lng": -71.939137
+    },
+    {
+      "name": "Redding",
+      "slug": "redding",
+      "county": "Fairfield County",
+      "lat": 41.306915,
+      "lng": -73.3935
+    },
+    {
+      "name": "Redding Center",
+      "slug": "redding-center",
+      "county": "Fairfield County",
+      "lat": 41.304444,
+      "lng": -73.380833
+    },
+    {
+      "name": "Redding Ridge",
+      "slug": "redding-ridge",
+      "county": "Fairfield County",
+      "lat": 41.313889,
+      "lng": -73.350833
+    },
+    {
+      "name": "Ridgefield",
+      "slug": "ridgefield",
+      "county": "Fairfield County",
+      "lat": 41.297683,
+      "lng": -73.497268
+    },
+    {
+      "name": "Riverside",
+      "slug": "riverside",
+      "county": "Fairfield County",
+      "lat": 41.037998,
+      "lng": -73.581136
+    },
+    {
+      "name": "Riverton",
+      "slug": "riverton",
+      "county": "Litchfield County",
+      "lat": 41.961395,
+      "lng": -73.025469
+    },
+    {
+      "name": "Rockfall",
+      "slug": "rockfall",
+      "county": "Middlesex County",
+      "lat": 41.534094,
+      "lng": -72.699674
+    },
+    {
+      "name": "Rocky Hill",
+      "slug": "rocky-hill",
+      "county": "Hartford County",
+      "lat": 41.658295,
+      "lng": -72.663197
+    },
+    {
+      "name": "Rogers",
+      "slug": "rogers",
+      "county": "Windham County",
+      "lat": 41.840278,
+      "lng": -71.906667
+    },
+    {
+      "name": "Roxbury",
+      "slug": "roxbury",
+      "county": "Litchfield County",
+      "lat": 41.5509,
+      "lng": -73.299346
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "county": "New London County",
+      "lat": 41.496627,
+      "lng": -72.272454
+    },
+    {
+      "name": "Salisbury",
+      "slug": "salisbury",
+      "county": "Litchfield County",
+      "lat": 42.001452,
+      "lng": -73.421492
+    },
+    {
+      "name": "Sandy Hook",
+      "slug": "sandy-hook",
+      "county": "Fairfield County",
+      "lat": 41.408706,
+      "lng": -73.248522
+    },
+    {
+      "name": "Scotland",
+      "slug": "scotland",
+      "county": "Windham County",
+      "lat": 41.689849,
+      "lng": -72.078263
+    },
+    {
+      "name": "Seymour",
+      "slug": "seymour",
+      "county": "New Haven County",
+      "lat": 41.386209,
+      "lng": -73.081745
+    },
+    {
+      "name": "Sharon",
+      "slug": "sharon",
+      "county": "Litchfield County",
+      "lat": 41.871446,
+      "lng": -73.457758
+    },
+    {
+      "name": "Shelton",
+      "slug": "shelton",
+      "county": "Fairfield County",
+      "lat": 41.304689,
+      "lng": -73.129439
+    },
+    {
+      "name": "Sherman",
+      "slug": "sherman",
+      "county": "Fairfield County",
+      "lat": 41.571366,
+      "lng": -73.494694
+    },
+    {
+      "name": "Simsbury",
+      "slug": "simsbury",
+      "county": "Hartford County",
+      "lat": 41.873712,
+      "lng": -72.821267
+    },
+    {
+      "name": "Somers",
+      "slug": "somers",
+      "county": "Tolland County",
+      "lat": 41.997813,
+      "lng": -72.458266
+    },
+    {
+      "name": "Somersville",
+      "slug": "somersville",
+      "county": "Tolland County",
+      "lat": 41.982778,
+      "lng": -72.488333
+    },
+    {
+      "name": "South Britain",
+      "slug": "south-britain",
+      "county": "New Haven County",
+      "lat": 41.470833,
+      "lng": -73.251944
+    },
+    {
+      "name": "South Glastonbury",
+      "slug": "south-glastonbury",
+      "county": "Hartford County",
+      "lat": 41.660682,
+      "lng": -72.554308
+    },
+    {
+      "name": "South Kent",
+      "slug": "south-kent",
+      "county": "Litchfield County",
+      "lat": 41.695051,
+      "lng": -73.469023
+    },
+    {
+      "name": "South Lyme",
+      "slug": "south-lyme",
+      "county": "New London County",
+      "lat": 41.305278,
+      "lng": -72.258889
+    },
+    {
+      "name": "South Willington",
+      "slug": "south-willington",
+      "county": "Tolland County",
+      "lat": 41.855278,
+      "lng": -72.301944
+    },
+    {
+      "name": "South Windham",
+      "slug": "south-windham",
+      "county": "Windham County",
+      "lat": 41.667724,
+      "lng": -72.168112
+    },
+    {
+      "name": "South Windsor",
+      "slug": "south-windsor",
+      "county": "Hartford County",
+      "lat": 41.834081,
+      "lng": -72.557585
+    },
+    {
+      "name": "South Woodstock",
+      "slug": "south-woodstock",
+      "county": "Windham County",
+      "lat": 41.938889,
+      "lng": -71.96
+    },
+    {
+      "name": "Southbury",
+      "slug": "southbury",
+      "county": "New Haven County",
+      "lat": 41.476695,
+      "lng": -73.224077
+    },
+    {
+      "name": "Southington",
+      "slug": "southington",
+      "county": "Hartford County",
+      "lat": 41.605221,
+      "lng": -72.872681
+    },
+    {
+      "name": "Southport",
+      "slug": "southport",
+      "county": "Fairfield County",
+      "lat": 41.136389,
+      "lng": -73.283889
+    },
+    {
+      "name": "Stafford",
+      "slug": "stafford",
+      "county": "Tolland County",
+      "lat": 41.984722,
+      "lng": -72.289444
+    },
+    {
+      "name": "Stafford Springs",
+      "slug": "stafford-springs",
+      "county": "Tolland County",
+      "lat": 41.966127,
+      "lng": -72.289857
+    },
+    {
+      "name": "Staffordville",
+      "slug": "staffordville",
+      "county": "Tolland County",
+      "lat": 41.993889,
+      "lng": -72.259167
+    },
+    {
+      "name": "Stamford",
+      "slug": "stamford",
+      "county": "Fairfield County",
+      "lat": 41.053083,
+      "lng": -73.539039
+    },
+    {
+      "name": "Sterling",
+      "slug": "sterling",
+      "county": "Windham County",
+      "lat": 41.715629,
+      "lng": -71.819588
+    },
+    {
+      "name": "Stevenson",
+      "slug": "stevenson",
+      "county": "Fairfield County",
+      "lat": 41.383056,
+      "lng": -73.185
+    },
+    {
+      "name": "Stonington",
+      "slug": "stonington",
+      "county": "New London County",
+      "lat": 41.366437,
+      "lng": -71.915544
+    },
+    {
+      "name": "Storrs Mansfield",
+      "slug": "storrs-mansfield",
+      "county": "Tolland County",
+      "lat": 41.805364,
+      "lng": -72.257172
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "county": "Fairfield County",
+      "lat": 41.2044,
+      "lng": -73.135594
+    },
+    {
+      "name": "Suffield",
+      "slug": "suffield",
+      "county": "Hartford County",
+      "lat": 41.990029,
+      "lng": -72.641997
+    },
+    {
+      "name": "Taconic",
+      "slug": "taconic",
+      "county": "Litchfield County",
+      "lat": 42.035556,
+      "lng": -73.408333
+    },
+    {
+      "name": "Taftville",
+      "slug": "taftville",
+      "county": "New London County",
+      "lat": 41.565263,
+      "lng": -72.052877
+    },
+    {
+      "name": "Tariffville",
+      "slug": "tariffville",
+      "county": "Hartford County",
+      "lat": 41.907715,
+      "lng": -72.767786
+    },
+    {
+      "name": "Terryville",
+      "slug": "terryville",
+      "county": "Litchfield County",
+      "lat": 41.676197,
+      "lng": -73.009214
+    },
+    {
+      "name": "Thomaston",
+      "slug": "thomaston",
+      "county": "Litchfield County",
+      "lat": 41.678643,
+      "lng": -73.088557
+    },
+    {
+      "name": "Thompson",
+      "slug": "thompson",
+      "county": "Windham County",
+      "lat": 41.980285,
+      "lng": -71.837587
+    },
+    {
+      "name": "Tolland",
+      "slug": "tolland",
+      "county": "Tolland County",
+      "lat": 41.869647,
+      "lng": -72.371789
+    },
+    {
+      "name": "Torrington",
+      "slug": "torrington",
+      "county": "Litchfield County",
+      "lat": 41.813065,
+      "lng": -73.115579
+    },
+    {
+      "name": "Trumbull",
+      "slug": "trumbull",
+      "county": "Fairfield County",
+      "lat": 41.25641,
+      "lng": -73.211063
+    },
+    {
+      "name": "Uncasville",
+      "slug": "uncasville",
+      "county": "New London County",
+      "lat": 41.462168,
+      "lng": -72.112556
+    },
+    {
+      "name": "Unionville",
+      "slug": "unionville",
+      "county": "Hartford County",
+      "lat": 41.747711,
+      "lng": -72.887406
+    },
+    {
+      "name": "Vernon Rockville",
+      "slug": "vernon-rockville",
+      "county": "Tolland County",
+      "lat": 41.850073,
+      "lng": -72.464855
+    },
+    {
+      "name": "Versailles",
+      "slug": "versailles",
+      "county": "New London County",
+      "lat": 41.601667,
+      "lng": -72.037778
+    },
+    {
+      "name": "Voluntown",
+      "slug": "voluntown",
+      "county": "New London County",
+      "lat": 41.583053,
+      "lng": -71.855002
+    },
+    {
+      "name": "Wallingford",
+      "slug": "wallingford",
+      "county": "New Haven County",
+      "lat": 41.459997,
+      "lng": -72.822179
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "county": "Litchfield County",
+      "lat": 41.634595,
+      "lng": -73.293518
+    },
+    {
+      "name": "Washington Depot",
+      "slug": "washington-depot",
+      "county": "Litchfield County",
+      "lat": 41.655924,
+      "lng": -73.327352
+    },
+    {
+      "name": "Waterbury",
+      "slug": "waterbury",
+      "county": "New Haven County",
+      "lat": 41.558,
+      "lng": -73.0519
+    },
+    {
+      "name": "Waterford",
+      "slug": "waterford",
+      "county": "New London County",
+      "lat": 41.346853,
+      "lng": -72.145816
+    },
+    {
+      "name": "Watertown",
+      "slug": "watertown",
+      "county": "Litchfield County",
+      "lat": 41.605654,
+      "lng": -73.122122
+    },
+    {
+      "name": "Wauregan",
+      "slug": "wauregan",
+      "county": "Windham County",
+      "lat": 41.744167,
+      "lng": -71.909722
+    },
+    {
+      "name": "Weatogue",
+      "slug": "weatogue",
+      "county": "Hartford County",
+      "lat": 41.837152,
+      "lng": -72.825254
+    },
+    {
+      "name": "West Cornwall",
+      "slug": "west-cornwall",
+      "county": "Litchfield County",
+      "lat": 41.868888,
+      "lng": -73.331271
+    },
+    {
+      "name": "West Granby",
+      "slug": "west-granby",
+      "county": "Hartford County",
+      "lat": 41.965509,
+      "lng": -72.855496
+    },
+    {
+      "name": "West Hartford",
+      "slug": "west-hartford",
+      "county": "Hartford County",
+      "lat": 41.755553,
+      "lng": -72.75322
+    },
+    {
+      "name": "West Hartland",
+      "slug": "west-hartland",
+      "county": "Hartford County",
+      "lat": 42.0075,
+      "lng": -72.971111
+    },
+    {
+      "name": "West Haven",
+      "slug": "west-haven",
+      "county": "New Haven County",
+      "lat": 41.270079,
+      "lng": -72.963842
+    },
+    {
+      "name": "West Mystic",
+      "slug": "west-mystic",
+      "county": "New London County",
+      "lat": 41.354167,
+      "lng": -71.966944
+    },
+    {
+      "name": "West Simsbury",
+      "slug": "west-simsbury",
+      "county": "Hartford County",
+      "lat": 41.871797,
+      "lng": -72.857749
+    },
+    {
+      "name": "West Suffield",
+      "slug": "west-suffield",
+      "county": "Hartford County",
+      "lat": 42.011464,
+      "lng": -72.736232
+    },
+    {
+      "name": "Westbrook",
+      "slug": "westbrook",
+      "county": "Middlesex County",
+      "lat": 41.292662,
+      "lng": -72.456313
+    },
+    {
+      "name": "Weston",
+      "slug": "weston",
+      "county": "Fairfield County",
+      "lat": 41.219499,
+      "lng": -73.371474
+    },
+    {
+      "name": "Westport",
+      "slug": "westport",
+      "county": "Fairfield County",
+      "lat": 41.143433,
+      "lng": -73.349579
+    },
+    {
+      "name": "Wethersfield",
+      "slug": "wethersfield",
+      "county": "Hartford County",
+      "lat": 41.701332,
+      "lng": -72.676308
+    },
+    {
+      "name": "Willimantic",
+      "slug": "willimantic",
+      "county": "Windham County",
+      "lat": 41.714918,
+      "lng": -72.213396
+    },
+    {
+      "name": "Willington",
+      "slug": "willington",
+      "county": "Tolland County",
+      "lat": 41.873996,
+      "lng": -72.272774
+    },
+    {
+      "name": "Wilton",
+      "slug": "wilton",
+      "county": "Fairfield County",
+      "lat": 41.201761,
+      "lng": -73.438323
+    },
+    {
+      "name": "Winchester Center",
+      "slug": "winchester-center",
+      "county": "Litchfield County",
+      "lat": 41.9,
+      "lng": -73.135278
+    },
+    {
+      "name": "Windham",
+      "slug": "windham",
+      "county": "Windham County",
+      "lat": 41.702652,
+      "lng": -72.15261
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "county": "Hartford County",
+      "lat": 41.8525,
+      "lng": -72.644167
+    },
+    {
+      "name": "Windsor Locks",
+      "slug": "windsor-locks",
+      "county": "Hartford County",
+      "lat": 41.926078,
+      "lng": -72.645762
+    },
+    {
+      "name": "Winsted",
+      "slug": "winsted",
+      "county": "Litchfield County",
+      "lat": 41.925214,
+      "lng": -73.066341
+    },
+    {
+      "name": "Wolcott",
+      "slug": "wolcott",
+      "county": "New Haven County",
+      "lat": 41.596995,
+      "lng": -72.982799
+    },
+    {
+      "name": "Woodbridge",
+      "slug": "woodbridge",
+      "county": "New Haven County",
+      "lat": 41.351668,
+      "lng": -73.013902
+    },
+    {
+      "name": "Woodbury",
+      "slug": "woodbury",
+      "county": "Litchfield County",
+      "lat": 41.552061,
+      "lng": -73.208264
+    },
+    {
+      "name": "Woodstock",
+      "slug": "woodstock",
+      "county": "Windham County",
+      "lat": 41.960218,
+      "lng": -72.004027
+    },
+    {
+      "name": "Woodstock Valley",
+      "slug": "woodstock-valley",
+      "county": "Windham County",
+      "lat": 41.915296,
+      "lng": -72.09366
+    },
+    {
+      "name": "Yantic",
+      "slug": "yantic",
+      "county": "New London County",
+      "lat": 41.559722,
+      "lng": -72.124167
+    }
+  ]
+}
