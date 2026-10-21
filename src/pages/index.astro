@@ -52,34 +52,27 @@ const pageDesc = "Rapid Water Rescue Pros provides 24/7 emergency water extracti
         </div>
       </div>
 
-      <!-- Quick Emergency Card -->
-      <div class="hero-card">
-        <h3>Need Immediate Help?</h3>
-        <p>A failed water heater can flood your basement with 80 gallons of scalding water in minutes. Speak directly with an on-duty dispatch coordinator right now.</p>
-        
-        <div style="background:var(--bg-light);border-radius:var(--radius-md);padding:1.25rem;margin-bottom:1.5rem;border-left:4px solid var(--cta-red)">
-          <div style="font-size:0.85rem;color:var(--text-muted);font-weight:600">LIVE EMERGENCY HOTLINE</div>
-          <a href={BUSINESS_INFO.phoneTel} style="font-size:1.5rem;font-weight:800;color:var(--cta-red);text-decoration:none">
-            {BUSINESS_INFO.phoneFormatted}
-          </a>
-          <div style="font-size:0.8rem;color:var(--text-muted);margin-top:0.25rem">Available 24 Hours a Day · 365 Days a Year</div>
+      <!-- Hero Media (Matching Reference Site Hero Image) -->
+      <div class="hero-media">
+        <div class="hero-card-frame">
+          <img
+            src="/images/hero_water_extraction.jpg"
+            alt="Professional technician performing emergency water extraction and flood damage mitigation"
+            width="900"
+            height="675"
+            loading="eager"
+            fetchpriority="high"
+            class="hero-main-img"
+          />
+          <div class="hero-float-dispatch">
+            <span class="pulse-dot"></span>
+            <span>Live 24/7: {BUSINESS_INFO.phoneFormatted}</span>
+          </div>
+          <div class="hero-same-day-badge">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="#fb923c"><path d="M7 2v11h3v9l7-12h-4l4-8z"/></svg>
+            <span>24/7 Emergency Water Extraction</span>
+          </div>
         </div>
-
-        <ul style="list-style:none;display:flex;flex-direction:column;gap:0.75rem;font-size:0.9rem;color:var(--text-body);margin-bottom:1.5rem">
-          <li style="display:flex;align-items:center;gap:0.5rem">
-            <span style="color:#10B981">✓</span> Full plumbing disconnection & gas isolation
-          </li>
-          <li style="display:flex;align-items:center;gap:0.5rem">
-            <span style="color:#10B981">✓</span> Heavy-duty truck-mounted water extraction
-          </li>
-          <li style="display:flex;align-items:center;gap:0.5rem">
-            <span style="color:#10B981">✓</span> Old tank hauling and eco-friendly disposal
-          </li>
-        </ul>
-
-        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="width:100%;text-align:center">
-          Speak with a Specialist
-        </a>
       </div>
     </div>
   </section>
