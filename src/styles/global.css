@@ -1175,7 +1175,7 @@ img {
 
 .ref-hero-h1 {
   color: #ffffff !important;
-  font-size: clamp(2rem, 4vw, 3.25rem);
+  font-size: clamp(2.35rem, 4.2vw, 3.5rem);
   line-height: 1.15;
   font-weight: 800;
   letter-spacing: -0.025em;
@@ -1328,9 +1328,9 @@ img {
 
   .hero-content h1,
   .ref-hero-h1 {
-    font-size: clamp(1.75rem, 6.5vw, 2.35rem) !important;
+    font-size: clamp(2.15rem, 7.8vw, 2.75rem) !important;
     line-height: 1.15 !important;
-    margin-bottom: 0.85rem;
+    margin-bottom: 0.95rem;
     word-break: break-word;
     overflow-wrap: break-word;
     font-weight: 800;

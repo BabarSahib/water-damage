@@ -5,6 +5,7 @@ export const GET: APIRoute = () => {
 Allow: /
 
 Sitemap: https://rapidwaterrescuepros.com/sitemap.xml
+Sitemap: https://rapidwaterrescuepros.com/sitemap-index.xml
 `;
 
   return new Response(robots, {

@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { BUSINESS_INFO } from '../data/siteData';
+
+const pageTitle = "404 - Page Not Found | Rapid Water Rescue Pros";
+const pageDesc = "The page you are looking for does not exist. Contact Rapid Water Rescue Pros 24/7 emergency dispatch for water extraction assistance.";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalPath="/404/">
+  <section class="section" style="padding: 5rem 0; text-align: center; min-height: 60vh; display: flex; align-items: center;">
+    <div class="container" style="max-width: 650px; margin: 0 auto;">
+      <span class="badge badge-emergency" style="margin-bottom: 1rem; font-size: 0.9rem; padding: 0.4rem 1rem;">
+        Error 404
+      </span>
+      <h1 style="font-size: clamp(2.5rem, 6vw, 4rem); margin-bottom: 1rem; color: #ffffff;">
+        Page Not Found
+      </h1>
+      <p style="font-size: 1.15rem; color: rgba(255,255,255,0.8); line-height: 1.6; margin-bottom: 2rem;">
+        The link you followed may be broken, or the page may have been moved. If you are experiencing a water emergency, our dispatch team is standing by 24/7.
+      </p>
+      
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/" class="btn btn-outline-white" style="padding: 0.85rem 1.75rem;">
+          Return to Homepage
+        </a>
+        <a href={BUSINESS_INFO.phoneTel} class="btn btn-emergency" style="padding: 0.85rem 1.75rem;">
+          Call Dispatch: {BUSINESS_INFO.phoneFormatted}
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
